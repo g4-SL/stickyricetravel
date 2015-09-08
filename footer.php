@@ -39,12 +39,6 @@
 							<li><a class="jon dn choice" href="#">4D3N DVFC Sg Purut Camping</a></li>   
 							<li><a class="jon dn choice" href="#">7D6N DVFC Mt Danum Expedition</a></li>    
 							<li><a class="jon dn choice" href="#">5D4N Wild Jungles to Luxury</a></li> 
-							<li><a class="jon" href="./kinabatangan">Kinabatangan Floodplains</a></li>  
-							<li><a class="jon dn" href="#">3D2N Borneo Nature Lodge</a></li> 
-							<li><a class="jon dn" href="#">3D2N Kinabatangan Wetlands Resort</a></li> 
-							<li><a class="jon dn" href="#">3D2N Abai Homestay</a></li> 
-							<li><a class="jon dn" href="#">3D2N Eco Camp</a></li> 
-							<li><a class="jon dn" href="#">3D2N Supu Camp</a></li> 	
 							<li><a class="jon" href="./kinabalu-national-park">Kinabalu National Park</a></li>
 							<li><a class="jon dn" href="#">3D2N Kinabalu Camping</a></li> 
 							<li><a class="jon dn" href="#">Kinabalu National Park Day Trip</a></li> 
@@ -54,6 +48,12 @@
 							<li><a class="jon dn" href="#">Mt Kinabalu Climb via Ferrata</a></li> 
 							<li><a class="jon dn choice" href="#">Low's Peak Circuit</a></li>    
 							<li><a class="jon dn choice" href="#">Walk the Torq</a></li> 
+							<li><a class="jon" href="./kinabatangan">Kinabatangan Floodplains</a></li>  
+							<li><a class="jon dn" href="#">3D2N Borneo Nature Lodge</a></li> 
+							<li><a class="jon dn" href="#">3D2N Kinabatangan Wetlands Resort</a></li> 
+							<li><a class="jon dn" href="#">3D2N Abai Homestay</a></li> 
+							<li><a class="jon dn" href="#">3D2N Eco Camp</a></li> 
+							<li><a class="jon dn" href="#">3D2N Supu Camp</a></li> 	
 							<li><a href="./kota-belud">Kota Belud</a></li>     
 							<li><a class="jon dn" href="#">3D2N Tambatuon Village</a></li>
 							<li><a class="jon dn" href="#">Manana Borneo</a></li>	
