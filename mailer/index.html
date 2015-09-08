@@ -1,0 +1,95 @@
+<html>
+<head>
+<meta name='robots' content='noindex,follow' />
+<script type="text/javascript" src="../d/jquery.min.js"></script>
+<style type="text/css">
+.error {background:#eee;border:1px solid #000}
+</style>
+<head>
+<body>
+
+<h1>Admin</h1>
+<br /><br />
+<form method="post" id="frm_mailer">
+Send feedback invitation to email(s)<br />
+<table>
+	<tr><td>&nbsp;</td><td>Name</td><td>Email</td></tr>
+	<tr><td>1</td><td><input type="text" name="n[]"></td><td><input type="text" name="p[]" class="zn_email_field"></td></tr>
+	<tr><td>2</td><td><input type="text" name="n[]"></td><td><input type="text" name="p[]" class="zn_email_field"></td></tr>
+	<tr><td>3</td><td><input type="text" name="n[]"></td><td><input type="text" name="p[]" class="zn_email_field"></td></tr>
+	<tr><td>4</td><td><input type="text" name="n[]"></td><td><input type="text" name="p[]" class="zn_email_field"></td></tr>
+	<tr><td>5</td><td><input type="text" name="n[]"></td><td><input type="text" name="p[]" class="zn_email_field"></td></tr>
+	<tr><td>6</td><td><input type="text" name="n[]"></td><td><input type="text" name="p[]" class="zn_email_field"></td></tr>
+	<tr><td>7</td><td><input type="text" name="n[]"></td><td><input type="text" name="p[]" class="zn_email_field"></td></tr>
+	<tr><td>8</td><td><input type="text" name="n[]"></td><td><input type="text" name="p[]" class="zn_email_field"></td></tr>
+	<tr><td>9</td><td><input type="text" name="n[]"></td><td><input type="text" name="p[]" class="zn_email_field"></td></tr>
+	<tr><td>10</td><td><input type="text" name="n[]"></td><td><input type="text" name="p[]" class="zn_email_field"></td></tr>
+</table>
+<br /><br />
+Insert authorization code: <input type="password" name="code" class="zn_required_field">
+<br /><br >
+<div id="success"></div>
+
+<input id="submit-form" type="submit" name="submit" value="Send">
+<br /><br />
+*Email can only be sent once as it is being recorded.
+</form>
+
+<script>
+(function($){
+	$(document).ready(function() {
+
+		$('#submit-form').click(function(e){
+			
+			var form = $('#frm_mailer');
+			var success = $('#success',form);
+			var has_error = false;
+			e.preventDefault();
+			var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+
+			success.html("");
+			
+			$('input.zn_required_field, input.zn_email_field',form).each(function(){
+
+				if( $(this).hasClass( 'zn_required_field' ) && (($(this).val().length == 0 ) || ($(this).val() == 0 ))) {
+					
+					$(this).addClass('error');
+					has_error = true;
+
+				}					
+			
+				if( $(this).hasClass( 'zn_email_field' ) && reg.test($(this).val()) == false && $(this).val() != "" ) {
+					$(this).addClass('error');
+					has_error = true;
+				} else {
+					$(this).removeClass('error');
+
+				}
+				
+			});
+			
+			if(has_error) {
+				alert("Invalid Email or Authorization code is empty.");
+				return false;
+				
+			}
+			
+			$.ajax({
+				type: 'POST',
+				url: '../e/v.php',
+				data: $(form).serialize(),
+				success: function(msg){
+																	
+
+						success.html(msg);
+					
+				}
+			});
+
+		});
+	});
+})(jQuery);				
+
+</script>			
+</body>
+</html>
