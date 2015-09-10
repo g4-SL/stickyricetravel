@@ -39,6 +39,7 @@
 			<h4>Main Office:</h4><br />
 			<p>Sticky Rice Travel<br />
 			58 Jalan Pantai, 3rd Floor<br />
+			Hainan Association Building<br />
 			(Across Horizon Hotel)<br />
 			88000 Kota Kinabalu<br />
 			Sabah, Malaysia<br /><br />
