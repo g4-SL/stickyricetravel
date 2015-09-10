@@ -17,10 +17,6 @@
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/blog</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
   <loc>http://www.stickyricetravel.com/our-adventures</loc>
   <changefreq>monthly</changefreq>
 </url>
@@ -30,6 +26,9 @@
 </url>
 <url>
   <loc>http://www.stickyricetravel.com/borneo-rainforest-lodge</loc>
+    <image:image>
+      <image:loc>http://www.stickyricetravel.com/c/large/www-adventures-danum-valley-brl.jpg</image:loc>
+    </image:image>
   <changefreq>monthly</changefreq>
 </url>
 <url>
@@ -37,15 +36,19 @@
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/wild-jungles-to-luxury</loc>
+  <loc>http://www.stickyricetravel.com/danum-explorer</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/sungai-purut-exploration</loc>
+  <loc>http://www.stickyricetravel.com/danum-purut-camping</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/expedition-to-mt-danum</loc>
+  <loc>http://www.stickyricetravel.com/danum-expedition</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/danum-jungle-to-luxury</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
@@ -53,43 +56,107 @@
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/abai-homestay</loc>
+  <loc>http://www.stickyricetravel.com/kinabatangan-abai-homestay</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/ecocamp-kinabatangan</loc>
+  <loc>http://www.stickyricetravel.com/kinabatangan-ecocamp</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/supu-camp-kinabatangan</loc>
+  <loc>http://www.stickyricetravel.com/kinabatangan-supu-camp</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/homestay-supu-camp</loc>
+  <loc>http://www.stickyricetravel.com/kinabatangan-wetlands-resort</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/borneo-nature-lodge</loc>
+  <loc>http://www.stickyricetravel.com/kinabatangan-borneo-nature-lodge</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/gunung-alab-hike</loc>
+  <loc>http://www.stickyricetravel.com/sandakan-and-sepilok</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/mt-trus-madi</loc>
+  <loc>http://www.stickyricetravel.com/ss-sepilok-sojourn</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/mt-kinabalu-camping</loc>
+  <loc>http://www.stickyricetravel.com/ss-libaran-turtle-island-camping</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/maliau-basin</loc>
+  <loc>http://www.stickyricetravel.com/ss-orang-utan-and-turtles</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/seaventures-dive-rig</loc>
+  <loc>http://www.stickyricetravel.com/ss-lankayan-island</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/sandakan-and-sepilok-accommodation</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/ss-accommodation-sepilok-nature-resort</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/ss-accommodation-sepilok-forest-edge</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/ss-accommodation-paganakan-dii-tropical-retreat</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/ss-accommodation-sheraton-four-points</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/ss-accommodation-nak-hotel</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/crocker-range-park</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/crocker-range-park-gunung-alab-hike</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/crocker-range-park-mt-trus-madi</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/crocker-range-park-day-trip</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/crocker-range-park-sinurambi-bed-and-breakfast</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/kinabalu-national-park</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/kinabalu-national-park-camping</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/kinabalu-national-park-mountain-torq-ferrata</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/kinabalu-national-park-mount-kinabalu-climb</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/kinabalu-national-park-day-trip</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
@@ -97,19 +164,87 @@
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/stand-up-paddle-boarding</loc>
+  <loc>http://www.stickyricetravel.com/semporna-mataking-resort</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/mataking-resort</loc>
+  <loc>http://www.stickyricetravel.com/semporna-seaventures-dive-rig</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/island-exploration</loc>
+  <loc>http://www.stickyricetravel.com/kota-belud</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/kampung-tambatuon</loc>
+  <loc>http://www.stickyricetravel.com/kota-belud-kampung-tambatuon</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/kota-belud-manana-borneo</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/kudat</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/kudat-northern-island-exploration</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/kudat-hibiscus-villa</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/kudat-hibiscus-beach-retreat</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/kota-kinabalu</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/kota-kinabalu-kayak-and-snorkel-safari</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/kota-kinabalu-diving-and-snorkeling</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/kota-kinabalu-white-water-rafting</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/kota-kinabalu-cycling-programs</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/kota-kinabalu-easy-breezy-ride</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/kota-kinabalu-kiulu-fun-and-green</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/kota-kinabalu-highland-cool-and-chill</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/kota-kinabalu-momma-house-cooking-class</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/kota-kinabalu-borneo-orchard-house</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/kota-kinabalu-accommodation</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/maliau-basin</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
@@ -117,67 +252,11 @@
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/day-trips</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://www.stickyricetravel.com/sea-kayaking-kota-kinabalu</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://www.stickyricetravel.com/tunku-abdul-rahman-park</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://www.stickyricetravel.com/kiulu-river-whitewater-rafting</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://www.stickyricetravel.com/padas-white-water-rafting</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
   <loc>http://www.stickyricetravel.com/orou-sapulot</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/mount-kinabalu</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://www.stickyricetravel.com/mount-kinabalu-climb</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://www.stickyricetravel.com/mountain-torq-ferrata</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://www.stickyricetravel.com/libaran-turtle-island-camping</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
   <loc>http://www.stickyricetravel.com/custom-trips</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://www.stickyricetravel.com/photographs-of-borneo</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://www.stickyricetravel.com/photo-galleries-fauna</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://www.stickyricetravel.com/photo-galleries-flora-of-borneo</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://www.stickyricetravel.com/photo-galleries-landscape-of-borneo</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://www.stickyricetravel.com/photo-galleries-people-of-borneo</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
