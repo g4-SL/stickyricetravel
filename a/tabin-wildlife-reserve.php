@@ -1,7 +1,7 @@
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
-				<img src="c/large/www-adventures-tabin.jpg" alt="Tabin Wildlife Reserve - preserving Sabah’s disappearing wild animals" />
+				<img src="/c/large/www-adventures-tabin.jpg" alt="Tabin Wildlife Reserve - preserving Sabah’s disappearing wild animals" />
 				<div class="ei-title"></div>
 			</li>
 		</ul>
@@ -17,9 +17,9 @@
 
 			<div class="seven columns">
 				<ul class="brc">
-					<li><a href="./home">Home</a></li>
-					<li><a href="./our-adventures">Our Adventures</a></li>
-					<li>3D2N Tabin Wildlife Adventure</li>
+					<li><a href="/home">Home</a></li>
+					<li><a href="/our-adventures">Our Adventures</a></li>
+					<li>Tabin Wildlife Adventure</li>
 				</ul>
 			</div>
 			
@@ -72,7 +72,7 @@
 				<table class="tbl_p">
 					<tbody>
 						<tr valign="middle">
-							<th><img src="c/day1.png" alt="Day 1 - Day One" /></th>
+							<th><img src="../c/day1.png" alt="Day 1 - Day One" /></th>
 							<td>
 								Meet at Lahad Datu airport at noon. Upon registration at Tabin's office outside the arrival hall of the airport, transfer to a local restaurant in town for lunch. After lunch, embark on a 2.5 hours journey to Tabin Wildlife Reserve. Check in and wander around the surrounding areas - the Lipad river area is home to a surprising variety of birds, insects and small mammals. Discover the rich variety of jungle herbs, some endemic, used for generations by local folks for the treatment of various ailments.
 								<br /><br />
@@ -82,7 +82,7 @@
 							</td>
 						</tr>
 						<tr>
-							<th><img src="c/day2.png" alt="Day 2 - Day Two" /></th>
+							<th><img src="../c/day2.png" alt="Day 2 - Day Two" /></th>
 							<td>
 								Join the early morning bird walk to discover some of Tabin's rich collection of almost 300 bird species. After breakfast, a drive to the core area for animal's spotting and for photo session before trekking to the Lipad Waterfall through the lush green rainforest known for its rich diversity of plants and animals. Take a dip in the natural pool and enjoy a natural and refreshing shower under the waterfall. Alternatively explore the surrounding vegetation or just relax. 
 								<br /><br />
@@ -90,7 +90,7 @@
 							</td>
 						</tr>
 						<tr>
-							<th><img src="c/day3.png" alt="Day 3 - Day Three" /></th>
+							<th><img src="../c/day3.png" alt="Day 3 - Day Three" /></th>
 							<td>
 								After breakfast, free and easy until check out. You may opt to take up a dawn drive or jungle walk to look out for wildlife that is active at this time of the day. (Optional activity not included in package: Dawn Drive and Jungle Walk). Transfer out is at 1.30pm after lunch. You will be back in Lahad Datu by 3pm - 3.30pm for your onward journey.
 							</td>
@@ -166,14 +166,14 @@
 			
 			<div class="seven columns bp">
 				<?php include './a/side-book-now.php'; ?>
-				<img src="c/adventures-tabin/6-400.jpg" alt="black white crowned hornbill" />
-				<img src="c/adventures-tabin/5-400.jpg" alt="otter" />
-				<img src="c/adventures-tabin/4-400.jpg" alt="leopard cat" />
-				<img src="c/adventures-tabin/2-400.jpg" alt="Tabin Wildlife reserve room beds" />
-				<img src="c/adventures-tabin/3-400.jpg" alt="Boardwalk Tabin Wildlife Reserve" />
-				<img src="c/adventures-tabin/1-400.jpg" alt="Tabin Wildlife Resort, Borneo Accommodation and Lodges" />
-				<img src="c/adventures-tabin/7-400.jpg" alt="Jungle Safari" />
-				<img src="c/adventures-tabin/8-400.jpg" alt="Boardwalk" />
+				<img src="/c/adventures-tabin/6-400.jpg" alt="black white crowned hornbill" />
+				<img src="/c/adventures-tabin/5-400.jpg" alt="otter" />
+				<img src="/c/adventures-tabin/4-400.jpg" alt="leopard cat" />
+				<img src="/c/adventures-tabin/2-400.jpg" alt="Tabin Wildlife reserve room beds" />
+				<img src="/c/adventures-tabin/3-400.jpg" alt="Boardwalk Tabin Wildlife Reserve" />
+				<img src="/c/adventures-tabin/1-400.jpg" alt="Tabin Wildlife Resort, Borneo Accommodation and Lodges" />
+				<img src="/c/adventures-tabin/7-400.jpg" alt="Jungle Safari" />
+				<img src="/c/adventures-tabin/8-400.jpg" alt="Boardwalk" />
 				<p><i>*Photo credit to Tabin Wildlife Reserve</i></p>
 			</div>
 

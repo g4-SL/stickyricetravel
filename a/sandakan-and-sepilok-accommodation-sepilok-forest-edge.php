@@ -19,8 +19,8 @@
 				<ul class="brc">
 					<li><a href="./home">Home</a></li>
 					<li><a href="./our-adventures">Our Adventures</a></li>
-					<li><a href="./sandakan-and-sepilok">Sandakan &amp; Sepilok</a></li>
-					<li><a href="./sandakan-and-sepilok-accommodation">Accommodation</a></li>
+					<li><a href="./our-adventures/sandakan-and-sepilok">Sandakan &amp; Sepilok</a></li>
+					<li><a href="./our-adventures/sandakan-and-sepilok/accommodation">Accommodation</a></li>
 					<li>Sepilok Forest Edge</li>
 				</ul>
 			</div>
@@ -64,17 +64,9 @@
 				<img src="c/adventures-sepilok-forest-edge/3-400.jpg" alt="Sepilok Forest Edge">
 				<img src="c/adventures-sepilok-forest-edge/4-400.jpeg" alt="Sepilok Forest Edge">
 				<img src="c/adventures-sepilok-forest-edge/5-400.jpg" alt="Sepilok Forest Edge">
-				<p><i>Photo credit to Sepilok Forest Edge Resort</i></p>
+				<p><i>*Photo credit to Sepilok Forest Edge Resort</i></p>
 			</div>
 
 		</div>
 		
 	</section>
-	
-<script language="javascript" type="text/javascript" src="d/jquery.ms.js"></script>
-<script type="text/javascript">
-$(document).ready(function() {
-	$("#an2").msAccordion({defaultid:0,vertical:true});
-	$('.title').click(function(e){ location.href="#sto";});
-});
-</script>

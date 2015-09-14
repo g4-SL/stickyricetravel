@@ -7,16 +7,16 @@
 							<div class="t2">Information</div>
 
 							<ul class="fmenu list2">
-								<li><a href="./home">Home</a></li> 
-								<li><a href="./about-us">About Us</a></li> 
-								<li><a href="./our-adventures">Our Adventures</a></li>  
-								<li><a href="./responsible-tourism">Responsible Tourism</a></li>   
-								<li><a href="./contact-us">Make Contact</a></li>   
-								<li><a href="./booking">Booking</a></li>   
-								<li><a href="./customer-reviews">Customer Reviews</a></li>   
-								<li><a href="./our-friends">Our Friends</a></li>   
-								<li><a href="./terms" target="_blank">Terms &amp; Conditions</a></li>
-								<li><a href="./privacy-policy">Privacy Policy</a></li>
+								<li><a href="/home">Home</a></li> 
+								<li><a href="/about-us">About Us</a></li> 
+								<li><a href="/our-adventures">Our Adventures</a></li>  
+								<li><a href="/responsible-tourism">Responsible Tourism</a></li>   
+								<li><a href="/contact-us">Make Contact</a></li>   
+								<li><a href="/booking">Booking</a></li>   
+								<li><a href="/customer-reviews">Customer Reviews</a></li>   
+								<li><a href="/our-friends">Our Friends</a></li>   
+								<li><a href="/terms" target="_blank">Terms &amp; Conditions</a></li>
+								<li><a href="/privacy-policy">Privacy Policy</a></li>
 							</ul>
 						</div>
 					</div>			
@@ -25,12 +25,12 @@
 						<div class="t1">Meaningful Adventures</div>
 
 						<ul class="list1" style="float:left;">
-							<li><a href="./crocker-range-park">Crocker Range Park</a></li>  
+							<li><a href="/our-adventures/crocker-range-park">Crocker Range Park</a></li>  
 							<li><a class="jon dn" href="#">2D1N Gunung Alab Hike</a></li>    
 							<li><a class="jon dn" href="#">4D3N Trusmadi Expedition</a></li>  
 							<li><a class="jon dn" href="#">Crocker Range Park Day Trip</a></li> 
 							<li><a class="jon dn" href="#">Sinurambi Bed &amp; Breakfast</a></li> 
-							<li><a class="jon" href="./danum-valley">Danum Valley Conservation Area</a></li> 
+							<li><a class="jon" href="/our-adventures/danum-valley">Danum Valley Conservation Area</a></li> 
 							<li><a class="jon dn" href="#">Borneo Rainforest Lodge</a></li> 
 							<li><a class="jon dn choice" href="#">3D2N Borneo Rainforest Lodge</a></li>   
 							<li><a class="jon dn choice" href="#">4D3N Borneo Rainforest Lodge</a></li>  
@@ -39,7 +39,7 @@
 							<li><a class="jon dn choice" href="#">4D3N DVFC Sg Purut Camping</a></li>   
 							<li><a class="jon dn choice" href="#">7D6N DVFC Mt Danum Expedition</a></li>    
 							<li><a class="jon dn choice" href="#">5D4N Wild Jungles to Luxury</a></li> 
-							<li><a class="jon" href="./kinabalu-national-park">Kinabalu National Park</a></li>
+							<li><a class="jon" href="/our-adventures/kinabalu-national-park">Kinabalu National Park</a></li>
 							<li><a class="jon dn" href="#">3D2N Kinabalu Camping</a></li> 
 							<li><a class="jon dn" href="#">Kinabalu National Park Day Trip</a></li> 
 							<li><a class="jon dn" href="#">Mt Kinabalu Climb</a></li> 
@@ -48,16 +48,16 @@
 							<li><a class="jon dn" href="#">Mt Kinabalu Climb via Ferrata</a></li> 
 							<li><a class="jon dn choice" href="#">Low's Peak Circuit</a></li>    
 							<li><a class="jon dn choice" href="#">Walk the Torq</a></li> 
-							<li><a class="jon" href="./kinabatangan">Kinabatangan Floodplains</a></li>  
+							<li><a class="jon" href="/our-adventures/kinabatangan">Kinabatangan Floodplains</a></li>  
 							<li><a class="jon dn" href="#">3D2N Borneo Nature Lodge</a></li> 
 							<li><a class="jon dn" href="#">3D2N Kinabatangan Wetlands Resort</a></li> 
 							<li><a class="jon dn" href="#">3D2N Abai Homestay</a></li> 
 							<li><a class="jon dn" href="#">3D2N Eco Camp</a></li> 
 							<li><a class="jon dn" href="#">3D2N Supu Camp</a></li> 	
-							<li><a href="./kota-belud">Kota Belud</a></li>     
+							<li><a href="/our-adventures/kota-belud">Kota Belud</a></li>     
 							<li><a class="jon dn" href="#">3D2N Tambatuon Village</a></li>
 							<li><a class="jon dn" href="#">Manana Borneo</a></li>	
-							<li><a class="jon" href="./kota-kinabalu">Kota Kinabalu</a></li>
+							<li><a class="jon" href="/our-adventures/kota-kinabalu">Kota Kinabalu</a></li>
 							<li><a class="jon dn" href="#">Kayak &amp; Snorkel Safari</a></li> 
 							<li><a class="jon dn" href="#">Diving &amp; Snorkeling Programs</a></li> 
 							<li><a class="jon dn" href="#">White Water Rafting</a></li> 
@@ -75,20 +75,20 @@
 							<li><a class="jon dn choice" href="#">Hotel Sixty3</a></li>   
 							<li><a class="jon dn choice" href="#">KK Suites</a></li> 
 							<li><a class="jon dn choice" href="#">Borneo Backpackers</a></li> 	
-							<li><a href="./kudat">Kudat</a></li>     
+							<li><a href="/our-adventures/kudat">Kudat</a></li>     
 							<li><a class="jon dn" href="#">Hibiscus Villa</a></li>
 							<li><a class="jon dn" href="#">Hibiscus Beach Retreat</a></li>
 							<li><a class="jon dn" href="#">Northern Island Exploration</a></li> 
 						</ul>
 
 						<ul class="list1 dz" style="float:left;">  
-							<li><a href="./maliau-basin">Maliau Basin</a></li>  
+							<li><a href="/our-adventures/maliau-basin">Maliau Basin</a></li>  
 							<li><a class="jon dn" href="#">4D3N Maliau Basin Teaser</a></li>
 							<li><a class="jon dn" href="#">5D4N Maliau Basin Full Loop Expedition</a></li>					
-							<li><a class="jon" href="./orou-sapulot">OROU Sapulot - Murut Country Adventures</a></li>
+							<li><a class="jon" href="/our-adventures/orou-sapulot">OROU Sapulot - Murut Country Adventures</a></li>
 							<li><a class="jon dn" href="#">3D2N OROU Sapulot</a></li>
 							<li><a class="jon dn" href="#">4D3N OROU Sapulot</a></li> 			
-							<li><a href="./sandakan-and-sepilok">Sandakan &amp; Sepilok</a></li>  
+							<li><a href="/our-adventures/sandakan-and-sepilok">Sandakan &amp; Sepilok</a></li>  
 							<li><a class="jon dn" href="#">1N Sepilok Sojourn</a></li> 
 							<li><a class="jon dn" href="#">2D1N Libaran Turtle Island Camping</a></li>   
 							<li><a class="jon dn" href="#">3D2N Orang Utan &amp; Turtles</a></li> 
@@ -99,11 +99,11 @@
 							<li><a class="jon dn choice" href="#">Paganakan Dii Tropical Retreat</a></li> 
 							<li><a class="jon dn choice" href="#">Sheraton Four Points</a></li>  
 							<li><a class="jon dn choice" href="#">Nak Hotel</a></li>
-							<li><a class="jon" href="./semporna-archipelago">Semporna Archipelago</a></li>
+							<li><a class="jon" href="/our-adventures/semporna-archipelago">Semporna Archipelago</a></li>
 							<li><a class="jon dn" href="#">The Reef Dive Resort at Mataking Island</a></li>
 							<li><a class="jon dn" href="#">Seaventures Rig Resorts</a></li> 
-							<li><a href="./tabin-wildlife-reserve">Tabin Wildlife Reserve</a></li>     					
-							<li><a href="./custom-trips">Custom Trips</a></li>   		
+							<li><a href="/our-adventures/tabin-wildlife-reserve">Tabin Wildlife Reserve</a></li>     					
+							<li><a href="/our-adventures/custom-trips">Custom Trips</a></li>   		
 						</ul>
 						
 					</div>

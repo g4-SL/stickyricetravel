@@ -1,7 +1,7 @@
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
-				<img src="c/large/www-custom-trips.jpg" alt="Boat in the middle of the sea"/>
+				<img src="/c/large/www-custom-trips.jpg" alt="Boat in the middle of the sea"/>
 			</li>
 		</ul>
 	</div>
@@ -17,8 +17,8 @@
 
 			<div class="seven columns">
 				<ul class="brc">
-					<li><a href="./home">Home</a></li>
-					<li><a href="./our-adventures">Our Adventures</a></li>
+					<li><a href="/home">Home</a></li>
+					<li><a href="/our-adventures">Our Adventures</a></li>
 					<li>Custom Trips</li>
 				</ul>
 			</div>
@@ -52,8 +52,8 @@
 			
 			<div class="seven columns bp">
 				<?php include './a/side-book-now.php'; ?>
-				<img src="c/adventures-abai/5-400.jpg" alt="Abai Visitors" />
-				<img src="c/adventures-northern-island/3-400.jpg" alt="Island" />
+				<img src="/c/adventures-abai/5-400.jpg" alt="Abai Visitors" />
+				<img src="/c/adventures-northern-island/3-400.jpg" alt="Island" />
 				
 			</div>
 

@@ -22,7 +22,7 @@
 				<ul class="brc">
 					<li><a href="./home">Home</a></li>
 					<li><a href="./our-adventures">Our Adventures</a></li>
-					<li><a href="./kinabalu-national-park">Kinabalu National Park</a></li>
+					<li><a href="./our-adventures/kinabalu-national-park">Kinabalu National Park</a></li>
 					<li>Mountain Torq via Ferrata</li>
 				</ul>
 			</div>

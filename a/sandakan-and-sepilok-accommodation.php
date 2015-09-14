@@ -19,7 +19,7 @@
 				<ul class="brc">
 					<li><a href="./home">Home</a></li>
 					<li><a href="./our-adventures">Our Adventures</a></li>
-					<li><a href="./sandakan-and-sepilok">Sandakan &amp; Sepilok</a></li>
+					<li><a href="./our-adventures/sandakan-and-sepilok">Sandakan &amp; Sepilok</a></li>
 					<li>Accommodations</li>
 				</ul>
 			</div>
@@ -52,17 +52,17 @@
 			</div>
 
 			<div class="eight columns pp2">
-					<a href="./ss-accommodation-sepilok-nature-resort" title="Sepilok Nature Resort"><img src="c/adventures/sepilok-nature-resort.jpg" class="img1" alt="Sepilok Nature Resort" /></a>
+				<a href="/our-adventures/sandakan-and-sepilok/accommodation/sepilok-nature-resort" title="Sepilok Nature Resort"><img src="c/adventures/sepilok-nature-resort.jpg" class="img1" alt="Sepilok Nature Resort" /></a>
 			</div>
 
 			<div class="eight columns pp2">
-					<a href="./ss-accommodation-sepilok-forest-edge" title="Sepilok Forest Edge"><img src="c/adventures/sepilok-forest-edge.jpg" class="img1" alt="Sepilok Forest Edge" /></a>
+				<a href="/our-adventures/sandakan-and-sepilok/accommodation/sepilok-forest-edge" title="Sepilok Forest Edge"><img src="c/adventures/sepilok-forest-edge.jpg" class="img1" alt="Sepilok Forest Edge" /></a>
 			</div>
 
 			<div class="clear"></div>
 
 			<div class="eight columns pp2">
-					<a href="./ss-accommodation-paganakan-dii-tropical-retreat" title="Paganakan Dii Tropical Retreat"><img src="c/adventures/paganakan-dii-tropical-retreat.jpg" class="img1" alt="Kinabatangan - Abai Village Homestay" /></a>
+				<a href="/our-adventures/sandakan-and-sepilok/accommodation/paganakan-dii-tropical-retreat" title="Paganakan Dii Tropical Retreat"><img src="c/adventures/paganakan-dii-tropical-retreat.jpg" class="img1" alt="Kinabatangan - Abai Village Homestay" /></a>
 			</div>
 
 			<div class="eight columns"></div>
@@ -74,11 +74,11 @@
 			<div class="clear"></div>
 
 			<div class="eight columns pp2 marginbottom">
-					<a href="./ss-accommodation-nak-hotel" title="NAK Hotel"><img src="c/adventures/nak-hotel.jpg" class="img1" alt="Sepilok Forest Edge" /></a>
+				<a href="/our-adventures/sandakan-and-sepilok/accommodation/nak-hotel" title="NAK Hotel"><img src="c/adventures/nak-hotel.jpg" class="img1" alt="Sepilok Forest Edge" /></a>
 			</div>
 
 			<div class="eight columns pp2 marginbottom">
-					<a href="./ss-accommodation-sheraton-four-points" title="Sheraton Four Points"><img src="c/adventures/sheraton-four-points.jpg" class="img1" alt="Sepilok Forest Edge" /></a>
+				<a href="/our-adventures/sandakan-and-sepilok/accommodation/sheraton-four-points" title="Sheraton Four Points"><img src="c/adventures/sheraton-four-points.jpg" class="img1" alt="Sepilok Forest Edge" /></a>
 			</div>
 			
 		</div>

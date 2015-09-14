@@ -1,7 +1,7 @@
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
-				<img src="c/large/www-adventures-kudat.jpg" alt="Kudat, home to the Tip of Borneo"/>
+				<img src="/c/large/www-adventures-kudat.jpg" alt="Kudat, home to the Tip of Borneo"/>
 			</li>
 		</ul>
 	</div>
@@ -16,8 +16,8 @@
 
 			<div class="eight columns">
 				<ul class="brc">
-					<li><a href="./home">Home</a></li>
-					<li><a href="./our-adventures">Our Adventures</a></li>
+					<li><a href="/home">Home</a></li>
+					<li><a href="/our-adventures">Our Adventures</a></li>
 					<li>Kudat</li>
 				</ul>
 			</div>
@@ -32,13 +32,13 @@
 
 			<div class="eight columns">
 				<div class="pp2">
-					<a href="./kudat-hibiscus-villa" title="Hibiscus Villa"><img src="c/adventures/hibiscus-villa.jpg" class="img1" alt="Hibiscus Villa" /></a>
+					<a href="./our-adventures/kudat/hibiscus-villa" title="Hibiscus Villa"><img src="/c/adventures/hibiscus-villa.jpg" class="img1" alt="Hibiscus Villa" /></a>
 				</div>
 			</div>	
 
 			<div class="eight columns">
 				<div class="pp2">
-					<a href="./kudat-hibiscus-beach-retreat" title="Hibiscus Beach Retreat"><img src="c/adventures/hibiscus-beach-retreat.jpg" class="img1" alt="Hibiscus Beach Retreat" /></a>
+					<a href="./our-adventures/kudat/hibiscus-beach-retreat" title="Hibiscus Beach Retreat"><img src="/c/adventures/hibiscus-beach-retreat.jpg" class="img1" alt="Hibiscus Beach Retreat" /></a>
 				</div>
 			</div>
 
@@ -46,7 +46,7 @@
 
 			<div class="eight columns">
 				<div class="pp2 marginbottom">
-					<a href="./kudat-northern-island-exploration" title="Northern Island Exploration"><img src="c/adventures/northern-island-exploration.jpg" class="img1" alt="Northern Island Exploration" /></a>
+					<a href="./our-adventures/kudat/northern-island-exploration" title="Northern Island Exploration"><img src="/c/adventures/northern-island-exploration.jpg" class="img1" alt="Northern Island Exploration" /></a>
 				</div>
 			</div>
 

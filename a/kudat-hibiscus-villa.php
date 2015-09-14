@@ -19,7 +19,7 @@
 				<ul class="brc">
 					<li><a href="./home">Home</a></li>
 					<li><a href="./our-adventures">Our Adventures</a></li>
-					<li><a href="./kudat">Kudat</a></li>
+					<li><a href="./our-adventures/kudat">Kudat</a></li>
 					<li>Hibiscus Villa</li>
 				</ul>
 			</div>

@@ -1,7 +1,7 @@
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
-				<img src="c/large/www-adventures-maliau-basin.jpg" alt="Maliau Basin, Sabah's Lost World"/>
+				<img src="/c/large/www-adventures-maliau-basin.jpg" alt="Maliau Basin, Sabah's Lost World"/>
 			</li>
 		</ul>
 	</div>
@@ -19,8 +19,8 @@
 
 			<div class="seven columns">
 				<ul class="brc">
-					<li><a href="./home">Home</a></li>
-					<li><a href="./our-adventures">Our Adventures</a></li>
+					<li><a href="/home">Home</a></li>
+					<li><a href="/our-adventures">Our Adventures</a></li>
 					<li>Maliau Basin</li>
 				</ul>
 			</div>
@@ -85,25 +85,25 @@
 							<table class="tbl_p m0">
 								<tbody>
 									<tr valign="middle">
-										<th><img src="c/day1.png" alt="Day 1 - Day One" /></th>
+										<th><img src="/c/day1.png" alt="Day 1 - Day One" /></th>
 										<td>
 											Pick up from your hotel in Kota Kinabalu at 7am for Maliau Basin via Keningau (please pack breakfast because this is not included). Enjoy the scenery of Crocker Range as you climb over the pass to Keningau and at about 11am, arrive at the Shell Maliau Basin Reception and Information Building (Maliau Security Gate), and continue on to Maliau Basin Study Centre (MBSC) for another hour. Upon arrival, stretch your legs, register and enjoy lunch. Check-in and relax before embarking on an introductory walk surrounding the centre. Along the way, learn about the biodiversity of this amazing area and proceed on a longer walk if you wish. Return to centre before dark and enjoy dinner at 7pm. After dinner, go on  4x4 night drive to spot nocturnal wildlife.
 										</td>
 									</tr>
 									<tr valign="middle">
-										<th><img src="c/day2.png" alt="Day 2 - Day Two" /></th>
+										<th><img src="/c/day2.png" alt="Day 2 - Day Two" /></th>
 										<td>
 											Wake up early for breakfast at 7am and at 8am, depart for an hour drive to Agathis Camp on 4x4. From here, you will embark on your 9km journey to Ginseng Camp (average duration 5-6hours), stopping for lunch along the way. Expected arrival around 2-3pm, settle in and proceed to Ginseng Falls that is about 15 minutes walk away. Return to camp before dark and enjoy dinner at 7pm. Lights out at 8pm after a long day. 
 										</td>
 									</tr>
 									<tr>
-										<th><img src="c/day3.png" alt="Day 3 - Day Three" /></th>
+										<th><img src="/c/day3.png" alt="Day 3 - Day Three" /></th>
 										<td>
 											Wake up early for breakfast and at 8am, depart to Maliau Falls on a 4.8km hike per way (average duration 2-3hours). Spend the entire afternoon at Maliau Falls, the most famed and undispupted jewel of all the waterfalls in the Maliau Basin – swim, eat lunch and take in the beautiful surroundings. At about 2pm, return to Ginseng Camp on the same trail, arriving back before dark. Relax and enjoy dinner before lights out.			
 										</td>
 									</tr>
 									<tr>
-										<th><img src="c/day4.png" alt="Day 4 - Day Four" /></th>
+										<th><img src="/c/day4.png" alt="Day 4 - Day Four" /></th>
 										<td>
 											Early breakfast at 7am before hiking 9km (average duration 6hours) back to Agathis Camp, enjoying pack lunch along the way. Upon arrival at Agathis Camp at about 1-2pm, hop onto 4x4 for the 1 hour transfer back to the centre before switching vehicle for the remainder of the drive to Kota Kinabalu. Expected arrival in Kota Kinabalu is at about 8pm.
 										</td>
@@ -120,32 +120,32 @@
 							<table class="tbl_p">
 								<tbody>
 									<tr>
-										<th><img src="c/day1.png" alt="Day 1 - Day One" /></th>
+										<th><img src="/c/day1.png" alt="Day 1 - Day One" /></th>
 										<td>
 											Pick up from your hotel in Kota Kinabalu at 7am for Maliau Basin via Keningau (please pack breakfast because this is not included). Enjoy the scenery of Crocker Range as you climb over the pass to Keningau and at about 11am, arrive at the Shell Maliau Basin Reception and Information Building (Maliau Security Gate), and continue on to Maliau Basin Study Centre (MBSC) for another hour. Upon arrival, stretch your legs, register and enjoy lunch. Check-in and relax before embarking on an introductory walk surrounding the centre. Along the way, learn about the biodiversity of this amazing area and proceed on a longer walk if you wish. Return to centre before dark and enjoy dinner at 7pm. After dinner, go on  4x4 night drive to spot nocturnal wildlife.
 										</td>
 									</tr>	
 									<tr>
-										<th><img src="c/day2.png" alt="Day 2 - Day Two" /></th>
+										<th><img src="/c/day2.png" alt="Day 2 - Day Two" /></th>
 										<td>
 											Wake up early for breakfast at 7am and at 8am, depart for an hour drive to Agathis Camp on 4x4. From here, you will embark on your 7.5km journey to Nepenthes Camp (average duration 5hours), stopping for lunch along the way. Upon arrival at Nepenthes Camp, settle in and relax before exploring the surroundings - climb a 33metre high observation platform for a different perspective of the area. At about 2pm, you have the option to hike a further 3-3.5km per way (average 2-3hours) to the Giluk and Takob Akob Falls for a refreshing dip in its water. Return to Nepenthes Camp before nightfall for dinner.
 										</td>
 									</tr>	
 									<tr>
-										<th><img src="c/day3.png" alt="Day 3 - Day Three" /></th>
+										<th><img src="/c/day3.png" alt="Day 3 - Day Three" /></th>
 										<td>
 											After an early breakfast, continue today’s 7km trek to Ginseng Camp (average duration 5hours) along lowland Dipterocarp forests, lower montane forests and heath forests on undulating trails. Discover the different forest areas including the amazing pitcher plants in the heath forests areas and fan palms in the montane forests. Enjoy lunch along the way or upon arrival at Ginseng Camp. Relax and settle-in, and proceed to Ginseng Falls that is about 15 minutes walk away if you wish. Return to camp before dark and enjoy dinner before lights out. 
 				
 										</td>
 									</tr>	
 									<tr>
-										<th><img src="c/day4.png" alt="Day 4 - Day Four" /></th>
+										<th><img src="/c/day4.png" alt="Day 4 - Day Four" /></th>
 										<td>
 											Wake up early for breakfast and at 8am, depart to Maliau Falls on a 4.8km hike per way (average duration 2-3hours). Spend the entire afternoon at Maliau Falls, the most famed and undispupted jewel of all the waterfalls in the Maliau Basin – swim, eat lunch and take in the beautiful surroundings. At about 2pm, return to Ginseng Camp on the same trail, arriving back before dark. Relax and enjoy dinner before lights out.
 										</td>
 									</tr>	
 									<tr>
-										<th><img src="c/day5.png" alt="Day 5 - Day Five" /></th>
+										<th><img src="/c/day5.png" alt="Day 5 - Day Five" /></th>
 										<td>
 											Early breakfast at 7am before hiking 9km (average duration 6hours) back to Agathis Camp, enjoying pack lunch along the way. Upon arrival at Agathis Camp at about 1-2pm, hop onto 4x4 for the 1 hour transfer back to the centre before switching vehicle for the remainder of the drive to Kota Kinabalu. Expected arrival in Kota Kinabalu is at about 8pm.
 										</td>
@@ -194,13 +194,13 @@
 				<table class="tbl_p">
 					<tbody>
 						<tr><td>
-							<img src="./c/pdf.jpg" style="vertical-align:middle"> <a href="./download/Conditions-of-Entry.pdf" target="_blank">Conditions of Entry (183KB)</a>
+							<img src="/c/pdf.jpg" style="vertical-align:middle"> <a href="../download/Conditions-of-Entry.pdf" target="_blank">Conditions of Entry (183KB)</a>
 						</td></tr>
 						<tr><td>
-							<img src="./c/pdf.jpg" style="vertical-align:middle"> <a href="./download/Do's-and-Don'ts.pdf" target="_blank">Do's &amp; Don'ts (183KB)</a>
+							<img src="/c/pdf.jpg" style="vertical-align:middle"> <a href="../download/Do's-and-Don'ts.pdf" target="_blank">Do's &amp; Don'ts (183KB)</a>
 						</td></tr>
 						<tr><td>
-							<img src="./c/pdf.jpg" style="vertical-align:middle"> <a href="./download/Visitor-Pack-Waste-Management.pdf" target="_blank">Visitor Pack - Waste Management (112KB)</a>
+							<img src="/c/pdf.jpg" style="vertical-align:middle"> <a href="../download/Visitor-Pack-Waste-Management.pdf" target="_blank">Visitor Pack - Waste Management (112KB)</a>
 						</td></tr>
 					</tbody>
 				</table>	
@@ -211,24 +211,24 @@
 			
 			<div class="seven columns bp">
 				<?php include './a/side-book-now.php'; ?>
-				<a href="./c/adventures-maliau-basin/maliau-map.jpg" target="blank"><img src="c/adventures-maliau-basin/maliau-map.jpg" alt="Maliau Basin Map " class="res-img" /></a>
-				<img src="c/adventures-maliau-basin/2-400.jpg" alt="Maliau Basin " />
-				<img src="c/adventures-maliau-basin/3-400.jpg" alt="Maliau Basin " />
-				<img src="c/adventures-maliau-basin/4-400.jpg" alt="Maliau Basin Waterfall" />
-				<img src="c/adventures-maliau-basin/6-400.jpg" alt="Maliau Basin Bridge" />
-				<img src="c/adventures-maliau-basin/7-400.jpg" alt="Maliau Basin " />
-				<img src="c/adventures-maliau-basin/8-400.jpg" alt="Maliau Basin " />	
-				<img src="c/adventures-maliau-basin/9-400.jpg" alt="Maliau Basin " />
+				<a href="/c/adventures-maliau-basin/maliau-map.jpg" target="blank"><img src="/c/adventures-maliau-basin/maliau-map.jpg" alt="Maliau Basin Map " class="res-img" /></a>
+				<img src="/c/adventures-maliau-basin/2-400.jpg" alt="Maliau Basin " />
+				<img src="/c/adventures-maliau-basin/3-400.jpg" alt="Maliau Basin " />
+				<img src="/c/adventures-maliau-basin/4-400.jpg" alt="Maliau Basin Waterfall" />
+				<img src="/c/adventures-maliau-basin/6-400.jpg" alt="Maliau Basin Bridge" />
+				<img src="/c/adventures-maliau-basin/7-400.jpg" alt="Maliau Basin " />
+				<img src="/c/adventures-maliau-basin/8-400.jpg" alt="Maliau Basin " />	
+				<img src="/c/adventures-maliau-basin/9-400.jpg" alt="Maliau Basin " />
 			</div>
 
 		</div>
 		
 	</section>
 	
-<script language="javascript" type="text/javascript" src="d/jquery.ms.js"></script>
+<script language="javascript" type="text/javascript" src="/d/jquery.ms.js"></script>
 <script type="text/javascript">
 $(document).ready(function() {
 	$("#an2").msAccordion({defaultid:0,vertical:true});
-	$('.title').click(function(e){ location.href="#sto";});
+	$('.title').click(function(e){});
 });
 </script>

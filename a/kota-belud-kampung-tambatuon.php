@@ -19,7 +19,7 @@
 				<ul class="brc">
 					<li><a href="./home">Home</a></li>
 					<li><a href="./our-adventures">Our Adventures</a></li>
-					<li><a href="./kota-belud">Kota Belud</a></li>
+					<li><a href="./our-adventures/kota-belud">Kota Belud</a></li>
 					<li>Tambatuon Village 3D2N</li>
 				</ul>
 			</div>

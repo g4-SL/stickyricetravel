@@ -19,8 +19,8 @@
 				<ul class="brc">
 					<li><a href="./home">Home</a></li>
 					<li><a href="./our-adventures">Our Adventures</a></li>
-					<li><a href="./danum-valley">Danum Valley Conservation Center</a></li>
-					<li><a href="./danum-valley-field-center">Danum Valley Field Center (DVFC)</a></li>
+					<li><a href="./our-adventures/danum-valley">Danum Valley Conservation Center</a></li>
+					<li><a href="./our-adventures/danum-valley/danum-valley-field-center">Danum Valley Field Center (DVFC)</a></li>
 					<li>5D4N Wild Jungles to Luxury</li>
 				</ul>
 			</div>
@@ -167,11 +167,3 @@
 		</div>
 		
 	</section>
-	
-<script language="javascript" type="text/javascript" src="d/jquery.ms.js"></script>
-<script type="text/javascript">
-$(document).ready(function() {
-	$("#an2").msAccordion({defaultid:0,vertical:true});
-	$('.title').click(function(e){ location.href="#sto";});
-});
-</script>

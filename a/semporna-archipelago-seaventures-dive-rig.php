@@ -18,7 +18,7 @@
 				<ul class="brc">
 					<li><a href="./home">Home</a></li>
 					<li><a href="./our-adventures">Our Adventures</a></li>	
-					<li><a href="./semporna-archipelago">Semporna Archipelago</a></li>	
+					<li><a href="./our-adventures/semporna-archipelago">Semporna Archipelago</a></li>	
 					<li>Seaventures Dive Rig</li>
 				</ul>
 			</div>

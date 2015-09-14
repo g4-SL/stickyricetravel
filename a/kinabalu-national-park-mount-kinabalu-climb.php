@@ -19,7 +19,7 @@
 				<ul class="brc">
 					<li><a href="./home">Home</a></li>
 					<li><a href="./our-adventures">Our Adventures</a></li>
-					<li><a href="./kinabalu-national-park">Kinabalu National Park</a></li>
+					<li><a href="./our-adventures/kinabalu-national-park">Kinabalu National Park</a></li>
 					<li>Mt Kinabalu Climb</li>
 				</ul>
 			</div>
@@ -205,6 +205,6 @@
 <script type="text/javascript">
 $(document).ready(function() {
 	$("#an2").msAccordion({defaultid:0,vertical:true});
-	$('.title').click(function(e){ location.href="#sto";});
+	$('.title').click(function(e){});
 });
 </script>

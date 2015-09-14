@@ -21,7 +21,7 @@
 				<ul class="brc">
 					<li><a href="./home">Home</a></li>
 					<li><a href="./our-adventures">Our Adventures</a></li>
-					<li><a href="./kota-kinabalu">Kota Kinabalu</a></li>
+					<li><a href="./our-adventures/kota-kinabalu">Kota Kinabalu</a></li>
 					<li>Kayak &amp; Safari</li>
 				</ul>
 			</div>

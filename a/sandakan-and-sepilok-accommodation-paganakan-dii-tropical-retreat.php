@@ -19,8 +19,8 @@
 				<ul class="brc">
 					<li><a href="./home">Home</a></li>
 					<li><a href="./our-adventures">Our Adventures</a></li>
-					<li><a href="./sandakan-and-sepilok">Sandakan &amp; Sepilok</a></li>
-					<li><a href="./sandakan-and-sepilok-accommodation">Accommodation</a></li>
+					<li><a href="./our-adventures/sandakan-and-sepilok">Sandakan &amp; Sepilok</a></li>
+					<li><a href="./our-adventures/sandakan-and-sepilok/accommodation">Accommodation</a></li>
 					<li>Paganakan Dii Tropical Retreat</li>
 				</ul>
 			</div>
@@ -72,17 +72,9 @@
 				<img src="c/adventures-paganakan-dii-tropical-retreat/3-400.jpg" alt="Paganakan Dii Tropical Retreat">
 				<img src="c/adventures-paganakan-dii-tropical-retreat/4-400.jpg" alt="Paganakan Dii Tropical Retreat">
 				<img src="c/adventures-paganakan-dii-tropical-retreat/5-400.jpg" alt="Paganakan Dii Tropical Retreat">
-				<p><i>Photo credit to Peganakan Dii Tropical Retreat</i></p>
+				<p><i>*Photo credit to Peganakan Dii Tropical Retreat</i></p>
 			</div>
 
 		</div>
 		
 	</section>
-	
-<script language="javascript" type="text/javascript" src="d/jquery.ms.js"></script>
-<script type="text/javascript">
-$(document).ready(function() {
-	$("#an2").msAccordion({defaultid:0,vertical:true});
-	$('.title').click(function(e){ location.href="#sto";});
-});
-</script>

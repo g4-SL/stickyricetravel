@@ -19,7 +19,7 @@
 				<ul class="brc">
 					<li><a href="./home">Home</a></li>
 					<li><a href="./our-adventures">Our Adventures</a></li>
-					<li><a href="./danum-valley">Danum Valley Conservation Center</a></li>
+					<li><a href="./our-adventures/danum-valley">Danum Valley Conservation Center</a></li>
 					<li>Danum Valley Field Center (DVFC)</li>
 				</ul>
 			</div>
@@ -43,13 +43,13 @@
 
 			<div class="eight columns">
 				<div class="pp2">
-					<a href="./danum-explorer" title="3D2N / 4D3N DVFC Explorer"><img src="c/adventures/danum-dvfc-explorer.jpg" class="img1" alt="Danum Valley, DVFC Explorer" /></a>
+					<a href="./our-adventures/danum-valley/danum-valley-field-center/explorer" title="3D2N / 4D3N DVFC Explorer"><img src="c/adventures/danum-dvfc-explorer.jpg" class="img1" alt="Danum Valley, DVFC Explorer" /></a>
 				</div>
 			</div>
 
 			<div class="eight columns">
 				<div class="pp2">
-					<a href="./danum-purut-camping" title="4D3N DVFC Sg Purut Camping"><img src="c/adventures/danum-explorer.jpg" class="img1" alt="Danum Valley, Sungai Purut" /></a>
+					<a href="./our-adventures/danum-valley/danum-valley-field-center/purut-camping" title="4D3N DVFC Sg Purut Camping"><img src="c/adventures/danum-explorer.jpg" class="img1" alt="Danum Valley, Sungai Purut" /></a>
 				</div>
 			</div>
 
@@ -57,13 +57,13 @@
 
 			<div class="eight columns">
 				<div class="pp2 marginbottom">
-					<a href="./danum-expedition" title="7D6N DVFC Mt Danum Expedition"><img src="c/adventures/danum-expedition-to-mt-danum.jpg" class="img1" alt="Danum Valley, Expedition to Mt.Danum" /></a>
+					<a href="./our-adventures/danum-valley/danum-valley-field-center/expedition" title="7D6N DVFC Mt Danum Expedition"><img src="c/adventures/danum-expedition-to-mt-danum.jpg" class="img1" alt="Danum Valley, Expedition to Mt.Danum" /></a>
 				</div>
 			</div>
 
 			<div class="eight columns">
 				<div class="pp2 marginbottom">
-					<a href="./danum-jungle-to-luxury" title="5D4N Wild Jungles to Luxury"><img src="c/adventures/danum-wild-jungles-to-luxury.jpg" class="img1" alt="Danum Valley, Wild Jungles to Luxury" /></a>
+					<a href="./our-adventures/danum-valley/danum-valley-field-center/jungle-to-luxury" title="5D4N Wild Jungles to Luxury"><img src="c/adventures/danum-wild-jungles-to-luxury.jpg" class="img1" alt="Danum Valley, Wild Jungles to Luxury" /></a>
 				</div>
 			</div>
 			

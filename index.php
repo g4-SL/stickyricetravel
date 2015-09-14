@@ -21,80 +21,9 @@ $ignore = array("photo-galleries-fauna",
 			"photo-galleries-flora-of-borneo",
 			"photo-galleries-landscape-of-borneo",
 			"photo-galleries-people-of-borneo");
-			
-$c = array("about-us", 
-			"our-adventures", 
 
-			"danum-valley", 
-			"borneo-rainforest-lodge",
-			"danum-valley-field-center",
-			"danum-explorer",
-			"danum-purut-camping",
-			"danum-expedition",
-			"danum-jungle-to-luxury",	
-
-			"kinabatangan", 			
-			"kinabatangan-abai-homestay", 			
-			"kinabatangan-ecocamp", 			
-			"kinabatangan-supu-camp", 			
-			"kinabatangan-wetlands-resort", 			
-			"kinabatangan-borneo-nature-lodge", 
-
-			"sandakan-and-sepilok",		
-			"ss-sepilok-sojourn",
-			"ss-libaran-turtle-island-camping",
-			"ss-orang-utan-and-turtles",
-			"ss-lankayan-island",
-			"sandakan-and-sepilok-accommodation",
-			"ss-accommodation-sepilok-nature-resort",
-			"ss-accommodation-sepilok-forest-edge",
-			"ss-accommodation-paganakan-dii-tropical-retreat",
-			"ss-accommodation-sheraton-four-points",
-			"ss-accommodation-nak-hotel",
-
-			"crocker-range-park",
-			"crocker-range-park-gunung-alab-hike", 
-			"crocker-range-park-mt-trus-madi", 
-			"crocker-range-park-day-trip", 
-			"crocker-range-park-sinurambi-bed-and-breakfast",
-
-			"kinabalu-national-park",
-			"kinabalu-national-park-camping", 
-			"kinabalu-national-park-mountain-torq-ferrata",
-			"kinabalu-national-park-mount-kinabalu-climb",
-			"kinabalu-national-park-day-trip",
-
-			"semporna-archipelago",
-			"semporna-mataking-resort",
-			"semporna-seaventures-dive-rig",
-
-			"kota-belud",
-			"kota-belud-kampung-tambatuon",
-			"kota-belud-manana-borneo",
-
-			"kudat",
-			"kudat-northern-island-exploration",
-			"kudat-hibiscus-villa",
-			"kudat-hibiscus-beach-retreat",
-
-			"kota-kinabalu",
-			"kota-kinabalu-kayak-and-snorkel-safari",
-			"kota-kinabalu-diving-and-snorkeling",
-			"kota-kinabalu-white-water-rafting",
-			"kota-kinabalu-cycling-programs",
-			"kota-kinabalu-easy-breezy-ride",
-			"kota-kinabalu-kiulu-fun-and-green",
-			"kota-kinabalu-highland-cool-and-chill",
-			"kota-kinabalu-momma-house-cooking-class",
-			"kota-kinabalu-borneo-orchard-house",
-			"kota-kinabalu-accommodation",
-			
-			"maliau-basin",
-			"tabin-wildlife-reserve",
-			"orou-sapulot",
-			
-			"monkey-dives",
-			"custom-trips", 
+$lvlone = array("about-us", 
+			"our-adventures",
 			"responsible-tourism",
 			"contact-us",
 			"booking",
@@ -103,9 +32,75 @@ $c = array("about-us",
 			"privacy-policy",
 			"our-friends",
 			"unsubscribe",
-			"how-is-sticky-rice-travel-doing",
-			"404"
-			);
+			"how-is-sticky-rice-travel-doing");
+
+$our_adventures = array("crocker-range-park",
+			"danum-valley",
+			"kinabalu-national-park",
+			"kinabatangan",
+			"kota-belud",
+			"kota-kinabalu",
+			"kudat",
+			"maliau-basin",
+			"orou-sapulot",
+			"sandakan-and-sepilok",
+			"semporna-archipelago",
+			"tabin-wildlife-reserve",
+			"custom-trips");
+
+$crocker_range_park = array("day-trip",
+			"gunung-alab-hike",
+			"mt-trus-madi",
+			"sinurambi-bed-and-breakfast");
+
+$danum_valley = array("borneo-rainforest-lodge",
+			"danum-valley-field-center");
+
+$danum_valley_field_center = array("expedition",
+			"explorer",
+			"jungle-to-luxury",
+			"purut-camping");
+
+$kinabalu_national_park = array("camping",
+			"day-trip",
+			"mount-kinabalu-climb",
+			"mountain-torq-ferrata");
+
+$kinabatangan = array("abai-homestay",
+			"borneo-nature-lodge",
+			"ecocamp",
+			"supu-camp",
+			"kinabatangan-wetlands-resort");
+
+$kota_belud = array("kampung-tambatuon",
+			"manana-borneo");
+
+$kota_kinabalu = array("borneo-orchard-house",
+			"cycling-programs",
+			"diving-and-snorkeling",
+			"kayak-and-snorkel-safari",
+			"momma-house-cooking-class",
+			"white-water-rafting");
+
+$kudat = array("hibiscus-beach-retreat",
+			"hibiscus-villa",
+			"northern-island-exploration");
+
+$sandakan_and_sepilok = array("accommodation",
+			"lankayan-island",
+			"libaran-turtle-island-camping",
+			"orang-utan-and-turtles",
+			"sepilok-sojourn");
+
+$accommodation = array("nak-hotel",
+			"paganakan-dii-tropical-retreat",
+			"sepilok-forest-edge",
+			"sepilok-nature-resort",
+			"sheraton-four-points");
+
+$semporna_archipelago = array("mataking-resort",
+			"seaventures-dive-rig");
+			
 
 /* Site Map Generator			
 foreach ($c as $value) {
@@ -141,7 +136,7 @@ if($p[1] == "danum-valley") {
 	$d = "Book amazing borneo holidays with Sticky Rice Travel. Now is the best time to visit Borneo, especially Danum Valley in Malaysia. Meaningful Adventures!";
 }
 
-if($p[1] == "borneo-rainforest-lodge") {
+if($p[1] == "danum-valley-borneo-rainforest-lodge") {
 	$t = "Danum Valley | Borneo Rainforest Lodge";
 	$d = "Book amazing borneo holidays with Sticky Rice Travel. Stay in a 5 star lodge and experience wilderness and nature in Danum Valley. Meaningful Adventures!";
 }
@@ -493,32 +488,62 @@ if($p[1] == "404") {
 }
 
 
-// new code
-
-
 function curPageURL() {return "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";}
 
 ob_start("sanitize_output");
 include './header.php';
 
-	if(!isset($p[2])) {$p[2] = "";}
-
-	if (in_array($p[2],$c)) {
-		header("Location: http://www.stickyricetravel.com/".$p[2]);
-	
-	} else if (in_array($p[1],$c)) {
-		include "./a/".$p[1].".php";	
-		
-	} else if ($p[1] == "showmethemoney") {
-		include "./a/base.php";
-		foreach($c as $value) {
-			if (!in_array($value,$ignore)) {
-				include "./a/".$value.".php";
-			}
-		}	
-	} else {
-		include "./a/base.php";
+	if(isset($p[4]) && $p[4] != ""){
+		if(in_array($p[4], ${str_replace("-", "_",$p[3])})){
+			include "./a/".$p[2]."-".$p[3]."-".$p[4].".php";
+		}
+	}	
+	else if(isset($p[3]) && $p[3] != ""){
+		if(in_array($p[3], ${str_replace("-", "_",$p[2])})){
+			include "./a/".$p[2]."-".$p[3].".php";
+		}
+	}	
+	else if(isset($p[2]) && $p[2] != ""){
+		if(in_array($p[2], $our_adventures)){
+			include "./a/".$p[2].".php";
+		}
+		else{
+			// not found page
+			include "./a/base.php";
+			?>
+			<script>
+			    console.log(<?php echo json_encode("Not found page"); ?>);
+			</script>
+			<?php
+		}
 	}
+	else if(isset($p[1])){
+		if(($p[1] == "home" || $p[1] == "")){
+			include "./a/base.php";
+		}
+		else if(in_array($p[1], $lvlone)){
+			include "./a/".$p[1].".php";
+		}
+	}
+
+	// if(!isset($p[2])) {$p[2] = "";}
+
+	// if (in_array($p[2],$c)) {
+	// 	header("Location: http://www.stickyricetravel.com/".$p[2]);
+	
+	// } else if (in_array($p[1],$c)) {
+	// 	include "./a/".$p[1].".php";	
+		
+	// } else if ($p[1] == "showmethemoney") {
+	// 	include "./a/base.php";
+	// 	foreach($c as $value) {
+	// 		if (!in_array($value,$ignore)) {
+	// 			include "./a/".$value.".php";
+	// 		}
+	// 	}	
+	// } else {
+	// 	include "./a/base.php";
+	// }
 
 include './footer.php';
 ?>

@@ -19,7 +19,7 @@
 				<ul class="brc">
 					<li><a href="./home">Home</a></li>
 					<li><a href="./our-adventures">Our Adventures</a></li>
-					<li><a href="./crocker-range-park">Crocker Range Park</a></li>
+					<li><a href="./our-adventures/crocker-range-park">Crocker Range Park</a></li>
 					<li>Crocker Range Park Day Trip</li>
 				</ul>
 			</div>

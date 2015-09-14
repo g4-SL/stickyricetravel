@@ -1,7 +1,7 @@
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
-				<img src="c/large/www-adventures-danum-valley.jpg" alt="Danum Valley, Sabah Borneo"/>
+				<img src="/c/large/www-adventures-danum-valley.jpg" alt="Danum Valley, Sabah Borneo"/>
 				<div class="ei-title"></div>
 			</li>
 		</ul>
@@ -17,8 +17,8 @@
 
 			<div class="six columns">
 				<ul class="brc">
-					<li><a href="./home">Home</a></li>
-					<li><a href="./our-adventures">Our Adventures</a></li>
+					<li><a href="/home">Home</a></li>
+					<li><a href="/our-adventures">Our Adventures</a></li>
 					<li>Danum Valley Conservation Area</li>
 				</ul>
 			</div>
@@ -39,24 +39,16 @@
 
 			<div class="eight columns">
 				<div class="pp2 marginbottom">
-					<a href="./borneo-rainforest-lodge" title="Borneo Rainforest Lodge (BRL)"><img src="c/adventures/borneo-rainforest-lodge.jpg" class="img1" alt="Borneo Rainforest Lodge, Danum Valley Sabah Borneo" /></a>
+					<a href="/our-adventures/danum-valley/borneo-rainforest-lodge" title="Borneo Rainforest Lodge (BRL)"><img src="/c/adventures/borneo-rainforest-lodge.jpg" class="img1" alt="Borneo Rainforest Lodge, Danum Valley Sabah Borneo" /></a>
 				</div>
 			</div>
 
 			<div class="eight columns">
 				<div class="pp2 marginbottom">
-					<a href="./danum-valley-field-center" title="Danum Valley Field Center (DVFC)"><img src="c/adventures/danum-valley-field-center.jpg" class="lar" alt="Danum Valley Field Center, Sabah Borneo" /></a>
+					<a href="/our-adventures/danum-valley/danum-valley-field-center" title="Danum Valley Field Center (DVFC)"><img src="/c/adventures/danum-valley-field-center.jpg" class="lar" alt="Danum Valley Field Center, Sabah Borneo" /></a>
 				</div>
 			</div>
 			
 		</div>
 		
 	</section>
-
-<script language="javascript" type="text/javascript" src="d/jquery.ms.js"></script>
-<script type="text/javascript">
-$(document).ready(function() {
-	$('.pp2 a').css("width", "437px"); 
-	$('.pp2 a').css("height", "180px"); 
-});
-</script>

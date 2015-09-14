@@ -19,7 +19,7 @@
 				<ul class="brc">
 					<li><a href="./home">Home</a></li>
 					<li><a href="./our-adventures">Our Adventures</a></li>
-					<li><a href="./sandakan-and-sepilok">Sandakan &amp; Sepilok</a></li>
+					<li><a href="./our-adventures/sandakan-and-sepilok">Sandakan &amp; Sepilok</a></li>
 					<li>1N Sepilok Sojourn</li>
 				</ul>
 			</div>
@@ -126,11 +126,3 @@
 		</div>
 		
 	</section>
-	
-<script language="javascript" type="text/javascript" src="d/jquery.ms.js"></script>
-<script type="text/javascript">
-$(document).ready(function() {
-	$("#an2").msAccordion({defaultid:0,vertical:true});
-	$('.title').click(function(e){ location.href="#sto";});
-});
-</script>

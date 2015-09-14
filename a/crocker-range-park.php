@@ -1,7 +1,7 @@
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
-				<img src="c/large/www-adventures-crocker-range-park.jpg" alt="Crocker Range Park at Sabah, Borneo"/>
+				<img src="/c/large/www-adventures-crocker-range-park.jpg" alt="Crocker Range Park at Sabah, Borneo"/>
 			</li>
 		</ul>
 	</div>
@@ -16,8 +16,8 @@
 
 			<div class="seven columns">
 				<ul class="brc">
-					<li><a href="./home">Home</a></li>
-					<li><a href="./our-adventures">Our Adventures</a></li>
+					<li><a href="/home">Home</a></li>
+					<li><a href="/our-adventures">Our Adventures</a></li>
 					<li>Crocker Range Park</li>
 				</ul>
 			</div>
@@ -48,13 +48,13 @@
 
 			<div class="eight columns">
 				<div class="pp2">
-					<a href="./crocker-range-park-gunung-alab-hike" title="2D1N Gunung Alab Hike"><img src="c/adventures/gunung-alab.jpg" class="img1" alt="Gunung Alab Hike" /></a>
+					<a href="/our-adventures/crocker-range-park/gunung-alab-hike" title="2D1N Gunung Alab Hike"><img src="/c/adventures/gunung-alab.jpg" class="img1" alt="Gunung Alab Hike" /></a>
 				</div>
 			</div>	
 
 			<div class="eight columns">
 				<div class="pp2">
-					<a href="./crocker-range-park-mt-trus-madi" title="4D3N Trusmadi Expedition"><img src="c/adventures/mt-trus-madi.jpg" class="img1" alt="Mt Trus Madi" /></a>
+					<a href="/our-adventures/crocker-range-park/mt-trus-madi" title="4D3N Trusmadi Expedition"><img src="/c/adventures/mt-trus-madi.jpg" class="img1" alt="Mt Trus Madi" /></a>
 				</div>
 			</div>	
 
@@ -62,7 +62,7 @@
 
 			<div class="eight columns">
 				<div class="pp2">
-					<a href="./crocker-range-park-day-trip" title="Crocker Range Park Day Trip"><img src="c/adventures/crocker-range-day-trip.jpg" class="img1" alt="Crocker Range Day Trip" /></a>
+					<a href="/our-adventures/crocker-range-park/day-trip" title="Crocker Range Park Day Trip"><img src="/c/adventures/crocker-range-day-trip.jpg" class="img1" alt="Crocker Range Day Trip" /></a>
 				</div>
 			</div>	
 
@@ -76,7 +76,7 @@
 
 			<div class="eight columns">
 				<div class="pp2 marginbottom">
-					<a href="./crocker-range-park-sinurambi-bed-and-breakfast" title="Sinurambi Bed &amp; Breakfast"><img src="c/adventures/sinurambi.jpg" class="img1" alt="Kinabatangan - Homestay &amp; Supu Camp" /></a>
+					<a href="/our-adventures/crocker-range-park/sinurambi-bed-and-breakfast" title="Sinurambi Bed &amp; Breakfast"><img src="/c/adventures/sinurambi.jpg" class="img1" alt="Kinabatangan - Homestay &amp; Supu Camp" /></a>
 				</div>
 			</div>	
 

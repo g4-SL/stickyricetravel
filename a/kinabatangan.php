@@ -1,7 +1,7 @@
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
-				<img src="c/large/www-adventures-kinabatangan.jpg" alt="Kinabatangan, Sabah Borneo" /></li>
+				<img src="/c/large/www-adventures-kinabatangan.jpg" alt="Kinabatangan, Sabah Borneo" /></li>
 				<div class="ei-title"></div>
 			</li>
 		</ul>
@@ -17,8 +17,8 @@
 
 			<div class="eight columns">
 				<ul class="brc">
-					<li><a href="./home">Home</a></li>
-					<li><a href="./our-adventures">Our Adventures</a></li>
+					<li><a href="/home">Home</a></li>
+					<li><a href="/our-adventures">Our Adventures</a></li>
 					<li>Kinabatangan Floodplains</li>
 				</ul>
 			</div>
@@ -43,13 +43,13 @@
 
 			<div class="eight columns">
 				<div class="pp2">=
-					<a href="./kinabatangan-borneo-nature-lodge" title="3D2N Borneo Nature Lodge"><img src="c/adventures/borneo-nature-lodge.jpg" class="img1" alt="Kinabatangan - Myne Resort" /></a>
+					<a href="./our-adventures/kinabatangan/borneo-nature-lodge" title="3D2N Borneo Nature Lodge"><img src="/c/adventures/borneo-nature-lodge.jpg" class="img1" alt="Kinabatangan - Myne Resort" /></a>
 				</div>
 			</div>	
 
 			<div class="eight columns">
 				<div class="pp2">
-					<a href="./kinabatangan-wetlands-resort" title="3D2N Kinabatangan Wetlands Resort"><img src="c/adventures/homestay-and-supu-camp.jpg" class="img1" alt="Kinabatangan - Homestay &amp; Supu Camp" /></a>
+					<a href="./our-adventures/kinabatangan/kinabatangan-wetlands-resort" title="3D2N Kinabatangan Wetlands Resort"><img src="/c/adventures/homestay-and-supu-camp.jpg" class="img1" alt="Kinabatangan - Homestay &amp; Supu Camp" /></a>
 				</div>
 			</div>
 
@@ -61,13 +61,13 @@
 
 			<div class="eight columns">
 				<div class="pp2">
-					<a href="./kinabatangan-abai-homestay" title="3D2N Abai Homestay"><img src="c/adventures/abai-village-homestay.jpg" class="img1" alt="Kinabatangan - Abai Village Homestay" /></a>
+					<a href="./our-adventures/kinabatangan/abai-homestay" title="3D2N Abai Homestay"><img src="/c/adventures/abai-village-homestay.jpg" class="img1" alt="Kinabatangan - Abai Village Homestay" /></a>
 				</div>
 			</div>
 			
 			<div class="eight columns">
 				<div class="pp2">
-					<a href="./kinabatangan-ecocamp" title="3D2N Eco Camp"><img src="c/adventures/eco-camp.jpg" class="img1" alt="Kinabatangan - Eco Camp" /></a>
+					<a href="./our-adventures/kinabatangan/ecocamp" title="3D2N Eco Camp"><img src="/c/adventures/eco-camp.jpg" class="img1" alt="Kinabatangan - Eco Camp" /></a>
 				</div>
 			</div>
 
@@ -75,7 +75,7 @@
 
 			<div class="eight columns">
 				<div class="pp2 marginbottom">
-					<a href="./kinabatangan-supu-camp" title="3D2N Supu Camp"><img src="c/adventures/supu-camp.jpg" class="img1" alt="Kinabatangan - Supu Camp" /></a>
+					<a href="./our-adventures/kinabatangan/supu-camp" title="3D2N Supu Camp"><img src="/c/adventures/supu-camp.jpg" class="img1" alt="Kinabatangan - Supu Camp" /></a>
 				</div>
 			</div>	
 			
@@ -84,11 +84,3 @@
 		</div>
 		
 	</section>
-
-<script language="javascript" type="text/javascript" src="d/jquery.ms.js"></script>
-<script type="text/javascript">
-$(document).ready(function() {
-	$('.pp2 a').css("width", "437px"); 
-	$('.pp2 a').css("height", "180px"); 
-});
-</script>

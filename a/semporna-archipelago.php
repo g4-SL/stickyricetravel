@@ -1,7 +1,7 @@
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
-				<img src="c/large/www-adventures-semporna.jpg" alt="Semporna Archipelago, the best spot to snorkel and scuba dive"/>
+				<img src="/c/large/www-adventures-semporna.jpg" alt="Semporna Archipelago, the best spot to snorkel and scuba dive"/>
 			</li>
 		</ul>
 	</div>
@@ -16,8 +16,8 @@
 
 			<div class="eight columns">
 				<ul class="brc">
-					<li><a href="./home">Home</a></li>
-					<li><a href="./our-adventures">Our Adventures</a></li>
+					<li><a href="/home">Home</a></li>
+					<li><a href="/our-adventures">Our Adventures</a></li>
 					<li>Semporna Archipelago</li>
 				</ul>
 			</div>
@@ -38,13 +38,13 @@
 
 			<div class="eight columns">
 				<div class="pp2 marginbottom">
-					<a href="./semporna-mataking-resort" title="The Reef Dive Resort at Mataking Island"><img src="c/adventures/semporna-archipelago.jpg" class="img1" alt="The Reef Dive Resort at Mataking Island, Semporna Sabah Borneo" /></a>
+					<a href="./our-adventures/semporna-archipelago/mataking-resort" title="The Reef Dive Resort at Mataking Island"><img src="/c/adventures/semporna-archipelago.jpg" class="img1" alt="The Reef Dive Resort at Mataking Island, Semporna Sabah Borneo" /></a>
 				</div>
 			</div>	
 
 			<div class="eight columns">
 				<div class="pp2 marginbottom">
-					<a href="./semporna-seaventures-dive-rig" title="Seaventures Rig Resorts"><img src="c/adventures/seaventures-rig-resort.jpg" class="img1" alt="Seaventures Rig Resorts, Semporna Sabah Borneo" /></a>
+					<a href="./our-adventures/semporna-archipelago/seaventures-dive-rig" title="Seaventures Rig Resorts"><img src="/c/adventures/seaventures-rig-resort.jpg" class="img1" alt="Seaventures Rig Resorts, Semporna Sabah Borneo" /></a>
 				</div>
 			</div>		
 			

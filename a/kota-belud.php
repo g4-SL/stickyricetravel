@@ -1,7 +1,7 @@
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
-				<img src="c/large/www-adventures-kota-belud.jpg" alt="Kota Belud, Sabah Borneo"/>
+				<img src="/c/large/www-adventures-kota-belud.jpg" alt="Kota Belud, Sabah Borneo"/>
 			</li>
 		</ul>
 	</div>
@@ -16,8 +16,8 @@
 
 			<div class="eight columns">
 				<ul class="brc">
-					<li><a href="./home">Home</a></li>
-					<li><a href="./our-adventures">Our Adventures</a></li>
+					<li><a href="/home">Home</a></li>
+					<li><a href="/our-adventures">Our Adventures</a></li>
 					<li>Kota Belud</li>
 				</ul>
 			</div>
@@ -35,13 +35,13 @@
 
 			<div class="eight columns">
 				<div class="pp2 marginbottom">
-					<a href="./kota-belud-kampung-tambatuon" title="3D2N Tambatuon Village"><img src="c/adventures/tambatuon-village.jpg" class="img1" alt="Tambatuon Village, Kota Belud Sabah Borneo" /></a>
+					<a href="./our-adventures/kota-belud/kampung-tambatuon" title="3D2N Tambatuon Village"><img src="/c/adventures/tambatuon-village.jpg" class="img1" alt="Tambatuon Village, Kota Belud Sabah Borneo" /></a>
 				</div>
 			</div>	
 
 			<div class="eight columns">
 				<div class="pp2 marginbottom">
-					<a href="./kota-belud-manana-borneo" title="Manana Borneo"><img src="c/adventures/manana-borneo.jpg" class="img1" alt="Kota Belud - Manana Borneo" /></a>
+					<a href="./our-adventures/kota-belud/manana-borneo" title="Manana Borneo"><img src="/c/adventures/manana-borneo.jpg" class="img1" alt="Kota Belud - Manana Borneo" /></a>
 				</div>
 			</div>		
 			

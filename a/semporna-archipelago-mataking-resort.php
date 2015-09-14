@@ -19,7 +19,7 @@
 				<ul class="brc">
 					<li><a href="./home">Home</a></li>
 					<li><a href="./our-adventures">Our Adventures</a></li>
-					<li><a href="./semporna-archipelago">Semporna Archipelago</a></li>	
+					<li><a href="./our-adventures/semporna-archipelago">Semporna Archipelago</a></li>	
 					<li>The Reef Dive Resort at Mataking Island</li>
 				</ul>
 			</div>
@@ -459,6 +459,6 @@
 <script type="text/javascript">
 $(document).ready(function() {
 	$("#an2").msAccordion({defaultid:0,vertical:true});
-	$('.title').click(function(e){ location.href="#sto";});
+	$('.title').click(function(e){});
 });
 </script>

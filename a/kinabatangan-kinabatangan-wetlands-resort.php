@@ -19,7 +19,7 @@
 				<ul class="brc">
 					<li><a href="./home">Home</a></li>
 					<li><a href="./our-adventures">Our Adventures</a></li>
-					<li><a href="./kinabatangan">Kinabatangan Floodplains</a></li>
+					<li><a href="./our-adventures/kinabatangan">Kinabatangan Floodplains</a></li>
 					<li>3D2N Kinabatangan Wetlands Resort</li>
 				</ul>
 			</div>

@@ -19,8 +19,8 @@
 				<ul class="brc">
 					<li><a href="./home">Home</a></li>
 					<li><a href="./our-adventures">Our Adventures</a></li>
-					<li><a href="./sandakan-and-sepilok">Sandakan &amp; Sepilok</a></li>
-					<li><a href="./sandakan-and-sepilok-accommodation">Accommodation</a></li>
+					<li><a href="./our-adventures/sandakan-and-sepilok">Sandakan &amp; Sepilok</a></li>
+					<li><a href="./our-adventures/sandakan-and-sepilok/accommodation">Accommodation</a></li>
 					<li>Sepilok Nature Resort</li>
 				</ul>
 			</div>
@@ -64,7 +64,7 @@
 				<img src="c/adventures-sepilok-nature-resort/4-400.jpg" alt="Sepilok Nature Resort">
 				<img src="c/adventures-sepilok-nature-resort/5-400.jpg" alt="Sepilok Nature Resort">
 				<img src="c/adventures-sepilok-nature-resort/6-400.jpg" alt="Sepilok Nature Resort">
-				<p><i>Photo credit to Sepilok Nature Resort</i></p>
+				<p><i>*Photo credit to Sepilok Nature Resort</i></p>
 			</div>
 
 		</div>
