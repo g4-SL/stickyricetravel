@@ -7,7 +7,7 @@
 
 	<!-- Basic Page Needs
   ================================================== -->
-  	<base href="http://stickyricetravel.com">
+  	<base href="http://www.stickyricetravel.com">
 	<meta charset="utf-8">
 	<title><?php if(isset($t)) {echo $t;} else {echo "Plan your trip to Sabah with Sticky Rice Travel";} ?></title>
 	<meta name="description" content="<?php if(isset($d)) {echo $d;} else {echo "Book amazing borneo holidays with Sticky Rice Travel. We're young and ambitious travel agency in Borneo bringing you infinity and Meaningful Adventures!";} ?>">

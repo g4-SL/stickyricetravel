@@ -493,38 +493,56 @@ function curPageURL() {return "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 ob_start("sanitize_output");
 include './header.php';
 
-	if(isset($p[4]) && $p[4] != ""){
-		if(in_array($p[4], ${str_replace("-", "_",$p[3])})){
-			include "./a/".$p[2]."-".$p[3]."-".$p[4].".php";
+	$tempUrl = "";
+	$notfound = false;
+
+	if(sizeof($p) > 6 && $p[5] != ""){
+		include "./a/404.php";
+	}
+	else if(isset($p[1]) && (sizeof($p) == 2 || (sizeof($p) == 3 && $p[2] == "")) 
+		&& in_array($p[1], $lvlone) ){
+		include "./a/".$p[1].".php";
+	}
+	else if(isset($p[1]) && (sizeof($p) == 2 || (sizeof($p) == 3 && $p[2] == "")) && ($p[1] == "home" || $p[1] == "")){
+		include "./a/base.php";
+	}
+	else if(isset($p[1]) && $p[1] == "our-adventures"){
+		if(isset($p[2])){
+			if(in_array($p[2], $our_adventures)){
+				$tempUrl = $p[2];
+			}
+			else{
+				$notfound = true;
+			}
 		}
-	}	
-	else if(isset($p[3]) && $p[3] != ""){
-		if(in_array($p[3], ${str_replace("-", "_",$p[2])})){
-			include "./a/".$p[2]."-".$p[3].".php";
+		if(isset($p[3]) && $p[3] != "" && !$notfound){
+			if(in_array($p[3], ${str_replace("-", "_",$p[2])})){
+				$tempUrl = $tempUrl."-".$p[3];
+			}
+			else{
+				$notfound = true;
+			}
 		}
-	}	
-	else if(isset($p[2]) && $p[2] != ""){
-		if(in_array($p[2], $our_adventures)){
-			include "./a/".$p[2].".php";
+		if(isset($p[4]) && $p[4] != "" && !$notfound){
+			if(in_array($p[4], ${str_replace("-", "_",$p[3])})){
+				$tempUrl = $tempUrl."-".$p[4];
+			}
+			else{
+				$notfound = true;
+			}
+		}
+		if(!$notfound){
+			include "./a/".$tempUrl.".php";
 		}
 		else{
-			// not found page
-			include "./a/base.php";
-			?>
-			<script>
-			    console.log(<?php echo json_encode("Not found page"); ?>);
-			</script>
-			<?php
+			include "./a/404.php";
 		}
 	}
-	else if(isset($p[1])){
-		if(($p[1] == "home" || $p[1] == "")){
-			include "./a/base.php";
-		}
-		else if(in_array($p[1], $lvlone)){
-			include "./a/".$p[1].".php";
-		}
-	}
+	else{
+		include "./a/404.php";
+	}	
+
+
 
 	// if(!isset($p[2])) {$p[2] = "";}
 
