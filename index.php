@@ -46,7 +46,11 @@ $our_adventures = array("crocker-range-park",
 			"sandakan-and-sepilok",
 			"semporna-archipelago",
 			"tabin-wildlife-reserve",
-			"custom-trips");
+			"custom-trips",
+			"ulu-ai-experiences",
+			"kuching",
+			"bako-national-park",
+			"mulu-national-park");
 
 $crocker_range_park = array("day-trip",
 			"gunung-alab-hike",
@@ -100,6 +104,12 @@ $accommodation = array("nak-hotel",
 
 $semporna_archipelago = array("mataking-resort",
 			"seaventures-dive-rig");
+
+$ulu_ai_experiences = array("nanga-sumpa",
+			"nanga-sumpa-and-lubok-kasai",
+			"lubok-kasai-jungle-experience",
+			"longhouse-to-longhouse-trek",
+			"red-ape-trail");
 			
 
 /* Site Map Generator			
@@ -541,27 +551,6 @@ include './header.php';
 	else{
 		include "./a/404.php";
 	}	
-
-
-
-	// if(!isset($p[2])) {$p[2] = "";}
-
-	// if (in_array($p[2],$c)) {
-	// 	header("Location: http://www.stickyricetravel.com/".$p[2]);
-	
-	// } else if (in_array($p[1],$c)) {
-	// 	include "./a/".$p[1].".php";	
-		
-	// } else if ($p[1] == "showmethemoney") {
-	// 	include "./a/base.php";
-	// 	foreach($c as $value) {
-	// 		if (!in_array($value,$ignore)) {
-	// 			include "./a/".$value.".php";
-	// 		}
-	// 	}	
-	// } else {
-	// 	include "./a/base.php";
-	// }
 
 include './footer.php';
 ?>

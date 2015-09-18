@@ -96,7 +96,7 @@
 				<div class="popular_div">
 
 					<div class="popular_img">Danum Valley Conservation Area</div>
-					<a href="./danum-valley">
+					<a href="/our-adventures/danum-valley">
 						<img src="c/home-set-1.jpg" width="340" height="100" alt="Danum Valley" />
 					</a>				
 				
@@ -105,7 +105,7 @@
 				<div class="popular_div">	
 				
 					<div class="popular_img">Mount Kinabalu Climb</div>
-					<a href="./mount-kinabalu">
+					<a href="/our-adventures/kinabalu-national-park/mount-kinabalu-climb">
 						<img src="c/home-set-2.jpg" width="340" height="100" alt="Mount Kinabalu Climb" />
 					</a>
 					

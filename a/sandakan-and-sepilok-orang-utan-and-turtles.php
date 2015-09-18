@@ -133,8 +133,11 @@
 			
 			<div class="seven columns bp">
 				<?php include './a/side-book-now.php'; ?>
-				<img src="c/adventures-orang-utan-and-turtles/1-400.jpg" alt="Orang Utan and Turtles">
 				<img src="c/adventures-orang-utan-and-turtles/2-400.jpg" alt="Orang Utan and Turtles">
+				<img src="c/adventures-orang-utan-and-turtles/3-400.jpg" alt="Orang Utan and Turtles">
+				<img src="c/adventures-orang-utan-and-turtles/1-400.jpg" alt="Orang Utan and Turtles">
+				<img src="c/adventures-orang-utan-and-turtles/4-400.jpg" alt="Orang Utan and Turtles">
+				<img src="c/adventures-orang-utan-and-turtles/5-400.jpg" alt="Orang Utan and Turtles">
 			</div>
 
 		</div>

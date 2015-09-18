@@ -10,6 +10,9 @@
 .container .eleven.columns{width:640px}
 .container .sixteen.columns{width:940px}
 .pp2 a:after{font-size: 2em}
+.tabs .tab-links a {font-size: 1.0em}
+.tabs ul li {width: 20%}
+.tabs ul a {line-height: 3.0}
 
 @media only screen and (min-width:768px) and (max-width:959px){.container{width:768px}
 .container .columns{margin-left:10px;margin-right:10px}
@@ -23,6 +26,9 @@
 .container .eleven.columns{width:508px}
 .container .sixteen.columns{width:748px}
 .pp2 a:after{font-size: 1.7em}
+.tabs .tab-links a {font-size: 0.8em}
+.tabs ul li {width: 20%}
+.tabs ul a {line-height: 3.5}
 }
 @media only screen and (max-width:767px){.container{width:300px}
 .container .columns {margin:0}
@@ -37,6 +43,8 @@
 .container .sixteen.columns,
 .container .one-third.column,
 .container .two-thirds.column{width:300px}
+.tabs ul a {line-height: 4.0}
+.tabs ul li {width: 40%}
 }
 @media only screen and (min-width:480px) and (max-width:767px){.container{width:420px}
 .container .columns{margin:0}
@@ -50,10 +58,12 @@
 .container .eleven.columns,
 .container .sixteen.columns{width:420px}
 .pp2 a:after{font-size: 1.7em}
+.tabs .tab-links a {font-size: 0.8em}
 }
 
 @media only screen and (max-width:479px){
 .pp2 a:after{font-size: 1.3em}
+.tabs .tab-links a {font-size: 0.7em}
 }
 .container:after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
 .clear{clear:both;display:block;overflow:hidden;visibility:hidden;width:0;height:0}

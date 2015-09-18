@@ -1,7 +1,7 @@
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
-				<img src="c/large/www-adventures-tunku-abdul-rahman-park-under-water.jpg" alt="School of fish - Tunku Abdul Rahman Park"/>
+				<img src="c/large/www-adventures-momma-house-cooking-class.jpg" alt="Momma's House Cooking Class"/>
 				<div class="ei-title"></div>
 			</li>
 		</ul>
@@ -19,7 +19,7 @@
 				<ul class="brc">
 					<li><a href="./home">Home</a></li>
 					<li><a href="./our-adventures">Our Adventures</a></li>
-					<li><a href="./kota-kinabalu">Kota Kinabalu</a></li>
+					<li><a href="./our-adventures/kota-kinabalu">Kota Kinabalu</a></li>
 					<li>Momma's House Cooking Class</li>
 				</ul>
 			</div>
@@ -76,10 +76,12 @@
 			
 			<div class="seven columns bp">
 				<?php include './a/side-book-now.php'; ?>
-				<img src="c/adventures-under-water/2-400.jpg" alt="Diving in Tarp" />
-				<img src="c/adventures-under-water/1-400.jpg" alt="School of Fish Tarp" />
-				<img src="c/adventures-under-water/3-400.jpg" alt="Fish" />
-				<img src="c/adventures-under-water/4-400.jpg" alt="Orange black and white stripe" />
+				<img src="c/adventures-mommas-house-cooking-class/1-400.jpg" alt="Momma's House Cooking Class" />
+				<img src="c/adventures-mommas-house-cooking-class/2-400.jpg" alt="Momma's House Cooking Class" />
+				<img src="c/adventures-mommas-house-cooking-class/3-400.jpg" alt="Momma's House Cooking Class" />
+				<img src="c/adventures-mommas-house-cooking-class/4-400.jpg" alt="Momma's House Cooking Class" />
+				<img src="c/adventures-mommas-house-cooking-class/5-400.jpg" alt="Momma's House Cooking Class" />
+				<p><i>*Photo credit to Momma's House Cooking Class</i></p>
 			</div>
 
 		</div>

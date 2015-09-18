@@ -35,11 +35,7 @@
 				<p>	
 					We support a myriad of operators on different parts of the river including commercial operators and community tourism initiatives by local communities. Borneo Nature Lodge in Sukau and Kinabatangan Wetlands Resort in Abai are both commercial lodges with sensitive tourism practices, while the homestays and rustic camps run entirely by the communities of Abai and Batu Puteh villages are great off-the-beaten-track places to go on a river adventure with an added element of culture. 
 				</p>	
-			</div>		
-
-			<div class="sixteen columns">
-				<h2 class="grunge8" style="text-align:left">Commercial Tourism</h2>
-			</div>			
+			</div>					
 
 			<div class="eight columns">
 				<div class="pp2">=
@@ -53,11 +49,7 @@
 				</div>
 			</div>
 
-			<div class="clear"></div>
-
-			<div class="sixteen columns">
-				<h2 class="grunge8" style="text-align:left">Community Tourism</h2>
-			</div>				
+			<div class="clear"></div>				
 
 			<div class="eight columns">
 				<div class="pp2">

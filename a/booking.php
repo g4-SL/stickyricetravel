@@ -11,7 +11,7 @@
 		<div class="container nd">		
 		
 			<div class="ten columns">
-				<h1>Booking / Contact Form</h1>
+				<h1 class="mh">Booking / Contact Form</h1>
 			</div>			
 
 			<div class="six columns">

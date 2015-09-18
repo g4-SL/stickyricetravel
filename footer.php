@@ -79,15 +79,15 @@
 							<li><a class="jon dn" href="#">Hibiscus Villa</a></li>
 							<li><a class="jon dn" href="#">Hibiscus Beach Retreat</a></li>
 							<li><a class="jon dn" href="#">Northern Island Exploration</a></li> 
-						</ul>
-
-						<ul class="list1 dz" style="float:left;">  
 							<li><a href="/our-adventures/maliau-basin">Maliau Basin</a></li>  
 							<li><a class="jon dn" href="#">4D3N Maliau Basin Teaser</a></li>
 							<li><a class="jon dn" href="#">5D4N Maliau Basin Full Loop Expedition</a></li>					
 							<li><a class="jon" href="/our-adventures/orou-sapulot">OROU Sapulot - Murut Country Adventures</a></li>
 							<li><a class="jon dn" href="#">3D2N OROU Sapulot</a></li>
-							<li><a class="jon dn" href="#">4D3N OROU Sapulot</a></li> 			
+							<li><a class="jon dn" href="#">4D3N OROU Sapulot</a></li> 	
+						</ul>
+
+						<ul class="list1 dz" style="float:left;">  		
 							<li><a href="/our-adventures/sandakan-and-sepilok">Sandakan &amp; Sepilok</a></li>  
 							<li><a class="jon dn" href="#">1N Sepilok Sojourn</a></li> 
 							<li><a class="jon dn" href="#">2D1N Libaran Turtle Island Camping</a></li>   
@@ -103,7 +103,11 @@
 							<li><a class="jon dn" href="#">The Reef Dive Resort at Mataking Island</a></li>
 							<li><a class="jon dn" href="#">Seaventures Rig Resorts</a></li> 
 							<li><a href="/our-adventures/tabin-wildlife-reserve">Tabin Wildlife Reserve</a></li>     					
-							<li><a href="/our-adventures/custom-trips">Custom Trips</a></li>   		
+							<li><a href="/our-adventures/custom-trips">Custom Trips</a></li>  
+							<li><a href="/our-adventures/">Bako National Park</a></li>     					
+							<li><a href="/our-adventures/">Kuching</a></li>  
+							<li><a href="/our-adventures/">Mulu National Park</a></li>     					
+							<li><a href="/our-adventures/">Ulu Ai Experiences</a></li>   		
 						</ul>
 						
 					</div>

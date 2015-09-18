@@ -34,6 +34,8 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 @media (min-width:481px){
 .fidn{margin-left: 40px}
 .fichoice{margin-left: 80px}
+.mh {padding-bottom:0}
+.brc{float: right}
 }
 @media (max-width:995px){#logo{width:100%}
 ul#navi{display:none}
@@ -76,8 +78,9 @@ div{padding:0;margin:0}
 #anc .set{width:240px !important;background:#fff}
 .ta .title{font-size:14px;font-weight:bolder;width:220px !important;background:#eee;padding:10px}
 .ta .content{width:230px !important;background:#fff;padding:5px}
-.nd h1{height:80px !important}
-.ei-slider{height:240px !important}
+.nd h1{height:50px !important}
+.mh {padding-bottom:25px}
+.ei-slider{height:210px !important}
 .nh h1{height:110px !important}
 .flow {width:300px;overflow:scroll;margin-bottom:30px}
 .ca .tbl_p {margin-bottom:0 !important}
@@ -86,6 +89,7 @@ div{padding:0;margin:0}
 #logo img {position:absolute;left:50px}
 .fidn{margin-left: 20px}
 .fichoice{margin-left: 50px}
+.brc{float: left}
 }
 .columns{padding-top:20px}
 #footer{background:url(../c/bottom.gif) center bottom no-repeat;clear:both;margin:0;padding:0;width:100%;float:left;z-index:100;height:200px}
@@ -100,7 +104,7 @@ div{padding:0;margin:0}
 .list1 a, .list2 a{color:#fff;text-decoration:none;font-size:12px}
 .plus{width:100%}
 .fr1 li{text-align:center;padding:15px}
-.brc{float:right;margin:0}
+.brc{margin:0}
 .brc li{float:left;padding-left:5px;font-size:12px;font-weight:600}
 .brc li:last-child:after{font-weight:normal;font-style:italic;content:" (You are here)"}
 .plr{padding:16px 20px}

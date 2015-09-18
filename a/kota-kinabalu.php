@@ -55,7 +55,7 @@
 
 			<div class="eight columns">
 				<div class="pp2">
-					<a title="Cycling Programs"><img src="/c/adventures/coming-soon.jpg" class="img1" alt="" /></a>
+					<a href="./our-adventures/kota-kinabalu/cycling-programs" title="Cycling Programs"><img src="/c/adventures/coming-soon.jpg" class="img1" alt="" /></a>
 				</div>
 			</div>
 
@@ -63,7 +63,7 @@
 
 			<div class="eight columns">
 				<div class="pp2">
-					<a title="Momma's House Cooking Class"><img src="/c/adventures/coming-soon.jpg" class="img1" alt="" /></a>
+					<a href="./our-adventures/kota-kinabalu/momma-house-cooking-class" title="Momma's House Cooking Class"><img src="/c/adventures/momma-house-cooking-class.jpg" class="img1" alt="Momma's House Cooking Class" /></a>
 				</div>
 			</div>	
 
