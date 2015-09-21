@@ -1,3 +1,5 @@
+<!-- Url: our-adventures/kota-kinabalu/diving-and-snorkeling	 -->
+
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>

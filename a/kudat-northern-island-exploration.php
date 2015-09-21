@@ -1,3 +1,5 @@
+<!-- Url: our-adventures/kudat/northern-island-exploration	 -->
+
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>

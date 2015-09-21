@@ -1,3 +1,5 @@
+<!-- Url: our-adventures/kota-belud/manana-borneo	 -->
+
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>

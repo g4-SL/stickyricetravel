@@ -1,3 +1,5 @@
+<!-- Url: responsible-tourism	 -->
+
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>

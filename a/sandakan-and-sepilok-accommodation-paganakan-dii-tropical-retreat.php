@@ -1,3 +1,5 @@
+<!-- Url: our-adventures/sandakan-and-sepilok/accommodation/paganakan-dii-tropical-retreat	 -->
+
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>

@@ -1,3 +1,5 @@
+<!-- Url: our-adventures/sandakan-and-sepilok/accommodation/sheraton-four-points	 -->
+
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>

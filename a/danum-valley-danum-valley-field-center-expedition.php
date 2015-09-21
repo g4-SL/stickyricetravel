@@ -1,3 +1,5 @@
+<!-- Url: our-adventures/danum-valley/danum-valley-field-center/expedition	 -->
+
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
@@ -12,7 +14,7 @@
 		<div class="container nd nh">
 		
 			<div class="seven columns">
-				<h1 class="h1">7D6N DVFC Mt Danum Exploration</h1>
+				<h1 class="h1">7D6N DVFC Mt Danum Expedition</h1>
 			</div>			
 
 			<div class="nine columns">
@@ -21,7 +23,7 @@
 					<li><a href="./our-adventures">Our Adventures</a></li>
 					<li><a href="./our-adventures/danum-valley">Danum Valley Conservation Center</a></li>
 					<li><a href="./our-adventures/danum-valley/danum-valley-field-center">Danum Valley Field Center (DVFC)</a></li>
-					<li>7D6N DVFC Mt Danum Exploration</li>
+					<li>7D6N DVFC Mt Danum Expedition</li>
 				</ul>
 			</div>
 			

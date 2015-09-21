@@ -1,3 +1,5 @@
+<!-- Url: our-adventures/ulu-ai-experiences/lubok-kasai-jungle-experience	 -->
+
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
@@ -53,6 +55,8 @@
 								</li>
 								<li>
 									Lubok Kasai Jungle Camp
+									<br /><br />
+									...
 								</li>
 							</ul>
 						</td>
@@ -67,6 +71,8 @@
 						<td class="he">Facilities / Service</td>
 						<td>
 							The Nanga Sumpa Lodge currently consists of an older main building containing the dining area, kitchen and staff rooms, plus two new accommodation Forest &amp; Ruai Wings built in 2014. A generator supplies electricity from 6.30 - 10.30pm to power the main lights and fans. Solar powered nightlights illuminate the public areas, walkways and bathrooms.
+							<br /><br />
+							The Lubok Kasai Jungle Camp is….
 						</td>
 					</tr>
 					 <tr>

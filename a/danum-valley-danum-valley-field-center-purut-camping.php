@@ -1,3 +1,5 @@
+<!-- Url: our-adventures/danum-valley/danum-valley-field-center/purut-camping	 -->
+
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>

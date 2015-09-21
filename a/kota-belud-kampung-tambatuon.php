@@ -1,3 +1,5 @@
+<!-- Url: our-adventures/kota-belud/kampung-tambatuon	 -->
+
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>

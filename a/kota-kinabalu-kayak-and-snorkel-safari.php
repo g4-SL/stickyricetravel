@@ -1,3 +1,5 @@
+<!-- Url: our-adventures/kota-kinabalu/kayak-and-snorkel-safari	 -->
+
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>

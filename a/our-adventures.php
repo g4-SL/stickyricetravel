@@ -1,3 +1,5 @@
+<!-- Url: our-adventures	 -->
+
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
@@ -23,9 +25,6 @@
 			
 			<div class="clear"></div>
 			
-<!-- 			<div style="width:50%; margin:0 auto">
-				<img src="c/our-adventures.png" style="max-width:100%; max-height:100%" />
-			</div> -->
 			<div style="text-align:center">
 				<p style="font-family:'Amatic SC',cursive;font-size:2em;margin-bottom:20px">Please choose your destination</p>
 			</div>

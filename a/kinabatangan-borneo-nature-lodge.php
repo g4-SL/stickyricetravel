@@ -1,3 +1,5 @@
+<!-- Url: our-adventures/kinabatangan/borneo-nature-lodge	 -->
+
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>

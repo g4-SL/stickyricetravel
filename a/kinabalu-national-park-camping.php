@@ -1,3 +1,5 @@
+<!-- Url: our-adventures/kinabalu-national-park/camping	 -->
+
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
