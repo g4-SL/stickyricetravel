@@ -86,6 +86,10 @@ $kota_kinabalu = array("borneo-orchard-house",
 			"momma-house-cooking-class",
 			"white-water-rafting");
 
+$cycling_programs = array("easy-breezy-ride",
+			"highland-cool-and-chill",
+			"kiulu-fun-and-green");
+
 $kudat = array("hibiscus-beach-retreat",
 			"hibiscus-villa",
 			"northern-island-exploration");
@@ -402,17 +406,17 @@ if($p[1] == "kota-kinabalu-cycling-programs") {
 	$d = "Book amazing borneo holidays with Sticky Rice. Discover Dusun Tribe & longhouse accommodation by the banks of the Kedamaian River. Meaningful Adventures!";	
 }
 
-if($p[1] == "kota-kinabalu-easy-breezy-ride") {
+if($p[1] == "kota-kinabalu-cycling-programs-easy-breezy-ride") {
 	$t = "Kota Kinabalu | Easy Breezy Ride";
 	$d = "Book amazing borneo holidays with Sticky Rice. Discover Dusun Tribe & longhouse accommodation by the banks of the Kedamaian River. Meaningful Adventures!";	
 }
 
-if($p[1] == "kota-kinabalu-kiulu-fun-and-green") {
+if($p[1] == "kota-kinabalu-cycling-programs-kiulu-fun-and-green") {
 	$t = "Kota Kinabalu | Kiulu Fun & Green";
 	$d = "Book amazing borneo holidays with Sticky Rice. Discover Dusun Tribe & longhouse accommodation by the banks of the Kedamaian River. Meaningful Adventures!";	
 }
 
-if($p[1] == "kota-kinabalu-highland-cool-and-chill") {
+if($p[1] == "kota-kinabalu-cycling-programs-highland-cool-and-chill") {
 	$t = "Kota Kinabalu | Highland Cool & Chill";
 	$d = "Book amazing borneo holidays with Sticky Rice. Discover Dusun Tribe & longhouse accommodation by the banks of the Kedamaian River. Meaningful Adventures!";	
 }

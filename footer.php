@@ -65,16 +65,7 @@
 							<li><a class="jon dn choice" href="#">Easy Breezy Rides</a></li>    
 							<li><a class="jon dn choice" href="#">Kiulu Fun &amp; Green</a></li>   
 							<li><a class="jon dn choice" href="#">Highland Cool &amp; Chill</a></li> 
-							<li><a class="jon dn" href="#">Momma's House Cooking Class</a></li> 
-							<li><a class="jon dn" href="#">Borneo Orchard House</a></li> 
-							<li><a class="jon dn" href="#">Accommodations</a></li> 
-							<li><a class="jon dn choice" href="#">Gaya Island Resort</a></li>    
-							<li><a class="jon dn choice" href="#">Hyatt Regency</a></li>   
-							<li><a class="jon dn choice" href="#">Grandis Hotel</a></li> 
-							<li><a class="jon dn choice" href="#">Jesselton Hotel</a></li>    
-							<li><a class="jon dn choice" href="#">Hotel Sixty3</a></li>   
-							<li><a class="jon dn choice" href="#">KK Suites</a></li> 
-							<li><a class="jon dn choice" href="#">Borneo Backpackers</a></li> 	
+							<li><a class="jon dn" href="#">Momma's House Cooking Class</a></li> 	
 							<li><a href="/our-adventures/kudat">Kudat</a></li>     
 							<li><a class="jon dn" href="#">Hibiscus Villa</a></li>
 							<li><a class="jon dn" href="#">Hibiscus Beach Retreat</a></li>
@@ -103,11 +94,7 @@
 							<li><a class="jon dn" href="#">The Reef Dive Resort at Mataking Island</a></li>
 							<li><a class="jon dn" href="#">Seaventures Rig Resorts</a></li> 
 							<li><a href="/our-adventures/tabin-wildlife-reserve">Tabin Wildlife Reserve</a></li>     					
-							<li><a href="/our-adventures/custom-trips">Custom Trips</a></li>  
-							<li><a href="/our-adventures/">Bako National Park</a></li>     					
-							<li><a href="/our-adventures/">Kuching</a></li>  
-							<li><a href="/our-adventures/">Mulu National Park</a></li>     					
-							<li><a href="/our-adventures/">Ulu Ai Experiences</a></li>   		
+							<li><a href="/our-adventures/custom-trips">Custom Trips</a></li>  		
 						</ul>
 						
 					</div>

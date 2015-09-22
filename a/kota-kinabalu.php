@@ -57,7 +57,7 @@
 
 			<div class="eight columns">
 				<div class="pp2">
-					<a href="./our-adventures/kota-kinabalu/cycling-programs" title="Cycling Programs"><img src="/c/adventures/coming-soon.jpg" class="img1" alt="" /></a>
+					<a href="./our-adventures/kota-kinabalu/cycling-programs" title="Cycling Programs"><img src="/c/adventures/cycling-programs.jpg" class="img1" alt="Cycling Programs at Kota Kinabalu" /></a>
 				</div>
 			</div>
 
