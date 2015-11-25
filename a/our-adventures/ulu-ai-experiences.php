@@ -37,7 +37,7 @@
 			<div class="six columns product_box">
 				<div class="img_boxing">
 					<a href="./our-adventures/ulu-ai-experiences/nanga-sumpa">
-						<img src="/c/test/one.jpg" class="img1" alt="Nanga Sumpa"/>
+						<img src="/c/adventures/nanga-sumpa.jpg" class="img1" alt="Nanga Sumpa"/>
 						<h2>3D2N Nanga Sumpa</h2>
 						<div class="rating accommodation">
 							<h3>Dwelling</h3>
@@ -56,7 +56,7 @@
 			<div class="six columns product_box">
 				<div class="img_boxing">
 					<a href="./our-adventures/ulu-ai-experiences/nanga-sumpa-and-lubok-kasai">
-						<img src="/c/test/one.jpg" class="img1" alt="Nanga Sumpa"/>
+						<img src="/c/adventures/nanga-sumpa-lubok-kasai.jpg" class="img1" alt="Nanga Sumpa"/>
 						<h2>3D2N Nanga Sumpa &amp; Lubok Kasai</h2>
 						<div class="rating accommodation">
 							<h3>Dwelling</h3>
