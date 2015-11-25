@@ -1,0 +1,80 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RedirectMatch 301 ^/borneo/.*$ http://www.stickyricetravel.com/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . index.php [L]
+</IfModule>
+AddDefaultCharset UTF-8
+
+
+
+# Google Analytics Integration - Added by cPanel.
+<IfModule mod_substitute.c>
+AddOutputFilterByType SUBSTITUTE text/html
+Substitute "s|(<script src='/google_analytics_auto.js'></script>)?</head>|<script src='/google_analytics_auto.js'></script></head>|i"
+</IfModule>
+# END Google Analytics Integration
+
+redirect 301 /crocker-range-park /our-adventures/crocker-range-park
+redirect 301 /mt-trus-madi /our-adventures/crocker-range-park/mt-trus-madi
+redirect 301 /crocker-range-park-gunung-alab-hike /our-adventures/crocker-range-park/gunung-alab-hike
+redirect 301 /gunung-alab-hike /our-adventures/crocker-range-park/gunung-alab-hike
+redirect 301 /crocker-range-park-sinurambi-bed-and-breakfast /our-adventures/crocker-range-park/sinurambi-bed-and-breakfast
+
+redirect 301 /danum-valley /our-adventures/danum-valley
+redirect 301 /brl-danum-valley /our-adventures/danum-valley/borneo-rainforest-lodge
+redirect 301 /danum-valley-field-center /our-adventures/danum-valley/danum-valley-field-center
+redirect 301 /danum-explorer /our-adventures/danum-valley/danum-valley-field-center/explorer
+redirect 301 /danum-expedition /our-adventures/danum-valley/danum-valley-field-center/expedition
+redirect 301 /danum-purut-camping /our-adventures/danum-valley/danum-valley-field-center/purut-camping
+redirect 301 /danum-jungle-to-luxury /our-adventures/danum-valley/danum-valley-field-center/jungle-to-luxury
+
+redirect 301 /kudat /our-adventures/kudat
+redirect 301 /kudat-northern-island-exploration /our-adventures/kudat/northern-island-exploration
+redirect 301 /island-exploration /our-adventures/kudat/northern-island-exploration
+redirect 301 /kudat-hibiscus-villa /our-adventures/kudat/hibiscus-villa
+
+redirect 301 /mataking-resort /our-adventures/semporna-archipelago/mataking-resort
+redirect 301 /semporna-seaventures-dive-rig /our-adventures/semporna-archipelago/seaventures-dive-rig
+
+redirect 301 /kota-kinabalu-kayak-and-snorkel-safari /our-adventures/kota-kinabalu/kayak-and-snorkel-safari
+redirect 301 /sea-kayaking-kota-kinabalu /our-adventures/kota-kinabalu/kayak-and-snorkel-safari
+redirect 301 /kota-kinabalu-white-water-rafting /our-adventures/kota-kinabalu/white-water-rafting
+redirect 301 /tunku-abdul-rahman-park /our-adventures/kota-kinabalu/diving-and-snorkeling
+redirect 301 /our-adventures/kota-kinabalu/highland-cool-and-chill /our-adventures/kota-kinabalu/cycling-programs/highland-cool-and-chill
+
+redirect 301 /kinabalu-national-park-mount-kinabalu-climb /our-adventures/kinabalu-national-park/mount-kinabalu-climb
+redirect 301 /mount-kinabalu /our-adventures/kinabalu-national-park/mount-kinabalu-climb
+redirect 301 /mount-kinabalu-climb /our-adventures/kinabalu-national-park/mount-kinabalu-climb
+redirect 301 /mt-kinabalu-camping /our-adventures/kinabalu-national-park/camping
+
+redirect 301 /sandakan-and-sepilok /our-adventures/sandakan-and-sepilok
+redirect 301 /ss-sepilok-sojourn /our-adventures/sandakan-and-sepilok/sepilok-sojourn
+redirect 301 /ss-lankayan-island /our-adventures/sandakan-and-sepilok/lankayan-island
+redirect 301 /ss-libaran-turtle-island-camping /our-adventures/sandakan-and-sepilok/libaran-turtle-island-camping
+redirect 301 /ss-orang-utan-and-turtles /our-adventures/sandakan-and-sepilok/orang-utan-and-turtles
+redirect 301 /ss-accommodation-nak-hotel /our-adventures/sandakan-and-sepilok/accommodation/nak-hotel
+redirect 301 /ss-accommodation-sheraton-four-points /our-adventures/sandakan-and-sepilok/accommodation/sheraton-four-points
+redirect 301 /ss-accommodation-sepilok-nature-resort /our-adventures/sandakan-and-sepilok/accommodation/sepilok-nature-resort
+redirect 301 /ss-accommodation-paganakan-dii-tropical-retreat /our-adventures/sandakan-and-sepilok/accommodation/paganakan-dii-tropical-retreat
+
+redirect 301 /kinabatangan /our-adventures/kinabatangan
+redirect 301 /kinabatangan-ecocamp /our-adventures/kinabatangan/ecocamp
+redirect 301 /ecocamp-kinabatangan /our-adventures/kinabatangan/ecocamp
+redirect 301 /kinabatangan-wetlands-resort /our-adventures/kinabatangan/kinabatangan-wetlands-resort
+redirect 301 /kinabatangan-supu-camp /our-adventures/kinabatangan/supu-camp
+redirect 301 /kinabatangan-abai-homestay /our-adventures/kinabatangan/abai-homestay
+redirect 301 /abai-homestay /our-adventures/kinabatangan/abai-homestay
+redirect 301 /homestay-supu-camp /our-adventures/kinabatangan/supu-camp
+
+redirect 301 /kota-belud /our-adventures/kota-belud
+redirect 301 /kampung-tambatuon /our-adventures/kota-belud/kampung-tambatuon
+redirect 301 /kota-belud-manana-borneo /our-adventures/kota-belud/manana-borneo
+
+redirect 301 /tabin-wildlife-reserve /our-adventures/tabin-wildlife-reserve
+redirect 301 /maliau-basin /our-adventures/maliau-basin
+redirect 301 /orou-sapulot /our-adventures/orou-sapulot
+redirect 301 /batu-punggul-and-sapulot /our-adventures/orou-sapulot
+redirect 301 /custom-trips /our-adventures/custom-trips

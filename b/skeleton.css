@@ -1,0 +1,93 @@
+.container{position:relative;width:1200px;margin:0 auto;padding-top:40px}
+.container .columns{float:left;display:inline;margin:0 10px}
+.container .one.columns{width:40px}
+.container .two.columns{width:100px}
+.container .three.columns{width:160px}
+.container .four.columns{width:220px}
+.container .five.columns{width:280px}
+.container .six.columns{width:340px}
+.container .seven.columns{width:400px}
+.container .eight.columns{width:460px}
+.container .nine.columns{width:520px}
+.container .ten.columns{width:580px}
+.container .eleven.columns{width:640px}
+.container .twelve.columns{width:700px}
+.container .sixteen.columns{width:940px}
+.pp2 a:after{font-size: 2em}
+
+@media only screen and (min-width:960px) and (max-width:1199px){.container{width:960px}
+.container .columns{margin-left:10px;margin-right:10px}
+.container .one.columns, .container .two.columns{width:0; margin:0 !important;}
+.container .three.columns{width:160px}
+.container .four.columns{width:220px}
+.container .five.columns{width:280px}
+.container .six.columns{width:340px}
+.container .seven.columns{width:400px}
+.container .eight.columns{width:460px}
+.container .nine.columns{width:520px}
+.container .ten.columns{width:580px}
+.container .eleven.columns{width:640px}
+.container .twelve.columns{width:700px}
+.container .sixteen.columns{width:940px}
+.container .six.columns.product_box{width:300px}
+.pp2 a:after{font-size: 1.7em}
+}
+
+@media only screen and (min-width:768px) and (max-width:959px){.container{width:768px}
+.container .columns{margin-left:10px;margin-right:10px}
+.container .one.columns, .container .two.columns{width:0; margin:0 !important;}
+.container .three.columns{width:104px}
+.container .four.columns{width:172px}
+.container .five.columns{width:220px}
+.container .six.columns{width:268px}
+.container .seven.columns{width:316px}
+.container .eight.columns{width:364px}
+.container .nine.columns{width:412px}
+.container .ten.columns{width:460px}
+.container .eleven.columns{width:508px}
+.container .twelve.columns{width:556px}
+.container .sixteen.columns{width:748px}
+.container .six.columns.product_box{width:364px}
+.container .display{display:none}
+.pp2 a:after{font-size: 1.7em}
+}
+@media only screen and (max-width:767px){.container{width:300px}
+.container .columns {margin:0}
+.container .one.columns, .container .two.columns{width:0; margin:0 !important;}
+.container .three.columns,
+.container .four.columns,
+.container .five.columns,
+.container .six.columns,
+.container .seven.columns,
+.container .eight.columns,
+.container .nine.columns,
+.container .ten.columns,
+.container .eleven.columns,
+.container .twelve.columns,
+.container .sixteen.columns,
+.container .one-third.column,
+.container .two-thirds.column{width:300px}
+}
+@media only screen and (min-width:480px) and (max-width:767px){.container{width:420px}
+.container .columns{margin:0}
+.container .one.columns, .container .two.columns{width:0; margin:0 !important;}
+.container .three.columns,
+.container .four.columns,
+.container .five.columns,
+.container .six.columns,
+.container .seven.columns,
+.container .eight.columns,
+.container .nine.columns,
+.container .ten.columns,
+.container .eleven.columns,
+.container .twelve.columns,
+.container .sixteen.columns{width:420px}
+.pp2 a:after{font-size: 1.7em}
+}
+
+@media only screen and (max-width:479px){
+.pp2 a:after{font-size: 1.3em}
+.tabs .tab-links a {font-size: 0.7em}
+}
+.container:after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
+.clear{clear:both;display:block;overflow:hidden;visibility:hidden;width:0;height:0}
