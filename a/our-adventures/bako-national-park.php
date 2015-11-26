@@ -35,7 +35,7 @@
 				<div class="img_boxing">
 					<a href="./our-adventures/bako-national-park/day-trip">
 						<img src="/c/adventures/bako-day-trip.jpg" class="img1" alt="Bako Day Trip"/>
-						<h2>Bako Day Trip</h2>
+						<h2>Bako National Park Day Trip</h2>
 						<div class="rating accommodation">
 							<h3>Dwelling</h3>
 						</div>
