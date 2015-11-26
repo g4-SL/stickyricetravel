@@ -166,34 +166,100 @@
 			"title": "Kota Kinabalu",
 			"child": [
 				{
+					"title": "Easy Breezy Ride",
+					"accommodation": 0,
+					"difficulty": 1,
+					"category": ["Day Trip"]
+				},
+				{
+					"title": "Highland Cool & Chill",
+					"accommodation": 0,
+					"difficulty": 1,
+					"category": ["Day Trip"]
+				},
+				{
+					"title": "Kiulu Fun & Green",
+					"accommodation": 0,
+					"difficulty": 1,
+					"category": ["Day Trip"]
+				},
+				{
 					"title": "Cycling Programs",
-					"accommodation": 3,
+					"accommodation": 0,
 					"difficulty": 1,
-					"category": []
+					"category": ["Day Trip"]
 				},
 				{
-					"title": "Diving &amp; Snorkeling Programs",
-					"accommodation": 1,
+					"title": "Diving & Snorkeling Programs",
+					"accommodation": 0,
 					"difficulty": 1,
-					"category": []
+					"category": ["Water Sports"]
 				},
 				{
-					"title": "Kayak &amp; Snorkel Safari",
-					"accommodation": 3,
+					"title": "Kayak & Snorkel Safari",
+					"accommodation": 0,
 					"difficulty": 1,
-					"category": []
+					"category": ["Water Sports", "Day Trip"]
 				},
 				{
 					"title": "Momma's House Cooking Class",
-					"accommodation": 1,
+					"accommodation": 0,
 					"difficulty": 1,
-					"category": []
+					"category": ["Day Trip"]
 				},
 				{
 					"title": "White Water Rafting",
-					"accommodation": 1,
+					"accommodation": 0,
 					"difficulty": 1,
+					"category": ["Water Sports", "Day Trip"]
+				},
+				{
+					"title": "Borneo Orchard House",
+					"accommodation": 0,
+					"difficulty": 0,
 					"category": []
+				},
+				{
+					"title": "Borneo Backpackers",
+					"accommodation": 2,
+					"difficulty": 0,
+					"category": ["Accommodation"]
+				},
+				{
+					"title": "Gaya Island Resort",
+					"accommodation": 3,
+					"difficulty": 0,
+					"category": ["Accommodation"]
+				},
+				{
+					"title": "Grandis Hotel",
+					"accommodation": 3,
+					"difficulty": 0,
+					"category": ["Accommodation"]
+				},
+				{
+					"title": "Hotel Sixty3",
+					"accommodation": 3,
+					"difficulty": 0,
+					"category": ["Accommodation"]
+				},
+				{
+					"title": "Hyatt Regency",
+					"accommodation": 3,
+					"difficulty": 0,
+					"category": ["Accommodation"]
+				},
+				{
+					"title": "Jesselton Hotel",
+					"accommodation": 1,
+					"difficulty": 0,
+					"category": ["Accommodation"]
+				},
+				{
+					"title": "KK Suites",
+					"accommodation": 1,
+					"difficulty": 0,
+					"category": ["Accommodation"]
 				}
 			]
 		},

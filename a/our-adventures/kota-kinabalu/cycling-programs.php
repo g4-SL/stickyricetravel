@@ -10,6 +10,8 @@
 			
 		<div class="container hd">
 
+			<div class="two columns"></div>
+
 			<div class="sixteen columns big_title">
 				<ul class="brc">
 					<li><a href="/home">Home</a></li>
@@ -22,28 +24,71 @@
 			
 			<div class="clear"></div>	
 
-			<div class="eight columns">
-				<div class="pp2">
-					<a href="./our-adventures/kota-kinabalu/cycling-programs/easy-breezy-ride" title="Easy Breezy Ride"><img src="/c/adventures/easy-breezy-ride.jpg" class="img1" alt="Easy Breezy Ride" /></a>
+			<div class="one columns"></div>
+
+			<div class="six columns product_box">
+				<div class="img_boxing">
+					<a href="./our-adventures/kota-kinabalu/cycling-programs/easy-breezy-ride">
+						<img src="/c/adventures/easy-breezy-ride.jpg" class="img1" alt="Easy Breezy Ride"/>
+						<h2>Easy Breezy Ride</h2>
+						<div class="rating accommodation">
+							<h3>Dwelling</h3>
+						</div>
+						<div class="rating difficulty">
+							<h3>Difficulty</h3>
+						</div>
+						<div class="clear"></div>
+						<div class="category">
+							<h3>Category</h3>
+						</div>
+					</a>			
+				</div>
+			</div>		
+
+			<div class="six columns product_box">
+				<div class="img_boxing">
+					<a href="./our-adventures/kota-kinabalu/cycling-programs/highland-cool-and-chill">
+						<img src="/c/adventures/highland-cool-and-chill.jpg" class="img1" alt="Highland Cool &amp; Chill"/>
+						<h2>Highland Cool &amp; Chill</h2>
+						<div class="rating accommodation">
+							<h3>Dwelling</h3>
+						</div>
+						<div class="rating difficulty">
+							<h3>Difficulty</h3>
+						</div>
+						<div class="clear"></div>
+						<div class="category">
+							<h3>Category</h3>
+						</div>
+					</a>			
 				</div>
 			</div>	
 
-			<div class="eight columns">
-				<div class="pp2">
-					<a href="./our-adventures/kota-kinabalu/cycling-programs/highland-cool-and-chill" title="Highland Cool &amp; Chill"><img src="/c/adventures/highland-cool-and-chill.jpg" class="img1" alt="Highland Cool &amp; Chill" /></a>
-				</div>
-			</div>
-
-			<div class="clear"></div>
-
-			<div class="eight columns">
-				<div class="pp2">
-					<a href="./our-adventures/kota-kinabalu/cycling-programs/kiulu-fun-and-green" title="Kiulu Fun &amp; Green"><img src="/c/adventures/kiulu-fun-and-green.jpg" class="img1" alt="Kiulu Fun &amp; Green" /></a>
+			<div class="six columns product_box">
+				<div class="img_boxing">
+					<a href="./our-adventures/kota-kinabalu/cycling-programs/kiulu-fun-and-green">
+						<img src="/c/adventures/kiulu-fun-and-green.jpg" class="img1" alt="Kiulu Fun &amp; Green"/>
+						<h2>Kiulu Fun &amp; Green</h2>
+						<div class="rating accommodation">
+							<h3>Dwelling</h3>
+						</div>
+						<div class="rating difficulty">
+							<h3>Difficulty</h3>
+						</div>
+						<div class="clear"></div>
+						<div class="category">
+							<h3>Category</h3>
+						</div>
+					</a>			
 				</div>
 			</div>	
-
-			<div class="eight columns"></div>
+			
+			<div class="clear"></div>	
 			
 		</div>
 		
 	</section>
+
+<script>
+	getDetails("Kota Kinabalu");
+</script>
