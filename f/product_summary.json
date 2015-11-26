@@ -318,6 +318,12 @@
 		{
 			"title": "Maliau Basin",
 			"child": [
+				{
+					"title": "Maliau Basin",
+					"accommodation": 1,
+					"difficulty": 1,
+					"category": ["Jungle Trekking", "Wildlife"]
+				}
 			]
 		},
 		{
@@ -346,6 +352,12 @@
 		{
 			"title": "Orou Sapulot",
 			"child": [
+				{
+					"title": "Orou Sapulot",
+					"accommodation": 1,
+					"difficulty": 1,
+					"category": ["Cave", "Culture", "Climbing", "Jungle Trekking"]
+				}
 			]
 		},
 		{
@@ -427,6 +439,12 @@
 		{
 			"title": "Tabin Wildlife Reserve",
 			"child": [
+				{
+					"title": "Tabin Wildlife Reserve",
+					"accommodation": 1,
+					"difficulty": 1,
+					"category": ["Jungle Trekking", "Wildlife"]
+				}
 			]
 		},
 		{

@@ -100,5 +100,5 @@
 	</section>
 
 <script>
-	populateSidebar("Sandakan & Sepilok", "");
+	populateSidebar("Kuching", "Tringgus Trail");
 </script>
