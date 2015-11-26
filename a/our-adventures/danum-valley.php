@@ -11,6 +11,8 @@
 			
 		<div class="container hd lh">
 
+			<div class="two columns"></div>
+
 			<div class="sixteen columns big_title">
 				<ul class="brc">
 					<li><a href="/home">Home</a></li>
@@ -18,13 +20,6 @@
 					<li>Danum Valley Conservation Area</li>
 				</ul>
 				<h1>Danum Valley Conservation Area</h1>
-			</div>	
-			
-			<div class="clear"></div>
-			
-			<div class="clear"></div>
-			
-			<div class="sixteen columns">
 				<p>
 				If you are a wildlife and nature geek, you will find paradise in Danum Valley - a 472km sq conservation area of pristine, mostly primary, lowland dipterocarp forest that is home to 300 species of birds, mammals, insects etc. The area boasts an amazing diversity of animal life including the Borneo pygmy elephant, sun bear, orang utan and clouded leopard. 
 				</p>
@@ -33,21 +28,57 @@
 				</p>	
 				<p>
 				The Danum Valley Conservation Area is about 2 and a half hours drive from the town of Lahad Datu that is accessible via public bus and plane (Lahad Datu airport). Yayasan Sabah manages the Danum Valley Conservation Area and there are only TWO accommodation options for nature visitors of the area. We recommend that you read in detail about these options prior to booking with us. 
-				</p>	
-			</div>
+				</p>
+			</div>	
+			
+			<div class="clear"></div>
 
-			<div class="eight columns">
-				<div class="pp2 marginbottom">
-					<a href="/our-adventures/danum-valley/borneo-rainforest-lodge" title="Borneo Rainforest Lodge (BRL)"><img src="/c/adventures/borneo-rainforest-lodge.jpg" class="img1" alt="Borneo Rainforest Lodge, Danum Valley Sabah Borneo" /></a>
+			<div class="four columns display"></div>
+
+			<div class="six columns product_box">
+				<div class="img_boxing">
+					<a href="./our-adventures/danum-valley/borneo-rainforest-lodge">
+						<img src="/c/adventures/borneo-rainforest-lodge.jpg" class="img1" alt="Borneo Rainforest Lodge (BRL)"/>
+						<h2>Borneo Rainforest Lodge (BRL)</h2>
+						<div class="rating accommodation">
+							<h3>Dwelling</h3>
+						</div>
+						<div class="rating difficulty">
+							<h3>Difficulty</h3>
+						</div>
+						<div class="clear"></div>
+						<div class="category">
+							<h3>Category</h3>
+						</div>
+					</a>			
+				</div>
+			</div>	
+
+			<div class="six columns product_box">
+				<div class="img_boxing">
+					<a href="./our-adventures/danum-valley/danum-valley-field-center">
+						<img src="/c/adventures/danum-valley-field-center.jpg" class="img1" alt="Danum Valley Field Center (DVFC)"/>
+						<h2>Danum Valley Field Center (DVFC)</h2>
+<!-- 						<div class="rating accommodation">
+							<h3>Dwelling</h3>
+						</div>
+						<div class="rating difficulty">
+							<h3>Difficulty</h3>
+						</div>
+						<div class="clear"></div>
+						<div class="category">
+							<h3>Category</h3>
+						</div> -->
+					</a>			
 				</div>
 			</div>
-
-			<div class="eight columns">
-				<div class="pp2 marginbottom">
-					<a href="/our-adventures/danum-valley/danum-valley-field-center" title="Danum Valley Field Center (DVFC)"><img src="/c/adventures/danum-valley-field-center.jpg" class="lar" alt="Danum Valley Field Center, Sabah Borneo" /></a>
-				</div>
-			</div>
+			
+			<div class="clear"></div>
 			
 		</div>
 		
 	</section>
+
+<script>
+	getDetails("Danum Valley");
+</script>

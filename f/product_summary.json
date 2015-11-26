@@ -53,31 +53,25 @@
 					"title": "Borneo Rainforest Lodge (BRL)",
 					"accommodation": 3,
 					"difficulty": 1,
-					"category": []
+					"category": ["Wildlife", "Jungle Trekking"]
 				},
 				{
-					"title": "",
+					"title": "3D2N / 4D3N DVFC Explorer",
 					"accommodation": 1,
 					"difficulty": 1,
-					"category": []
+					"category": ["Wildlife", "Jungle Trekking"]
 				},
 				{
-					"title": "",
+					"title": "4D3N DVFC Sg Purut Camping",
 					"accommodation": 3,
 					"difficulty": 1,
-					"category": []
+					"category": ["Wildlife", "Jungle Trekking"]
 				},
 				{
-					"title": "",
+					"title": "7D6N DVFC Mt Danum Expedition",
 					"accommodation": 1,
-					"difficulty": 1,
-					"category": []
-				},
-				{
-					"title": "",
-					"accommodation": 1,
-					"difficulty": 1,
-					"category": []
+					"difficulty": 3,
+					"category": ["Wildlife", "Jungle Trekking", "Climbing"]
 				}
 			]
 		},
