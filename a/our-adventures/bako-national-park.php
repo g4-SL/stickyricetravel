@@ -10,6 +10,8 @@
 	<nav></nav><section>	
 			
 		<div class="container hd lh">
+
+			<div class="two columns"></div>
 		
 			<div class="sixteen columns big_title">
 				<ul class="brc">
@@ -23,20 +25,58 @@
 				</p>
 			</div>	
 			
-			<div class="clear"></div>				
+			<div class="two columns"></div>
 
-			<div class="eight columns">
-				<div class="pp2">
-					<a href="./our-adventures/bako-national-park/day-trip" title="Bako Day Trip"><img src="/c/adventures/bako-day-trip.jpg" class="img1" alt="Bako Day Trip" /></a>
+			<div class="clear"></div>
+
+			<div class="one columns"></div>
+
+			<div class="six columns product_box">
+				<div class="img_boxing">
+					<a href="./our-adventures/bako-national-park/day-trip">
+						<img src="/c/adventures/bako-day-trip.jpg" class="img1" alt="Bako Day Trip"/>
+						<h2>Bako Day Trip</h2>
+						<div class="rating accommodation">
+							<h3>Dwelling</h3>
+						</div>
+						<div class="rating difficulty">
+							<h3>Difficulty</h3>
+						</div>
+						<div class="clear"></div>
+						<div class="category">
+							<h3>Category</h3>
+						</div>
+					</a>			
+				</div>
+			</div>					
+
+			<div class="six columns product_box">
+				<div class="img_boxing">
+					<a href="./our-adventures/bako-national-park/two-days-trip">
+						<img src="/c/adventures/bako-national-park.jpg" class="img1" alt="2D1N Bako National Park"/>
+						<h2>2D1N Bako National Park</h2>
+						<div class="rating accommodation">
+							<h3>Dwelling</h3>
+						</div>
+						<div class="rating difficulty">
+							<h3>Difficulty</h3>
+						</div>
+						<div class="clear"></div>
+						<div class="category">
+							<h3>Category</h3>
+						</div>
+					</a>			
 				</div>
 			</div>	
+			
+			<div class="clear"></div>				
 
-			<div class="eight columns">
-				<div class="pp2">
-					<a href="./our-adventures/bako-national-park/two-days-trip" title="2D1N Bako National Park"><img src="/c/adventures/bako-national-park.jpg" class="img1" alt="2D1N Bako National Park" /></a>
-				</div>
-			</div>
+			<div class="seven columns"></div>
 			
 		</div>
 		
 	</section>
+
+<script>
+	getDetails("Bako National Park");
+</script>

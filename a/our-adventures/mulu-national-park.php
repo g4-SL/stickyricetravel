@@ -40,7 +40,7 @@
 			<div class="six columns product_box">
 				<div class="img_boxing">
 					<a href="./our-adventures/mulu-national-park/mulu-showcaves">
-						<img src="/c/test/one.jpg" class="img1" alt="Nanga Sumpa"/>
+						<img src="/c/adventures/mulu-showcaves.jpg" class="img1" alt="3D2N Mulu Showcaves"/>
 						<h2>3D2N Mulu Showcaves</h2>
 						<div class="rating accommodation">
 							<h3>Dwelling</h3>
@@ -59,7 +59,7 @@
 			<div class="six columns product_box">
 				<div class="img_boxing">
 					<a href="./our-adventures/mulu-national-park/mulu-showcaves-and-pinnacles">
-						<img src="/c/test/one.jpg" class="img1" alt="Nanga Sumpa"/>
+						<img src="/c/adventures/mulu-showcaves-and-pinnacles.jpg" class="img1" alt="4D3N Mulu Showcaves &amp; Pinnacles"/>
 						<h2>4D3N Mulu Showcaves &amp; Pinnacles</h2>
 						<div class="rating accommodation">
 							<h3>Dwelling</h3>
@@ -78,7 +78,7 @@
 			<div class="six columns product_box">
 				<div class="img_boxing">
 					<a href="./our-adventures/mulu-national-park/headhunters-trail">
-						<img src="/c/test/one.jpg" class="img1" alt="Nanga Sumpa"/>
+						<img src="/c/adventures/headhunters-trail.jpg" class="img1" alt="5D4N Headhunters' Trail"/>
 						<h2>5D4N Headhunters' Trail</h2>
 						<div class="rating accommodation">
 							<h3>Dwelling</h3>

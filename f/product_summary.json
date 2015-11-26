@@ -5,15 +5,15 @@
 			"child": [
 				{
 					"title": "Bako Day Trip",
-					"accommodation": 3,
+					"accommodation": 0,
 					"difficulty": 1,
-					"category": []
+					"category": ["Wildlife","Day Trip","Jungle Trekking"]
 				},
 				{
 					"title": "2D1N Bako National Park",
-					"accommodation": 1,
+					"accommodation": 2,
 					"difficulty": 1,
-					"category": []
+					"category": ["Wildlife","Jungle Trekking"]
 				}
 			]
 		},

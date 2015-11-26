@@ -1,62 +1,17 @@
 <div class="product_side">
 	<div class="left">
 		<h3>Accommodation</h3>
-		<ul>
-			<?php
-				switch(strtolower($accommodation)){
-					case "basic":
-						$counter = 1;
-						break;
-					case "midrange":
-						$counter = 2;
-						break;
-					case "luxury":
-						$counter = 3;
-						break;
-					default:
-						$counter = 1;
-						break;
-				}
-				echo '<li><a>';
-				for($i = 0; $i < $counter; $i++){
-					echo '<img src="../c/accommodation.png">';
-				}
-				echo '</a></li>';
-			?>
+		<ul class="accommodation">
+			<li><a></a></li>
 		</ul>
 		<h3>Difficulty</h3>
-		<ul>
-			<?php
-				switch(strtolower($difficulty)){
-					case "low":
-						$counter = 1;
-						break;
-					case "medium":
-						$counter = 2;
-						break;
-					case "high":
-						$counter = 3;
-						break;
-					default:
-						$counter = 1;
-						break;
-				}
-				echo '<li><a>';
-				for($i = 0; $i < $counter; $i++){
-					echo '<img src="../c/difficulty.png">';
-				}
-				echo '</a></li>';
-			?>
+		<ul class="difficulty">
+			<li><a></a></li>
 		</ul>
 	</div>
 	<div class="right">
 		<h3>Category</h3>
-		<ul>
-			<?php
-				foreach($category as $val){
-					echo '<li><a>'.$val.'</a></li>';
-				}
-			?>
+		<ul class="category">
 		</ul>
 	</div>
 	<div class="clear"></div>
