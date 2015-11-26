@@ -302,19 +302,19 @@
 			"title": "Kudat",
 			"child": [
 				{
-					"title": "",
-					"accommodation": 1,
-					"difficulty": 1,
-					"category": []
+					"title": "Hibiscus Beach Retreat",
+					"accommodation": 3,
+					"difficulty": 0,
+					"category": ["Accommodation"]
 				},
 				{
-					"title": "",
-					"accommodation": 1,
-					"difficulty": 1,
-					"category": []
+					"title": "Hibiscus Villa",
+					"accommodation": 3,
+					"difficulty": 0,
+					"category": ["Accommodation"]
 				},
 				{
-					"title": "",
+					"title": "Northern Island Exploration",
 					"accommodation": 1,
 					"difficulty": 1,
 					"category": []
