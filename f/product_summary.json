@@ -86,27 +86,27 @@
 			"child": [
 				{
 					"title": "Kinabalu National Park Day Trip",
-					"accommodation": 3,
+					"accommodation": 0,
 					"difficulty": 1,
-					"category": []
+					"category": ["Day Trip"]
 				},
 				{
 					"title": "Mount Kinabalu Climb",
 					"accommodation": 1,
 					"difficulty": 1,
-					"category": []
+					"category": ["Climbing"]
 				},
 				{
 					"title": "Mount Kinabalu Climb via Ferrata",
 					"accommodation": 3,
 					"difficulty": 1,
-					"category": []
+					"category": ["Climbing"]
 				},
 				{
 					"title": "3D2N Kinabalu Camping",
 					"accommodation": 1,
 					"difficulty": 1,
-					"category": []
+					"category": ["Jungle Trekking", "Wildlife"]
 				}
 			]
 		},
