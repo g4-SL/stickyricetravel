@@ -11,50 +11,62 @@
 			
 		<div class="container hd">
 
+			<div class="four columns book_btn">
+				<?php include './a/side-book-now.php'; ?>   
+			</div>
+
 			<div class="sixteen columns big_title">
 				<ul class="brc">
 					<li><a href="./home">Home</a></li>
 					<li><a href="./our-adventures">Our Adventures</a></li>
 					<li><a href="./our-adventures/sandakan-and-sepilok">Sandakan &amp; Sepilok</a></li>
-					<li>Sepilok Forest Edge</li>
+					<li>Sepilok Forest Edge Resort</li>
 				</ul>
-				<h1>Sepilok Forest Edge</h1>
+				<h1>Sepilok Forest Edge Resort</h1>
 			</div>	
 			
 			<div class="clear"></div>
+
+			<div class="large_screen_merge">
+				<div class="four columns">
+					<?php include './a/product-sidebar.php'; ?>
+				</div>
+
+				<div class="clear"></div>
 			
-			<div class="nine columns">
-				
-				<p>
-					Sepilok Forest Edge is a boutique lodge located 700 meters away from the Sepilok Orang Utan Rehabilitation Center (SORC). It comprises of tastefully designed wooden chalets surrounding a lush garden of fruit trees and hilly backdrop. Its restaurant ‘The Nest’ churns out delicious locally infused dishes and refreshing drinks for a hot day, in a lovely setting. There is also a small dipping pool.
-				</p>
+				<div class="nine columns">
+					
+					<p>
+						Sepilok Forest Edge is a boutique lodge located 700 meters away from the Sepilok Orang Utan Rehabilitation Center (SORC). It comprises of tastefully designed wooden chalets surrounding a lush garden of fruit trees and hilly backdrop. Its restaurant ‘The Nest’ churns out delicious locally infused dishes and refreshing drinks for a hot day, in a lovely setting. There is also a small dipping pool.
+					</p>
 
 
-				<h2 class="grunge5">Accommodation...</h2>
-				<table class="tbl_p">
-					<tr>
-						<td class="he">Accommodation</td>
-						<td>
-							Standard, Deluxe, Superior and Family Chalets (all ensuite) with fan and air-conditioning, hot and cold shower, and veranda. 
-						</td>
-					</tr>
-					<tr>
-						<td class="he">Food</td>
-						<td>
-							A la carte available – meals combining flavours from both east and west can be enjoyed at the restaurant.
-						</td>
-					</tr>
-					 <tr>
-						<td class="he">Facilities / Service</td>
-						<td>
-							Tour desk, airport shuttle, Wi-Fi in public area, shared common lounge, restaurant. Electricity 24/7.
-						</td>
-					</tr>
-				</table>	
+					<h2 class="grunge5">Accommodation...</h2>
+					<table class="tbl_p">
+						<tr>
+							<td class="he">Accommodation</td>
+							<td>
+								Standard, Deluxe, Superior and Family Chalets (all ensuite) with fan and air-conditioning, hot and cold shower, and veranda. 
+							</td>
+						</tr>
+						<tr>
+							<td class="he">Food</td>
+							<td>
+								A la carte available – meals combining flavours from both east and west can be enjoyed at the restaurant.
+							</td>
+						</tr>
+						 <tr>
+							<td class="he">Facilities / Service</td>
+							<td>
+								Tour desk, airport shuttle, Wi-Fi in public area, shared common lounge, restaurant. Electricity 24/7.
+							</td>
+						</tr>
+					</table>	
+				</div>
 			</div>	
 			
 			<div class="seven columns bp">
-				<?php include './a/side-book-now.php'; ?>
+				<div class="book_btn"><?php include './a/side-book-now.php'; ?></div>
 				<img src="c/adventures-sepilok-forest-edge/1-400.jpg" alt="Sepilok Forest Edge">
 				<img src="c/adventures-sepilok-forest-edge/2-400.jpg" alt="Sepilok Forest Edge">
 				<img src="c/adventures-sepilok-forest-edge/3-400.jpg" alt="Sepilok Forest Edge">
@@ -66,3 +78,7 @@
 		</div>
 		
 	</section>
+
+<script>
+	populateSidebar("Sandakan & Sepilok", "Sepilok Forest Edge Resort");
+</script>

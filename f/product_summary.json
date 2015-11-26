@@ -358,28 +358,58 @@
 			"title": "Sandakan & Sepilok",
 			"child": [
 				{
-					"title": "",
-					"accommodation": 1,
+					"title": "1N Sepilok Sojourn",
+					"accommodation": 2,
 					"difficulty": 1,
-					"category": []
+					"category": ["Wildlife"]
 				},
 				{
-					"title": "",
+					"title": "3D2N Orang Utans & Turtles",
 					"accommodation": 1,
 					"difficulty": 1,
-					"category": []
+					"category": ["Wildlife", "Culture"]
 				},
 				{
-					"title": "",
-					"accommodation": 1,
+					"title": "2D1N Libaran Turtle Island Camping",
+					"accommodation": 2,
 					"difficulty": 1,
-					"category": []
+					"category": ["Wildlife", "Culture"]
 				},
 				{
-					"title": "",
-					"accommodation": 1,
+					"title": "Lankayan Island",
+					"accommodation": 3,
 					"difficulty": 1,
-					"category": []
+					"category": ["Water Sports", "Beach", "Wildlife"]
+				},
+				{
+					"title": "Sepilok Nature Resort",
+					"accommodation": 2,
+					"difficulty": 0,
+					"category": ["Accommodation"]
+				},
+				{
+					"title": "Sepilok Forest Edge Resort",
+					"accommodation": 2,
+					"difficulty": 0,
+					"category": ["Accommodation"]
+				},
+				{
+					"title": "Paganakan Dii Tropical Retreat",
+					"accommodation": 1,
+					"difficulty": 0,
+					"category": ["Accommodation"]
+				},
+				{
+					"title": "NAK Hotel",
+					"accommodation": 1,
+					"difficulty": 0,
+					"category": ["Accommodation"]
+				},
+				{
+					"title": "Sheraton Four Points",
+					"accommodation": 3,
+					"difficulty": 0,
+					"category": ["Accommodation"]
 				}
 			]
 		},

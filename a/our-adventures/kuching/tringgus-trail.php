@@ -100,5 +100,5 @@
 	</section>
 
 <script>
-	populateSidebar("Kota Kinabalu", "Borneo Backpackers");
+	populateSidebar("Sandakan & Sepilok", "");
 </script>

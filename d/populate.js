@@ -13,10 +13,11 @@ function getJson(){
 function rate(val, data){
 	var temp = "";
 	var k;
+	var lim_rating = Math.min(data[val], MAX_RATING);
 	if(data[val] == 0){
 		return '<h6>N/A</h6>';
 	}
-	for(k = 1; k <= data[val]; k++){
+	for(k = 1; k <= lim_rating; k++){
 		temp = temp + '<img src="../c/' + val + '.png">';
 	}
 	while(k <= MAX_RATING){

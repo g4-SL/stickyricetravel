@@ -11,6 +11,10 @@
 			
 		<div class="container hd">
 
+			<div class="four columns book_btn">
+				<?php include './a/side-book-now.php'; ?>   
+			</div>
+
 			<div class="sixteen columns big_title">
 				<ul class="brc">
 					<li><a href="./home">Home</a></li>
@@ -22,38 +26,46 @@
 			</div>	
 			
 			<div class="clear"></div>
-			
-			<div class="nine columns">
-				
-				<p>
-					A luxury brand 4 star accommodation, the Four Points by Sheraton Sandakan is located at the waterfront promenade with unobstructed view of Sandakan Bay. A full-facility hotel, you can guarantee a good night rest, use the gym or take a dip at the outdoor infinity pool to rejuvenate. A stay here also gives you easy access to explore Sandakan, starting from the fresh market right outside your doorstep. There are a wide range of rooms and eateries to choose from.
-				</p>		
 
-				<h2 class="grunge5">Accommodation...</h2>
-				<table class="tbl_p">
-					<tr>
-						<td class="he">Accommodation</td>
-						<td>
-							300 rooms from Deluxe to Deluxe Seaview, Club rooms and suites
-						</td>
-					</tr>
-					<tr>
-						<td class="he">Food</td>
-						<td>
-							Several restaurants – The Eatery, The Best Brew, Lobby Lounge and Wrapped, offering different cuisines
-						</td>
-					</tr>
-					 <tr>
-						<td class="he">Facilities / Service</td>
-						<td>
-							24 hour Front Desk, executive lounge, tour desk, business centre, concierge services, Wi-fi in all guest rooms, fitness center, infinity pool, complimentary parking
-						</td>
-					</tr>
-				</table>	
+			<div class="large_screen_merge">
+				<div class="four columns">
+					<?php include './a/product-sidebar.php'; ?>
+				</div>
+
+				<div class="clear"></div>
+			
+				<div class="nine columns">
+					
+					<p>
+						A luxury brand 4 star accommodation, the Four Points by Sheraton Sandakan is located at the waterfront promenade with unobstructed view of Sandakan Bay. A full-facility hotel, you can guarantee a good night rest, use the gym or take a dip at the outdoor infinity pool to rejuvenate. A stay here also gives you easy access to explore Sandakan, starting from the fresh market right outside your doorstep. There are a wide range of rooms and eateries to choose from.
+					</p>		
+
+					<h2 class="grunge5">Accommodation...</h2>
+					<table class="tbl_p">
+						<tr>
+							<td class="he">Accommodation</td>
+							<td>
+								300 rooms from Deluxe to Deluxe Seaview, Club rooms and suites
+							</td>
+						</tr>
+						<tr>
+							<td class="he">Food</td>
+							<td>
+								Several restaurants – The Eatery, The Best Brew, Lobby Lounge and Wrapped, offering different cuisines
+							</td>
+						</tr>
+						 <tr>
+							<td class="he">Facilities / Service</td>
+							<td>
+								24 hour Front Desk, executive lounge, tour desk, business centre, concierge services, Wi-fi in all guest rooms, fitness center, infinity pool, complimentary parking
+							</td>
+						</tr>
+					</table>
+				</div>	
 			</div>	
 			
 			<div class="seven columns bp">
-				<?php include './a/side-book-now.php'; ?>
+				<div class="book_btn"><?php include './a/side-book-now.php'; ?></div>
 				<img src="c/adventures-sheraton-four-points/2-400.jpg" alt="Sheraton Four Points">
 				<img src="c/adventures-sheraton-four-points/3-400.jpg" alt="Sheraton Four Points">
 				<img src="c/adventures-sheraton-four-points/4-400.jpg" alt="Sheraton Four Points">
@@ -64,3 +76,7 @@
 		</div>
 		
 	</section>
+
+<script>
+	populateSidebar("Sandakan & Sepilok", "Sheraton Four Points");
+</script>
