@@ -33,11 +33,14 @@
 /*xx-large screen*/
 @media (min-width:1200px){
 	.product_side{background: url(../c/paper-bg.png) no-repeat;padding: 70px 15px 15px;height: 370px;text-align: right;}
-	.large_screen_merge .clear{display:none;}
+	.large_screen_merge .clear, .bp .book_btn{display:none;}
+	.four.columns.book_btn{display:block;}
 }
 
 /*large and x-large screen*/
 @media (min-width:768px) and (max-width:1199px){
+	.four.columns.book_btn{display:none;}
+	.bp .book_btn{display:block;}
 	.large_screen_merge{float:left;}
 	.large_screen_merge .book_now{float:right;}
 	.large_screen_merge .clear{display:block;}
@@ -69,10 +72,14 @@
 /*medium screen*/
 @media (min-width:480px) and (max-width:767px){
 	.product_side{padding: 15px 80px 15px 60px;}
+	.bp .book_btn{display:none;}
+	.four.columns.book_btn{display:block;}
 }
 
 /*small screen*/
 @media (max-width:479px){
 	.product_side{padding: 15px;}
+	.bp .book_btn{display:none;}
+	.four.columns.book_btn{display:block;}
 }
 </style>

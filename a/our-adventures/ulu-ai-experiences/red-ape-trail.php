@@ -11,7 +11,7 @@
 			
 		<div class="container hd">
 
-			<div class="four columns">
+			<div class="four columns book_btn">
 				<?php include './a/side-book-now.php'; ?>   
 			</div>
 
@@ -29,12 +29,7 @@
 
 			<div class="large_screen_merge">
 				<div class="four columns">
-					<?php 
-						$category = array('Climbing', 'Jungle Trekking', 'Culture');
-						$accommodation = 'Basic';
-						$difficulty = 'Medium';
-						include './a/product-sidebar.php'; 
-					?>
+					<?php include './a/product-sidebar.php'; ?>
 				</div>
 
 				<div class="clear"></div>
@@ -176,6 +171,7 @@
 			</div>
 			
 			<div class="seven columns bp">
+				<div class="book_btn"><?php include './a/side-book-now.php'; ?></div>
 				<img src="c/adventures-red-ape-trail/2-400.jpg" alt="Red Ape Trail" />
 				<img src="c/adventures-red-ape-trail/3-400.jpg" alt="Red Ape Trail" />
 				<img src="c/adventures-red-ape-trail/4-400.jpg" alt="Red Ape Trail" />
