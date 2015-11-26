@@ -100,5 +100,5 @@
 	</section>
 
 <script>
-	populateSidebar("Kuching", "Tringgus Trail");
+	populateSidebar("Crocker Range Park", "Tringgus Trail");
 </script>

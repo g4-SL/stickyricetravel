@@ -10,6 +10,8 @@
 			
 		<div class="container hd lh">
 
+			<div class="two columns"></div>
+
 			<div class="sixteen columns big_title">
 				<ul class="brc">
 					<li><a href="/home">Home</a></li>
@@ -17,11 +19,6 @@
 					<li>Crocker Range Park</li>
 				</ul>
 				<h1>Crocker Range Park</h1>
-			</div>	
-			
-			<div class="clear"></div>
-			
-			<div class="sixteen columns">
 				<p>
 					The Crocker Range Park was designated to be a forest reserve in 1968, followed by further efforts established in 1984 to protect the water catchment areas that supply drinking water to the west coast and interior of Sabah. Today, it is managed by Sabah Parks with rising concern to protect its rich biodiversity and rare species of flora and fauna inhabiting these forest areas. The park area and boundaries are home to numerous settlements of Kadazandusuns and Murut communities still living traditionally, practicing subsistence shifting agriculture and hunting.
 				</p>
@@ -36,51 +33,101 @@
 				</p>	
 				<p>	
 					Crocker Range Park is also a premier birding destination for spotting Borneo’s endemic montane birds. 
-				</p>		
+				</p>	
 			</div>	
-
-			<div class="sixteen columns">
-				<h2 class="small_title">Programs</h2>
-			</div>	
-
-			<div class="eight columns">
-				<div class="pp2">
-					<a href="/our-adventures/crocker-range-park/gunung-alab-hike" title="2D1N Gunung Alab Hike"><img src="/c/adventures/gunung-alab.jpg" class="img1" alt="Gunung Alab Hike" /></a>
-				</div>
-			</div>	
-
-			<div class="eight columns">
-				<div class="pp2">
-					<a href="/our-adventures/crocker-range-park/mt-trus-madi" title="4D3N Trusmadi Expedition"><img src="/c/adventures/mt-trus-madi.jpg" class="img1" alt="Mt Trus Madi" /></a>
-				</div>
-			</div>	
-
+			
 			<div class="clear"></div>	
 
-			<div class="eight columns">
-				<div class="pp2">
-					<a href="/our-adventures/crocker-range-park/day-trip" title="Crocker Range Park Day Trip"><img src="/c/adventures/crocker-range-day-trip.jpg" class="img1" alt="Crocker Range Day Trip" /></a>
+			<div class="one columns"></div>
+
+			<div class="six columns product_box">
+				<div class="img_boxing">
+					<a href="./our-adventures/crocker-range-park/gunung-alab-hike">
+						<img src="/c/adventures/gunung-alab.jpg" class="img1" alt="2D1N Gunung Alab Hike"/>
+						<h2>2D1N Gunung Alab Hike</h2>
+						<div class="rating accommodation">
+							<h3>Dwelling</h3>
+						</div>
+						<div class="rating difficulty">
+							<h3>Difficulty</h3>
+						</div>
+						<div class="clear"></div>
+						<div class="category">
+							<h3>Category</h3>
+						</div>
+					</a>			
+				</div>
+			</div>		
+
+			<div class="six columns product_box">
+				<div class="img_boxing">
+					<a href="./our-adventures/crocker-range-park/mt-trus-madi">
+						<img src="/c/adventures/mt-trus-madi.jpg" class="img1" alt="Mt Trus Madi"/>
+						<h2>4D3N Trusmadi Expedition</h2>
+						<div class="rating accommodation">
+							<h3>Dwelling</h3>
+						</div>
+						<div class="rating difficulty">
+							<h3>Difficulty</h3>
+						</div>
+						<div class="clear"></div>
+						<div class="category">
+							<h3>Category</h3>
+						</div>
+					</a>			
 				</div>
 			</div>	
 
-			<div class="eight columns"></div>
-
-			<div class="clear" style="margin-bottom:15px"></div>
-
-			<div class="sixteen columns">
-				<h2 class="small_title">Accommodations</h2>
-			</div>	
-
-			<div class="eight columns">
-				<div class="pp2 marginbottom">
-					<a href="/our-adventures/crocker-range-park/sinurambi-bed-and-breakfast" title="Sinurambi Bed &amp; Breakfast"><img src="/c/adventures/sinurambi.jpg" class="img1" alt="Kinabatangan - Homestay &amp; Supu Camp" /></a>
+			<div class="six columns product_box">
+				<div class="img_boxing">
+					<a href="./our-adventures/crocker-range-park/day-trip">
+						<img src="/c/adventures/crocker-range-day-trip.jpg" class="img1" alt="Crocker Range Day Trip"/>
+						<h2>Crocker Range Park Day Trip</h2>
+						<div class="rating accommodation">
+							<h3>Dwelling</h3>
+						</div>
+						<div class="rating difficulty">
+							<h3>Difficulty</h3>
+						</div>
+						<div class="clear"></div>
+						<div class="category">
+							<h3>Category</h3>
+						</div>
+					</a>			
 				</div>
 			</div>	
 
-			<div class="eight columns"></div>
+			<div class="one columns"></div>	
+
+			<div class="clear display"></div>	
+
+			<div class="one columns"></div>	
+
+			<div class="six columns product_box">
+				<div class="img_boxing">
+					<a href="./our-adventures/crocker-range-park/sinurambi-bed-and-breakfast">
+						<img src="/c/adventures/sinurambi.jpg" class="img1" alt="Sinurambi Bed &amp; Breakfast"/>
+						<h2>Sinurambi Bed &amp; Breakfast</h2>
+						<div class="rating accommodation">
+							<h3>Dwelling</h3>
+						</div>
+						<div class="rating difficulty">
+							<h3>Difficulty</h3>
+						</div>
+						<div class="clear"></div>
+						<div class="category">
+							<h3>Category</h3>
+						</div>
+					</a>			
+				</div>
+			</div>	
 
 			<div class="clear"></div>	
 			
 		</div>
 		
 	</section>
+
+<script>
+	getDetails("Crocker Range Park");
+</script>

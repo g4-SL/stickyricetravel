@@ -30,6 +30,7 @@
 .container .twelve.columns{width:700px}
 .container .sixteen.columns{width:940px}
 .container .six.columns.product_box{width:300px}
+.container .columns.display{display:none}
 .pp2 a:after{font-size: 1.7em}
 }
 

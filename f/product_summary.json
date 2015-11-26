@@ -24,25 +24,25 @@
 					"title": "2D1N Gunung Alab Hike",
 					"accommodation": 3,
 					"difficulty": 1,
-					"category": []
+					"category": ["Jungle Trekking", "Wildlife"]
 				},
 				{
 					"title": "4D3N Trusmadi Expedition",
 					"accommodation": 1,
 					"difficulty": 1,
-					"category": []
+					"category": ["Jungle Trekking", "Wildlife", "Climbing"]
 				},
 				{
 					"title": "Crocker Range Park Day Trip",
 					"accommodation": 3,
 					"difficulty": 1,
-					"category": []
+					"category": ["Day Trip"]
 				},
 				{
 					"title": "Sinurambi Bed & Breakfast",
-					"accommodation": 1,
+					"accommodation": 3,
 					"difficulty": 1,
-					"category": []
+					"category": ["Accommodation"]
 				}
 			]
 		},

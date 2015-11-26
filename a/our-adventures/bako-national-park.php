@@ -29,7 +29,7 @@
 
 			<div class="clear"></div>
 
-			<div class="one columns"></div>
+			<div class="four columns display"></div>
 
 			<div class="six columns product_box">
 				<div class="img_boxing">
@@ -69,9 +69,7 @@
 				</div>
 			</div>	
 			
-			<div class="clear"></div>				
-
-			<div class="seven columns"></div>
+			<div class="clear"></div>			
 			
 		</div>
 		
