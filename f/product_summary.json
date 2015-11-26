@@ -417,16 +417,16 @@
 			"title": "Semporna Archipelago",
 			"child": [
 				{
-					"title": "",
-					"accommodation": 1,
+					"title": "The Reef Dive Resort at Mataking Island",
+					"accommodation": 3,
 					"difficulty": 1,
-					"category": []
+					"category": ["Water Sports", "Climbing"]
 				},
 				{
-					"title": "",
+					"title": "Seaventures Dive Rig Resort",
 					"accommodation": 1,
 					"difficulty": 1,
-					"category": []
+					"category": ["Water Sports"]
 				}
 			]
 		},

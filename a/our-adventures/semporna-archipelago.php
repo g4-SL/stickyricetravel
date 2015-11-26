@@ -10,6 +10,8 @@
 			
 		<div class="container hd lh">
 
+			<div class="two columns"></div>
+
 			<div class="sixteen columns big_title">
 				<ul class="brc">
 					<li><a href="/home">Home</a></li>
@@ -17,11 +19,6 @@
 					<li>Semporna Archipelago</li>
 				</ul>
 				<h1>Semporna Archipelago</h1>
-			</div>	
-			
-			<div class="clear"></div>
-			
-			<div class="sixteen columns">
 				<p>
 					Most people come to the Semporna Islands for the crown jewel Sipadan Island, famed by the French marine biologist Jacques Cousteau in 1989. He spent three  months diving around the island from his research vessel ‘Calypso’ and said ‘ I have seen other places like Sipadan 45 years ago, but now no more. Now we have found an untouched piece of art’. It became a haven for serious divers and regularly voted as one of the top dive destinations in the world. 
 				</p>
@@ -30,21 +27,57 @@
 				</p>	
 				<p>	
 					Divers or not, a visit to the Semporna Islands will leave you breathless. 
-				</p>	
+				</p>
 			</div>	
+			
+			<div class="clear"></div>
 
-			<div class="eight columns">
-				<div class="pp2 marginbottom">
-					<a href="./our-adventures/semporna-archipelago/mataking-resort" title="The Reef Dive Resort at Mataking Island"><img src="/c/adventures/semporna-archipelago.jpg" class="img1" alt="The Reef Dive Resort at Mataking Island, Semporna Sabah Borneo" /></a>
+			<div class="four columns display"></div>
+
+			<div class="six columns product_box">
+				<div class="img_boxing">
+					<a href="./our-adventures/semporna-archipelago/mataking-resort">
+						<img src="/c/adventures/mataking-island-resort.jpg" class="img1" alt="The Reef Dive Resort at Mataking Island"/>
+						<h2>The Reef Dive Resort at Mataking Island</h2>
+						<div class="rating accommodation">
+							<h3>Dwelling</h3>
+						</div>
+						<div class="rating difficulty">
+							<h3>Difficulty</h3>
+						</div>
+						<div class="clear"></div>
+						<div class="category">
+							<h3>Category</h3>
+						</div>
+					</a>			
 				</div>
 			</div>	
 
-			<div class="eight columns">
-				<div class="pp2 marginbottom">
-					<a href="./our-adventures/semporna-archipelago/seaventures-dive-rig" title="Seaventures Rig Resorts"><img src="/c/adventures/seaventures-rig-resort.jpg" class="img1" alt="Seaventures Rig Resorts, Semporna Sabah Borneo" /></a>
+			<div class="six columns product_box">
+				<div class="img_boxing">
+					<a href="./our-adventures/semporna-archipelago/seaventures-dive-rig">
+						<img src="/c/adventures/seaventures-rig-resort.jpg" class="img1" alt="Seaventures Rig Resorts"/>
+						<h2>Seaventures Dive Rig Resort</h2>
+						<div class="rating accommodation">
+							<h3>Dwelling</h3>
+						</div>
+						<div class="rating difficulty">
+							<h3>Difficulty</h3>
+						</div>
+						<div class="clear"></div>
+						<div class="category">
+							<h3>Category</h3>
+						</div>
+					</a>			
 				</div>
-			</div>		
+			</div>
+			
+			<div class="clear"></div>			
 			
 		</div>
 		
 	</section>
+
+<script>
+	getDetails("Semporna Archipelago");
+</script>
