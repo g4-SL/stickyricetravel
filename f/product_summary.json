@@ -201,34 +201,34 @@
 			"title": "Kuching",
 			"child": [
 				{
-					"title": "",
-					"accommodation": 1,
+					"title": "Big Stream, Cool Spaces",
+					"accommodation": 0,
 					"difficulty": 1,
-					"category": []
+					"category": ["Day Trip", "Cave"]
 				},
 				{
-					"title": "",
+					"title": "Rainforest Kayaking or Bamboo Rafting",
+					"accommodation": 0,
+					"difficulty": 1,
+					"category": ["Day Trip", "Water Sports"]
+				},
+				{
+					"title": "Santubong Wildlife Cruise",
+					"accommodation": 0,
+					"difficulty": 1,
+					"category": ["Day Trip", "Wildlife", "River Cruise"]
+				},
+				{
+					"title": "Tringgus Trail",
+					"accommodation": 0,
+					"difficulty": 1,
+					"category": ["Day Trip", "Jungle Trekking", "Culture", "Cave"]
+				},
+				{
+					"title": "Ranee Kuching",
 					"accommodation": 3,
-					"difficulty": 1,
-					"category": []
-				},
-				{
-					"title": "",
-					"accommodation": 1,
-					"difficulty": 1,
-					"category": []
-				},
-				{
-					"title": "",
-					"accommodation": 1,
-					"difficulty": 1,
-					"category": []
-				},
-				{
-					"title": "",
-					"accommodation": 1,
-					"difficulty": 1,
-					"category": []
+					"difficulty": 0,
+					"category": ["Accommodation"]
 				}
 			]
 		},
