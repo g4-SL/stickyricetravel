@@ -117,31 +117,31 @@
 					"title": "3D2N Borneo Nature Lodge",
 					"accommodation": 3,
 					"difficulty": 1,
-					"category": []
+					"category": ["Wildlife", "River Cruise", "Cave"]
 				},
 				{
 					"title": "3D2N Kinabatangan Wetlands Resort",
 					"accommodation": 1,
 					"difficulty": 1,
-					"category": []
+					"category": ["Wildlife", "River Cruise", "Culture"]
 				},
 				{
 					"title": "3D2N Abai Homestay",
 					"accommodation": 3,
 					"difficulty": 1,
-					"category": []
+					"category": ["Culture", "River Cruise", "Wildlife"]
 				},
 				{
 					"title": "3D2N Eco Camp",
 					"accommodation": 1,
 					"difficulty": 1,
-					"category": []
+					"category": ["Wildlife", "River Cruise"]
 				},
 				{
 					"title": "3D2N Supu Camp",
 					"accommodation": 1,
 					"difficulty": 1,
-					"category": []
+					"category": ["Jungle Trekking", "Wildlife", "River Cruise", "Cave", "Climbing"]
 				}
 			]
 		},
@@ -152,13 +152,13 @@
 					"title": "3D2N Tambatuon Village",
 					"accommodation": 1,
 					"difficulty": 1,
-					"category": []
+					"category": ["Culture"]
 				},
 				{
 					"title": "Manana Borneo",
 					"accommodation": 1,
-					"difficulty": 1,
-					"category": []
+					"difficulty": 0,
+					"category": ["Accommodation"]
 				}
 			]
 		},

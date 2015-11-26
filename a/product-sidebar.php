@@ -20,7 +20,7 @@
 <style>
 .product_side h3{text-transform: uppercase;padding-bottom: 10px;margin: 0;line-height: 1}
 .product_side li:hover{cursor: pointer;}
-.product_side a{text-decoration: none;}
+.product_side a{text-decoration: none;text-transform: capitalize;}
 .product_side li{margin-bottom: 10px;}
 .product_side ul{list-style-type: none;margin: 0;}
 .product_side img{width:auto;}

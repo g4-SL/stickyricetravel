@@ -100,5 +100,5 @@
 	</section>
 
 <script>
-	populateSidebar("Kinabalu National Park", "Tringgus Trail");
+	populateSidebar("Kinabatangan", "Tringgus Trail");
 </script>
