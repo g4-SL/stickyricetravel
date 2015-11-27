@@ -33,7 +33,6 @@ hr{color:#181818;-webkit-margin-before:0;-webkit-margin-after:0;-webkit-margin-s
 .popup-text-container p{font-size:12px;line-height: 1.5}
 .popup-text-container a{font-weight: bold;text-decoration: none;text-transform: uppercase;border:2px solid #603d05;padding: 5px;color: #603d05 !important}
 
-#sarawak, #others{padding-top: 60px}
 input.bn, input.bn:hover{text-align: left; font-family: 'Oswald'; font-size: 1.5em; text-transform: uppercase;font-weight: normal}
 .au2{position: relative;height:104px;}
 .au2-child{position:absolute;width: 100%;bottom: 0;}
@@ -50,6 +49,22 @@ input.bn, input.bn:hover{text-align: left; font-family: 'Oswald'; font-size: 1.5
 .brc li a{text-decoration: none;color: #414141}
 .brc li a:hover{color: #724806}
 
+h1.our_adv{
+	color:#fff;
+	font-size: 3em;
+}
+#sabah-intro, #sarawak-intro{
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
+	height:80vh;
+}
+#sabah-intro, #sarawak-intro{
+	background-image:url(../c/large/www-adventures-sabah.jpg);
+}
+#our-adventure section{
+	padding-bottom: 60px;
+}
 #review h2, .small_title{
 	text-align: center;
 	line-height: 2;

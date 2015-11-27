@@ -18,7 +18,13 @@
 	
 	<nav></nav><section id="our-adventure">	
 
-		<section id="sabah">
+		<section>
+			<div class="container hd lh">
+				<h1>What do you feel like doing?</h1>
+			</div>
+		</section>
+
+		<section id="sabah-intro">
 			<div class="container hd lh">	
 				<div class="sixteen columns">
 					<ul class="brc">
@@ -27,124 +33,199 @@
 					</ul>
 				</div>	
 
-				<div class="sixteen columns"><h1 class="brown_border">Our Adventures at Sabah</h1></div>
+<!-- 				<div class="sixteen columns"><h1 class="brown_border">Our Adventures in Sabah</h1></div> -->
+				<div class="sixteen columns">
+					<h1 class="our_adv">Our Adventures in Sabah</h1>
+				</div>
+			
+				<div class="clear"></div>	
+			</div>
+		</section>
 
-    			<div class="eight columns">
-					<div class="pp2">
-						<a href="our-adventures/crocker-range-park" title="Crocker Range Park"><img src="c/adventures/crocker-range-park.jpg" class="img1" alt="Crocker Range Park at Sabah, Borneo"/></a>
-					</div>	
-				</div>	
+		<section id="sabah">
 
-				<div class="eight columns">
-					<div class="pp2">
-						<a href="our-adventures/danum-valley/" title="Danum Valley Conservation Area"><img src="c/adventures/danum-valley-conservation-area.jpg" class="img1" alt="Danum Valley Conservation Area" /></a>
+			<div class="container hd lh">	
+
+				<div class="one columns"></div>
+
+				<div class="six columns animated_box">
+					<a href="./our-adventures/crocker-range-park">
+						<div><img src="c/adventures/crocker-range-park.jpg" class="img1" alt="Crocker Range Park at Sabah, Borneo"/></div>
+					</a>	
+					<div>
+						<h2>Crocker Range Park</h2>
 					</div>
 				</div>
-				
-				<div class="clear"></div>
 
-				<div class="eight columns">
-					<div class="pp2">
-						<a href="our-adventures/kinabalu-national-park" title="Kinabalu National Park"><img src="c/adventures/mount-kinabalu.jpg" class="img1" alt="Climb Mount Kinabalu" /></a>
-					</div>		
-				</div>
-							
-				<div class="eight columns">
-					<div class="pp2">
-						<a href="our-adventures/kinabatangan" title="Kinabatangan Floodplains"><img src="c/adventures/kinabatangan-floodplains.jpg" class="img1" alt="Kinabatangan Floodplains" /></a>
-					</div>	
+				<div class="six columns animated_box">
+					<a href="./our-adventures/danum-valley">
+						<div><img src="c/adventures/danum-valley-conservation-area.jpg" class="img1" alt="Danum Valley Conservation Area" /></div>
+					</a>	
+					<div>
+						<h2>Danum Valley Conservation Area</h2>
+					</div>
 				</div>
 
-				<div class="clear"></div>
-
-				<div class="eight columns">
-					<div class="pp2">
-						<a href="our-adventures/kota-belud" title="Kota Belud"><img src="c/adventures/kota-belud.jpg" class="img1" alt="Kota Belud" /></a>
-					</div>		
+				<div class="six columns animated_box">
+					<a href="./our-adventures/kinabalu-national-park">
+						<div><img src="c/adventures/mount-kinabalu.jpg" class="img1" alt="Climb Mount Kinabalu" /></div>
+					</a>	
+					<div>
+						<h2>Kinabalu National Park</h2>
+					</div>
 				</div>
-				
-				<div class="eight columns">
-					<div class="pp2">
-						<a href="our-adventures/kota-kinabalu" title="Kota Kinabalu"><img src="c/adventures/kota-kinabalu.jpg" class="img1" alt="Kota Kinabalu" /></a>
-					</div>	
-				</div>
-				
-				<div class="clear"></div>
-
-				<div class="eight columns">
-					<div class="pp2">
-						<a href="our-adventures/kudat" title="Kudat"><img src="c/adventures/kudat.jpg" class="img1" alt="Kudat" /></a>
-					</div>					
-				</div>	
-
-				<div class="eight columns">
-					<div class="pp2">
-						<a href="our-adventures/maliau-basin" title="Maliau Basin"><img src="c/adventures/maliau-basin.jpg" class="img1" alt="Maliau Basin" /></a>
-					</div>	
-				</div>	
-
-				<div class="clear"></div>
-
-				<div class="eight columns">
-					<div class="pp2">
-						<a href="our-adventures/orou-sapulot" title="OROU Sapulot - Murut Country Adventure"><img src="c/adventures/sapulot-country-adventure.jpg" class="img1"  alt="Orou Sapulot - Murut Country Adventure" /></a>
-					</div>	
-				</div>	
-
-				<div class="eight columns">
-					<div class="pp2">
-						<a href="our-adventures/sandakan-and-sepilok" title="Sandakan &amp; Sepilok"><img src="c/adventures/sandakan-and-sepilok.jpg" class="img1" alt="Sandakan &amp; Sepilok" /></a>
-					</div>			
-				</div>	
-				
+			
 				<div class="clear"></div>	
-				
-				<div class="eight columns">
-					<div class="pp2 marginbottom">
-						<a href="our-adventures/semporna-archipelago" title="Semporna Archipelago"><img src="c/adventures/semporna.jpg" class="img1" alt="Semporna Archipelago" /></a>
-					</div>			
+
+				<div class="one columns"></div>
+
+				<div class="six columns animated_box">
+					<a href="./our-adventures/kinabatangan">
+						<div><img src="/c/adventures/kinabatangan-floodplains.jpg" class="img1" alt="3D2N Borneo Nature Lodge" style="width:100%"/></div>
+					</a>	
+					<div>
+						<h2>Kinabatangan Floodplains</h2>
+					</div>
 				</div>
 
-				<div class="eight columns">
-					<div class="pp2 marginbottom">
-						<a href="our-adventures/tabin-wildlife-reserve" title="Tabin Wildlife Reserve"><img src="c/adventures/tabin-wildlife-reserve.jpg" class="img1" alt="Tabin Wildlife Reserve" /></a>
-					</div>		
-				</div>		
+				<div class="six columns animated_box">
+					<a href="./our-adventures/kota-belud/">
+						<div><img src="c/adventures/kota-belud.jpg" class="img1" alt="Kota Belud" /></div>
+					</a>	
+					<div>
+						<h2>Kota Belud</h2>
+					</div>
+				</div>
+
+				<div class="six columns animated_box">
+					<a href="./our-adventures/kota-kinabalu">
+						<div><img src="c/adventures/kota-kinabalu.jpg" class="img1" alt="Kota Kinabalu" /></div>
+					</a>	
+					<div>
+						<h2>Kota Kinabalu</h2>
+					</div>
+				</div>
+			
+				<div class="clear"></div>
+
+				<div class="one columns"></div>
+
+				<div class="six columns animated_box">
+					<a href="./our-adventures/kudat">
+						<div><img src="c/adventures/kudat.jpg" class="img1" alt="Kudat" /></div>
+					</a>	
+					<div>
+						<h2>Kudat</h2>
+					</div>
+				</div>
+
+				<div class="six columns animated_box">
+					<a href="./our-adventures/maliau-basin">
+						<div><img src="c/adventures/maliau-basin.jpg" class="img1" alt="Maliau Basin" /></div>
+					</a>	
+					<div>
+						<h2>Maliau Basin</h2>
+					</div>
+				</div>
+
+				<div class="six columns animated_box">
+					<a href="./our-adventures/orou-sapulot">
+						<div><img src="c/adventures/sapulot-country-adventure.jpg" class="img1"  alt="Orou Sapulot - Murut Country Adventure" /></div>
+					</a>	
+					<div>
+						<h2>Orou Sapulot - Murut Country Adventure</h2>
+					</div>
+				</div>
+			
+				<div class="clear"></div>
+
+				<div class="one columns"></div>
+
+				<div class="six columns animated_box">
+					<a href="./our-adventures/sandakan-and-sepilok">
+						<div><img src="c/adventures/sandakan-and-sepilok.jpg" class="img1" alt="Sandakan &amp; Sepilok" /></div>
+					</a>	
+					<div>
+						<h2>Sandakan &amp; Sepilok</h2>
+					</div>
+				</div>
+
+				<div class="six columns animated_box">
+					<a href="./our-adventures/semporna-archipelago">
+						<div><img src="c/adventures/semporna.jpg" class="img1" alt="Semporna Archipelago" /></div>
+					</a>	
+					<div>
+						<h2>Semporna Archipelago</h2>
+					</div>
+				</div>
+
+				<div class="six columns animated_box">
+					<a href="./our-adventures/tabin-wildlife-reserve">
+						<div><img src="c/adventures/tabin-wildlife-reserve.jpg" class="img1" alt="Tabin Wildlife Reserve" /></div>
+					</a>	
+					<div>
+						<h2>Tabin Wildlife Reserve</h2>
+					</div>
+				</div>
 				
 				<div class="clear"></div>
 			</div>	
 		</section>
 
+		<section id="sarawak-intro">
+			<div class="container hd lh">
+
+				<div class="sixteen columns"><h1 class="brown_border">Our Adventures in Sarawak</h1></div>
+				
+				<div class="clear"></div>
+
+			</div>
+		</section>
+
 		<section id="sarawak">
 			<div class="container hd lh">
 
-				<div class="sixteen columns"><h1 class="brown_border">Our Adventures at Sarawak</h1></div>
+				<div class="one columns"></div>
 
-				<div class="eight columns">
-					<div class="pp2">
-						<a href="our-adventures/bako-national-park" title="Bako National Park"><img src="c/adventures/bako.jpg" class="img1" alt="Bako National Park" /></a>
-					</div>					
+				<div class="six columns animated_box">
+					<a href="our-adventures/bako-national-park">
+						<div><img src="c/adventures/bako.jpg" class="img1" alt="Bako National Park" /></div>
+					</a>	
+					<div>
+						<h2>Bako National Park</h2>
+					</div>
+				</div>
+
+				<div class="six columns animated_box">
+					<a href="our-adventures/kuching">
+						<div><img src="c/adventures/kuching.jpg" class="img1" alt="Kuching" /></div>
+					</a>	
+					<div>
+						<h2>Kuching</h2>
+					</div>
 				</div>	
 
-				<div class="eight columns">
-					<div class="pp2">
-						<a href="our-adventures/kuching" title="Kuching"><img src="c/adventures/kuching.jpg" class="img1" alt="Kuching" /></a>
-					</div>	
-				</div>	
-
+				<div class="six columns animated_box">
+					<a href="our-adventures/mulu-national-park">
+						<div><img src="c/adventures/mulu-national-park.jpg" class="img1" alt="Mulu National Park" /></div>
+					</a>	
+					<div>
+						<h2>Mulu National Park</h2>
+					</div>
+				</div>
+			
 				<div class="clear"></div>
 
-				<div class="eight columns">
-					<div class="pp2">
-						<a href="our-adventures/mulu-national-park" title="Mulu National Park"><img src="c/adventures/mulu-national-park.jpg" class="img1"  alt="Mulu National Park" /></a>
-					</div>	
-				</div>	
+				<div class="one columns"></div>
 
-				<div class="eight columns">
-					<div class="pp2">
-						<a href="our-adventures/ulu-ai-experiences" title="Ulu Ai Experiences"><img src="c/adventures/ulu-ai-experiences.jpg" class="img1" alt="Ulu Ai Experiences" /></a>
-					</div>			
-				</div>	
+				<div class="six columns animated_box">
+					<a href="our-adventures/ulu-ai-experiences">
+						<div><img src="c/adventures/ulu-ai-experiences.jpg" class="img1" alt="Ulu Ai Experiences" /></div>
+					</a>	
+					<div>
+						<h2>Ulu Ai Experiences</h2>
+					</div>
+				</div>
 				
 				<div class="clear"></div>
 			</div>		

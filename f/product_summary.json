@@ -481,6 +481,17 @@
 					"category": ["Jungle Trekking", "Culture", "Wildlife"]
 				}
 			]
+		},
+		{
+			"title": "Custom Trips",
+			"child": [
+				{
+					"title": "Custom Trips",
+					"accommodation": 0,
+					"difficulty": 0,
+					"category": []
+				}
+			]
 		}
 	]
 }
