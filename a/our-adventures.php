@@ -20,7 +20,7 @@
 
 		<section>
 			<div class="container hd lh">
-				<h1>What do you feel like doing?</h1>
+				<h1>Browse by category</h1>
 			</div>
 		</section>
 
@@ -75,7 +75,7 @@
 					</div>
 				</div>
 			
-				<div class="clear"></div>	
+				<div class="clear display"></div>	
 
 				<div class="one columns"></div>
 
@@ -137,7 +137,7 @@
 					</div>
 				</div>
 			
-				<div class="clear"></div>
+				<div class="clear display"></div>
 
 				<div class="one columns"></div>
 
@@ -214,7 +214,7 @@
 					</div>
 				</div>
 			
-				<div class="clear"></div>
+				<div class="clear display"></div>
 
 				<div class="one columns"></div>
 

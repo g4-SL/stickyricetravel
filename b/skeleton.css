@@ -29,7 +29,7 @@
 .container .eleven.columns{width:640px}
 .container .twelve.columns{width:700px}
 .container .sixteen.columns{width:940px}
-.container .six.columns.product_box{width:300px}
+.container .six.columns.product_box, .container .six.columns.animated_box{width:300px}
 .container .columns.display{display:none}
 .pp2 a:after{font-size: 1.7em}
 }
@@ -48,7 +48,7 @@
 .container .eleven.columns{width:508px}
 .container .twelve.columns{width:556px}
 .container .sixteen.columns{width:748px}
-.container .six.columns.product_box{width:364px}
+.container .six.columns.product_box, .container .six.columns.animated_box{width:364px}
 .container .display{display:none}
 .pp2 a:after{font-size: 1.7em}
 }

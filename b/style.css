@@ -41,9 +41,8 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 
 .animated_box div:nth-child(2){background-color:#fff;padding:35px 40px;height:50px;background-image: url(../c/paper-bg-icon.png)}
 .animated_box div h2{text-align:center;text-transform:uppercase;line-height:1;font-family:'Oswald',sans-serif;margin:0;color:#efefef}
-.animated_box a div{overflow: hidden;width:340px;height:255px;}
-.animated_box a img{width:100%; -webkit-transition: all 0.2s linear; -moz-transition: all 0.2s linear; -ms-transition: all 0.2s linear; -o-transition: all 0.2s linear; transition: all 0.2s linear;}
-.animated_box a img:hover{-webkit-transform:scale(1.5); -moz-transform:scale(1.5); -ms-transform:scale(1.5); -o-transform:scale(1.5); transform:scale(1.5);}
+.animated_box a div{overflow: hidden}
+.animated_box a img{width:100%}
 
 .left_space:before {margin-right: 15px;}
 .popular_subtitle {text-align: center;border-bottom: 1px solid #f1f1f1;padding: 10px 10px 15px;margin-bottom: 15px;font-family: 'Oswald', sans-serif;text-transform: uppercase;color: #603d05;font-size: 1.5em}
@@ -100,6 +99,15 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 @media (max-width:600px){
 	.lar2{width:100% !important}
 	.bf{width:100%}
+}
+
+/*xx-large screen*/
+@media (min-width:1200px){
+	.map-adv{display: block}
+	.img-adv{display: none}
+	.animated_box a div{width:340px;height:255px;}
+	.animated_box a img{-webkit-transition: all 0.2s linear; -moz-transition: all 0.2s linear; -ms-transition: all 0.2s linear; -o-transition: all 0.2s linear; transition: all 0.2s linear;}
+	.animated_box a img:hover{-webkit-transform:scale(1.5); -moz-transform:scale(1.5); -ms-transform:scale(1.5); -o-transform:scale(1.5); transform:scale(1.5);}
 }
 
 /*x-large, xx-large screen*/
