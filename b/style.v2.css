@@ -51,16 +51,21 @@ input.bn, input.bn:hover{text-align: left; font-family: 'Oswald'; font-size: 1.5
 
 h1.our_adv{
 	color:#fff;
-	font-size: 3em;
+	font-size: 3.5em;
+	letter-spacing: 3pt;
 }
-#sabah-intro, #sarawak-intro{
+.parallax{
 	background-attachment: fixed;
 	background-position: center center;
 	background-size: cover;
-	height:80vh;
+	height:200vh;
+	color:#fff;
 }
-#sabah-intro, #sarawak-intro{
+#sabah-intro, #others-intro{
 	background-image:url(../c/large/www-adventures-sabah.jpg);
+}
+#sarawak-intro{
+	background-image:url(../c/large/www-adventures-sarawak.jpg);
 }
 #our-adventure section{
 	padding-bottom: 60px;

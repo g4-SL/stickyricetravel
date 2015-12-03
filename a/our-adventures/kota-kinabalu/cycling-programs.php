@@ -8,7 +8,7 @@
 	
 	<nav></nav><section>	
 			
-		<div class="container hd">
+		<div class="container hd lh">
 
 			<div class="two columns"></div>
 
@@ -43,7 +43,7 @@
 						</div>
 					</a>			
 				</div>
-			</div>		
+			</div>	
 
 			<div class="six columns product_box">
 				<div class="img_boxing">
@@ -81,9 +81,9 @@
 						</div>
 					</a>			
 				</div>
-			</div>	
-			
-			<div class="clear"></div>	
+			</div>
+
+			<div class="clear display"></div>	
 			
 		</div>
 		

@@ -59,7 +59,7 @@
 					<a href="./our-adventures/danum-valley/danum-valley-field-center">
 						<img src="/c/adventures/danum-valley-field-center.jpg" class="img1" alt="Danum Valley Field Center (DVFC)"/>
 						<h2>Danum Valley Field Center (DVFC)</h2>
-<!-- 						<div class="rating accommodation">
+						<div class="rating accommodation">
 							<h3>Dwelling</h3>
 						</div>
 						<div class="rating difficulty">
@@ -68,7 +68,7 @@
 						<div class="clear"></div>
 						<div class="category">
 							<h3>Category</h3>
-						</div> -->
+						</div>
 					</a>			
 				</div>
 			</div>

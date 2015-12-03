@@ -21,29 +21,59 @@
 		<section>
 			<div class="container hd lh">
 				<h1>Browse by category</h1>
+				<div class="two columns"></div>
+				<div class="four columns">
+					<img src="../c/map/kota-belud.png" style="width:90%;margin:0 5%">
+				</div>
+				<div class="four columns">
+					<img src="../c/map/kota-belud.png" style="width:90%;margin:0 5%">
+				</div>
+				<div class="four columns">
+					<img src="../c/map/kota-belud.png" style="width:90%;margin:0 5%">
+				</div>
+				<div class="four columns">
+					<img src="../c/map/kota-belud.png" style="width:90%;margin:0 5%">
+				</div>
+				<div class="clear"></div>
+				<div class="two columns"></div>
+				<div class="four columns">
+					<img src="../c/map/kota-belud.png" style="width:90%;margin:0 5%">
+				</div>
+				<div class="four columns">
+					<img src="../c/map/kota-belud.png" style="width:90%;margin:0 5%">
+				</div>
+				<div class="four columns">
+					<img src="../c/map/kota-belud.png" style="width:90%;margin:0 5%">
+				</div>
+				<div class="four columns">
+					<img src="../c/map/kota-belud.png" style="width:90%;margin:0 5%">
+				</div>
+				<div class="clear"></div>
+				<div class="six columns"></div>
+				<div class="four columns">
+					<img src="../c/map/kota-belud.png" style="width:90%;margin:0 5%">
+				</div>
+				<div class="four columns">
+					<img src="../c/map/kota-belud.png" style="width:90%;margin:0 5%">
+				</div>
 			</div>
 		</section>
 
-		<section id="sabah-intro">
+		<section id="sabah-intro" class="parallax">
 			<div class="container hd lh">	
-				<div class="sixteen columns">
-					<ul class="brc">
-						<li><a href="/home">Home</a></li>
-						<li>Our Adventures</li>
-					</ul>
-				</div>	
-
-<!-- 				<div class="sixteen columns"><h1 class="brown_border">Our Adventures in Sabah</h1></div> -->
-				<div class="sixteen columns">
-					<h1 class="our_adv">Our Adventures in Sabah</h1>
-				</div>
-			
-				<div class="clear"></div>	
+				<div class="eleven columns"></div>
+				<div class="nine columns">
+					<img src="../c/adventures/sabah.png" style="width:100%">
+					<h1 class="our_adv">Sabah</h1>
+					<p>
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+					</p>
+				</div>		
 			</div>
+			<div class="clear"></div>
 		</section>
 
 		<section id="sabah">
-
 			<div class="container hd lh">	
 
 				<div class="one columns"></div>
@@ -172,13 +202,16 @@
 			</div>	
 		</section>
 
-		<section id="sarawak-intro">
+		<section id="sarawak-intro" class="parallax">
 			<div class="container hd lh">
-
-				<div class="sixteen columns"><h1 class="brown_border">Our Adventures in Sarawak</h1></div>
-				
-				<div class="clear"></div>
-
+				<div class="one columns"></div>
+				<div class="nine columns">
+					<img src="../c/adventures/sarawak.png" style="width:100%">
+					<h1 class="our_adv">Sarawak</h1>
+					<p>
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+					</p>
+				</div>	
 			</div>
 		</section>
 
@@ -231,10 +264,18 @@
 			</div>		
 		</section>	
 
-		<section id="others">
+		<section id="others-intro" class="parallax">
 			<div class="container hd lh">
 
-				<div class="sixteen columns"><h1 class="brown_border">Other Services</h1></div>
+				<div class="sixteen columns"><h1 class="brown_border">Our Adventures in Sarawak</h1></div>
+				
+				<div class="clear"></div>
+
+			</div>
+		</section>
+
+		<section id="others">
+			<div class="container hd lh">
 				
 				<div class="eight columns">
 					<div class="pp2 marginbottom">

@@ -36,7 +36,7 @@
 					<a href="./our-adventures/kota-kinabalu/cycling-programs">
 						<img src="/c/adventures/cycling-programs.jpg" class="img1" alt="Cycling Programs"/>
 						<h2>Cycling Programs</h2>
-<!-- 						<div class="rating accommodation">
+						<div class="rating accommodation">
 							<h3>Dwelling</h3>
 						</div>
 						<div class="rating difficulty">
@@ -45,7 +45,7 @@
 						<div class="clear"></div>
 						<div class="category">
 							<h3>Category</h3>
-						</div> -->
+						</div>
 					</a>			
 				</div>
 			</div>		

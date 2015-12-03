@@ -56,6 +56,12 @@
 					"category": ["Wildlife", "Jungle Trekking"]
 				},
 				{
+					"title": "Danum Valley Field Center (DVFC)",
+					"accommodation": 0,
+					"difficulty": 0,
+					"category": []
+				},
+				{
 					"title": "3D2N / 4D3N DVFC Explorer",
 					"accommodation": 1,
 					"difficulty": 1,
@@ -160,6 +166,12 @@
 			"title": "Kota Kinabalu",
 			"child": [
 				{
+					"title": "Cycling Programs",
+					"accommodation": 0,
+					"difficulty": 0,
+					"category": []
+				},
+				{
 					"title": "Easy Breezy Ride",
 					"accommodation": 0,
 					"difficulty": 1,
@@ -173,12 +185,6 @@
 				},
 				{
 					"title": "Kiulu Fun & Green",
-					"accommodation": 0,
-					"difficulty": 1,
-					"category": ["Day Trip"]
-				},
-				{
-					"title": "Cycling Programs",
 					"accommodation": 0,
 					"difficulty": 1,
 					"category": ["Day Trip"]
