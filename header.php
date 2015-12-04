@@ -24,6 +24,8 @@
 	<link rel="stylesheet" type="text/css" href="/b/style.css" />
 	<link rel="stylesheet" type="text/css" href="/b/style.v2.css" />
 	<link rel="stylesheet" type="text/css" href="/b/popup.css" />
+	<link rel="stylesheet" type="text/css" href="/b/slick.css" />
+	<link rel="stylesheet" type="text/css" href="/b/slick-theme.css" />
 	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
 	<link rel="stylesheet" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" />
 	
@@ -32,9 +34,7 @@
 	</style>	
 	
 	<noscript><link rel="stylesheet" type="text/css" href="/b/noscript.css" /></noscript>
-
-	<link href='http://fonts.googleapis.com/css?family=Chelsea+Market' rel='stylesheet' type='text/css' />
-	<link href='https://fonts.googleapis.com/css?family=Amatic+SC' rel='stylesheet' type='text/css'>	
+	
 	<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
 	
 	<!--[if lt IE 9]>
@@ -42,6 +42,7 @@
 	<![endif]-->
 
 	<script type="text/javascript" src="/d/jquery.min.js"></script>
+	<script type="text/javascript" src="/d/jquery-migrate.1.2.1.min.js"></script>
 	<script type="text/javascript" src="/d/jquery.eislideshow.js"></script>
 	<script type="text/javascript" src="/d/jquery.easing.1.3.js"></script>
 	<script type="text/javascript" src="/d/jquery.ms.js"></script>
@@ -50,6 +51,8 @@
 	<script type="text/javascript" src="/d/start.js"></script>	
 	<script type="text/javascript" src="/d/popup.js"></script>	
 	<script type="text/javascript" src="/d/populate.js"></script>
+	<script type="text/javascript" src="/d/slick.min.js"></script>
+	<script type="text/javascript" src="/d/skroll.min.js"></script>
 	<script type="text/javascript" src="/d/instafeed.min.js"></script>	
 	<script src="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script>
 	

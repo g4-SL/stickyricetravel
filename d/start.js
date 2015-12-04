@@ -38,10 +38,10 @@ $(function() {
 	$('.divider').append('<div class="arrow" id="left"><img src="../c/about-us/arrow-left.png" style="width:100%"></div><div class="arrow" id="right"><img src="../c/about-us/arrow-right.png" style="width:100%"></div>');
 	$('.hd .big_title h1').after('<div class="short_line"></div>');
 	$('.hd .big_title p:nth-child(4)').css({"paddingTop": 20}); 
-	$('.parallax .container').css({"paddingTop": parseInt($(window).height(),10) - parseInt($('#sabah-intro .container').height(),10)}); 
 	$('.parallax').each(function(){
-		$(this).find('.container').css({"paddingTop": parseInt($(window).height(),10) - parseInt($(this).find('.container').height(),10)}); 
+		$(this).find('.container img').css({"paddingTop": (parseInt($(window).height(),10) - parseInt($(this).find('.container').height(),10))*0.6}); 
 	});
+	$('#others-intro').css({"paddingTop": parseInt($(window).height(),10)/3});
 });
 
 $(function() {
@@ -52,20 +52,6 @@ $(function() {
 		titlesFactor		: 0
 	});
 });
-
-// $(window).scroll(function() {
-// 	$('section:has(.parallax)').find('.parallax').each(function(){
-// 		var currentBottom = $(window).scrollTop() + $(window).width();
-// 		if(currentBottom <= ($(this).offset().top + parseInt($(this).width(),10))){
-// 			$(this).css("background-attachment", "fixed");
-// 			console.log($(this).css("background-attachment"));
-// 		}
-// 		else{
-// 			$(this).css("background-attachment", "static");
-// 			console.log($(this).attr('id') + ":  " + $(this).css("background-attachment"));
-// 		}
-// 	});
-// }); 
 
 var currentYear = (new Date).getFullYear();
   $(document).ready(function() {
@@ -94,7 +80,40 @@ $(document).on('click', '.divider .arrow', function() {
     }
 });
 
+$(window).load(function(){
+	skrollr.init({
+	    smoothScrolling: true,
+	    forceHeight: false
+	});
+});
+
 $(document).ready(function(){	
+	$('.crsl').slick({
+		speed: 300,
+		slidesToShow: 4,
+		slidesToScroll: 1,
+		responsive: [{
+		  breakpoint: 1024,
+		  settings: {
+		    slidesToShow: 3,
+		    slidesToScroll: 3,
+		  }
+		},
+		{
+		  breakpoint: 600,
+		  settings: {
+		    slidesToShow: 2,
+		    slidesToScroll: 2
+		  }
+		},
+		{
+		  breakpoint: 480,
+		  settings: {
+		    slidesToShow: 1,
+		    slidesToScroll: 1
+		  }
+		}]
+	});
 
 	// about us description horizontally aligned with image
 	if($(window).width() > 767){

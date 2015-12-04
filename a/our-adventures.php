@@ -20,47 +20,36 @@
 
 		<section>
 			<div class="container hd lh">
+				<div class="two columns"></div>
 				<h1>Browse by category</h1>
 				<div class="two columns"></div>
-				<div class="four columns">
-					<img src="../c/map/kota-belud.png" style="width:90%;margin:0 5%">
-				</div>
-				<div class="four columns">
-					<img src="../c/map/kota-belud.png" style="width:90%;margin:0 5%">
-				</div>
-				<div class="four columns">
-					<img src="../c/map/kota-belud.png" style="width:90%;margin:0 5%">
-				</div>
-				<div class="four columns">
-					<img src="../c/map/kota-belud.png" style="width:90%;margin:0 5%">
-				</div>
-				<div class="clear"></div>
-				<div class="two columns"></div>
-				<div class="four columns">
-					<img src="../c/map/kota-belud.png" style="width:90%;margin:0 5%">
-				</div>
-				<div class="four columns">
-					<img src="../c/map/kota-belud.png" style="width:90%;margin:0 5%">
-				</div>
-				<div class="four columns">
-					<img src="../c/map/kota-belud.png" style="width:90%;margin:0 5%">
-				</div>
-				<div class="four columns">
-					<img src="../c/map/kota-belud.png" style="width:90%;margin:0 5%">
-				</div>
-				<div class="clear"></div>
-				<div class="six columns"></div>
-				<div class="four columns">
-					<img src="../c/map/kota-belud.png" style="width:90%;margin:0 5%">
-				</div>
-				<div class="four columns">
-					<img src="../c/map/kota-belud.png" style="width:90%;margin:0 5%">
+				<div class="crsl sixteen columns">
+					<div>
+				        <img src="../c/map/kota-belud.png" style="width:90%;margin:0 5%">
+			        </div>
+					<div>
+				        <img src="../c/map/semporna.png" style="width:90%;margin:0 5%">
+			        </div>
+					<div>
+				        <img src="../c/map/kuching.png" style="width:90%;margin:0 5%">
+			        </div>
+					<div>
+				        <img src="../c/map/kota-kinabalu.png" style="width:90%;margin:0 5%">
+			        </div>
+					<div>
+				        <img src="../c/map/crocker-range.png" style="width:90%;margin:0 5%">
+			        </div>
+					<div>
+				        <img src="../c/map/kudat.png" style="width:90%;margin:0 5%">
+			        </div>
 				</div>
 			</div>
 		</section>
 
-		<section id="sabah-intro" class="parallax">
-			<div class="container hd lh">	
+		<section class="parallax" id="section_sabah_intro">
+		    <div class="bcg" id="sabah_bg_1" data-top-bottom="opacity:0" data--200-top="opacity:1" data-anchor-target="#section_sabah_intro .container"></div>
+		    <div class="bcg" id="sabah_bg_2"></div>
+			<div class="container hd lh">
 				<div class="eleven columns"></div>
 				<div class="nine columns">
 					<img src="../c/adventures/sabah.png" style="width:100%">
@@ -68,9 +57,8 @@
 					<p>
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 					</p>
-				</div>		
+				</div>	
 			</div>
-			<div class="clear"></div>
 		</section>
 
 		<section id="sabah">
@@ -202,7 +190,9 @@
 			</div>	
 		</section>
 
-		<section id="sarawak-intro" class="parallax">
+		<section class="parallax" id="section_sarawak_intro">
+		    <div class="bcg" id="sarawak_bg_1" data-top-bottom="opacity:0" data--200-top="opacity:1" data-anchor-target="#section_sarawak_intro .container"></div>
+		    <div class="bcg" id="sarawak_bg_2"></div>
 			<div class="container hd lh">
 				<div class="one columns"></div>
 				<div class="nine columns">
@@ -266,11 +256,13 @@
 
 		<section id="others-intro" class="parallax">
 			<div class="container hd lh">
-
-				<div class="sixteen columns"><h1 class="brown_border">Our Adventures in Sarawak</h1></div>
+				<div class="two columns"></div>
+				<div class="sixteen columns">
+					<h1 class="our_adv" style="text-align:center">Can't find what you're looking for?</h1>
+					<h1 class="our_adv" style="text-align:center">Custom Trips</h1>
+				</div>
 				
 				<div class="clear"></div>
-
 			</div>
 		</section>
 
