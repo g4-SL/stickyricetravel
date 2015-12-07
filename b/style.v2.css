@@ -2,6 +2,10 @@
     font-family: 'Sanchez';
     src: url(../font/sanchez.otf);
 }
+@font-face {
+    font-family: 'Shabby';
+    src: url(../font/shabby.ttf);
+}
 
 .pp2{font-size: 16px;}
 .pp2 a, .ttit {background: white;display: inline;float: left;padding: 10px 10px 100px;text-align: center;text-decoration: none;-webkit-box-shadow: 0 4px 6px rgba(0, 0, 0, .3);-moz-box-shadow: 0 4px 6px rgba(0,0,0,.3);box-shadow: 0 4px 6px rgba(0,0,0,.3);z-index:0;position:relative;-webkit-filter: grayscale(0%);}
@@ -59,18 +63,14 @@ h1.our_adv{
 	background-position: center center;
 	background-size: cover;
 	background-repeat: no-repeat;
-	height:200vh;
 	width: 100%;
 	color:#fff;
 	padding: 0 !important;
 	position: relative;
-	height: 230vh;
 }
-.parallax p{
-	font-size:1em;
-	padding: 15px;
-	background-color: rgba(0,0,0,0.5);
-}
+.parallax#section_sabah_intro .desc{text-align:right;}
+.parallax .desc h1{padding: 0 15px;}
+.parallax .desc p{font-size:1em;padding: 15px;}
 .bcg{
 	position: absolute;
 	left:0;
@@ -80,11 +80,17 @@ h1.our_adv{
     background-attachment: fixed;
 	background-size: cover;
 }
+.fun_column h2{font-family: 'Shabby', sans-serif;color:#fff;font-size:3em}
+.fun_column p{font-family: 'Sanchez', sans-serif;font-size:1.5em;line-height:1.2}
+.fun_column a{color:#fff;text-decoration:none;font-size:1.5em;background-color:#333;padding:10px 30px;}
+.fun_column a:hover{cursor:pointer;}
 #sabah_bg_1{background-image:url(../c/large/www-adventures-sabah.jpg);z-index:-1;top:0;}
 #sabah_bg_2{background-image:url(../c/large/www-adventures-sabah-sunset.jpg);background-position: center center;z-index:-2;bottom:0;}
 #sarawak_bg_1{background-image:url(../c/large/www-adventures-sarawak.jpg)}
-#sarawak_bg_2{background-image:url(../c/large/www-ourfriends.jpg);background-position: center center;z-index:-2;bottom:0;}
-#others-intro{background-image:url(../c/large/www-adventures-others.jpg);height:80vh !important;}
+#sarawak_bg_2{background-image:url(../c/large/www-adventures-sarawak-2.jpg);background-position: center center;z-index:-2;bottom:0;}
+#others-intro{background-image:url(../c/large/www-adventures-others.jpg);height:80vh !important;text-align:center;}
+#others-intro *{color:#fff}
+
 #our-adventure section{padding-bottom: 60px;}
 #review h2, .small_title{
 	text-align: center;

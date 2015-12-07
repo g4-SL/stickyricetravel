@@ -38,10 +38,6 @@
 				<div class="clear"></div>			
 			
 				<div class="nine columns">
-
-					<p>
-						The Kinabalu Camping program takes you to a little used substation of Kinabalu National Park, with vast jungle, a temperate climate, and an abundance of biodiversity. Located at 1,080 meters above sea level, the primary rainforest is filled with orchids, giant trees and waterfalls. The campsite is along a beautiful mountain river, with western toilets and showers just a short walk from the basecamp.
-					</p>
 					<p>
 						The ‘via ferrata’ portion is an addition to the summit climb (attempted after your summit to the peak). The Mt Kinabalu via ferrata is one of the highest via ferrata in the world at 3,776metres. You can choose between 2 via ferrata programs:
 					</p>

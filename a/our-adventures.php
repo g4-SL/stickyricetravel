@@ -46,18 +46,31 @@
 			</div>
 		</section>
 
-		<section class="parallax" id="section_sabah_intro">
-		    <div class="bcg" id="sabah_bg_1" data-top-bottom="opacity:0" data--200-top="opacity:1" data-anchor-target="#section_sabah_intro .container"></div>
+		<section class="parallax" id="section_sabah_intro" rel="sabah">
+		    <div class="bcg" id="sabah_bg_1" data--1100-top="opacity:0" data--500-top="opacity:1" data-anchor-target="#section_sabah_intro .container"></div>
 		    <div class="bcg" id="sabah_bg_2"></div>
 			<div class="container hd lh">
-				<div class="eleven columns"></div>
-				<div class="nine columns">
+				<div class="ten columns"></div>
+				<div class="nine columns desc">
 					<img src="../c/adventures/sabah.png" style="width:100%">
 					<h1 class="our_adv">Sabah</h1>
 					<p>
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 					</p>
 				</div>	
+			
+				<div class="clear"></div>
+
+				<div class="one columns"></div>
+				<div class="ten columns fun_column">
+					<h2>
+						Fun Fact
+					</h2>
+					<p>
+						"Kota Kinabalu is listed as one of the best places to view the sunset by the Huffington Post"
+					</p>
+					<a>Have a look at our Sabah packages</a>
+				</div>
 			</div>
 		</section>
 
@@ -190,18 +203,31 @@
 			</div>	
 		</section>
 
-		<section class="parallax" id="section_sarawak_intro">
-		    <div class="bcg" id="sarawak_bg_1" data-top-bottom="opacity:0" data--200-top="opacity:1" data-anchor-target="#section_sarawak_intro .container"></div>
+		<section class="parallax" id="section_sarawak_intro" rel="sarawak">
+		    <div class="bcg" id="sarawak_bg_1" data--1000-top="opacity:0" data--400-top="opacity:1" data-anchor-target="#section_sarawak_intro .container"></div>
 		    <div class="bcg" id="sarawak_bg_2"></div>
 			<div class="container hd lh">
 				<div class="one columns"></div>
-				<div class="nine columns">
+				<div class="nine columns desc">
 					<img src="../c/adventures/sarawak.png" style="width:100%">
 					<h1 class="our_adv">Sarawak</h1>
 					<p>
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 					</p>
 				</div>	
+			
+				<div class="clear"></div>
+
+				<div class="ten columns"></div>
+				<div class="ten columns fun_column">
+					<h2>
+						Fun Fact
+					</h2>
+					<p>
+						"Kota Kinabalu is listed as one of the best places to view the sunset by the Huffington Post"
+					</p>
+					<a>Have a look at our Sarawak packages</a>
+				</div>
 			</div>
 		</section>
 
@@ -258,8 +284,8 @@
 			<div class="container hd lh">
 				<div class="two columns"></div>
 				<div class="sixteen columns">
-					<h1 class="our_adv" style="text-align:center">Can't find what you're looking for?</h1>
-					<h1 class="our_adv" style="text-align:center">Custom Trips</h1>
+					<h1 class="our_adv">Can't find what you're looking for?</h1>
+					<h2>We try to accommodate for all your travel wants &amp; needs</h1>
 				</div>
 				
 				<div class="clear"></div>
@@ -268,12 +294,26 @@
 
 		<section id="others">
 			<div class="container hd lh">
-				
-				<div class="eight columns">
-					<div class="pp2 marginbottom">
-						<a href="our-adventures/custom-trips" title="Custom Trips"><img src="c/adventures/custom-trips.jpg" class="img1" alt="Custom Trips" /></a>
-					</div>		
-				</div>	
+
+				<div class="one columns"></div>
+
+				<div class="six columns animated_box">
+					<a href="our-adventures/custom-trips">
+						<div><img src="c/adventures/custom-trips.jpg" class="img1" alt="Custom Trips" /></div>
+					</a>	
+					<div>
+						<h2>Custom Trips</h2>
+					</div>
+				</div>
+
+				<div class="six columns animated_box">
+					<a>
+						<div><img src="c/adventures/more.jpg" class="img1" alt="More to come" /></div>
+					</a>	
+					<div>
+						<h2>...</h2>
+					</div>
+				</div>
 
 				<div class="clear"></div>
 			</div>		
@@ -284,6 +324,13 @@
 <script language="javascript" type="text/javascript" src="d/jquery.ms.js"></script>
 <script type="text/javascript">
 $(document).ready(function() {
+
+	$('.parallax .fun_column a').click(function(){
+		var name = $(this).parent().parent().parent().attr('rel');
+		$('html, body').animate({
+		    scrollTop: ($('#' + name).offset().top)
+		},500);
+	});
 
 	var geojsonFeature = "";
 	var map = L.map('map', {scrollWheelZoom: false}).setView([4.669797, 114.822235], 7);

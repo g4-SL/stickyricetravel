@@ -38,10 +38,16 @@ $(function() {
 	$('.divider').append('<div class="arrow" id="left"><img src="../c/about-us/arrow-left.png" style="width:100%"></div><div class="arrow" id="right"><img src="../c/about-us/arrow-right.png" style="width:100%"></div>');
 	$('.hd .big_title h1').after('<div class="short_line"></div>');
 	$('.hd .big_title p:nth-child(4)').css({"paddingTop": 20}); 
+});
+
+// Styling for parallax page for Our Adventures
+$(function() {
+	$('.parallax').css({"height": parseInt($(window).height(),10)*2.5});
 	$('.parallax').each(function(){
-		$(this).find('.container img').css({"paddingTop": (parseInt($(window).height(),10) - parseInt($(this).find('.container').height(),10))*0.6}); 
+		$(this).find('.container img').css({"paddingTop": parseInt($(window).height(),10) - (parseInt($(this).find('.container .desc').height(),10)*1.2)}); 
 	});
-	$('#others-intro').css({"paddingTop": parseInt($(window).height(),10)/3});
+	$('#others-intro .container').css({"paddingTop": (parseInt($('#others-intro').outerHeight(),10) - parseInt($('#others-intro .container').height(),10))/2});
+	$('.fun_column').css({"paddingTop": parseInt($(window).height(),10)});
 });
 
 $(function() {
