@@ -285,7 +285,7 @@
 				<div class="two columns"></div>
 				<div class="sixteen columns">
 					<h1 class="our_adv">Can't find what you're looking for?</h1>
-					<h2>We try to accommodate for all your travel wants &amp; needs</h1>
+					<h2>We try to accommodate for all your travel wants &amp; needs</h2>
 				</div>
 				
 				<div class="clear"></div>
