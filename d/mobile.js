@@ -5,10 +5,12 @@ function disableSkrollr(){
         $(this).removeAttr("data--500-top");
         $(this).removeAttr("data-anchor-target");
     });
-    $('.fun_column').css({"display": "none"});
+
     $('.parallax .bg').each(function(){
         $(this).removeClass("desktop").addClass("mobile");
     });
+
+    $('.fun_column').css({"display": "none"});
     $('.parallax').each(function(){
         $(this).css({"height": 2300});
         $(this).find('.container .desc .desktop_desc').css({"display":"none"});
@@ -24,12 +26,14 @@ function enableSkrollr(){
         $(this).attr("data-anchor-target", "#section_" + $(this).parent().attr('rel') + "_intro .container");
     });
 
-    $('.fun_column').css({"paddingTop": parseInt($(window).height(),10)*0.9});
     $('.parallax .bg').each(function(){
         $(this).removeClass("mobile").addClass("desktop");
     });
+
+    $('.fun_column').css({"paddingTop": parseInt($(window).height(),10)*0.9});
     $('.parallax').each(function(){
         $(this).css({"height": parseInt($(window).height(),10)*2.5});
+        console.log($(this).attr('id') + parseInt($(this).find('.container .total_col').height(),10));
         $(this).find('.container').css({"paddingTop": parseInt($(window).height(),10) - (parseInt($(this).find('.container .total_col').height(),10))}); 
         $(this).find('.container .desc .desktop_desc').css({"display":"block"});
         $(this).find('.container .desc .mobile_desc').css({"display":"none"});
@@ -45,17 +49,7 @@ var isMobile = {
     any: function() { return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows()); } 
 };
 
-function checkMobile(){
-    if(isMobile.any()){
-        disableSkrollr();
-        console.log("entering mobile view");
-    }
-    else{
-        enableSkrollr();
-        console.log("entering desktop view");
-    }
-};
-
-$(function(){
-    checkMobile();
+$(document).ready(function(){
+    if(isMobile.any()){disableSkrollr();}
+    else{enableSkrollr();}
 });
