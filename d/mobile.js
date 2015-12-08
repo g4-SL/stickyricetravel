@@ -24,13 +24,13 @@ function enableSkrollr(){
         $(this).attr("data-anchor-target", "#section_" + $(this).parent().attr('rel') + "_intro .container");
     });
 
-    $('.fun_column').css({"paddingTop": parseInt($(window).height(),10)});
+    $('.fun_column').css({"paddingTop": parseInt($(window).height(),10)*0.9});
     $('.parallax .bg').each(function(){
         $(this).removeClass("mobile").addClass("desktop");
     });
     $('.parallax').each(function(){
         $(this).css({"height": parseInt($(window).height(),10)*2.5});
-        $(this).find('.container img').css({"paddingTop": parseInt($(window).height(),10) - (parseInt($(this).find('.container .desc').height(),10)*1.2)}); 
+        $(this).find('.container').css({"paddingTop": parseInt($(window).height(),10) - (parseInt($(this).find('.container .total_col').height(),10))}); 
         $(this).find('.container .desc .desktop_desc').css({"display":"block"});
         $(this).find('.container .desc .mobile_desc').css({"display":"none"});
     });

@@ -1,6 +1,6 @@
 <?php if ($select_intro == "sabah"){ ?>
 		<div class="container hd lh">
-			<div class="eleven columns desc">
+			<div class="eleven columns desc total_col">
 				<img src="../c/adventures/sabah.png" style="width:100%">
 				<p class="desktop_desc">
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -29,7 +29,7 @@
 <?php }
 	else if ($select_intro == "sarawak"){ ?>
 		<div class="container hd lh">
-			<div class="eleven columns desc">
+			<div class="eleven columns desc total_col">
 				<img src="../c/adventures/sarawak.png" style="width:100%">
 				<p class="desktop_desc">
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

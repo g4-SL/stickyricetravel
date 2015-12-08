@@ -14,19 +14,11 @@
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
-				<img src="c/large/www-slide-forest.jpg" alt="forest"/>
+				<img src="c/large/www-adventures-home-1.jpg" alt="Semporna Bajau Laut Home" />
 				<div class="ei-title"></div>
 			</li>
 			<li>
-				<img src="c/large/www-slide-orang-utan.jpg" alt="orang utan" />
-				<div class="ei-title"></div>
-			</li>
-			<li>
-				<img src="c/large/www-slide-slow-loris.jpg" alt="slow loris" />
-				<div class="ei-title"></div>
-			</li>
-			<li>
-				<img src="c/large/www-slide-surreal-river.jpg"  alt="surreal river"/>
+				<img src="c/large/www-adventures-home-2.jpg" alt="Proboscis Monkey" />
 				<div class="ei-title"></div>
 			</li>
 			<li>
@@ -68,10 +60,15 @@
 						</div>
 					</div>
 				</div>	
-			</div>		
+			</div>	
+		</div>	
 
-			<div class="clear"></div>	
+		<div class="clear"></div>	
 
+		<section id="home_bg_1" class="parallax">
+		</section>
+
+		<div class="container">
 			<div class="sixteen columns" style="margin-bottom:10px">
 
 				<h1 class="brown_border">Popular Adventures</h1>

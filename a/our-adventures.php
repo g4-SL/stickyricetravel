@@ -18,34 +18,6 @@
 	
 	<nav></nav><section id="our-adventure">	
 
-		<section>
-			<div class="container hd lh">
-				<div class="two columns"></div>
-				<h1>Browse by category</h1>
-				<div class="two columns"></div>
-				<div class="crsl sixteen columns">
-					<div>
-				        <img src="../c/map/kota-belud.png" style="width:90%;margin:0 5%">
-			        </div>
-					<div>
-				        <img src="../c/map/semporna.png" style="width:90%;margin:0 5%">
-			        </div>
-					<div>
-				        <img src="../c/map/kuching.png" style="width:90%;margin:0 5%">
-			        </div>
-					<div>
-				        <img src="../c/map/kota-kinabalu.png" style="width:90%;margin:0 5%">
-			        </div>
-					<div>
-				        <img src="../c/map/crocker-range.png" style="width:90%;margin:0 5%">
-			        </div>
-					<div>
-				        <img src="../c/map/kudat.png" style="width:90%;margin:0 5%">
-			        </div>
-				</div>
-			</div>
-		</section>
-
 		<section class="parallax" id="section_sabah_intro" rel="sabah">
 		    <div class="desktop bg skrollr_bg" id="sabah_bg_1"></div>
 		    <?php $select_intro = "sabah"; include 'our-adventures-intro.php' ?>
