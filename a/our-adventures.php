@@ -47,31 +47,9 @@
 		</section>
 
 		<section class="parallax" id="section_sabah_intro" rel="sabah">
-		    <div class="bcg" id="sabah_bg_1" data--1100-top="opacity:0" data--500-top="opacity:1" data-anchor-target="#section_sabah_intro .container"></div>
-		    <div class="bcg" id="sabah_bg_2"></div>
-			<div class="container hd lh">
-				<div class="ten columns"></div>
-				<div class="nine columns desc">
-					<img src="../c/adventures/sabah.png" style="width:100%">
-					<h1 class="our_adv">Sabah</h1>
-					<p>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-					</p>
-				</div>	
-			
-				<div class="clear"></div>
-
-				<div class="one columns"></div>
-				<div class="ten columns fun_column">
-					<h2>
-						Fun Fact
-					</h2>
-					<p>
-						"Kota Kinabalu is listed as one of the best places to view the sunset by the Huffington Post"
-					</p>
-					<a>Have a look at our Sabah packages</a>
-				</div>
-			</div>
+		    <div class="desktop bg skrollr_bg" id="sabah_bg_1"></div>
+		    <?php $select_intro = "sabah"; include 'our-adventures-intro.php' ?>
+		    <div class="desktop bg" id="sabah_bg_2"></div>
 		</section>
 
 		<section id="sabah">
@@ -204,31 +182,9 @@
 		</section>
 
 		<section class="parallax" id="section_sarawak_intro" rel="sarawak">
-		    <div class="bcg" id="sarawak_bg_1" data--1000-top="opacity:0" data--400-top="opacity:1" data-anchor-target="#section_sarawak_intro .container"></div>
-		    <div class="bcg" id="sarawak_bg_2"></div>
-			<div class="container hd lh">
-				<div class="one columns"></div>
-				<div class="nine columns desc">
-					<img src="../c/adventures/sarawak.png" style="width:100%">
-					<h1 class="our_adv">Sarawak</h1>
-					<p>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-					</p>
-				</div>	
-			
-				<div class="clear"></div>
-
-				<div class="ten columns"></div>
-				<div class="ten columns fun_column">
-					<h2>
-						Fun Fact
-					</h2>
-					<p>
-						"Kota Kinabalu is listed as one of the best places to view the sunset by the Huffington Post"
-					</p>
-					<a>Have a look at our Sarawak packages</a>
-				</div>
-			</div>
+		    <div class="desktop bg skrollr_bg" id="sarawak_bg_1"></div>
+		    <?php $select_intro = "sarawak"; include 'our-adventures-intro.php' ?>
+		    <div class="desktop bg" id="sarawak_bg_2"></div>
 		</section>
 
 		<section id="sarawak">

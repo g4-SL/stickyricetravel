@@ -42,12 +42,7 @@ $(function() {
 
 // Styling for parallax page for Our Adventures
 $(function() {
-	$('.parallax').css({"height": parseInt($(window).height(),10)*2.5});
-	$('.parallax').each(function(){
-		$(this).find('.container img').css({"paddingTop": parseInt($(window).height(),10) - (parseInt($(this).find('.container .desc').height(),10)*1.2)}); 
-	});
 	$('#others-intro .container').css({"paddingTop": (parseInt($('#others-intro').outerHeight(),10) - parseInt($('#others-intro .container').height(),10))/2});
-	$('.fun_column').css({"paddingTop": parseInt($(window).height(),10)});
 });
 
 $(function() {
@@ -89,7 +84,10 @@ $(document).on('click', '.divider .arrow', function() {
 $(window).load(function(){
 	skrollr.init({
 	    smoothScrolling: true,
-	    forceHeight: false
+	    forceHeight: false,           
+        mobileCheck: function() {
+            return false;
+        }
 	});
 });
 

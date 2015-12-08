@@ -48,13 +48,14 @@
 	<script type="text/javascript" src="/d/jquery.ms.js"></script>
 	<script type="text/javascript" src="/d/jquery.mobilemenu.js"></script>
 	<script type="text/javascript" src="/d/jquery-ui.min.js"></script>	
-	<script type="text/javascript" src="/d/start.js"></script>	
-	<script type="text/javascript" src="/d/popup.js"></script>	
-	<script type="text/javascript" src="/d/populate.js"></script>
 	<script type="text/javascript" src="/d/slick.min.js"></script>
 	<script type="text/javascript" src="/d/skroll.min.js"></script>
 	<script type="text/javascript" src="/d/instafeed.min.js"></script>	
 	<script src="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script>
+	<script type="text/javascript" src="/d/start.js"></script>	
+	<script type="text/javascript" src="/d/popup.js"></script>	
+	<script type="text/javascript" src="/d/populate.js"></script>
+	<script type="text/javascript" src="/d/mobile.js"></script>
 	
 
 </head>

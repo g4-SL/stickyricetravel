@@ -1,7 +1,7 @@
 		<div id="footer">
 			<div class="darkbox">
 				<div class="container">
-
+				<div class="two columns"></div>
 					<div class="four columns">
 						<div class="gcontact">
 							<div class="t2">Information</div>
@@ -156,6 +156,7 @@
 
 					<div class="clear"></div>			
 					
+					<div class="two columns"></div>
 					<div class="seven columns">
 						<div class="copyright" style="color:#fff">&copy;<span id="copyright-year"></span> Sticky Rice Travel Sdn Bhd. No animals were harmed in the making </div>		
 					</div>	
@@ -173,6 +174,5 @@
 				</div>
 			</div>
 		</div>
-		
     </body>
 </html>
