@@ -208,7 +208,7 @@
 			</div>		
 		</section>	
 
-		<section id="others-intro" class="parallax">
+		<section id="others-intro" class="parallax vertical_center">
 			<div class="container hd lh">
 				<div class="two columns"></div>
 				<div class="sixteen columns">

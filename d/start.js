@@ -40,11 +40,6 @@ $(function() {
 	$('.hd .big_title p:nth-child(4)').css({"paddingTop": 20}); 
 });
 
-// Styling for parallax page for Our Adventures
-$(function() {
-	$('#others-intro .container').css({"paddingTop": (parseInt($('#others-intro').outerHeight(),10) - parseInt($('#others-intro .container').height(),10))/2});
-});
-
 $(function() {
 	$('#sly').eislideshow({
 		animation			: 'center',
@@ -92,6 +87,8 @@ $(window).load(function(){
 });
 
 $(document).ready(function(){	
+	var customer_review_bg = ["www-base-red-langur","www-base-1","www-base-2"];
+
 	$('.crsl').slick({
 		speed: 300,
 		slidesToShow: 4,
@@ -117,6 +114,15 @@ $(document).ready(function(){
 		    slidesToScroll: 1
 		  }
 		}]
+	});
+
+	// change parallax background whenever carousel item is swapped
+	$('.single_item_carousel').on('beforeChange', function(event, slick, currentSlide, nextSlide){
+	  	$("#home_bg_1").css({"background": "linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),url(../c/large/" + customer_review_bg[nextSlide] + ".jpg", "background-size":"cover", "background-attachment": "fixed"});
+	});
+
+	$('.single_item_carousel').slick({
+		rtl: true
 	});
 
 	// about us description horizontally aligned with image

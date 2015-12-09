@@ -39,10 +39,12 @@
 
 	<nav></nav>
 	
-	<section>	
+	<section id="base">	
 
-		<section style="padding-bottom:60px">
+		<section>
 			<div class="container" style="font-size:16px">
+
+				<div class="two columns"></div>
 
 				<div id="greeting">
 					<div class="eleven columns">
@@ -62,158 +64,173 @@
 							</div>
 						</div>
 					</div>	
-				</div>	
-			</div>	
-		</section>
+				</div>
 
-		<div class="clear"></div>	
+				<div class="clear"></div>
 
-		<section id="home_bg_1" class="parallax">
-		</section>
+				<div class="two columns"></div>
 
-		<section style="padding-bottom:60px">
-			<div class="container">
+				<div class="sixteen columns base_big_headlines" style="margin-bottom:10px">
+					<h1>Our Guests' Top Picks</h1>
+					<h2>Get ready for a great adventure</h2>
+				</div>
+
+				<div class="clear"></div>
+
 				<div class="one columns"></div>
-				
-				<div class="sixteen columns" style="margin-bottom:10px">
 
-					<h1 class="brown_border">Popular Adventures</h1>
-
-					<div class="popular_box_landscape">
-						<div class="popular_div">
-							<a href="our-adventures/danum-valley" style="margin-bottom:15px">
-								<div style="float:left;width:40%">
-									<img src="c/base/1-400-lp.jpg" alt="Danum Valley" />
-								</div>
-								<div style="float:right;width:60%">
-									<h2 class="popular_subtitle">Danum Valley Conservation Area</h2>
-									<p>Explore a 472km sq conservation area of pristine, mostly primary, lowland dipterocarp forest that is home to 300 species of birds, mammals, insects etc</p>
-								</div>
-							</a>
-						</div>
-					</div>
-
-					<div class="popular_box_landscape">
-						<div class="popular_div">
-							<a href="our-adventures/orou-sapulot" style="margin-bottom:15px">
-								<div style="float:left;width:40%">
-									<img src="c/base/2-400-lp.jpg" alt="Orou Sapulot" />
-								</div>
-								<div style="float:right;width:60%">
-									<h2 class="popular_subtitle">Orou Sapulot</h2>
-									<p>Visit the Murut community, drink bottomless rice wine from huge ceramic jars and learn about their headhunting ancestors</p>
-								</div>
-							</a>	
-						</div>
-					</div>
-
-					<div class="popular_box_landscape">
-						<div class="popular_div">
-							<a href="our-adventures/kinabalu-national-park/camping">
-								<div style="float:left;width:40%">
-									<img src="c/base/3-400-lp.jpg" alt="Mount Kinabalu" />
-								</div>
-								<div style="float:right;width:60%">
-									<h2 class="popular_subtitle">Mount Kinabalu Climb</h2>
-									<p>Enjoy the challenge of climbing South East Asia’s highest peak, Mount Kinabalu, via the traditional route, Timpohon Gate.</p>
-								</div>
-							</a>		
-						</div>
-					</div>
-
-					<div class="popular_box" style="margin:0 2% 15px 0">
-						<div class="popular_div">
-							<a href="our-adventures/danum-valley">
-								<img src="c/base/1-400.jpg" alt="Danum Valley" />
-								<h2 class="popular_subtitle">Danum Valley Conservation Area</h2>
-								<p>Explore a 472km sq conservation area of pristine, mostly primary, lowland dipterocarp forest that is home to 300 species of birds, mammals, insects etc</p>
-							</a>	
-						</div>
-					</div>
-					<div class="popular_box" style="margin:0 2% 15px 0">
-						<div class="popular_div">
-							<a href="our-adventures/orou-sapulot">
-								<img src="c/base/2-400.jpg" alt="Orou Sapulot" />
-								<h2 class="popular_subtitle">Orou Sapulot</h2>
-								<p>Visit the Murut community, drink bottomless rice wine from huge ceramic jars and learn about their headhunting ancestors</p>
-							</a>	
-						</div>
-					</div>
-					<div class="popular_box">
-						<div class="popular_div">
-							<a href="our-adventures/kinabalu-national-park/camping">
-								<img src="c/base/3-400.jpg" alt="Mount Kinabalu" />
-								<h2 class="popular_subtitle">Kinabalu Camping</h2>
-								<p>Journey to a little used substation at Kinabalu National Park, with vast jungle, a temperate climate, and an abundance of biodiversity.</p>
-							</a>		
-						</div>
-					</div>
-				</div>
-
-				<div class="clear"></div>	
-
-				<div class="sixteen columns front-btn" style="margin-bottom:20px">
+				<div class="six columns animated_box">
+					<a href="./our-adventures/danum-valley/danum-valley-field-center/purut-camping">
+						<div><img src="/c/adventures/danum-explorer.jpg" class="img1" alt="4D3N DVFC Sg Purut Camping"/></div>
+					</a>	
 					<div>
-						<a href="./our-adventures">More Adventures</a>
+						<h2>Danum Valley Sg Purut Camping</h2>
+					</div>
+				</div>
+				<div class="six columns animated_box">
+					<a href="./our-adventures/orou-sapulot">
+						<div><img src="c/adventures/sapulot-country-adventure.jpg" class="img1"  alt="Orou Sapulot - Murut Country Adventure" /></div>
+					</a>	
+					<div>
+						<h2>Orou Sapulot - Murut Country Adventure</h2>
+					</div>
+				</div>
+				<div class="six columns animated_box">
+					<a href="./our-adventures/kinabalu-national-park/camping">
+						<div><img src="/c/adventures/mount-kinabalu-camping.jpg" class="img1" alt="3D2N Kinabalu Camping"/></div>
+					</a>	
+					<div>
+						<h2>Kinabalu Camping</h2>
 					</div>
 				</div>
 
-				<div class="clear"></div>	
-				
-				<div class="sixteen columns">
-					<div class="small_container" id="review">
-						<h2>Customer Reviews</h2>
-						<div></div>
+				<div class="clear"></div>
 
-						<ul class="slider">
-							<li>
-								<img src="../c/map/kuching.png">
-								<div>
-									<p><i>
-										"... check out the Sepilok orang utan and sun bear conservation centers. Okay! Charlie and the Sticky Rice crew put together a fabulous itinerary with terrific guides that pointed out animals, birds, reptiles and bugs we would not have seen on our own. Our lives are all about travel, but our time in Borneo stands out as a brilliant highlight thanks to Charlie and the Sticky Rice crew."
-									</i></p>
-									<h6>- Jim and Katie Thomsen</h6>	
-								</div>
-							</li>
-							<li style="display:none">
-								<img src="../c/map/semporna.png">
-								<div>
-									<p><i>
-										"... we were very impressed with the Sticky Rice team &amp; the services offered us.They were instrumental in making our holiday the thoroughly enjoyable,splendid experience it was."
-									</i></p>	
-									<h6>- Brijinder Singh</h6>	
-								</div>
-							</li>
-							<li style="display:none">
-								<img src="../c/map/sandakan-and-sepilok.png">
-								<div>
-									<p><i>
-										"... I am extremely grateful for their knowledge, enthusiasm and passion for the the projects they are involved in and I cannot recommend them enough to help you get started with your Borneo plans. I will definitely be using Sticky Rice again!""
-									</i></p>
-									<h6>- Glenda</h6>	
-								</div>	
-							</li>
-						</ul>
-						<div class="divider"></div>
-					</div>
-				</div>	
-
-				<div class="clear"></div>	
+				<div class="two columns"></div>
 
 				<div class="sixteen columns front-btn">
-					<div>
-						<a href="./customer-reviews">Review Us</a>
-					</div>
+					<div><a href="./our-adventures">More Adventures</a></div>
 				</div>
+
+				<div class="clear"></div>		
+
 			</div>	
+		</section>
+
+		<section id="home_bg_1" class="parallax vertical_center">
+
+			<div class="container">	
+
+				<div class="four columns"></div>
+
+				<div class="twelve columns" dir="rtl">
+					<h1>Customer Reviews</h1>
+
+					<div class="single_item_carousel" id="customer_review">
+						<div>
+							<p>
+								Check out the Sepilok orang utan and sun bear conservation centers. Okay! Charlie and the Sticky Rice crew put together a fabulous itinerary with terrific guides that pointed out animals, birds, reptiles and bugs we would not have seen on our own. Our lives are all about travel, but our time in Borneo stands out as a brilliant highlight thanks to Charlie and the Sticky Rice crew
+							</p>
+							<h6>by Jim and Katie Thomsen</h6>
+						</div>
+						<div>
+							<p>
+								We were very impressed with the Sticky Rice team &amp; the services offered us. They were instrumental in making our holiday the thoroughly enjoyable, splendid experience it was
+							</p>
+							<h6>by Brijinder Singh</h6>	
+						</div>
+						<div>
+							<p>
+								I am extremely grateful for their knowledge, enthusiasm and passion for the projects they are involved in and I cannot recommend them enough to help you get started with your Borneo plans. I will definitely be using Sticky Rice again
+							</p>
+							<h6>by Glenda</h6>	
+						</div>
+					</div>		
+				</div>	
+
+				<div class="clear"></div><div class="two columns"></div>
+
+				<div class="sixteen columns front-btn">
+					<div><a href="./customer-reviews">Review Us</a></div>
+				</div>
+				
+				<div class="clear"></div>	
+
+			</div>
+		</section>
+
+		<section>
+			<div class="container">
+				<div class="two columns"></div>
+
+				<div class="six columns about_us">
+					<img src="./c/about-us/about-us-text.png">
+				</div>
+
+				<div class="ten columns about_us_description">
+					<p>
+						Sticky Rice Travel is a boutique travel agency and operator that focuses on destinations in Malaysian Borneo. We plan personalised trips that explore sensitive ecosystems and indigenous cultures, all while adhering to our strict policy on low-impact, responsible travel. Our motto of meaningful adventures lives through our dedication to environmental conservation and the preservation of local communities and cultures. Join us as we pave the way for responsible travel in Malaysian Borneo!
+					</p>
+				</div>			
+
+				<div class="clear"></div><div class="two columns"></div>
+			
+				<div class="sixteen columns base_big_headlines">
+					<h1>What we do differently</h1>
+					<h2>That is the question</h2>
+				</div>
+
+				<div class="clear"></div><div class="two columns"></div>
+
+				<div class="four columns why_travel">
+					<div style="text-align:center">
+						<i class="ion-clipboard"></i>
+						<h3>Tailor-made trips</h3>
+					</div>
+					<p>
+						Low impact travel means that we cater to smaller, more focused markets, including private departures for couples, family getaways, and small group requests. We create custom itineraries based on specific interests and travel styles, and assign each client to a travel consultant that helps build the itinerary from start to finish. Whether you know exactly what you want, or need some travel inspiration, our travel consultants are here to help you customise your ideal Borneo adventure. 
+					</p>
+				</div>
+
+				<div class="four columns why_travel">
+					<div style="text-align:center">
+						<i class="ion-map"></i>
+						<h3>Niche travel</h3>
+					</div>
+					<p>
+						Are you a birder looking to visit Borneo for endemic birds? Or maybe you are a photographer looking to photograph wildlife in one of the conservation areas of Malaysian Borneo. At Sticky Rice Travel, our team is made up of naturalists with special interests in birds, wildlife photography etc., and have the capacity to build a program to meet your specific needs because we know the best area for your interests including birding guide, entomologist, mammalogist, botanist etc in the region.				
+					</p>
+				</div>
+
+				<div class="four columns why_travel">
+					<div style="text-align:center">
+						<i class="ion-ios-lightbulb-outline"></i>
+						<h3>Expert knowledge and insider access</h3>
+					</div>
+					<p>
+						Our knowledge of travel is based on personal experiences, and our guides are some of the best in the business. All of our consultants and guides have traveled extensively in the areas that we promote, and we continuously explore new areas in order to keep our adventures unique, fun, and fulfilling. Fun aside, we strive to engage people to become conscious travelers and offer educational ways to experience Borneo via our private network with conservation organisations on the ground in Borneo.
+					</p>
+				</div>
+
+				<div class="four columns why_travel">
+					<div style="text-align:center">
+						<i class="ion-earth"></i>
+						<h3>Responsible travel</h3>
+					</div>
+					<p>
+						Sticky Rice Travel is built on the philosophy of responsible tourism. We understand the delicate balance between tourism and conservation, and practice sustainable tourism that appeals to the socially conscious traveler. We engage in environmental conservation via local conservation groups, advocate for the preservation of local cultures, and partner with operators that have similar ethics and values to ensure that our adventures are meaningful and memorable. Along with the classic Borneo trips, we also pledge to continuously promote community-based tourism initiatives that identify small-scale tourism as an alternative livelihood for rural or remote communities. providing travelers with an intimate way to experience Borneo - not just seeing the sights, but getting a taste of the local culture. 
+					</p>
+				</div>
+				<div class="clear"></div>
+			</div>
 		</section>
 
 		<div class="clear"></div>	
 
-		<section id="home_bg_1" class="parallax">
+		<section id="home_bg_2" class="parallax">
 		</section>
 
-		<section style="padding-bottom:60px">
+		<section>
 			<div class="container">
 				<div class="ten columns">
 					<h1 class="brown_border ion-social-instagram-outline left_space">Instagram</h1>
