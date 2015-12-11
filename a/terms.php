@@ -9,6 +9,8 @@
 	<nav></nav><section>	
 		<div class="container hd">
 
+			<div class="two columns"></div>
+
 			<div class="sixteen columns big_title">
 				<ul class="brc">
 					<li><a href="/home">Home</a></li>
@@ -19,6 +21,7 @@
 			
 			<div class="clear"></div>
 			
+			<div class="two columns"></div>
 			
 			<div class="sixteen columns">
 
@@ -117,10 +120,6 @@
 				</p>
 			</div>
 			
-
-			
-		
-
 		</div>
 
 	</section>

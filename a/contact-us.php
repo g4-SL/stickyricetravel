@@ -12,6 +12,8 @@
 	<nav></nav><section>	
 		<div class="container hd">	
 
+			<div class="two columns"></div>
+
 			<div class="sixteen columns big_title">
 				<ul class="brc">
 					<li><a href="/home">Home</a></li>
@@ -20,14 +22,19 @@
 				<h1>Make Contact</h1>
 			</div>		
 			
-			<div class="clear"></div>			
+			<div class="clear"></div>	
+
+			<div class="two columns"></div>		
 			
 			<div class="sixteen columns">
 				<h4>Please contact us if you want to make a booking or general inquiries about your trip to Borneo.</h4>
 
-				<p>Our office is at the heart of Kota Kinabalu city center, Beach Street (Jalan Pantai). Look for a bright yellow building opposite Horizon Hotel. We are on the 3rd Floor of the Hainan Association Building. However, please contact us in advance via email or telephone to let us know that you are headed our way so we can anticipate your arrival.</p>				
-				
+				<p>Our office is at the heart of Kota Kinabalu city center, Beach Street (Jalan Pantai). Look for a bright yellow building opposite Horizon Hotel. We are on the 3rd Floor of the Hainan Association Building. However, please contact us in advance via email or telephone to let us know that you are headed our way so we can anticipate your arrival.</p>						
 			</div>
+
+			<div class="clear"></div>	
+
+			<div class="two columns"></div>	
 			
 			<div class="five columns">
 
