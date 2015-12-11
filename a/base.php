@@ -41,7 +41,7 @@
 	
 	<section id="base">	
 
-		<section>
+		<section id="base_greeting">
 			<div class="container" style="font-size:16px">
 
 				<div class="two columns"></div>
@@ -101,6 +101,15 @@
 					</a>	
 					<div>
 						<h2>Kinabalu Camping</h2>
+					</div>
+				</div>
+
+				<div class="six columns animated_box front_btn_alt">
+					<a href="./our-adventures/kinabalu-national-park/camping">
+						<div><img src="/c/adventures/more-adventures.jpg" class="img1"/></div>
+					</a>	
+					<div>
+						<h2>More Adventures</h2>
 					</div>
 				</div>
 
@@ -230,7 +239,7 @@
 		<section id="home_bg_2" class="parallax">
 		</section>
 
-		<section>
+		<section id="base_social_media">
 			<div class="container">
 				<div class="ten columns">
 					<h1 class="brown_border ion-social-instagram-outline left_space">Instagram</h1>
