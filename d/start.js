@@ -1,6 +1,6 @@
 jQuery.fn.center = function() {
 	this.css("position","absolute");
-	this.css("left", Math.max(0, (($(window).width() - $(this).outerWidth()) / 2) + $(window).scrollLeft()) + 160 + "px");
+	this.css("left", Math.max(0, (($(window).width() - $(this).outerWidth()) / 2) + $(window).scrollLeft()) + 220 + "px");
 	if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent) ) {this.css("position","absolute");} else {this.css("position","fixed");}	
 	return this;
 }		
@@ -87,7 +87,7 @@ $(window).load(function(){
 });
 
 $(document).ready(function(){	
-	var customer_review_bg = ["www-base-red-langur","www-base-1","www-base-2"];
+	var customer_review_bg = ["www-base-red-langur","www-base-elephant","www-base-2"];
 
 	$('.crsl').slick({
 		speed: 300,
