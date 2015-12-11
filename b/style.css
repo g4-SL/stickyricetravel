@@ -47,7 +47,7 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 .left_space:before {margin-right: 15px;}
 .popular_subtitle {text-align: center;border-bottom: 1px solid #f1f1f1;padding: 10px 10px 15px;margin-bottom: 15px;font-family: 'Oswald', sans-serif;text-transform: uppercase;color: #603d05;font-size: 1.5em}
 .popular_box {float:left}
-.fb-content {background-color: #fff;padding: 15px}
+.fb-content {background-color: #fff;padding: 2%}
 .fb-meta {background: url(../c/base/fb-thumb.png) 7px 4px/17px 17px no-repeat #edeff4;padding: 6px 29px;}
 .fb-meta a {text-decoration: none; padding: 0 3px;color: #3b5998}
 
@@ -126,7 +126,7 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 }
 
 /*medium screen*/
-@media (min-width:481px) and (max-width:767px){
+@media (min-width:480px) and (max-width:767px){
 	.popular_box {display:none;}
 	.popular_box_landscape {display:block}
 	.popular_div a, .img_boxing a{height:auto}
@@ -136,7 +136,7 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 }
 
 /*small screen*/
-@media (max-width:480px){
+@media (max-width:479px){
 	.accordionWrapper .content{width:240px !important}
 	#anc .set{width:240px !important;background:#fff}
 	.ta .title{font-size:14px;font-weight:bolder;width:220px !important;background:#eee;padding:10px}

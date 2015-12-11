@@ -81,7 +81,7 @@
 
 				<div class="six columns animated_box">
 					<a href="./our-adventures/danum-valley/danum-valley-field-center/purut-camping">
-						<div><img src="/c/adventures/danum-explorer.jpg" class="img1" alt="4D3N DVFC Sg Purut Camping"/></div>
+						<div><img src="/c/adventures/danum-valley-sg-purut.jpg" class="img1" alt="4D3N DVFC Sg Purut Camping"/></div>
 					</a>	
 					<div>
 						<h2>Danum Valley Sg Purut Camping</h2>
@@ -129,7 +129,7 @@
 					<div class="single_item_carousel" id="customer_review">
 						<div>
 							<p>
-								Check out the Sepilok orang utan and sun bear conservation centers. Okay! Charlie and the Sticky Rice crew put together a fabulous itinerary with terrific guides that pointed out animals, birds, reptiles and bugs we would not have seen on our own. Our lives are all about travel, but our time in Borneo stands out as a brilliant highlight thanks to Charlie and the Sticky Rice crew
+								Check out the Sepilok orang utan and sun bear conservation centers. Charlie and the Sticky Rice crew put together a fabulous itinerary with terrific guides that pointed out animals, birds, reptiles and bugs we would not have seen on our own. Our lives are all about travel, but our time in Borneo stands out as a brilliant highlight thanks to Charlie and the Sticky Rice crew
 							</p>
 							<h6>by Jim and Katie Thomsen</h6>
 						</div>
@@ -184,7 +184,7 @@
 
 				<div class="four columns why_travel">
 					<div style="text-align:center">
-						<i class="ion-clipboard"></i>
+						<img src="../c/base/why_travel_tailor.png" style="width:128px">
 						<h3>Tailor-made trips</h3>
 					</div>
 					<p>
@@ -194,7 +194,7 @@
 
 				<div class="four columns why_travel">
 					<div style="text-align:center">
-						<i class="ion-map"></i>
+						<img src="../c/base/why_travel_niche.png" style="width:128px">
 						<h3>Niche travel</h3>
 					</div>
 					<p>
@@ -204,7 +204,7 @@
 
 				<div class="four columns why_travel">
 					<div style="text-align:center">
-						<i class="ion-ios-lightbulb-outline"></i>
+						<img src="../c/base/why_travel_knowledge.png" style="width:128px">
 						<h3>Expert knowledge and insider access</h3>
 					</div>
 					<p>
@@ -214,7 +214,7 @@
 
 				<div class="four columns why_travel">
 					<div style="text-align:center">
-						<i class="ion-earth"></i>
+						<img src="../c/base/why_travel_responsible.png" style="width:128px">
 						<h3>Responsible travel</h3>
 					</div>
 					<p>
@@ -239,19 +239,25 @@
 
 				<div class="ten columns" style="margin-bottom:10px">
 					<h1 class="brown_border ion-social-facebook left_space">Facebook</h1>
-					<div class="fb-page" data-href="https://www.facebook.com/StickyRiceTravel" data-width="500" data-small-header="true" data-show-posts="false" data-hide-cover="false" data-show-facepile="false" ></div>
+					<a href="https://www.facebook.com/StickyRiceTravel" target="_blank"><div class="fb-header">
+						<img src="../c/fb-logo.jpg">
+						<div>
+							<h3>Sticky Rice Travel</h3>
+							<div class="fb-like" data-href="https://www.facebook.com/StickyRiceTravel" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+						</div>
+					</div></a>
 					<div class="fb-content">
-						<p style="margin-bottom:10px; line-height:1.5">Who's ready to conquer new heights in the new year? Mt Kinabalu's summit trail is expected to re-open in December or January.</p>
-						<a href="https://www.facebook.com/122393837931233/photos/a.136791319824818.1073741845.122393837931233/390937661076848/?type=3" target="_blank"><img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xta1/v/t1.0-9/12112120_390937661076848_2844885744028344258_n.jpg?oh=25b103cf1819b0d2c8b0e203b38236f9&oe=5689C8AD&__gda__=1456066596_349bd336569e35be11ef03b69184e640" style="width:100%"/></a>
+						<p style="margin-bottom:10px;line-height:1.5;padding:0 2.5%">Great article in The Independent with shout outs to Sticky Rice Travel and Ateh, our very talented nature guide</p>
+						<a href="https://www.facebook.com/StickyRiceTravel/posts/887825287983091" target="_blank"><img src="../c/fb-post.png" style="width:95%;padding:0 2.5%"/></a>
 					</div>
 					<div class="fb-meta">
-						<a class="likelink" href="https://www.facebook.com/StickyRiceTravel/posts/866063060159314" target="_blank">
-						8
+						<a class="likelink" href="https://www.facebook.com/StickyRiceTravel/posts/887825287983091" target="_blank">
+						32
 						</a>
 						<span class="likedesc">
 						like this.
 						</span>
-						<a class="likelink-readmore" href="https://www.facebook.com/StickyRiceTravel/posts/866063060159314" target="_blank">
+						<a class="likelink-readmore" href="https://www.facebook.com/StickyRiceTravel/posts/887825287983091" target="_blank">
 						Read more
 						</a>
 					</div>
