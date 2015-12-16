@@ -137,23 +137,14 @@ h1.our_adv{
 	position: relative;
 }
 
-.bcb{
-	float:left;
-	margin: 5px 0;
-}
-.blb{
-	float:left;
-	width: 88% !important;
-}
+.bcb{float:left;margin: 5px 0;}
+.blb{float:left;}
 .full-col{padding:20px 25px;background:url(../c/paper-bg-icon.png);margin-bottom:20px;}
-#sabah-booking-col{height:900px;}
-#sarawak-booking-col{height:320px;}
-#others-booking-col{height:100px;}
 #sabah-parent{background:url(../c/booking/title-sabah.png) 0 0 no-repeat;}
 #sarawak-parent{background:url(../c/booking/title-sarawak.png) 0 0 no-repeat;}
 #others-parent{background:url(../c/booking/title-others.png) 0 0 no-repeat;}
 .full-col-parent{padding-top:50px;}
-.one-third-col{width:33%;float:left;margin-bottom:15px}
+.one-third-col{float:left;margin-bottom:15px}
 .one-third-col h4{text-transform:uppercase;}
 
 @media (min-width:768px){
@@ -174,6 +165,11 @@ input.bn, input.bn:hover{width:100%}
 #home_bg_1{height:90vh !important;}
 #customer_review p{font-size: 1.3em}
 #customer_review h6{font-size: 1.2em}
+.one-third-col{width:33%}
+.blb{width: 88% !important;}
+#sabah-booking-col{height:900px;}
+#sarawak-booking-col{height:320px;}
+#others-booking-col{height:100px;}
 }
 
 /* x-large devices */
@@ -183,6 +179,12 @@ input.bn, input.bn:hover{width:100%}
 #customer_review p{font-size: 1.3em}
 #customer_review h6{font-size: 1.2em}
 #base_social_media .ten.columns{width:460px;}
+
+.one-third-col{width:33%}
+.blb{width: 89% !important;}
+#sabah-booking-col{height:900px;}
+#sarawak-booking-col{height:315px;}
+#others-booking-col{height:100px;}
 }
 
 /* large devices */
@@ -196,6 +198,12 @@ input.bn, input.bn:hover{width:100%}
 #base_greeting .front-btn{display:none}
 #base_greeting .front_btn_alt{display:block}
 #base_social_media .ten.columns{width:650px;margin:0 59px;}
+
+.one-third-col{width:50%}
+.blb{width: 90% !important;}
+#sabah-booking-col{height:1250px;}
+#sarawak-booking-col{height:350px;}
+#others-booking-col{height:100px;}
 }
 
 @media (min-width:768px){
@@ -215,6 +223,12 @@ input.bn, input.bn:hover{width:50%}
 #home_bg_1{height:180vh !important;}
 #customer_review p{font-size: 1.2em}
 #customer_review h6{font-size: 1em}
+
+.one-third-col{width:100%}
+.blb{width: 91% !important;}
+#sabah-booking-col{height:2150px;}
+#sarawak-booking-col{height:650px;}
+#others-booking-col{height:100px;}
 }
 
 /* small devices */
@@ -232,6 +246,12 @@ input.bn, input.bn:hover{width:100%}
 .fb-header{height:50px}
 .fb-header img{width:40px}
 .fb-header div h3{font-size:0.9em}
+
+.one-third-col{width:100%}
+.blb{width: 87% !important;}
+#sabah-booking-col{height:2200px;}
+#sarawak-booking-col{height:720px;}
+#others-booking-col{height:100px;}
 }
 
 .small_container{

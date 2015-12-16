@@ -31,41 +31,53 @@
 					<div class="two columns"></div>
 
 					<div class="eight columns">
-
 						<div class="control-group ">
 							<span class="label"><i class="ion-person"></i><span style="top:0;right:0">*</span></span>
 							<input type="text" id="contact-your-name" name="name" class="zn_required_field input text" placeholder="Name">
 						</div>
+					</div>
 
+					<div class="eight columns">
 						<div class="control-group ">
 							<span class="label"><i class="ion-navicon-round"></i></span>
 							<input type="text" id="contact-your-name" name="name" class="input text" placeholder="Subject">
 						</div>
-
-						<div class="control-group ">
-							<span class="label"><i class="ion-plane"></i></span>
-							<input type="text" id="start_date" name="telephone" class="input text" placeholder="Start date">
-						</div>
-
 					</div>
+						
+					<div class="clear"></div>
+					
+					<div class="two columns"></div>
 					
 					<div class="eight columns">
-
 						<div class="control-group ">
 							<span class="label"><i class="ion-email"></i><span style="top:0;right:0">*</span></span>
 							<input type="email" id="contact-your-email" name="email" class="zn_email_field zn_required_field input text" placeholder="Email">
 						</div>
+					</div>
 
+					<div class="eight columns">
 						<div class="control-group ">
 							<span class="label"><i class="ion-ios-telephone"></i></span>
 							<input type="tel" id="contact-your-telephone" name="telephone" class="input text" placeholder="Telephone">
 						</div>
+					</div>
+						
+					<div class="clear"></div>
+					
+					<div class="two columns"></div>
 
+					<div class="eight columns">
+						<div class="control-group ">
+							<span class="label"><i class="ion-plane"></i></span>
+							<input type="text" id="start_date" name="start-date" class="input text" placeholder="Start date">
+						</div>
+					</div>
+
+					<div class="eight columns">
 						<div class="control-group ">
 							<span class="label"><i class="ion-plane flip"></i></span>
-							<input type="text" id="finish_date" name="telephone" class="input text" placeholder="Finish date">
+							<input type="text" id="finish_date" name="finish-date" class="input text" placeholder="Finish date">
 						</div>
-
 					</div>
 						
 					<div class="clear"></div>
@@ -164,17 +176,33 @@
 						menuC++;
 						temp = temp + '<input type="checkbox" name="p[]" class="bcb" value="' + data.parent_product[i].child[j].title + '" id="' + menuC + '"><label class="blb">' + data.parent_product[i].child[j].title + '</label>';
 					}
-					if(data.parent_product[i].type == "Sabah" && counterSabah != 3){
+					if(data.parent_product[i].type == "Sabah" && (counterSabah == 1 || counterSabah == 5)){
+						counterSabah++;
+					}
+					else if (data.parent_product[i].type == "Sabah" && (counterSabah == 2 || counterSabah == 4)){
+						clear = '<div class="clear contact-form-display"></div>';
 						counterSabah++;
 					}
 					else if (data.parent_product[i].type == "Sabah" && counterSabah == 3){
+						clear = '<div class="clear display"></div>';
+						counterSabah++;
+					}
+					else if (data.parent_product[i].type == "Sabah" && counterSabah == 6){
 						clear = '<div class="clear"></div>';
 						counterSabah = 1;
 					}
-					else if(data.parent_product[i].type == "Sarawak" && counterSarawak != 3){
+					else if(data.parent_product[i].type == "Sarawak" && (counterSarawak == 1 || counterSarawak == 5)){
+						counterSarawak++;
+					}
+					else if (data.parent_product[i].type == "Sarawak" && (counterSarawak == 2 || counterSarawak == 4)){
+						clear = '<div class="clear contact-form-display"></div>';
 						counterSarawak++;
 					}
 					else if (data.parent_product[i].type == "Sarawak" && counterSarawak == 3){
+						clear = '<div class="clear display"></div>';
+						counterSarawak++;
+					}
+					else if (data.parent_product[i].type == "Sarawak" && counterSarawak == 6){
 						clear = '<div class="clear"></div>';
 						counterSarawak = 1;
 					}
@@ -185,6 +213,7 @@
 
 		$(function() {
 			$( "#start_date" ).datepicker({
+    			minDate: 0,
         		numberOfMonths: 2,
         		onSelect: function(selected) {
         			$("#finish_date").datepicker("option","minDate", selected);
@@ -192,6 +221,7 @@
 			});
 
 			$( "#finish_date" ).datepicker({
+    			minDate: 0,
         		numberOfMonths: 2,
         		onSelect: function(selected) {
         			$("#start_date").datepicker("option","maxDate", selected);

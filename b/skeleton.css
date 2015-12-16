@@ -13,7 +13,7 @@
 .container .eleven.columns{width:640px}
 .container .twelve.columns{width:700px}
 .container .sixteen.columns{width:940px}
-.pp2 a:after{font-size: 2em}
+.container .contact-form-display{display:none}
 
 @media only screen and (min-width:960px) and (max-width:1199px){.container{width:960px}
 .container .columns{margin-left:10px;margin-right:10px}
@@ -31,6 +31,7 @@
 .container .sixteen.columns{width:940px}
 .container .six.columns.product_box, .container .six.columns.animated_box{width:300px}
 .container .columns.display{display:none}
+.container .contact-form-display{display:none}
 }
 
 @media only screen and (min-width:768px) and (max-width:959px){.container{width:768px}
@@ -49,6 +50,7 @@
 .container .sixteen.columns{width:748px}
 .container .six.columns.product_box, .container .six.columns.animated_box{width:364px}
 .container .display{display:none}
+.container .contact-form-display{display:block}
 }
 @media only screen and (max-width:767px){.container{width:300px}
 .container .columns {margin:0}
@@ -66,6 +68,7 @@
 .container .sixteen.columns,
 .container .one-third.column,
 .container .two-thirds.column{width:300px}
+.container .contact-form-display{display:none}
 }
 @media only screen and (min-width:480px) and (max-width:767px){.container{width:420px}
 .container .columns{margin:0}
@@ -81,6 +84,7 @@
 .container .eleven.columns,
 .container .twelve.columns,
 .container .sixteen.columns{width:420px}
+.container .contact-form-display{display:none}
 }
 
 @media only screen and (max-width:479px){

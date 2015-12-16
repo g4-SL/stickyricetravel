@@ -44,7 +44,7 @@ input[type="text"],
 input[type="email"],
 input[type="tel"],
 input[type="date"],
-textarea{border:1px solid #ccc;padding:6px 4px;outline:none;-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;font:0.9em "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;color:#777;margin:0;width:97%;max-width:100%;display:block;margin-bottom:20px;background:#fff}
+textarea{border:1px solid #ccc;padding:6px 4px;outline:none;-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;font:0.9em "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;color:#777;margin:0;width:97%;max-width:100%;display:block;background:#fff}
 input[type="text"]:focus,
 input[type="email"]:focus,
 input[type="tel"]:focus,
