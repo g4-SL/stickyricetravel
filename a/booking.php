@@ -136,7 +136,6 @@
 	
 		<script>
 
-			var checkedItem = [];
 		    var expanded = false;
 		    function showCheckboxes() {
 		        var checkboxes = document.getElementById("checkboxes");
@@ -151,17 +150,10 @@
 
 				
 			function cls() {
-				$('.fi').attr('checked', false);
-				checkedItem = [];
-				print();
-			}
-
-			function print(){
-				temp = '';
-	        	for(var i = 0; i < checkedItem.length ; i++){
-	        		temp = temp + '<div class="sw-title">' + checkedItem[i] + '</div>';
-	        	}
-	        	$('.sw').html(temp);
+				$('input[type="checkbox"]').attr('checked', false);
+				console.log("hellot");
+				$('input').removeClass('error');
+				$('textarea').removeClass('error');
 			}
 
 		$(function(){
@@ -231,24 +223,6 @@
 
 		(function($){
 			$(document).ready(function() {
-
-				$(function() {
-					$( "#ac" ).accordion();
-				});
-
-			    $('.fi').change(function () {
-			        if($(this).is(':checked')) {
-			        	checkedItem.push(($(this)).attr('value'));
-			        	print();
-			        }
-			        else{
-						ri = ($(this)).attr('value');
-						checkedItem = jQuery.grep(checkedItem, function(value) {
-						  	return value != ri;
-						});
-						print();
-			        }
-			    });
 
 				$('#submit-form').click(function(e){
 					
