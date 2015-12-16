@@ -40,7 +40,7 @@
 					<div class="eight columns">
 						<div class="control-group ">
 							<span class="label"><i class="ion-navicon-round"></i></span>
-							<input type="text" id="contact-your-name" name="name" class="input text" placeholder="Subject">
+							<input type="text" id="contact-your-name" name="subject" class="input text" placeholder="Subject">
 						</div>
 					</div>
 						
