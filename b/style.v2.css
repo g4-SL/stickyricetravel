@@ -137,6 +137,25 @@ h1.our_adv{
 	position: relative;
 }
 
+.bcb{
+	float:left;
+	margin: 5px 0;
+}
+.blb{
+	float:left;
+	width: 88% !important;
+}
+.full-col{padding:20px 25px;background:url(../c/paper-bg-icon.png);margin-bottom:20px;}
+#sabah-booking-col{height:900px;}
+#sarawak-booking-col{height:320px;}
+#others-booking-col{height:100px;}
+#sabah-parent{background:url(../c/booking/title-sabah.png) 0 0 no-repeat;}
+#sarawak-parent{background:url(../c/booking/title-sarawak.png) 0 0 no-repeat;}
+#others-parent{background:url(../c/booking/title-others.png) 0 0 no-repeat;}
+.full-col-parent{padding-top:50px;}
+.one-third-col{width:33%;float:left;margin-bottom:15px}
+.one-third-col h4{text-transform:uppercase;}
+
 @media (min-width:768px){
 .about_us h2{width: 50%;left: 44%}
 .member .image .member_title h3:nth-child(1){font-size:2em}

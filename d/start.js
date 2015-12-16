@@ -131,42 +131,5 @@ $(document).ready(function(){
 	}
 
 	$('.fmenu').mobileMenu();
-	
-	menuC = 0;
-	tempChild = '';
-	var parent = [];
-	var parentData = []; //{textTitle,hasChildBoolean,idmenuC}
-	counterParent = 0;
-
-	$('.list1 li a').each(function(){
-		menuC++;
-
-		if($(this).hasClass('dn')) {
-			if($(this).hasClass('choice')) {
-				tempChild = tempChild + '<input class="fi fichoice" name="p[]" type="checkbox" id="'+menuC+'"value="'+$(this).text()+'"><label class="fif">'+$(this).text()+'</label>';
-			} else {
-				if(parent[counterParent-1][1] == false){
-					parent[counterParent-1][1] = true;
-				}
-				tempChild = tempChild + '<input class="fi fidn" name="p[]" type="checkbox" id="'+menuC+'"value="'+$(this).text()+'"><label class="fif">'+$(this).text()+'</label>';
-			}
-		} else {
-			parentData = [$(this).text(), false, menuC];
-			parent.push(parentData);
-			if(counterParent > 0 && parent[counterParent-1][1] == true){
-			 	($(".lio")).append('<h3>'+parent[counterParent-1][0]+'</h3><div>'+tempChild+'</div>');
-			 	tempChild = '';
-			}
-			counterParent++;
-		}
-	});
-	($(".lio")).append('<h3>'+parent[counterParent-1][0]+'</h3><div>'+tempChild+'</div>');
-	tempChild = '';
-	for(var i = 0; i < parent.length; i++){
-		if(parent[i][1] == false){
-			tempChild = tempChild + '<input class="fi fidn" name="p[]" type="checkbox" id="'+parent[i][2]+'"value="'+parent[i][0]+'"><label class="fif">'+parent[i][0]+'</label>';
-		}
-	}
- 	($(".lio")).append('<h3>Others</h3><div>'+tempChild+'</div>');
 
 });

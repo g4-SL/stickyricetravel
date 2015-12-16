@@ -185,8 +185,8 @@
 				<div class="clear"></div><div class="two columns"></div>
 			
 				<div class="sixteen columns base_big_headlines">
-					<h1>What we do differently</h1>
-					<h2>That is the question</h2>
+					<h1>What we are all about</h1>
+					<h2>Going the extra mile to give you the best</h2>
 				</div>
 
 				<div class="clear"></div><div class="two columns"></div>

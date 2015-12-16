@@ -1,4 +1,4 @@
-.l{margin-left:100px}
+ .l{margin-left:100px}
 #logo{height:200px;position:absolute;width:1220px;margin:0 auto;z-index:99;left:0;right:0;background:url(../c/only-logo-holder.png) top left no-repeat}
 .ei-slider{position:relative;width:100%;max-width:1920px;height:900px;margin:0 auto}
 .ei-slider-loading{width:100%;height:100%;position:absolute;top:0px;left:0px;z-index:999;background:rgba(0,0,0,0.9);color:#fff;text-align:center;line-height:400px}
@@ -232,12 +232,14 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 .lio label{float:left;width:70% !important;font-size:14px !important;color:#000}
 input, textarea{padding:5px 10px;border:none;background-color:#fff}
 .button{cursor:pointer;display:block;padding:10px;font-size:14px;color:#000;font-weight:bold;text-decoration:none;font-family:Arial, sans-serif;border:none;border-radius:5px;background:#b8d1a9;margin-right:30px}
-.form label{float:left;display:block;width:110px;font-size:14px;font-weight:bold;color:#000;padding:10px 0 0}
+.form label{float:left;display:block;width:28%;font-size:14px;color:#000;padding:0 10px;margin:5px 0;}
 .form textarea{height:280px}
 .form .button{float:right;font-size:16px}
-.form .required-desr{float:left;margin:14px 0 0 0px;color:#b8d1a9;font-size:11px}
 .contact-form{float:left;width:100%}
-.contact-form .input{width:283px;padding:11px 10px;margin-bottom:12px}
+.contact-form .input{width:70%;padding:15px;margin-bottom:20px;font-size: 0.9em;margin-left:100px;height:25px;}
+.contact-form span.label{text-align: center;position:absolute;transform: translateY(-50%);top:50%;left:0;width:100px;background-color:#603d05;color:#fff;padding:15px 0;font-size:1.5em;}
+.contact-form span.label i.flip:before{-moz-transform: scale(1, -1);-webkit-transform: scale(1, -1);-o-transform: scale(1, -1);-ms-transform: scale(1, -1);transform: scale(1, -1);}
+.contact-form .control-group{position:relative;}
 .form .error{background:#999 !important;border:1px solid #000}
 .form #success{margin:0 auto}
 .dn{display:none}

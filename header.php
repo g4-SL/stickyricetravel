@@ -28,6 +28,7 @@
 	<link rel="stylesheet" type="text/css" href="/b/slick-theme.css" />
 	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
 	<link rel="stylesheet" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" />
+  	<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
 	
 	<style type="text/css">
 	@import "/b/jquery.datepick.css";

@@ -31,9 +31,10 @@ foreach( $P as $e ) :
 	$Body .= Trim(stripslashes($e));
 endforeach;
 
+echo json_encode($Body);
 
-echo json_encode($EmailTo);
-$success = mail($EmailTo, $Subject, $Body, "From: <$EmailFrom>");
-}
-if ($success == 1) {echo "sent";} else {echo "mail_not_sent";}
+// echo json_encode($EmailTo);
+// $success = mail($EmailTo, $Subject, $Body, "From: <$EmailFrom>");
+// }
+// if ($success == 1) {echo "sent";} else {echo "mail_not_sent";}
 ?>

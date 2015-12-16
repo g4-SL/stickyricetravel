@@ -1,52 +1,6 @@
 {
 	"parent_product":[
 		{
-			"title": "Bako National Park",
-			"child": [
-				{
-					"title": "Bako National Park Day Trip",
-					"accommodation": 0,
-					"difficulty": 1,
-					"category": ["Wildlife","Day Trip","Jungle Trekking"]
-				},
-				{
-					"title": "2D1N Bako National Park",
-					"accommodation": 2,
-					"difficulty": 1,
-					"category": ["Wildlife","Jungle Trekking"]
-				}
-			]
-		},
-		{
-			"title": "Crocker Range Park",
-			"child": [
-				{
-					"title": "2D1N Gunung Alab Hike",
-					"accommodation": 3,
-					"difficulty": 1,
-					"category": ["Jungle Trekking", "Wildlife"]
-				},
-				{
-					"title": "4D3N Trusmadi Expedition",
-					"accommodation": 1,
-					"difficulty": 1,
-					"category": ["Jungle Trekking", "Wildlife", "Climbing"]
-				},
-				{
-					"title": "Crocker Range Park Day Trip",
-					"accommodation": 3,
-					"difficulty": 1,
-					"category": ["Day Trip"]
-				},
-				{
-					"title": "Sinurambi Bed & Breakfast",
-					"accommodation": 3,
-					"difficulty": 1,
-					"category": ["Accommodation"]
-				}
-			]
-		},
-		{
 			"title": "Danum Valley",
 			"child": [
 				{
@@ -79,7 +33,38 @@
 					"difficulty": 3,
 					"category": ["Wildlife", "Jungle Trekking", "Climbing"]
 				}
-			]
+			],
+			"type": "Sabah"
+		},
+		{
+			"title": "Crocker Range Park",
+			"child": [
+				{
+					"title": "2D1N Gunung Alab Hike",
+					"accommodation": 3,
+					"difficulty": 1,
+					"category": ["Jungle Trekking", "Wildlife"]
+				},
+				{
+					"title": "4D3N Trusmadi Expedition",
+					"accommodation": 1,
+					"difficulty": 1,
+					"category": ["Jungle Trekking", "Wildlife", "Climbing"]
+				},
+				{
+					"title": "Crocker Range Park Day Trip",
+					"accommodation": 3,
+					"difficulty": 1,
+					"category": ["Day Trip"]
+				},
+				{
+					"title": "Sinurambi Bed & Breakfast",
+					"accommodation": 3,
+					"difficulty": 1,
+					"category": ["Accommodation"]
+				}
+			],
+			"type": "Sabah"
 		},
 		{
 			"title": "Kinabalu National Park",
@@ -108,7 +93,140 @@
 					"difficulty": 1,
 					"category": ["Jungle Trekking", "Wildlife"]
 				}
-			]
+			],
+			"type": "Sabah"
+		},
+		{
+			"title": "Kudat",
+			"child": [
+				{
+					"title": "Hibiscus Beach Retreat",
+					"accommodation": 3,
+					"difficulty": 0,
+					"category": ["Accommodation"]
+				},
+				{
+					"title": "Hibiscus Villa",
+					"accommodation": 3,
+					"difficulty": 0,
+					"category": ["Accommodation"]
+				},
+				{
+					"title": "Northern Island Exploration",
+					"accommodation": 1,
+					"difficulty": 1,
+					"category": []
+				}
+			],
+			"type": "Sabah"
+		},
+		{
+			"title": "Kota Belud",
+			"child": [
+				{
+					"title": "3D2N Tambatuon Village",
+					"accommodation": 1,
+					"difficulty": 1,
+					"category": ["Culture"]
+				},
+				{
+					"title": "Manana Borneo",
+					"accommodation": 1,
+					"difficulty": 0,
+					"category": ["Accommodation"]
+				}
+			],
+			"type": "Sabah"
+		},
+		{
+			"title": "Kuching",
+			"child": [
+				{
+					"title": "Big Stream, Cool Spaces",
+					"accommodation": 0,
+					"difficulty": 1,
+					"category": ["Day Trip", "Cave"]
+				},
+				{
+					"title": "Rainforest Kayaking or Bamboo Rafting",
+					"accommodation": 0,
+					"difficulty": 1,
+					"category": ["Day Trip", "Water Sports"]
+				},
+				{
+					"title": "Santubong Wildlife Cruise",
+					"accommodation": 0,
+					"difficulty": 1,
+					"category": ["Day Trip", "Wildlife", "River Cruise"]
+				},
+				{
+					"title": "Tringgus Trail",
+					"accommodation": 0,
+					"difficulty": 1,
+					"category": ["Day Trip", "Jungle Trekking", "Culture", "Cave"]
+				},
+				{
+					"title": "Ranee Kuching",
+					"accommodation": 3,
+					"difficulty": 0,
+					"category": ["Accommodation"]
+				}
+			],
+			"type": "Sarawak"
+		},
+		{
+			"title": "Semporna Archipelago",
+			"child": [
+				{
+					"title": "The Reef Dive Resort at Mataking Island",
+					"accommodation": 3,
+					"difficulty": 1,
+					"category": ["Water Sports", "Climbing"]
+				},
+				{
+					"title": "Seaventures Dive Rig Resort",
+					"accommodation": 1,
+					"difficulty": 1,
+					"category": ["Water Sports"]
+				}
+			],
+			"type": "Sabah"
+		},
+		{
+			"title": "Maliau Basin",
+			"child": [
+				{
+					"title": "Maliau Basin",
+					"accommodation": 1,
+					"difficulty": 1,
+					"category": ["Jungle Trekking", "Wildlife"]
+				}
+			],
+			"type": "Sabah"
+		},
+		{
+			"title": "Orou Sapulot",
+			"child": [
+				{
+					"title": "Orou Sapulot",
+					"accommodation": 1,
+					"difficulty": 1,
+					"category": ["Cave", "Culture", "Climbing", "Jungle Trekking"]
+				}
+			],
+			"type": "Sabah"
+		},
+		{
+			"title": "Tabin Wildlife Reserve",
+			"child": [
+				{
+					"title": "Tabin Wildlife Reserve",
+					"accommodation": 1,
+					"difficulty": 1,
+					"category": ["Jungle Trekking", "Wildlife"]
+				}
+			],
+			"type": "Sabah"
 		},
 		{
 			"title": "Kinabatangan",
@@ -143,25 +261,69 @@
 					"difficulty": 1,
 					"category": ["Jungle Trekking", "Wildlife", "River Cruise", "Cave", "Climbing"]
 				}
-			]
+			],
+			"type": "Sabah"
 		},
 		{
-			"title": "Kota Belud",
+			"title": "Sandakan & Sepilok",
 			"child": [
 				{
-					"title": "3D2N Tambatuon Village",
-					"accommodation": 1,
+					"title": "1N Sepilok Sojourn",
+					"accommodation": 2,
 					"difficulty": 1,
-					"category": ["Culture"]
+					"category": ["Wildlife"]
 				},
 				{
-					"title": "Manana Borneo",
+					"title": "3D2N Orang Utans & Turtles",
+					"accommodation": 1,
+					"difficulty": 1,
+					"category": ["Wildlife", "Culture"]
+				},
+				{
+					"title": "2D1N Libaran Turtle Island Camping",
+					"accommodation": 2,
+					"difficulty": 1,
+					"category": ["Wildlife", "Culture"]
+				},
+				{
+					"title": "Lankayan Island",
+					"accommodation": 3,
+					"difficulty": 1,
+					"category": ["Water Sports", "Beach", "Wildlife"]
+				},
+				{
+					"title": "Sepilok Nature Resort",
+					"accommodation": 2,
+					"difficulty": 0,
+					"category": ["Accommodation"]
+				},
+				{
+					"title": "Sepilok Forest Edge Resort",
+					"accommodation": 2,
+					"difficulty": 0,
+					"category": ["Accommodation"]
+				},
+				{
+					"title": "Paganakan Dii Tropical Retreat",
 					"accommodation": 1,
 					"difficulty": 0,
 					"category": ["Accommodation"]
+				},
+				{
+					"title": "NAK Hotel",
+					"accommodation": 1,
+					"difficulty": 0,
+					"category": ["Accommodation"]
+				},
+				{
+					"title": "Sheraton Four Points",
+					"accommodation": 3,
+					"difficulty": 0,
+					"category": ["Accommodation"]
 				}
-			]
-		},
+			],
+			"type": "Sabah"
+		},		
 		{
 			"title": "Kota Kinabalu",
 			"child": [
@@ -261,197 +423,8 @@
 					"difficulty": 0,
 					"category": ["Accommodation"]
 				}
-			]
-		},
-		{
-			"title": "Kuching",
-			"child": [
-				{
-					"title": "Big Stream, Cool Spaces",
-					"accommodation": 0,
-					"difficulty": 1,
-					"category": ["Day Trip", "Cave"]
-				},
-				{
-					"title": "Rainforest Kayaking or Bamboo Rafting",
-					"accommodation": 0,
-					"difficulty": 1,
-					"category": ["Day Trip", "Water Sports"]
-				},
-				{
-					"title": "Santubong Wildlife Cruise",
-					"accommodation": 0,
-					"difficulty": 1,
-					"category": ["Day Trip", "Wildlife", "River Cruise"]
-				},
-				{
-					"title": "Tringgus Trail",
-					"accommodation": 0,
-					"difficulty": 1,
-					"category": ["Day Trip", "Jungle Trekking", "Culture", "Cave"]
-				},
-				{
-					"title": "Ranee Kuching",
-					"accommodation": 3,
-					"difficulty": 0,
-					"category": ["Accommodation"]
-				}
-			]
-		},
-		{
-			"title": "Kudat",
-			"child": [
-				{
-					"title": "Hibiscus Beach Retreat",
-					"accommodation": 3,
-					"difficulty": 0,
-					"category": ["Accommodation"]
-				},
-				{
-					"title": "Hibiscus Villa",
-					"accommodation": 3,
-					"difficulty": 0,
-					"category": ["Accommodation"]
-				},
-				{
-					"title": "Northern Island Exploration",
-					"accommodation": 1,
-					"difficulty": 1,
-					"category": []
-				}
-			]
-		},
-		{
-			"title": "Maliau Basin",
-			"child": [
-				{
-					"title": "Maliau Basin",
-					"accommodation": 1,
-					"difficulty": 1,
-					"category": ["Jungle Trekking", "Wildlife"]
-				}
-			]
-		},
-		{
-			"title": "Mulu National Park",
-			"child": [
-				{
-					"title": "3D2N Mulu Showcaves",
-					"accommodation": 3,
-					"difficulty": 1,
-					"category": ["Cave"]
-				},
-				{
-					"title": "4D3N Mulu Showcaves & Pinnacles",
-					"accommodation": 1,
-					"difficulty": 1,
-					"category": ["Cave", "Climbing"]
-				},
-				{
-					"title": "5D4N Headhunters' Trail",
-					"accommodation": 1,
-					"difficulty": 1,
-					"category": ["Cave", "Culture", "Climbing"]
-				}
-			]
-		},
-		{
-			"title": "Orou Sapulot",
-			"child": [
-				{
-					"title": "Orou Sapulot",
-					"accommodation": 1,
-					"difficulty": 1,
-					"category": ["Cave", "Culture", "Climbing", "Jungle Trekking"]
-				}
-			]
-		},
-		{
-			"title": "Sandakan & Sepilok",
-			"child": [
-				{
-					"title": "1N Sepilok Sojourn",
-					"accommodation": 2,
-					"difficulty": 1,
-					"category": ["Wildlife"]
-				},
-				{
-					"title": "3D2N Orang Utans & Turtles",
-					"accommodation": 1,
-					"difficulty": 1,
-					"category": ["Wildlife", "Culture"]
-				},
-				{
-					"title": "2D1N Libaran Turtle Island Camping",
-					"accommodation": 2,
-					"difficulty": 1,
-					"category": ["Wildlife", "Culture"]
-				},
-				{
-					"title": "Lankayan Island",
-					"accommodation": 3,
-					"difficulty": 1,
-					"category": ["Water Sports", "Beach", "Wildlife"]
-				},
-				{
-					"title": "Sepilok Nature Resort",
-					"accommodation": 2,
-					"difficulty": 0,
-					"category": ["Accommodation"]
-				},
-				{
-					"title": "Sepilok Forest Edge Resort",
-					"accommodation": 2,
-					"difficulty": 0,
-					"category": ["Accommodation"]
-				},
-				{
-					"title": "Paganakan Dii Tropical Retreat",
-					"accommodation": 1,
-					"difficulty": 0,
-					"category": ["Accommodation"]
-				},
-				{
-					"title": "NAK Hotel",
-					"accommodation": 1,
-					"difficulty": 0,
-					"category": ["Accommodation"]
-				},
-				{
-					"title": "Sheraton Four Points",
-					"accommodation": 3,
-					"difficulty": 0,
-					"category": ["Accommodation"]
-				}
-			]
-		},
-		{
-			"title": "Semporna Archipelago",
-			"child": [
-				{
-					"title": "The Reef Dive Resort at Mataking Island",
-					"accommodation": 3,
-					"difficulty": 1,
-					"category": ["Water Sports", "Climbing"]
-				},
-				{
-					"title": "Seaventures Dive Rig Resort",
-					"accommodation": 1,
-					"difficulty": 1,
-					"category": ["Water Sports"]
-				}
-			]
-		},
-		{
-			"title": "Tabin Wildlife Reserve",
-			"child": [
-				{
-					"title": "Tabin Wildlife Reserve",
-					"accommodation": 1,
-					"difficulty": 1,
-					"category": ["Jungle Trekking", "Wildlife"]
-				}
-			]
+			],
+			"type": "Sabah"
 		},
 		{
 			"title": "Ulu Ai Experiences",
@@ -486,7 +459,50 @@
 					"difficulty": 3,
 					"category": ["Jungle Trekking", "Culture", "Wildlife"]
 				}
-			]
+			],
+			"type": "Sarawak"
+		},
+		{
+			"title": "Mulu National Park",
+			"child": [
+				{
+					"title": "3D2N Mulu Showcaves",
+					"accommodation": 3,
+					"difficulty": 1,
+					"category": ["Cave"]
+				},
+				{
+					"title": "4D3N Mulu Showcaves & Pinnacles",
+					"accommodation": 1,
+					"difficulty": 1,
+					"category": ["Cave", "Climbing"]
+				},
+				{
+					"title": "5D4N Headhunters' Trail",
+					"accommodation": 1,
+					"difficulty": 1,
+					"category": ["Cave", "Culture", "Climbing"]
+				}
+			],
+			"type": "Sarawak"
+		},
+		{
+			"title": "Bako National Park",
+			"child": [
+				{
+					"title": "Bako National Park Day Trip",
+					"accommodation": 0,
+					"difficulty": 1,
+					"category": ["Wildlife","Day Trip","Jungle Trekking"]
+				},
+				{
+					"title": "2D1N Bako National Park",
+					"accommodation": 2,
+					"difficulty": 1,
+					"category": ["Wildlife","Jungle Trekking"]
+				}
+			],
+			"type": "Sarawak"
 		},
 		{
 			"title": "Custom Trips",
@@ -497,7 +513,8 @@
 					"difficulty": 0,
 					"category": []
 				}
-			]
+			],
+			"type": "Others"
 		}
 	]
 }

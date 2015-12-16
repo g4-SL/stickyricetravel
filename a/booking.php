@@ -10,82 +10,115 @@
 	<nav></nav><section>	
 		<div class="container hd">	
 
+			<div class="two columns"></div>
+
 			<div class="sixteen columns big_title">
 				<ul class="brc">
 					<li><a href="/home">Home</a></li>
 					<li>Booking / Contact Form</li>
 				</ul>
-				<h1 class="mh">Booking / Contact Form</h1>			
+				<h1 class="mh">Booking / Contact Form</h1>	
+				<span class="required-desr">* required</span>		
 			</div>		
 			
 			<div class="clear"></div>
-
-			<div class="sixteen columns">
 				
-				<form method="post" name="frm_resv" id="frm_resv" class="zn_form form contact-form">
+			<form method="post" name="frm_resv" id="frm_resv" class="zn_form form contact-form">
+				<div id="success"></div>
+				
+				<fieldset>
 					
-					<div id="success"></div>
+					<div class="two columns"></div>
+
+					<div class="eight columns">
+
+						<div class="control-group ">
+							<span class="label"><i class="ion-person"></i><span style="top:0;right:0">*</span></span>
+							<input type="text" id="contact-your-name" name="name" class="zn_required_field input text" placeholder="Name">
+						</div>
+
+						<div class="control-group ">
+							<span class="label"><i class="ion-navicon-round"></i></span>
+							<input type="text" id="contact-your-name" name="name" class="input text" placeholder="Subject">
+						</div>
+
+						<div class="control-group ">
+							<span class="label"><i class="ion-plane"></i></span>
+							<input type="text" id="start_date" name="telephone" class="input text" placeholder="Start date">
+						</div>
+
+					</div>
 					
-					<fieldset>
-						<div class="bf" style="float:left">
+					<div class="eight columns">
+
 						<div class="control-group ">
-							<label for="contact-your-name" style="margin-bottom:10px">Name:<span class="required">*</span></label>
-							<input type="text" id="contact-your-name" name="name" class="zn_required_field input text">
-						</div>
-						<div class="control-group ">
-							<label for="contact-your-email" style="margin-bottom:10px">Email:<span class="required">*</span></label>
-							<input type="text" id="contact-your-email" name="email" class="zn_email_field zn_required_field input text">
-						</div>
-						<div class="control-group ">
-							<label for="contact-your-telephone" style="margin-bottom:10px">Telephone:</label>
-							<input type="text" id="contact-your-telephone" name="telephone" class="input text">
+							<span class="label"><i class="ion-email"></i><span style="top:0;right:0">*</span></span>
+							<input type="email" id="contact-your-email" name="email" class="zn_email_field zn_required_field input text" placeholder="Email">
 						</div>
 
 						<div class="control-group ">
-							<label for="contact-details" style="margin-bottom:10px">Message or Booking Details:<span class="required">*</span></label>
-							<textarea id="contact-details" rows="30" cols="50" name="message" class="input textarea zn_required_field"></textarea>
+							<span class="label"><i class="ion-ios-telephone"></i></span>
+							<input type="tel" id="contact-your-telephone" name="telephone" class="input text" placeholder="Telephone">
 						</div>
 
 						<div class="control-group ">
-							<label for="contact-details" style="margin-bottom:10px">Adventures selected:</label>
-							<div class="sw" style="float:left"></div>
+							<span class="label"><i class="ion-plane flip"></i></span>
+							<input type="text" id="finish_date" name="telephone" class="input text" placeholder="Finish date">
 						</div>
 
-						</div>
-
-						<div class="lar2" style="float:right;width:50%;min-height:1100px">
-							<?php if(isset($_POST['tit'])) { ?>
-								<label style="width:100%">You came from <u><a href="javascript:history.go(-1);">this page:</a></u></label>
-								<div class="clear"></div>
-								<label style="float:left;width:100%;font-size:15px;color:green" for="999"><?php echo $_POST['tit']; ?></label><br />
-							<?php } ?>
-
-							<div class="clear"></div>
-							<h3>Tick the adventures that you are interested in...</h3><br />
-							
-							<div class="clear"></div>
-
-							<div id="ac" class="lio"></div>
-
-						</div>
+					</div>
 						
-						<div class="clear"></div>
+					<div class="clear"></div>
+					
+					<div class="two columns"></div>
+					
+					<div class="sixteen columns">
+
+						<div class="control-group ">
+							<textarea id="contact-details" rows="30" cols="50" name="message" class="textarea zn_required_field" placeholder="Message"></textarea>
+						</div>
+
+					</div>
 						
+					<div class="clear"></div>
+					
+					<div class="two columns"></div>
+
+					<div class="sixteen columns full-col-parent" id="sabah-parent">
+						<div class="full-col" id="sabah-booking-col"></div>
+					</div>
+						
+					<div class="clear"></div>
+					
+					<div class="two columns"></div>
+
+					<div class="sixteen columns full-col-parent" id="sarawak-parent">
+						<div class="full-col" id="sarawak-booking-col"></div>
+					</div>
+						
+					<div class="clear"></div>
+					
+					<div class="two columns"></div>
+
+					<div class="sixteen columns full-col-parent" id="others-parent">
+						<div class="full-col" id="others-booking-col"></div>
+					</div>
+
+					<div class="clear"></div>
+					
+					<div class="two columns"></div>
+
+					<div class="sixteen columns">					
 						<div class="control-group" style="margin:50px auto; text-align:center">
 							<div class="controls">
-								<span class="required-desr">* required</span>
-								<input class="button" id="submit-form" type="submit" name="submit" value="Send" style="float:right;width:100px">
+								<input class="button" id="submit-form" type="submit" name="submit" value="Send" style="float:right;width:100px;margin-right:0">
 								<input type='reset' name='reset' onclick='cls()' value='Clear' class="button" style="background:#fff;float:left;width:80px">
 							</div>
-						</div>								
-					
-						
-					</fieldset>
-				</form>
-			</div>
+						</div>
+					</div>
 
-	
-	
+				</fieldset>
+			</form>
 		</div>
 	</section>
 	
@@ -118,6 +151,53 @@
 	        	}
 	        	$('.sw').html(temp);
 			}
+
+		$(function(){
+			$.when(getJson()).done(function(data){
+				var menuC = 0;
+				var counterSabah = 1;
+				var counterSarawak = 1;
+				for (i in data.parent_product){
+					temp = '';
+					clear = '';
+					for(j in data.parent_product[i].child){
+						menuC++;
+						temp = temp + '<input type="checkbox" name="p[]" class="bcb" value="' + data.parent_product[i].child[j].title + '" id="' + menuC + '"><label class="blb">' + data.parent_product[i].child[j].title + '</label>';
+					}
+					if(data.parent_product[i].type == "Sabah" && counterSabah != 3){
+						counterSabah++;
+					}
+					else if (data.parent_product[i].type == "Sabah" && counterSabah == 3){
+						clear = '<div class="clear"></div>';
+						counterSabah = 1;
+					}
+					else if(data.parent_product[i].type == "Sarawak" && counterSarawak != 3){
+						counterSarawak++;
+					}
+					else if (data.parent_product[i].type == "Sarawak" && counterSarawak == 3){
+						clear = '<div class="clear"></div>';
+						counterSarawak = 1;
+					}
+					$('.full-col#' + (data.parent_product[i].type).toLowerCase() + '-booking-col').append('<div class="one-third-col"><h4>' + data.parent_product[i].title + '</h4>' + temp + '</div>' + clear);
+				}
+			});
+		});
+
+		$(function() {
+			$( "#start_date" ).datepicker({
+        		numberOfMonths: 2,
+        		onSelect: function(selected) {
+        			$("#finish_date").datepicker("option","minDate", selected);
+        		}
+			});
+
+			$( "#finish_date" ).datepicker({
+        		numberOfMonths: 2,
+        		onSelect: function(selected) {
+        			$("#start_date").datepicker("option","maxDate", selected);
+        		}
+			});
+		});
 
 		(function($){
 			$(document).ready(function() {
@@ -174,16 +254,18 @@
 						return false;
 						
 					}
+
+					console.log($(form).serialize());
 					
 					$.ajax({
 						type: 'POST',
-						url: './e/l.php',
+						url: '../e/l.php',
 						data: $(form).serialize(),
 						success: function(msg){
 																			
 							if (msg == 'sent'){
 								alert("Thank you for making a booking with Sticky Rice Travel. We will get in touch with you soon.");
-								console.log(msg.EmailTo);
+								console.log(msg.Body);
 								success.html('Success!')  ;
 
 							}
