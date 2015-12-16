@@ -29,7 +29,6 @@ function enableSkrollr(){
 
     $('.desc.total_col').each(function(){
         $(this).parent().css({"paddingTop": parseInt($(window).height(),10)*0.3}); 
-        console.log(parseInt($(this).height(),10));
     });
 }
 

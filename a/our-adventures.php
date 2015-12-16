@@ -208,6 +208,98 @@
 			</div>		
 		</section>	
 
+		<section id="multi-trips-intro" class="parallax vertical_center">
+			<div class="container hd lh">
+				<div class="two columns"></div>
+				<div class="sixteen columns">
+					<h1 class="our_adv">Multi Trips Package</h1>
+					<h2>We try to accommodate for all your travel wants &amp; needs</h2>
+				</div>
+				
+				<div class="clear"></div>
+			</div>
+		</section>
+
+		<section id="multi-trips">
+			<div class="container hd lh">
+
+				<div class="one columns"></div>
+
+				<div class="six columns animated_box">
+					<a href="our-adventures/bako-national-park">
+						<div><img src="c/adventures/bako.jpg" class="img1" alt="Bako National Park" /></div>
+					</a>	
+					<div>
+						<h2>Bako National Park</h2>
+					</div>
+				</div>
+
+				<div class="six columns animated_box">
+					<a href="our-adventures/kuching">
+						<div><img src="c/adventures/kuching.jpg" class="img1" alt="Kuching" /></div>
+					</a>	
+					<div>
+						<h2>Kuching</h2>
+					</div>
+				</div>	
+
+				<div class="six columns animated_box">
+					<a href="our-adventures/mulu-national-park">
+						<div><img src="c/adventures/mulu-national-park.jpg" class="img1" alt="Mulu National Park" /></div>
+					</a>	
+					<div>
+						<h2>Mulu National Park</h2>
+					</div>
+				</div>
+			
+				<div class="clear display"></div>
+
+				<div class="one columns"></div>
+
+				<div class="six columns animated_box">
+					<a href="our-adventures/ulu-ai-experiences">
+						<div><img src="c/adventures/ulu-ai-experiences.jpg" class="img1" alt="Ulu Ai Experiences" /></div>
+					</a>	
+					<div>
+						<h2>Ulu Ai Experiences</h2>
+					</div>
+				</div>
+
+				<div class="six columns animated_box">
+					<a href="./our-adventures/kudat">
+						<div><img src="c/adventures/kudat.jpg" class="img1" alt="Kudat" /></div>
+					</a>	
+					<div>
+						<h2>Kudat</h2>
+					</div>
+				</div>
+
+				<div class="six columns animated_box">
+					<a href="./our-adventures/maliau-basin">
+						<div><img src="c/adventures/maliau-basin.jpg" class="img1" alt="Maliau Basin" /></div>
+					</a>	
+					<div>
+						<h2>Maliau Basin</h2>
+					</div>
+				</div>
+			
+				<div class="clear"></div>
+
+				<div class="one columns"></div>
+
+				<div class="six columns animated_box">
+					<a href="./our-adventures/orou-sapulot">
+						<div><img src="c/adventures/sapulot-country-adventure.jpg" class="img1"  alt="Orou Sapulot - Murut Country Adventure" /></div>
+					</a>	
+					<div>
+						<h2>Orou Sapulot - Murut Country Adventure</h2>
+					</div>
+				</div>
+			
+				<div class="clear display"></div>
+			</div>		
+		</section>
+
 		<section id="others-intro" class="parallax vertical_center">
 			<div class="container hd lh">
 				<div class="two columns"></div>

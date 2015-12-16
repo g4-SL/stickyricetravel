@@ -88,6 +88,7 @@ h1.our_adv{
 #sarawak_bg_1{background-image:url(../c/large/www-adventures-sarawak.jpg);z-index:-1;}
 #sarawak_bg_2{background-image:url(../c/large/www-adventures-sarawak-2.jpg);background-position: center center;z-index:-2;bottom:0;}
 #others-intro{background-image:url(../c/large/www-adventures-others.jpg);height:80vh !important;text-align:center;}
+#multi-trips-intro{background-image:url(../c/large/www-adventures-others.jpg);height:80vh !important;text-align:center;}
 #home_bg_1{background-image:linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),url(../c/large/www-base-red-langur.jpg);height:90vh !important;text-align:center;}
 #home_bg_2{background-image:url(../c/large/www-base-1.jpg);height:90vh !important}
 #others-intro *{color:#fff}
@@ -146,6 +147,9 @@ h1.our_adv{
 .full-col-parent{padding-top:50px;}
 .one-third-col{float:left;margin-bottom:15px}
 .one-third-col h4{text-transform:uppercase;}
+.form .button.clear-btn, .form .button.submit-btn{padding:0 25px;background:#603d05;color:#fff;font-weight:normal;border:none;height:50px;font-size:1.2em}
+.form .button.clear-btn{float:left;}
+.form .button.submit-btn{float:right;margin-right:0;}
 
 @media (min-width:768px){
 .about_us h2{width: 50%;left: 44%}

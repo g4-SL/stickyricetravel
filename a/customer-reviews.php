@@ -20,7 +20,7 @@
 			
 			<div class="clear"></div>
 		
-			<div class="seven columns">
+<!-- 			<div class="seven columns">
 
 				<h2>Write us a review...</h2>
 			
@@ -54,7 +54,7 @@
 						</fieldset>
 					</form>
 							
-			</div>
+			</div> -->
 		
 			<div class="nine columns">
 

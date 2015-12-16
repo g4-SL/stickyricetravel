@@ -123,8 +123,8 @@
 					<div class="sixteen columns">					
 						<div class="control-group" style="margin:50px auto; text-align:center">
 							<div class="controls">
-								<input class="button" id="submit-form" type="submit" name="submit" value="Send" style="float:right;width:100px;margin-right:0">
-								<input type='reset' name='reset' onclick='cls()' value='Clear' class="button" style="background:#fff;float:left;width:80px">
+								<input class="button submit-btn" id="submit-form" type="submit" name="submit" value="Enquire now">
+								<input type='reset' name='reset' onclick='cls()' value='Clear' class="button clear-btn">
 							</div>
 						</div>
 					</div>
@@ -151,7 +151,6 @@
 				
 			function cls() {
 				$('input[type="checkbox"]').attr('checked', false);
-				console.log("hellot");
 				$('input').removeClass('error');
 				$('textarea').removeClass('error');
 			}
