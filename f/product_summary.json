@@ -229,102 +229,6 @@
 			"type": "Sabah"
 		},
 		{
-			"title": "Kinabatangan",
-			"child": [
-				{
-					"title": "3D2N Borneo Nature Lodge",
-					"accommodation": 3,
-					"difficulty": 1,
-					"category": ["Wildlife", "River Cruise", "Cave"]
-				},
-				{
-					"title": "3D2N Kinabatangan Wetlands Resort",
-					"accommodation": 1,
-					"difficulty": 1,
-					"category": ["Wildlife", "River Cruise", "Culture"]
-				},
-				{
-					"title": "3D2N Abai Homestay",
-					"accommodation": 3,
-					"difficulty": 1,
-					"category": ["Culture", "River Cruise", "Wildlife"]
-				},
-				{
-					"title": "3D2N Eco Camp",
-					"accommodation": 1,
-					"difficulty": 1,
-					"category": ["Wildlife", "River Cruise"]
-				},
-				{
-					"title": "3D2N Supu Camp",
-					"accommodation": 1,
-					"difficulty": 1,
-					"category": ["Jungle Trekking", "Wildlife", "River Cruise", "Cave", "Climbing"]
-				}
-			],
-			"type": "Sabah"
-		},
-		{
-			"title": "Sandakan & Sepilok",
-			"child": [
-				{
-					"title": "1N Sepilok Sojourn",
-					"accommodation": 2,
-					"difficulty": 1,
-					"category": ["Wildlife"]
-				},
-				{
-					"title": "3D2N Orang Utans & Turtles",
-					"accommodation": 1,
-					"difficulty": 1,
-					"category": ["Wildlife", "Culture"]
-				},
-				{
-					"title": "2D1N Libaran Turtle Island Camping",
-					"accommodation": 2,
-					"difficulty": 1,
-					"category": ["Wildlife", "Culture"]
-				},
-				{
-					"title": "Lankayan Island",
-					"accommodation": 3,
-					"difficulty": 1,
-					"category": ["Water Sports", "Beach", "Wildlife"]
-				},
-				{
-					"title": "Sepilok Nature Resort",
-					"accommodation": 2,
-					"difficulty": 0,
-					"category": ["Accommodation"]
-				},
-				{
-					"title": "Sepilok Forest Edge Resort",
-					"accommodation": 2,
-					"difficulty": 0,
-					"category": ["Accommodation"]
-				},
-				{
-					"title": "Paganakan Dii Tropical Retreat",
-					"accommodation": 1,
-					"difficulty": 0,
-					"category": ["Accommodation"]
-				},
-				{
-					"title": "NAK Hotel",
-					"accommodation": 1,
-					"difficulty": 0,
-					"category": ["Accommodation"]
-				},
-				{
-					"title": "Sheraton Four Points",
-					"accommodation": 3,
-					"difficulty": 0,
-					"category": ["Accommodation"]
-				}
-			],
-			"type": "Sabah"
-		},		
-		{
 			"title": "Kota Kinabalu",
 			"child": [
 				{
@@ -426,6 +330,102 @@
 			],
 			"type": "Sabah"
 		},
+		{
+			"title": "Sandakan & Sepilok",
+			"child": [
+				{
+					"title": "1N Sepilok Sojourn",
+					"accommodation": 2,
+					"difficulty": 1,
+					"category": ["Wildlife"]
+				},
+				{
+					"title": "3D2N Orang Utans & Turtles",
+					"accommodation": 1,
+					"difficulty": 1,
+					"category": ["Wildlife", "Culture"]
+				},
+				{
+					"title": "2D1N Libaran Turtle Island Camping",
+					"accommodation": 2,
+					"difficulty": 1,
+					"category": ["Wildlife", "Culture"]
+				},
+				{
+					"title": "Lankayan Island",
+					"accommodation": 3,
+					"difficulty": 1,
+					"category": ["Water Sports", "Beach", "Wildlife"]
+				},
+				{
+					"title": "Sepilok Nature Resort",
+					"accommodation": 2,
+					"difficulty": 0,
+					"category": ["Accommodation"]
+				},
+				{
+					"title": "Sepilok Forest Edge Resort",
+					"accommodation": 2,
+					"difficulty": 0,
+					"category": ["Accommodation"]
+				},
+				{
+					"title": "Paganakan Dii Tropical Retreat",
+					"accommodation": 1,
+					"difficulty": 0,
+					"category": ["Accommodation"]
+				},
+				{
+					"title": "NAK Hotel",
+					"accommodation": 1,
+					"difficulty": 0,
+					"category": ["Accommodation"]
+				},
+				{
+					"title": "Sheraton Four Points",
+					"accommodation": 3,
+					"difficulty": 0,
+					"category": ["Accommodation"]
+				}
+			],
+			"type": "Sabah"
+		},	
+		{
+			"title": "Kinabatangan",
+			"child": [
+				{
+					"title": "3D2N Borneo Nature Lodge",
+					"accommodation": 3,
+					"difficulty": 1,
+					"category": ["Wildlife", "River Cruise", "Cave"]
+				},
+				{
+					"title": "3D2N Kinabatangan Wetlands Resort",
+					"accommodation": 1,
+					"difficulty": 1,
+					"category": ["Wildlife", "River Cruise", "Culture"]
+				},
+				{
+					"title": "3D2N Abai Homestay",
+					"accommodation": 3,
+					"difficulty": 1,
+					"category": ["Culture", "River Cruise", "Wildlife"]
+				},
+				{
+					"title": "3D2N Eco Camp",
+					"accommodation": 1,
+					"difficulty": 1,
+					"category": ["Wildlife", "River Cruise"]
+				},
+				{
+					"title": "3D2N Supu Camp",
+					"accommodation": 1,
+					"difficulty": 1,
+					"category": ["Jungle Trekking", "Wildlife", "River Cruise", "Cave", "Climbing"]
+				}
+			],
+			"type": "Sabah"
+		},	
 		{
 			"title": "Ulu Ai Experiences",
 			"child": [

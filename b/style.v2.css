@@ -151,6 +151,13 @@ h1.our_adv{
 .form .button.clear-btn{float:left;}
 .form .button.submit-btn{float:right;margin-right:0;}
 
+.review-col-parent{background:url(../c/booking/title-testimonials.png) 0 0 no-repeat;padding-top:50px;}
+.review-col{background:url(../c/paper-bg-icon.png);padding-top:10px;padding-bottom:20px;}
+.review-col *{padding-right:25px;padding-left:25px;}
+.review-col h3{font-size:1.4em;margin-bottom:5px}
+.review-col h4{font-size:0.9em;margin-top:0}
+.review-col p{margin-bottom:30px}
+
 @media (min-width:768px){
 .about_us h2{width: 50%;left: 44%}
 .member .image .member_title h3:nth-child(1){font-size:2em}

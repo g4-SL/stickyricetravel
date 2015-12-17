@@ -266,7 +266,6 @@ input, textarea{padding:5px 10px;border:none;background-color:#fff}
 .tone td {font-size:12px;padding:7px !important;text-align:center}
 .tone th {font-weight:bold}
 
-#frm_cmt input, #frm_cmt textarea{width:90%}
 #portfolio{position:fixed;top:50%;left:50%;z-index:1;width:1000px;height:500px;margin:-250px 0 0 -500px}
 #background{position:fixed;top:0;left:0;width:100%;height:100%;z-index:2;background:url(../c/bg.png) no-repeat center}
 #portfolio .gallery,
