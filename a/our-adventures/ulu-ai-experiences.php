@@ -40,7 +40,7 @@
 						<img src="/c/adventures/nanga-sumpa.jpg" class="img1" alt="3D2N Nanga Sumpa"/>
 						<h2>3D2N Nanga Sumpa</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -59,7 +59,7 @@
 						<img src="/c/adventures/nanga-sumpa-lubok-kasai.jpg" class="img1" alt="3D2N Nanga Sumpa &amp; Lubok Kasai"/>
 						<h2>3D2N Nanga Sumpa &amp; Lubok Kasai</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -78,7 +78,7 @@
 						<img src="/c/adventures/longhouse-to-longhouse.jpg" class="img1" alt="4D3N Longhouse to Longhouse Trek"/>
 						<h2>4D3N Longhouse to Longhouse Trek</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -103,7 +103,7 @@
 						<img src="/c/adventures/lubok-kasai-jungle-experience.jpg" class="img1" alt="4D3N Lubok Kasai Jungle Experience"/>
 						<h2>4D3N Lubok Kasai Jungle Experience</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -122,7 +122,7 @@
 						<img src="/c/adventures/red-ape-trail.jpg" class="img1" alt="5D4N Red Ape Trail"/>
 						<h2>5D4N Red Ape Trail</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>

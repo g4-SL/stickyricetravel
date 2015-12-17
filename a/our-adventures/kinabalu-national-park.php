@@ -37,7 +37,7 @@
 						<img src="/c/adventures/kinabalu-national-park-day-trip.jpg" class="img1" alt="Kinabalu National Park Day Trip"/>
 						<h2>Kinabalu National Park Day Trip</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -56,7 +56,7 @@
 						<img src="/c/adventures/mount-kinabalu-basic-climb.jpg" class="img1" alt="Mount Kinabalu Climb"/>
 						<h2>Mount Kinabalu Climb</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -75,7 +75,7 @@
 						<img src="/c/adventures/mount-kinabalu-via-ferrata.jpg" class="img1" alt="Mount Kinabalu Climb via Ferrata"/>
 						<h2>Mount Kinabalu Climb via Ferrata</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -100,7 +100,7 @@
 						<img src="/c/adventures/mount-kinabalu-camping.jpg" class="img1" alt="3D2N Kinabalu Camping"/>
 						<h2>3D2N Kinabalu Camping</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>

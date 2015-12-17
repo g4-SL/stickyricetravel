@@ -37,7 +37,7 @@
 						<img src="/c/adventures/bako-day-trip.jpg" class="img1" alt="Bako Day Trip"/>
 						<h2>Bako National Park Day Trip</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -56,7 +56,7 @@
 						<img src="/c/adventures/bako-national-park.jpg" class="img1" alt="2D1N Bako National Park"/>
 						<h2>2D1N Bako National Park</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>

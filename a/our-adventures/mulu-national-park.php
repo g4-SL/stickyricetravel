@@ -43,7 +43,7 @@
 						<img src="/c/adventures/mulu-showcaves.jpg" class="img1" alt="3D2N Mulu Showcaves"/>
 						<h2>3D2N Mulu Showcaves</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -62,7 +62,7 @@
 						<img src="/c/adventures/mulu-showcaves-and-pinnacles.jpg" class="img1" alt="4D3N Mulu Showcaves &amp; Pinnacles"/>
 						<h2>4D3N Mulu Showcaves &amp; Pinnacles</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -81,7 +81,7 @@
 						<img src="/c/adventures/headhunters-trail.jpg" class="img1" alt="5D4N Headhunters' Trail"/>
 						<h2>5D4N Headhunters' Trail</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>

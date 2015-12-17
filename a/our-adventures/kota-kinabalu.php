@@ -37,7 +37,7 @@
 						<img src="/c/adventures/cycling-programs.jpg" class="img1" alt="Cycling Programs"/>
 						<h2>Cycling Programs</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -56,7 +56,7 @@
 						<img src="/c/adventures/diving-tunku-abdul-rahman-park.jpg" class="img1" alt="Diving &amp; Snorkeling Programs"/>
 						<h2>Diving &amp; Snorkeling Programs</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -75,7 +75,7 @@
 						<img src="/c/adventures/sea-kayaking.jpg" class="img1" alt="Kayak &amp; Snorkel Safari"/>
 						<h2>Kayak &amp; Snorkel Safari</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -100,7 +100,7 @@
 						<img src="/c/adventures/momma-house-cooking-class.jpg" class="img1" alt="Momma's House Cooking Class"/>
 						<h2>Momma's House Cooking Class</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -119,7 +119,7 @@
 						<img src="/c/adventures/kiulu-white-water-rafting.jpg" class="img1" alt="White Water Rafting"/>
 						<h2>White Water Rafting</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -138,7 +138,7 @@
 						<img src="/c/adventures/coming-soon.jpg" class="img1" alt="Borneo Orchard House"/>
 						<h2>Borneo Orchard House</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -161,7 +161,7 @@
 						<img src="/c/adventures/borneo-backpackers.jpg" class="img1" alt="Borneo Backpackers"/>
 						<h2>Borneo Backpackers</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -180,7 +180,7 @@
 						<img src="/c/adventures/gaya-island-resort.jpg" class="img1" alt="Gaya Island Resort"/>
 						<h2>Gaya Island Resort</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -199,7 +199,7 @@
 						<img src="/c/adventures/grandis-hotel.jpg" class="img1" alt="Grandis Hotel"/>
 						<h2>Grandis Hotel</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -224,7 +224,7 @@
 						<img src="/c/adventures/hotel-sixty3.jpg" class="img1" alt="Hotel Sixty3"/>
 						<h2>Hotel Sixty3</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -243,7 +243,7 @@
 						<img src="/c/adventures/hyatt-regency.jpg" class="img1" alt="Hyatt Regency"/>
 						<h2>Hyatt Regency</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -262,7 +262,7 @@
 						<img src="/c/adventures/jesselton-hotel.jpg" class="img1" alt="Jesselton Hotel"/>
 						<h2>Jesselton Hotel</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -285,7 +285,7 @@
 						<img src="/c/adventures/kk-suites.jpg" class="img1" alt="KK Suites"/>
 						<h2>KK Suites</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>

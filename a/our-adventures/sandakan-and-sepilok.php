@@ -47,7 +47,7 @@
 						<img src="/c/adventures/sepilok-sojourn.jpg" class="img1" alt="1N Sepilok Sojourn"/>
 						<h2>1N Sepilok Sojourn</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -66,7 +66,7 @@
 						<img src="/c/adventures/libaran-turtle-island-camping.jpg" class="img1" alt="Libaran Turtle Island Camping"/>
 						<h2>2D1N Libaran Turtle Island Camping</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -85,7 +85,7 @@
 						<img src="/c/adventures/orang-utan-and-turtles.jpg" class="img1" alt="3D2N Orang Utan &amp; Turtles"/>
 						<h2>3D2N Orang Utans &amp; Turtles</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -108,7 +108,7 @@
 						<img src="/c/adventures/lankayan-island.jpg" class="img1" alt="Lankayan Island"/>
 						<h2>Lankayan Island</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -127,7 +127,7 @@
 						<img src="/c/adventures/sepilok-nature-resort.jpg" class="img1" alt="Sepilok Nature Resort"/>
 						<h2>Sepilok Nature Resort</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -146,7 +146,7 @@
 						<img src="/c/adventures/sepilok-forest-edge.jpg" class="img1" alt="Sepilok Forest Edge"/>
 						<h2>Sepilok Forest Edge Resort</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -169,7 +169,7 @@
 						<img src="/c/adventures/paganakan-dii-tropical-retreat.jpg" class="img1" alt="Paganakan Dii Tropical Retreat"/>
 						<h2>Paganakan Dii Tropical Retreat</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -188,7 +188,7 @@
 						<img src="/c/adventures/nak-hotel.jpg" class="img1" alt="NAK Hotel"/>
 						<h2>NAK Hotel</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -207,7 +207,7 @@
 						<img src="/c/adventures/sheraton-four-points.jpg" class="img1" alt="Sheraton Four Points"/>
 						<h2>Sheraton Four Points</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>

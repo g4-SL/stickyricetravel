@@ -27,6 +27,8 @@
 			<div class="sixteen columns">
 				<h3 style="line-height:1.5;margin:0">
 					Thank you for choosing Sticky Rice Travel as your travel companion here at Borneo! Share your memories with us here and it may help other travellers in planning their trip to Borneo. 
+<!-- 					<br /><br />
+					Sticky Rice Travel is also on TripAdvisor! You can write a review there as well.  -->
 				</h3>
 			</div>
 			

@@ -41,7 +41,7 @@
 						<img src="/c/adventures/borneo-nature-lodge.jpg" class="img1" alt="3D2N Borneo Nature Lodge"/>
 						<h2>3D2N Borneo Nature Lodge</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -60,7 +60,7 @@
 						<img src="/c/adventures/homestay-and-supu-camp.jpg" class="img1" alt="3D2N Kinabatangan Wetlands Resort"/>
 						<h2>3D2N Kinabatangan Wetlands Resort</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -79,7 +79,7 @@
 						<img src="/c/adventures/abai-village-homestay.jpg" class="img1" alt="3D2N Abai Homestay"/>
 						<h2>3D2N Abai Homestay</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -104,7 +104,7 @@
 						<img src="/c/adventures/eco-camp.jpg" class="img1" alt="3D2N Eco Camp"/>
 						<h2>3D2N Eco Camp</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -123,7 +123,7 @@
 						<img src="/c/adventures/supu-camp.jpg" class="img1" alt="3D2N Supu Camp"/>
 						<h2>3D2N Supu Camp</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>

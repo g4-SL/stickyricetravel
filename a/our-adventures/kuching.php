@@ -40,7 +40,7 @@
 						<img src="/c/adventures/big-stream-cool-spaces.jpg" class="img1" alt="Big Stream, Cool Spaces"/>
 						<h2>Big Stream, Cool Spaces</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -59,7 +59,7 @@
 						<img src="/c/adventures/kayaking-rafting.jpg" class="img1" alt="Rainforest Kayaking or Bamboo Rafting"/>
 						<h2>Rainforest Kayaking or Bamboo Rafting</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -78,7 +78,7 @@
 						<img src="/c/adventures/santubong-wildlife-cruise.jpg" class="img1" alt="Santubong Wildlife Cruise"/>
 						<h2>Santubong Wildlife Cruise</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -103,7 +103,7 @@
 						<img src="/c/adventures/tringgus-trail.jpg" class="img1" alt="Tringgus Trail"/>
 						<h2>Tringgus Trail</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -122,7 +122,7 @@
 						<img src="/c/adventures/ranee-kuching.jpg" class="img1" alt="Ranee Kuching"/>
 						<h2>Ranee Kuching</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>

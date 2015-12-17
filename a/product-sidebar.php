@@ -1,6 +1,6 @@
 <div class="product_side">
 	<div class="left">
-		<h3>Accommodation</h3>
+		<h3>Lodging</h3>
 		<ul class="accommodation">
 			<li><a></a></li>
 		</ul>

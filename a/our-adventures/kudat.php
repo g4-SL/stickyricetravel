@@ -34,7 +34,7 @@
 						<img src="/c/adventures/hibiscus-beach-retreat.jpg" class="img1" alt="Hibiscus Beach Retreat"/>
 						<h2>Hibiscus Beach Retreat</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -53,7 +53,7 @@
 						<img src="/c/adventures/hibiscus-villa.jpg" class="img1" alt="Hibiscus Villa"/>
 						<h2>Hibiscus Villa</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -72,7 +72,7 @@
 						<img src="/c/adventures/northern-island-exploration.jpg" class="img1" alt="Northern Island Exploration"/>
 						<h2>Northern Island Exploration</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>

@@ -40,7 +40,7 @@
 						<img src="/c/adventures/mataking-island-resort.jpg" class="img1" alt="The Reef Dive Resort at Mataking Island"/>
 						<h2>The Reef Dive Resort at Mataking Island</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -59,7 +59,7 @@
 						<img src="/c/adventures/seaventures-rig-resort.jpg" class="img1" alt="Seaventures Rig Resorts"/>
 						<h2>Seaventures Dive Rig Resort</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>

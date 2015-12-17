@@ -46,7 +46,7 @@
 						<img src="/c/adventures/gunung-alab.jpg" class="img1" alt="2D1N Gunung Alab Hike"/>
 						<h2>2D1N Gunung Alab Hike</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -65,7 +65,7 @@
 						<img src="/c/adventures/mt-trus-madi.jpg" class="img1" alt="Mt Trus Madi"/>
 						<h2>4D3N Trusmadi Expedition</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -84,7 +84,7 @@
 						<img src="/c/adventures/crocker-range-day-trip.jpg" class="img1" alt="Crocker Range Day Trip"/>
 						<h2>Crocker Range Park Day Trip</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -109,7 +109,7 @@
 						<img src="/c/adventures/sinurambi.jpg" class="img1" alt="Sinurambi Bed &amp; Breakfast"/>
 						<h2>Sinurambi Bed &amp; Breakfast</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>

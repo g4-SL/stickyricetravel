@@ -37,7 +37,7 @@
 						<img src="/c/adventures/tambatuon-village.jpg" class="img1" alt="3D2N Tambatuon Village"/>
 						<h2>3D2N Tambatuon Village</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
@@ -56,7 +56,7 @@
 						<img src="/c/adventures/manana-borneo.jpg" class="img1" alt="Manana Borneo"/>
 						<h2>Manana Borneo</h2>
 						<div class="rating accommodation">
-							<h3>Dwelling</h3>
+							<h3>Lodging</h3>
 						</div>
 						<div class="rating difficulty">
 							<h3>Difficulty</h3>
