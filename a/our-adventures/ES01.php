@@ -1,7 +1,7 @@
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
-				<img src="/c/large/www-adventures-tabin.jpg" alt="Tabin Wildlife Reserve - preserving Sabah’s disappearing wild animals" />
+				<img src="/c/large/www-adventures-es01.jpg" alt="" />
 				<div class="ei-title"></div>
 			</li>
 		</ul>
