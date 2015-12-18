@@ -211,9 +211,9 @@
 		<section id="multi-trips-intro" class="parallax vertical_center">
 			<div class="container hd lh">
 				<div class="two columns"></div>
-				<div class="sixteen columns">
+				<div class="sixteen columns" style="background-color:rgba(0,0,0,0.4)">
 					<h1 class="our_adv">Multi Trips Package</h1>
-					<h2>We try to accommodate for all your travel wants &amp; needs</h2>
+					<h2>One is never enough</h2>
 				</div>
 				
 				<div class="clear"></div>
@@ -303,9 +303,9 @@
 		<section id="others-intro" class="parallax vertical_center">
 			<div class="container hd lh">
 				<div class="two columns"></div>
-				<div class="sixteen columns">
-					<h1 class="our_adv">Can't find what you're looking for?</h1>
-					<h2>We try to accommodate for all your travel wants &amp; needs</h2>
+				<div class="sixteen columns" style="background-color:rgba(0,0,0,0.4)">
+					<h1 class="our_adv">Nothing seems to be a good fit?</h1>
+					<h2>Let us know and we'll find something that will be a good fit for you!</h2>
 				</div>
 				
 				<div class="clear"></div>
