@@ -19,9 +19,9 @@
 				<ul class="brc">
 					<li><a href="/home">Home</a></li>
 					<li><a href="/our-adventures">Our Adventures</a></li>
-					<li>Tabin Wildlife Adventure</li>
+					<li>7D6N Eastern Wildlife Tour</li>
 				</ul>
-				<h1>1N Sepilok + 3D2N Borneo Nature Lodge + 4D3N DVFC Explorer</h1>
+				<h1>7D6N Eastern Wildlife Tour</h1>
 			</div>	
 			
 			<div class="clear"></div>
@@ -36,16 +36,10 @@
 				<div class="nine columns">
 
 					<p>
-						A visit to Tabin Wildlife Reserve is highly recommended if wildlife is the focus of your Borneo trip. A nature and wildlife reserve created in 1984 to preserve Sabah's disappearing wild animals and their habitat, the reserve occupies a large part of the peninsula forming the northern headland of Darvel Bay, located 48 kilometers east of Lahad Datu. Tabin is Sabah's largest wildlife reserve, a sanctuary that covers 112,000 hectares, of which 9000 hectares, the core area, is primary unlogged forest. The remainder is logged, regenerating forests bordered by oil palm which attracts the wildlife, and herein, lies the irony.
-					</p>	
+						In this programme, you will stay at Borneo Nature Lodge, a lodge that strives to be an eco-friendly lodge without having to compromise the environment or your comfort. Nestled along the riverbanks of the Kinabatangan River, spend your days cruising down river in search of wildlife, explore the inner chambers of Gomantong Cave, and watch our primate cousins feed while at the Sepilok Orang-Utan Centre. Bird enthusiast can make base at the lodge's 3 storey viewing tower, which doubles as a vantage point and solar tower. While on ground level, there are mechanical bicycle pedals mounted to the ground that visitors may cycle to charge up the lodge's battery banks, as the lodge runs on stored solar power at night.
+					</p>
 					<p>
-						Mammals like the clouded leopard and Malayan sunbear prefer the deeper shade of primary forest; less dense forest floor makes it easier for moving around compared to regenerating forests. In the evening however, civets, wild cats and wild boar leave their forest homes to forage among the oil palms. Hornbills and monkeys feast on the fruit during the day.
-					</p>	
-					<p>
-						Tabin is a truly wildlife hotspot; all 8 species of hornbills in Borneo have been recorded here and on any visit you will likely to see at least 3 species - the resident family of White Crowned Hornbill, Rhinoceros Hornbill and Wrinkled Hornbill. The neighbouring oil palm fruit provide a wonderful supplement to their normal diet. The Borneo Pygmy Elephant is often seen across the river from the resort and gibbons' calls wake you up in the morning - an early morning walk offers the opportunity to see these agile creatures.
-					</p>		
-					<p>
-						Tabin Wildife Resort is the only accommodation here and was set up in 1999 along the shallow banks of the Lipad River. One of Tabin's important features is the mineral sources including at least 3 mud volcanoes. These areas serve as mineral salt licks for many wildlife and perhaps it is for this reason that such a great diversity of large mammals including elephants, wild cattle (Tembadau), and bearded pigs as well as a number of predators, continue to thrive in Tabin. During your visit here, you will trek to one of the mud volcanoes and visit a waterfall, and go on night drives in search of nocturnal wildlife - it is not unusual to see civets and leopard cats foraging along the roadside on night drives.
+						At Danum Valley Field Center, your days will consists of early morning nature and wildlife observations, short hikes surrounding the area, longer walks if your guide approves of your fitness ability, relaxing time or siesta by the river during the hot afternoon sun, night walks to find nocturnal creatures and optional additional 4x4 activities such as night safari and morning sunrise tour. You will get a chance to experience the 130 million years old Borneo rainforest by discovering many different species of flora and fauna.
 					</p>
 
 					<h2 class="grunge5">Accommodation...</h2>
@@ -213,7 +207,6 @@
 				<img src="/c/adventures-es02/7-400.jpg" alt="" />
 				<img src="/c/adventures-es02/8-400.jpg" alt="" />
 				<img src="/c/adventures-es02/9-400.jpg" alt="" />
-				<img src="/c/adventures-es02/10-400.jpg" alt="" />
 				<img src="/c/adventures-es02/11-400.jpg" alt="" />
 				<img src="/c/adventures-es02/12-400.jpg" alt="" />
 			</div>
@@ -223,5 +216,5 @@
 	</section>
 
 <script>
-	populateSidebar("Tabin Wildlife Reserve", "Tabin Wildlife Reserve");
+	populateSidebar("7D6N Eastern Wildlife Tour", "7D6N Eastern Wildlife Tour");
 </script>

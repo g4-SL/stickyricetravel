@@ -472,6 +472,43 @@ if($p[1] == "our-adventures" && $p[2] == "mulu-national-park" && $p[3] == "mulu-
 	$d = "Book amazing borneo holidays with Sticky Rice. A trip to Maliau Basin is truly adventurous. With over 2000 plants and animals. Meaningful Adventures!";			
 }
 
+// MULTI TRIPS
+
+if($p[1] == "our-adventures" && $p[2] == "6d5n-eastern-wildlife-tour") {
+	$t = "6D5N Eastern Wildlife Tour | Multi Trip Packages";
+	$d = "Book amazing borneo holidays with Sticky Rice. A trip to Maliau Basin is truly adventurous. With over 2000 plants and animals. Meaningful Adventures!";			
+}
+
+if($p[1] == "our-adventures" && $p[2] == "7d6n-eastern-wildlife-tour") {
+	$t = "7D6N Eastern Wildlife Tour | Multi Trip Packages";
+	$d = "Book amazing borneo holidays with Sticky Rice. A trip to Maliau Basin is truly adventurous. With over 2000 plants and animals. Meaningful Adventures!";			
+}
+
+if($p[1] == "our-adventures" && $p[2] == "9d8n-eastern-wildlife-tour") {
+	$t = "9D8N Eastern Wildlife Tour | Multi Trip Packages";
+	$d = "Book amazing borneo holidays with Sticky Rice. A trip to Maliau Basin is truly adventurous. With over 2000 plants and animals. Meaningful Adventures!";			
+}
+
+if($p[1] == "our-adventures" && $p[2] == "8d7n-sabah-hidden-treasure") {
+	$t = "8D7N Sabah's Hidden Treasures | Multi Trip Packages";
+	$d = "Book amazing borneo holidays with Sticky Rice. A trip to Maliau Basin is truly adventurous. With over 2000 plants and animals. Meaningful Adventures!";			
+}
+
+if($p[1] == "our-adventures" && $p[2] == "7d6n-sabah-hidden-treasure") {
+	$t = "7D6N Sabah's Hidden Treasures | Multi Trip Packages";
+	$d = "Book amazing borneo holidays with Sticky Rice. A trip to Maliau Basin is truly adventurous. With over 2000 plants and animals. Meaningful Adventures!";			
+}
+
+if($p[1] == "our-adventures" && $p[2] == "8d7n-hike-and-climb") {
+	$t = "8D7N Hike & Climb | Multi Trip Packages";
+	$d = "Book amazing borneo holidays with Sticky Rice. A trip to Maliau Basin is truly adventurous. With over 2000 plants and animals. Meaningful Adventures!";			
+}
+
+if($p[1] == "our-adventures" && $p[2] == "mountain-to-sea") {
+	$t = "5D4N Mountain to Sea | Multi Trip Packages";
+	$d = "Book amazing borneo holidays with Sticky Rice. A trip to Maliau Basin is truly adventurous. With over 2000 plants and animals. Meaningful Adventures!";			
+}
+
 //
 
 

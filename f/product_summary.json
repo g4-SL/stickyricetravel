@@ -5,8 +5,8 @@
 			"child": [
 				{
 					"title": "Borneo Rainforest Lodge (BRL)",
-					"accommodation": 3,
-					"difficulty": 1,
+					"accommodation": 5,
+					"difficulty": 3,
 					"category": ["Wildlife", "Jungle Trekking"]
 				},
 				{
@@ -17,20 +17,20 @@
 				},
 				{
 					"title": "3D2N / 4D3N DVFC Explorer",
-					"accommodation": 1,
-					"difficulty": 1,
+					"accommodation": 2,
+					"difficulty": 4,
 					"category": ["Wildlife", "Jungle Trekking"]
 				},
 				{
 					"title": "4D3N DVFC Sg Purut Camping",
-					"accommodation": 3,
-					"difficulty": 1,
+					"accommodation": 2,
+					"difficulty": 4,
 					"category": ["Wildlife", "Jungle Trekking"]
 				},
 				{
 					"title": "7D6N DVFC Mt Danum Expedition",
-					"accommodation": 1,
-					"difficulty": 3,
+					"accommodation": 2,
+					"difficulty": 4,
 					"category": ["Wildlife", "Jungle Trekking", "Climbing"]
 				}
 			],
@@ -41,26 +41,26 @@
 			"child": [
 				{
 					"title": "2D1N Gunung Alab Hike",
-					"accommodation": 3,
-					"difficulty": 1,
-					"category": ["Jungle Trekking", "Wildlife"]
+					"accommodation": 1,
+					"difficulty": 4,
+					"category": ["Jungle Trekking", "Climbing"]
 				},
 				{
 					"title": "4D3N Trusmadi Expedition",
-					"accommodation": 1,
-					"difficulty": 1,
-					"category": ["Jungle Trekking", "Wildlife", "Climbing"]
+					"accommodation": 2,
+					"difficulty": 5,
+					"category": ["Jungle Trekking", "Climbing"]
 				},
 				{
 					"title": "Crocker Range Park Day Trip",
-					"accommodation": 3,
+					"accommodation": 0,
 					"difficulty": 1,
-					"category": ["Day Trip"]
+					"category": ["Day Trip", "Jungle Trekking"]
 				},
 				{
 					"title": "Sinurambi Bed & Breakfast",
-					"accommodation": 3,
-					"difficulty": 1,
+					"accommodation": 4,
+					"difficulty": 0,
 					"category": ["Accommodation"]
 				}
 			],
@@ -77,20 +77,20 @@
 				},
 				{
 					"title": "Mount Kinabalu Climb",
-					"accommodation": 1,
-					"difficulty": 1,
+					"accommodation": 2,
+					"difficulty": 4,
 					"category": ["Climbing"]
 				},
 				{
 					"title": "Mount Kinabalu Climb via Ferrata",
-					"accommodation": 3,
-					"difficulty": 1,
+					"accommodation": 2,
+					"difficulty": 4,
 					"category": ["Climbing"]
 				},
 				{
 					"title": "3D2N Kinabalu Camping",
-					"accommodation": 1,
-					"difficulty": 1,
+					"accommodation": 2,
+					"difficulty": 2,
 					"category": ["Jungle Trekking", "Wildlife"]
 				}
 			],
@@ -125,13 +125,13 @@
 			"child": [
 				{
 					"title": "3D2N Tambatuon Village",
-					"accommodation": 1,
+					"accommodation": 2,
 					"difficulty": 1,
 					"category": ["Culture"]
 				},
 				{
 					"title": "Manana Borneo",
-					"accommodation": 1,
+					"accommodation": 2,
 					"difficulty": 0,
 					"category": ["Accommodation"]
 				}
@@ -144,13 +144,13 @@
 				{
 					"title": "Big Stream, Cool Spaces",
 					"accommodation": 0,
-					"difficulty": 1,
+					"difficulty": 3,
 					"category": ["Day Trip", "Cave"]
 				},
 				{
 					"title": "Rainforest Kayaking or Bamboo Rafting",
 					"accommodation": 0,
-					"difficulty": 1,
+					"difficulty": 2,
 					"category": ["Day Trip", "Water Sports"]
 				},
 				{
@@ -162,12 +162,12 @@
 				{
 					"title": "Tringgus Trail",
 					"accommodation": 0,
-					"difficulty": 1,
+					"difficulty": 3,
 					"category": ["Day Trip", "Jungle Trekking", "Culture", "Cave"]
 				},
 				{
 					"title": "Ranee Kuching",
-					"accommodation": 3,
+					"accommodation": 5,
 					"difficulty": 0,
 					"category": ["Accommodation"]
 				}
@@ -179,14 +179,14 @@
 			"child": [
 				{
 					"title": "The Reef Dive Resort at Mataking Island",
-					"accommodation": 3,
+					"accommodation": 5,
 					"difficulty": 1,
-					"category": ["Water Sports", "Climbing"]
+					"category": ["Water Sports"]
 				},
 				{
 					"title": "Seaventures Dive Rig Resort",
-					"accommodation": 1,
-					"difficulty": 1,
+					"accommodation": 3,
+					"difficulty": 2,
 					"category": ["Water Sports"]
 				}
 			],
@@ -197,8 +197,8 @@
 			"child": [
 				{
 					"title": "Maliau Basin",
-					"accommodation": 1,
-					"difficulty": 1,
+					"accommodation": 2,
+					"difficulty": 5,
 					"category": ["Jungle Trekking", "Wildlife"]
 				}
 			],
@@ -209,8 +209,8 @@
 			"child": [
 				{
 					"title": "Orou Sapulot",
-					"accommodation": 1,
-					"difficulty": 1,
+					"accommodation": 2,
+					"difficulty": 3,
 					"category": ["Cave", "Culture", "Climbing", "Jungle Trekking"]
 				}
 			],
@@ -221,8 +221,8 @@
 			"child": [
 				{
 					"title": "Tabin Wildlife Reserve",
-					"accommodation": 1,
-					"difficulty": 1,
+					"accommodation": 3,
+					"difficulty": 2,
 					"category": ["Jungle Trekking", "Wildlife"]
 				}
 			],
@@ -258,25 +258,25 @@
 				{
 					"title": "Diving & Snorkeling Programs",
 					"accommodation": 0,
-					"difficulty": 1,
-					"category": ["Water Sports"]
+					"difficulty": 2,
+					"category": ["Water Sports", "Day Trip"]
 				},
 				{
 					"title": "Kayak & Snorkel Safari",
 					"accommodation": 0,
-					"difficulty": 1,
+					"difficulty": 2,
 					"category": ["Water Sports", "Day Trip"]
 				},
 				{
 					"title": "Momma's House Cooking Class",
 					"accommodation": 0,
-					"difficulty": 1,
+					"difficulty": 0,
 					"category": ["Day Trip"]
 				},
 				{
 					"title": "White Water Rafting",
 					"accommodation": 0,
-					"difficulty": 1,
+					"difficulty": 3,
 					"category": ["Water Sports", "Day Trip"]
 				},
 				{
@@ -293,13 +293,13 @@
 				},
 				{
 					"title": "Gaya Island Resort",
-					"accommodation": 3,
+					"accommodation": 5,
 					"difficulty": 0,
 					"category": ["Accommodation"]
 				},
 				{
 					"title": "Grandis Hotel",
-					"accommodation": 3,
+					"accommodation": 4,
 					"difficulty": 0,
 					"category": ["Accommodation"]
 				},
@@ -311,19 +311,19 @@
 				},
 				{
 					"title": "Hyatt Regency",
-					"accommodation": 3,
+					"accommodation": 5,
 					"difficulty": 0,
 					"category": ["Accommodation"]
 				},
 				{
 					"title": "Jesselton Hotel",
-					"accommodation": 1,
+					"accommodation": 3,
 					"difficulty": 0,
 					"category": ["Accommodation"]
 				},
 				{
 					"title": "KK Suites",
-					"accommodation": 1,
+					"accommodation": 3,
 					"difficulty": 0,
 					"category": ["Accommodation"]
 				}
@@ -335,55 +335,55 @@
 			"child": [
 				{
 					"title": "1N Sepilok Sojourn",
-					"accommodation": 2,
+					"accommodation": 3,
 					"difficulty": 1,
 					"category": ["Wildlife"]
 				},
 				{
 					"title": "3D2N Orang Utans & Turtles",
-					"accommodation": 1,
+					"accommodation": 3,
 					"difficulty": 1,
-					"category": ["Wildlife", "Culture"]
+					"category": ["Wildlife", "Beach"]
 				},
 				{
 					"title": "2D1N Libaran Turtle Island Camping",
 					"accommodation": 2,
 					"difficulty": 1,
-					"category": ["Wildlife", "Culture"]
+					"category": ["Wildlife", "Beach"]
 				},
 				{
-					"title": "Lankayan Island",
+					"title": "3D2N Lankayan Island",
 					"accommodation": 3,
 					"difficulty": 1,
 					"category": ["Water Sports", "Beach", "Wildlife"]
 				},
 				{
 					"title": "Sepilok Nature Resort",
-					"accommodation": 2,
+					"accommodation": 5,
 					"difficulty": 0,
 					"category": ["Accommodation"]
 				},
 				{
 					"title": "Sepilok Forest Edge Resort",
-					"accommodation": 2,
+					"accommodation": 3,
 					"difficulty": 0,
 					"category": ["Accommodation"]
 				},
 				{
 					"title": "Paganakan Dii Tropical Retreat",
-					"accommodation": 1,
+					"accommodation": 3,
 					"difficulty": 0,
 					"category": ["Accommodation"]
 				},
 				{
 					"title": "NAK Hotel",
-					"accommodation": 1,
+					"accommodation": 3,
 					"difficulty": 0,
 					"category": ["Accommodation"]
 				},
 				{
 					"title": "Sheraton Four Points",
-					"accommodation": 3,
+					"accommodation": 5,
 					"difficulty": 0,
 					"category": ["Accommodation"]
 				}
@@ -401,26 +401,26 @@
 				},
 				{
 					"title": "3D2N Kinabatangan Wetlands Resort",
-					"accommodation": 1,
+					"accommodation": 4,
 					"difficulty": 1,
-					"category": ["Wildlife", "River Cruise", "Culture"]
+					"category": ["Wildlife", "River Cruise"]
 				},
 				{
 					"title": "3D2N Abai Homestay",
-					"accommodation": 3,
+					"accommodation": 2,
 					"difficulty": 1,
 					"category": ["Culture", "River Cruise", "Wildlife"]
 				},
 				{
 					"title": "3D2N Eco Camp",
-					"accommodation": 1,
+					"accommodation": 2,
 					"difficulty": 1,
-					"category": ["Wildlife", "River Cruise"]
+					"category": ["Wildlife", "River Cruise", "Jungle Trekking"]
 				},
 				{
 					"title": "3D2N Supu Camp",
 					"accommodation": 1,
-					"difficulty": 1,
+					"difficulty": 3,
 					"category": ["Jungle Trekking", "Wildlife", "River Cruise", "Cave", "Climbing"]
 				}
 			],
@@ -431,26 +431,26 @@
 			"child": [
 				{
 					"title": "5D4N Red Ape Trail",
-					"accommodation": 3,
-					"difficulty": 1,
+					"accommodation": 2,
+					"difficulty": 3,
 					"category": ["Jungle Trekking", "Wildlife"]
 				},
 				{
 					"title": "3D2N Nanga Sumpa",
-					"accommodation": 3,
-					"difficulty": 2,
+					"accommodation": 2,
+					"difficulty": 3,
 					"category": ["Jungle Trekking", "Culture"]
 				},
 				{
 					"title": "3D2N Nanga Sumpa & Lubok Kasai",
-					"accommodation": 1,
+					"accommodation": 2,
 					"difficulty": 3,
 					"category": ["Jungle Trekking", "Culture", "Wildlife"]
 				},
 				{
 					"title": "4D3N Lubok Kasai Jungle Experience",
-					"accommodation": 1,
-					"difficulty": 2,
+					"accommodation": 2,
+					"difficulty": 3,
 					"category": ["Jungle Trekking", "Culture", "Wildlife"]
 				},
 				{
@@ -467,20 +467,20 @@
 			"child": [
 				{
 					"title": "3D2N Mulu Showcaves",
-					"accommodation": 3,
-					"difficulty": 1,
+					"accommodation": 2,
+					"difficulty": 2,
 					"category": ["Cave"]
 				},
 				{
 					"title": "4D3N Mulu Showcaves & Pinnacles",
-					"accommodation": 1,
-					"difficulty": 1,
+					"accommodation": 2,
+					"difficulty": 4,
 					"category": ["Cave", "Climbing"]
 				},
 				{
 					"title": "5D4N Headhunters' Trail",
-					"accommodation": 1,
-					"difficulty": 1,
+					"accommodation": 2,
+					"difficulty": 4,
 					"category": ["Cave", "Culture", "Climbing"]
 				}
 			],
@@ -492,13 +492,13 @@
 				{
 					"title": "Bako National Park Day Trip",
 					"accommodation": 0,
-					"difficulty": 1,
+					"difficulty": 2,
 					"category": ["Wildlife","Day Trip","Jungle Trekking"]
 				},
 				{
 					"title": "2D1N Bako National Park",
-					"accommodation": 2,
-					"difficulty": 1,
+					"accommodation": 3,
+					"difficulty": 2,
 					"category": ["Wildlife","Jungle Trekking"]
 				}
 			],
@@ -512,6 +512,90 @@
 					"accommodation": 0,
 					"difficulty": 0,
 					"category": []
+				}
+			],
+			"type": "Others"
+		},
+		{
+			"title": "5D4N Mountain to Sea",
+			"child": [
+				{
+					"title": "5D4N Mountain to Sea",
+					"accommodation": 2,
+					"difficulty": 2,
+					"category": ["Jungle Trekking", "Wildlife", "Beach", "Water Sports"]
+				}
+			],
+			"type": "Others"
+		},
+		{
+			"title": "7D6N Sabah's Hidden Treasures",
+			"child": [
+				{
+					"title": "7D6N Sabah's Hidden Treasures",
+					"accommodation": 2,
+					"difficulty": 5,
+					"category": ["Cave", "Culture", "Climbing", "Jungle Trekking", "Wildlife"]
+				}
+			],
+			"type": "Others"
+		},
+		{
+			"title": "8D7N Sabah's Hidden Treasures",
+			"child": [
+				{
+					"title": "8D7N Sabah's Hidden Treasures",
+					"accommodation": 2,
+					"difficulty": 5,
+					"category": ["Cave", "Culture", "Climbing", "Jungle Trekking", "Wildlife"]
+				}
+			],
+			"type": "Others"
+		},
+		{
+			"title": "9D8N Eastern Wildlife Tour",
+			"child": [
+				{
+					"title": "9D8N Eastern Wildlife Tour",
+					"accommodation": 3,
+					"difficulty": 4,
+					"category": ["Wildlife", "Jungle Trekking", "River Cruise", "Culture"]
+				}
+			],
+			"type": "Others"
+		},
+		{
+			"title": "7D6N Eastern Wildlife Tour",
+			"child": [
+				{
+					"title": "7D6N Eastern Wildlife Tour",
+					"accommodation": 2,
+					"difficulty": 4,
+					"category": ["Wildlife", "Jungle Trekking", "River Cruise", "Cave"]
+				}
+			],
+			"type": "Others"
+		},
+		{
+			"title": "6D5N Eastern Wildlife Tour",
+			"child": [
+				{
+					"title": "6D5N Eastern Wildlife Tour",
+					"accommodation": 3,
+					"difficulty": 4,
+					"category": ["Wildlife", "River Cruise", "Jungle Trekking"]
+				}
+			],
+			"type": "Others"
+		},
+		{
+			"title": "8D7N Hike & Climb",
+			"child": [
+				{
+					"title": "8D7N Hike & Climb",
+					"accommodation": 2,
+					"difficulty": 5,
+					"category": ["Cave", "Culture", "Climbing", "Jungle Trekking"]
 				}
 			],
 			"type": "Others"

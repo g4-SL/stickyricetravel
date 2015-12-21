@@ -19,9 +19,9 @@
 				<ul class="brc">
 					<li><a href="/home">Home</a></li>
 					<li><a href="/our-adventures">Our Adventures</a></li>
-					<li>Tabin Wildlife Adventure</li>
+					<li>8D7N Hike &amp; Climb</li>
 				</ul>
-				<h1>1N Kota Kinabalu, 4D3N Trus Madi Climb and 4D3N Orou Sapulot</h1>
+				<h1>8D7N Hike &amp; Climb</h1>
 			</div>	
 			
 			<div class="clear"></div>
@@ -36,16 +36,10 @@
 				<div class="nine columns">
 
 					<p>
-						A visit to Tabin Wildlife Reserve is highly recommended if wildlife is the focus of your Borneo trip. A nature and wildlife reserve created in 1984 to preserve Sabah's disappearing wild animals and their habitat, the reserve occupies a large part of the peninsula forming the northern headland of Darvel Bay, located 48 kilometers east of Lahad Datu. Tabin is Sabah's largest wildlife reserve, a sanctuary that covers 112,000 hectares, of which 9000 hectares, the core area, is primary unlogged forest. The remainder is logged, regenerating forests bordered by oil palm which attracts the wildlife, and herein, lies the irony.
-					</p>	
+						Mount Trus Madi is Sabah's 2nd highest peak, and located in the central part of Sabah, the Crocker Range Park covering 1,400sq kilometers. With an abundance of birds, orchids, and nepenthes you will be rewarded with beautiful views as you follow the trail from the village of Sinua to the summit of Trus Madi. Unlike Mount Kinabalu, very few tourists venture here, especially on the longer 3 nights trail so a visit here will prove to be very special as well as challenging.
+					</p>
 					<p>
-						Mammals like the clouded leopard and Malayan sunbear prefer the deeper shade of primary forest; less dense forest floor makes it easier for moving around compared to regenerating forests. In the evening however, civets, wild cats and wild boar leave their forest homes to forage among the oil palms. Hornbills and monkeys feast on the fruit during the day.
-					</p>	
-					<p>
-						Tabin is a truly wildlife hotspot; all 8 species of hornbills in Borneo have been recorded here and on any visit you will likely to see at least 3 species - the resident family of White Crowned Hornbill, Rhinoceros Hornbill and Wrinkled Hornbill. The neighbouring oil palm fruit provide a wonderful supplement to their normal diet. The Borneo Pygmy Elephant is often seen across the river from the resort and gibbons' calls wake you up in the morning - an early morning walk offers the opportunity to see these agile creatures.
-					</p>		
-					<p>
-						Tabin Wildife Resort is the only accommodation here and was set up in 1999 along the shallow banks of the Lipad River. One of Tabin's important features is the mineral sources including at least 3 mud volcanoes. These areas serve as mineral salt licks for many wildlife and perhaps it is for this reason that such a great diversity of large mammals including elephants, wild cattle (Tembadau), and bearded pigs as well as a number of predators, continue to thrive in Tabin. During your visit here, you will trek to one of the mud volcanoes and visit a waterfall, and go on night drives in search of nocturnal wildlife - it is not unusual to see civets and leopard cats foraging along the roadside on night drives.
+						At Sapulot, you will experience the Murut hospitability where people drink bottomless rice wine from huge ceramic jars and have endless chat about the Murut headhunting ancestors. Challenge yourself at scaling the 800 feet limestone pinnacle called Batu Punggul, explore mysterious caves and sleep on stretcher hammocks in a jungle camp perched high on a riverbank. Enjoy traditional Murut food and navigate rivers that run through pristine rainforest in traditional longboats, 'perahu'.
 					</p>
 
 					<h2 class="grunge5">Accommodation...</h2>
@@ -158,7 +152,7 @@
 							<tr>
 								<th><img src="../c/day6.png" alt="Day 6 - Day Six" /></th>
 								<td>
-									Early wake up for breakfast.. Check out of the camp and transfer to Tataluan village by 4x4 vehicle for your excursion to Batu Punggul, an 800 feet limestone pinnacle, rising out of the jungle. For the adventurous, scramble and climb up to the top (45 min - 1 hour) for a magnificent view of the jungle canopy below. Upon your descent, enjoy picnic lunch by the riverbank before continuing your journey by boat and 4x4 to the waterfall. Afternoon is spent exploring the waterfall area and swimming. Sleep by a hut overlooking the waterfall.
+									Early wake up for breakfast. Check out of the camp and transfer to Tataluan village by 4x4 vehicle for your excursion to Batu Punggul, an 800 feet limestone pinnacle, rising out of the jungle. For the adventurous, scramble and climb up to the top (45 min - 1 hour) for a magnificent view of the jungle canopy below. Upon your descent, enjoy picnic lunch by the riverbank before continuing your journey by boat and 4x4 to the waterfall. Afternoon is spent exploring the waterfall area and swimming. Sleep by a hut overlooking the waterfall.
 								</td>
 							</tr>
 							<tr>
@@ -255,5 +249,5 @@
 	</section>
 
 <script>
-	populateSidebar("Tabin Wildlife Reserve", "Tabin Wildlife Reserve");
+	populateSidebar("8D7N Hike & Climb", "8D7N Hike & Climb");
 </script>

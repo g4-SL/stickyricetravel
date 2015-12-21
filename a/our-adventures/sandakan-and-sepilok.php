@@ -106,7 +106,7 @@
 				<div class="img_boxing">
 					<a href="./our-adventures/sandakan-and-sepilok/lankayan-island">
 						<img src="/c/adventures/lankayan-island.jpg" class="img1" alt="Lankayan Island"/>
-						<h2>Lankayan Island</h2>
+						<h2>3D2N Lankayan Island</h2>
 						<div class="rating accommodation">
 							<h3>Lodging</h3>
 						</div>

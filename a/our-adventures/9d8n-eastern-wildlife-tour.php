@@ -19,9 +19,9 @@
 				<ul class="brc">
 					<li><a href="/home">Home</a></li>
 					<li><a href="/our-adventures">Our Adventures</a></li>
-					<li>Tabin Wildlife Adventure</li>
+					<li>9D8N Eastern Wildlife Tour</li>
 				</ul>
-				<h1>1N Sepilok + 3D2N Abai Homestay + 3D2N Tabin Wildlife Resort + 4D3N Danum Valley Field Center</h1>
+				<h1>9D8N Eastern Wildlife Tour</h1>
 			</div>	
 			
 			<div class="clear"></div>
@@ -36,16 +36,13 @@
 				<div class="nine columns">
 
 					<p>
-						A visit to Tabin Wildlife Reserve is highly recommended if wildlife is the focus of your Borneo trip. A nature and wildlife reserve created in 1984 to preserve Sabah's disappearing wild animals and their habitat, the reserve occupies a large part of the peninsula forming the northern headland of Darvel Bay, located 48 kilometers east of Lahad Datu. Tabin is Sabah's largest wildlife reserve, a sanctuary that covers 112,000 hectares, of which 9000 hectares, the core area, is primary unlogged forest. The remainder is logged, regenerating forests bordered by oil palm which attracts the wildlife, and herein, lies the irony.
-					</p>	
+						At Abai Homestay, you will be welcomed into your host family home - experience the hospitality of traditional Orang Sungai and participate in their day-to-day activities such as fishing using fishtraps, planting rice or traditional boat making. Learn about community conservation efforts in preserving their sensitive environment - plant a tree and support their carbon-offset program. Help your host cook a traditional meal and eat your meals with the family. 
+					</p>
 					<p>
-						Mammals like the clouded leopard and Malayan sunbear prefer the deeper shade of primary forest; less dense forest floor makes it easier for moving around compared to regenerating forests. In the evening however, civets, wild cats and wild boar leave their forest homes to forage among the oil palms. Hornbills and monkeys feast on the fruit during the day.
-					</p>	
+						At Danum Valley Field Center, your days will consists of early morning nature and wildlife observations, short hikes surrounding the area, longer walks if your guide approves of your fitness ability, relaxing time or siesta by the river during the hot afternoon sun, night walks to find nocturnal creatures and optional additional 4x4 activities such as night safari and morning sunrise tour. You will get a chance to experience the 130 million years old Borneo rainforest by discovering many different species of flora and fauna.
+					</p>
 					<p>
-						Tabin is a truly wildlife hotspot; all 8 species of hornbills in Borneo have been recorded here and on any visit you will likely to see at least 3 species - the resident family of White Crowned Hornbill, Rhinoceros Hornbill and Wrinkled Hornbill. The neighbouring oil palm fruit provide a wonderful supplement to their normal diet. The Borneo Pygmy Elephant is often seen across the river from the resort and gibbons' calls wake you up in the morning - an early morning walk offers the opportunity to see these agile creatures.
-					</p>		
-					<p>
-						Tabin Wildife Resort is the only accommodation here and was set up in 1999 along the shallow banks of the Lipad River. One of Tabin's important features is the mineral sources including at least 3 mud volcanoes. These areas serve as mineral salt licks for many wildlife and perhaps it is for this reason that such a great diversity of large mammals including elephants, wild cattle (Tembadau), and bearded pigs as well as a number of predators, continue to thrive in Tabin. During your visit here, you will trek to one of the mud volcanoes and visit a waterfall, and go on night drives in search of nocturnal wildlife - it is not unusual to see civets and leopard cats foraging along the roadside on night drives.
+						At Tabin Wildlife Resort, you will trek to one of the mud volcanoes and visit a waterfall, and go on night drives in search of nocturnal wildlife - it is not unusual to see civets and leopard cats foraging along the roadside on night drives
 					</p>
 
 					<h2 class="grunge5">Accommodation...</h2>
@@ -251,5 +248,5 @@
 	</section>
 
 <script>
-	populateSidebar("Tabin Wildlife Reserve", "Tabin Wildlife Reserve");
+	populateSidebar("9D8N Eastern Wildlife Tour", "9D8N Eastern Wildlife Tour");
 </script>

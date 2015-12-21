@@ -1,4 +1,4 @@
-var MAX_RATING = 3;
+var MAX_RATING = 5;
 
 function getJson(){	
 	return $.ajax({

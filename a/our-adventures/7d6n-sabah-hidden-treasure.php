@@ -1,7 +1,7 @@
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
-				<img src="/c/large/www-adventures-ws03.jpg" alt="" />
+				<img src="/c/large/www-adventures-ws02.jpg" alt="" />
 				<div class="ei-title"></div>
 			</li>
 		</ul>
@@ -19,9 +19,9 @@
 				<ul class="brc">
 					<li><a href="/home">Home</a></li>
 					<li><a href="/our-adventures">Our Adventures</a></li>
-					<li>Tabin Wildlife Adventure</li>
+					<li>7D6N Sabah's Hidden Treasures</li>
 				</ul>
-				<h1>4D3N OROU Sapulot &amp; 5D4N Maliau Basin</h1>
+				<h1>7D6N Sabah's Hidden Treasures</h1>
 			</div>	
 			
 			<div class="clear"></div>
@@ -36,16 +36,10 @@
 				<div class="nine columns">
 
 					<p>
-						A visit to Tabin Wildlife Reserve is highly recommended if wildlife is the focus of your Borneo trip. A nature and wildlife reserve created in 1984 to preserve Sabah's disappearing wild animals and their habitat, the reserve occupies a large part of the peninsula forming the northern headland of Darvel Bay, located 48 kilometers east of Lahad Datu. Tabin is Sabah's largest wildlife reserve, a sanctuary that covers 112,000 hectares, of which 9000 hectares, the core area, is primary unlogged forest. The remainder is logged, regenerating forests bordered by oil palm which attracts the wildlife, and herein, lies the irony.
+						Venture to two of Sabah's hidden treasures, Orou Sapulot and Maliau Basin! At Sapulot, you will experience the Murut hospitability where people drink bottomless rice wine from huge ceramic jars and have endless chat about the Murut headhunting ancestors. Challenge yourself at scaling the 800 feet limestone pinnacle called Batu Punggul, explore mysterious caves and sleep on stretcher hammocks in a jungle camp perched high on a riverbank. Enjoy traditional Murut food and navigate rivers that run through pristine rainforest in traditional longboats, 'perahu'.
 					</p>	
 					<p>
-						Mammals like the clouded leopard and Malayan sunbear prefer the deeper shade of primary forest; less dense forest floor makes it easier for moving around compared to regenerating forests. In the evening however, civets, wild cats and wild boar leave their forest homes to forage among the oil palms. Hornbills and monkeys feast on the fruit during the day.
-					</p>	
-					<p>
-						Tabin is a truly wildlife hotspot; all 8 species of hornbills in Borneo have been recorded here and on any visit you will likely to see at least 3 species - the resident family of White Crowned Hornbill, Rhinoceros Hornbill and Wrinkled Hornbill. The neighbouring oil palm fruit provide a wonderful supplement to their normal diet. The Borneo Pygmy Elephant is often seen across the river from the resort and gibbons' calls wake you up in the morning - an early morning walk offers the opportunity to see these agile creatures.
-					</p>		
-					<p>
-						Tabin Wildife Resort is the only accommodation here and was set up in 1999 along the shallow banks of the Lipad River. One of Tabin's important features is the mineral sources including at least 3 mud volcanoes. These areas serve as mineral salt licks for many wildlife and perhaps it is for this reason that such a great diversity of large mammals including elephants, wild cattle (Tembadau), and bearded pigs as well as a number of predators, continue to thrive in Tabin. During your visit here, you will trek to one of the mud volcanoes and visit a waterfall, and go on night drives in search of nocturnal wildlife - it is not unusual to see civets and leopard cats foraging along the roadside on night drives.
+						The second half of the trip will bring you to Maliau Basin, often referred to as "Sabah's Lost World". Situated in a remote Southern area of the state, Maliau Basin is almost completely encircled by insurmountable cliffs that have separated it from the rest of the world for centuries. Although some locals would have known of the area, no archaeological record has been found establishing any permanent residency ever in this zone. A Maliau Basin expedition is for the truly geeky at heart when it comes to nature, and you also have to be prepared to walk 5-8 hours daily with some extended, strenuous uphill sections throughout your time there. 
 					</p>
 
 					<h2 class="grunge5">Accommodation...</h2>
@@ -133,8 +127,6 @@
 								<th><img src="../c/day2.png" alt="Day 2 - Day Two" /></th>
 								<td>
 									Early wake for breakfast. Check out of the camp and transfer to Tataluan village by 4x4 vehicle for your excursion to Batu Punggul, an 800 feet limestone pinnacle, rising out of the jungle. For the adventurous, scramble and climb up to the top (45 min - 1 hour) for a magnificent view of the jungle canopy below. Upon your descent, enjoy picnic lunch by the riverbank before continuing your journey by boat and 4x4 to the waterfall. Afternoon is spent exploring the waterfall area and swimming. Sleep by a hut overlooking the waterfall.
-									<br /><br />
-									Early wake for breakfast. Check out of the camp and transfer to Tataluan village by 4x4 vehicle for your excursion to Batu Punggul, an 800 feet limestone pinnacle, rising out of the jungle. For the adventurous, scramble and climb up to the top (45 min - 1 hour) for a magnificent view of the jungle canopy below. Upon your descent, enjoy picnic lunch by the riverbank before continuing your journey by boat and 4x4 to the waterfall. Afternoon is spent exploring the waterfall area and swimming. Sleep by a hut overlooking the waterfall.
 								</td>
 							</tr>
 							<tr>
@@ -152,23 +144,17 @@
 							<tr>
 								<th><img src="../c/day5.png" alt="Day 5 - Day Five" /></th>
 								<td>
-									Wake up early for breakfast at 7am and at 8am, depart for an hour drive to Agathis Camp on 4x4. From here, you will embark on your 7.5km journey to Nepenthes Camp (average duration 5hours), stopping for lunch along the way. Upon arrival at Nepenthes Camp, settle in and relax before exploring the surroundings - climb a 33metre high observation platform for a different perspective of the area. At about 2pm, you have the option to hike a further 3-3.5km per way (average 2-3hours) to the Giluk and Takob Akob Falls for a refreshing dip in its water. Return to Nepenthes Camp before nightfall for dinner.
+									Wake up early for breakfast at 7am and at 8am, depart for an hour drive to Agathis Camp on 4x4. From here, you will embark on your 9km journey to Ginseng Camp (average duration 5-6hours), stopping for lunch along the way. Expected arrival around 2-3pm, settle in and proceed to Ginseng Falls that is about 15 minutes walk away. Return to camp before dark and enjoy dinner at 7pm. Lights out at 8pm after a long day.
 								</td>
 							</tr>
 							<tr>
 								<th><img src="../c/day6.png" alt="Day 6 - Day Six" /></th>
 								<td>
-									After an early breakfast, continue today’s 7km trek to Ginseng Camp (average duration 5hours) along lowland Dipterocarp forests, lower montane forests and heath forests on undulating trails. Discover the different forest areas including the amazing pitcher plants in the heath forests areas and fan palms in the montane forests. Enjoy lunch along the way or upon arrival at Ginseng Camp. Relax and settle-in, and proceed to Ginseng Falls that is about 15 minutes walk away if you wish. Return to camp before dark and enjoy dinner before lights out.
-								</td>
-							</tr>
-							<tr>
-								<th><img src="../c/day7.png" alt="Day 7 - Day Seven" /></th>
-								<td>
 									Wake up early for breakfast and at 8am, depart to Maliau Falls on a 4.8km hike per way (average duration 2-3hours). Spend the entire afternoon at Maliau Falls, the most famed and undispupted jewel of all the waterfalls in the Maliau Basin – swim, eat lunch and take in the beautiful surroundings. At about 2pm, return to Ginseng Camp on the same trail, arriving back before dark. Relax and enjoy dinner before lights out.
 								</td>
 							</tr>
 							<tr>
-								<th><img src="../c/day8.png" alt="Day 8 - Day Eight" /></th>
+								<th><img src="../c/day7.png" alt="Day 7 - Day Seven" /></th>
 								<td>
 									Early breakfast at 7am before hiking 9km (average duration 6hours) back to Agathis Camp, enjoying pack lunch along the way. Upon arrival at Agathis Camp at about 1-2pm, hop onto 4x4 for the 1 hour transfer back to the centre before switching vehicle for the remainder of the drive to Kota Kinabalu. Expected arrival in Kota Kinabalu is at about 8pm.
 								</td>
@@ -190,6 +176,7 @@
 									OROU Sapulot: Return land transfers from Kota Kinabalu, meals, accommodation, local guide, drinking water, coffee &amp; tea, snacks, activities and all land and boat connection within Sapulot, community fee.
 									<br /><br />
 									Maliau Basin: Accommodation in dorm at study center and stretcher hammocks at satellite camps, fullboard meals and snacks, coffee, tea &amp; drinking water, entrance fees, return transfers from Kota Kinabalu, Sticky Rice Travel Nature guide, and Maliau Basin forest ranger with VHF radio.
+
 								</td>
 								<td>
 									OROU Sapulot: Tips and gratitude
@@ -245,13 +232,13 @@
 			
 			<div class="seven columns bp">
 				<div class="book_btn"><?php include './a/side-book-now.php'; ?></div>
+				<img src="/c/adventures-ws02/1-400.jpg" alt="" />
 				<img src="/c/adventures-ws02/2-400.jpg" alt="" />
+				<img src="/c/adventures-ws02/3-400.jpg" alt="" />
+				<img src="/c/adventures-ws02/4-400.jpg" alt="" />
 				<img src="/c/adventures-ws02/5-400.jpg" alt="" />
 				<img src="/c/adventures-ws02/6-400.jpg" alt="" />
-				<img src="/c/adventures-ws02/3-400.jpg" alt="" />
 				<img src="/c/adventures-ws02/7-400.jpg" alt="" />
-				<img src="/c/adventures-ws02/1-400.jpg" alt="" />
-				<img src="/c/adventures-ws02/4-400.jpg" alt="" />
 				<img src="/c/adventures-ws02/8-400.jpg" alt="" />
 				<img src="/c/adventures-ws02/9-400.jpg" alt="" />
 			</div>
@@ -261,5 +248,5 @@
 	</section>
 
 <script>
-	populateSidebar("Tabin Wildlife Reserve", "Tabin Wildlife Reserve");
+	populateSidebar("7D6N Sabah's Hidden Treasures", "7D6N Sabah's Hidden Treasures");
 </script>

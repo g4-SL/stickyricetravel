@@ -20,9 +20,9 @@
 					<li><a href="./home">Home</a></li>
 					<li><a href="./our-adventures">Our Adventures</a></li>
 					<li><a href="./our-adventures/sandakan-and-sepilok">Sandakan &amp; Sepilok</a></li>
-					<li>Lankayan Island</li>
+					<li>3D2N Lankayan Island</li>
 				</ul>
-				<h1>Lankayan Island</h1>
+				<h1>3D2N Lankayan Island</h1>
 			</div>	
 			
 			<div class="clear"></div>

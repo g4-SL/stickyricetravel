@@ -184,6 +184,11 @@ input.bn, input.bn:hover{width:100%}
 #sabah-booking-col{height:900px;}
 #sarawak-booking-col{height:315px;}
 #others-booking-col{height:100px;}
+
+.parallax .eleven.columns.desc{width:40%;}
+.parallax .five.columns.desc{width:54%;}
+.parallax .eleven.columns.desc img{width:100% !important;margin:0 !important;}
+.parallax .five.columns.desc .mobile_desc{margin:0 0 15px}
 }
 
 /* large devices */
@@ -203,6 +208,11 @@ input.bn, input.bn:hover{width:100%}
 #sabah-booking-col{height:1250px;}
 #sarawak-booking-col{height:350px;}
 #others-booking-col{height:100px;}
+
+.parallax .eleven.columns.desc, .parallax .five.columns.desc{width:47%;}
+.parallax .eleven.columns.desc img{width:100% !important;margin:0 !important;}
+.parallax .five.columns.desc .mobile_desc{margin:0 0 15px}
+.parallax .desc h4{font-size:1em}
 }
 
 @media (min-width:768px){
@@ -228,6 +238,7 @@ input.bn, input.bn:hover{width:50%}
 #sabah-booking-col{height:2150px;}
 #sarawak-booking-col{height:650px;}
 #others-booking-col{height:100px;}
+.parallax .desc h4{font-size:1em}
 }
 
 /* small devices */
@@ -251,6 +262,7 @@ input.bn, input.bn:hover{width:100%}
 #sabah-booking-col{height:2200px;}
 #sarawak-booking-col{height:720px;}
 #others-booking-col{height:100px;}
+.parallax .desc h4{font-size:1em}
 }
 
 .small_container{

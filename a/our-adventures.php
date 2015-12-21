@@ -213,7 +213,7 @@
 				<div class="two columns"></div>
 				<div class="sixteen columns" style="background-color:rgba(0,0,0,0.4)">
 					<h1 class="our_adv">Multi Trips Package</h1>
-					<h2>One is never enough</h2>
+					<h2>'cause one is never enough</h2>
 				</div>
 				
 				<div class="clear"></div>
@@ -226,29 +226,29 @@
 				<div class="one columns"></div>
 
 				<div class="six columns animated_box">
-					<a href="our-adventures/bako-national-park">
-						<div><img src="c/adventures/bako.jpg" class="img1" alt="Bako National Park" /></div>
+					<a href="our-adventures/mountain-to-sea">
+						<div><img src="c/adventures/mountain-to-sea.jpg" class="img1" alt="5D4N Mountain to Sea" /></div>
 					</a>	
 					<div>
-						<h2>Bako National Park</h2>
+						<h2>5D4N Mountain to Sea</h2>
 					</div>
 				</div>
 
 				<div class="six columns animated_box">
-					<a href="our-adventures/kuching">
-						<div><img src="c/adventures/kuching.jpg" class="img1" alt="Kuching" /></div>
+					<a href="our-adventures/7d6n-sabah-hidden-treasure">
+						<div><img src="c/adventures/7d6n-hidden-treasures.jpg" class="img1" alt="7D6N Sabah's Hidden Treasures" /></div>
 					</a>	
 					<div>
-						<h2>Kuching</h2>
+						<h2>7D6N Sabah's Hidden Treasures</h2>
 					</div>
 				</div>	
 
 				<div class="six columns animated_box">
-					<a href="our-adventures/mulu-national-park">
-						<div><img src="c/adventures/mulu-national-park.jpg" class="img1" alt="Mulu National Park" /></div>
+					<a href="our-adventures/8d7n-sabah-hidden-treasure">
+						<div><img src="c/adventures/8d7n-hidden-treasures.jpg" class="img1" alt="8D7N Sabah's Hidden Treasures" /></div>
 					</a>	
 					<div>
-						<h2>Mulu National Park</h2>
+						<h2>8D7N Sabah's Hidden Treasures</h2>
 					</div>
 				</div>
 			
@@ -257,29 +257,29 @@
 				<div class="one columns"></div>
 
 				<div class="six columns animated_box">
-					<a href="our-adventures/ulu-ai-experiences">
-						<div><img src="c/adventures/ulu-ai-experiences.jpg" class="img1" alt="Ulu Ai Experiences" /></div>
+					<a href="our-adventures/9d8n-eastern-wildlife-tour">
+						<div><img src="c/adventures/eastern-wildlife-tour-1.jpg" class="img1" alt="9D8N Eastern Wildlife Tour" /></div>
 					</a>	
 					<div>
-						<h2>Ulu Ai Experiences</h2>
+						<h2>9D8N Eastern Wildlife Tour</h2>
 					</div>
 				</div>
 
 				<div class="six columns animated_box">
-					<a href="./our-adventures/kudat">
-						<div><img src="c/adventures/kudat.jpg" class="img1" alt="Kudat" /></div>
+					<a href="./our-adventures/7d6n-eastern-wildlife-tour">
+						<div><img src="c/adventures/eastern-wildlife-tour-2.jpg" class="img1" alt="7D6N Eastern Wildlife Tour" /></div>
 					</a>	
 					<div>
-						<h2>Kudat</h2>
+						<h2>7D6N Eastern Wildlife Tour</h2>
 					</div>
 				</div>
 
 				<div class="six columns animated_box">
-					<a href="./our-adventures/maliau-basin">
-						<div><img src="c/adventures/maliau-basin.jpg" class="img1" alt="Maliau Basin" /></div>
+					<a href="./our-adventures/6d5n-eastern-wildlife-tour">
+						<div><img src="c/adventures/eastern-wildlife-tour-3.jpg" class="img1" alt="6D5N Eastern Wildlife Tour" /></div>
 					</a>	
 					<div>
-						<h2>Maliau Basin</h2>
+						<h2>6D5N Eastern Wildlife Tour</h2>
 					</div>
 				</div>
 			
@@ -288,11 +288,11 @@
 				<div class="one columns"></div>
 
 				<div class="six columns animated_box">
-					<a href="./our-adventures/orou-sapulot">
-						<div><img src="c/adventures/sapulot-country-adventure.jpg" class="img1"  alt="Orou Sapulot - Murut Country Adventure" /></div>
+					<a href="./our-adventures/8d7n-hike-and-climb">
+						<div><img src="c/adventures/hike-and-climb.jpg" class="img1"  alt="8D7N Hike &amp; Climb" /></div>
 					</a>	
 					<div>
-						<h2>Orou Sapulot - Murut Country Adventure</h2>
+						<h2>8D7N Hike &amp; Climb</h2>
 					</div>
 				</div>
 			
