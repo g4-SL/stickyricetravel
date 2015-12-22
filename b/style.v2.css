@@ -46,22 +46,8 @@ input.bn, input.bn:hover{text-align: left; font-family: 'Oswald'; font-size: 1.5
 .brc li a{text-decoration: none;color: #414141}
 .brc li a:hover{color: #724806}
 
-h1.our_adv{
-	color:#fff;
-	font-size: 3.5em;
-	letter-spacing: 3pt;
-}
-.parallax{
-	background-attachment: fixed;
-	background-position: center center;
-	background-size: cover;
-	background-repeat: no-repeat;
-	width: 100%;
-	color:#fff;
-	padding: 0 !important;
-	position: relative;
-	overflow: hidden;
-}
+h1.our_adv{color:#fff;font-size:3.5em;letter-spacing:3pt}
+.parallax{background-attachment:fixed;background-position:center center;background-size:cover;background-repeat:no-repeat;width:100%;color:#fff;padding:0!important;position:relative;overflow:hidden}
 .parallax .desc h1{padding: 0 15px;}
 .parallax .desc h4{font-size:1.1em;padding:0 25px;line-height:1.5;color:#fff;font-weight:600}
 .desktop{position: absolute;left:0;width: 100%;height: 100%;background-repeat: no-repeat;background-attachment: fixed;background-size: cover;}
@@ -105,26 +91,10 @@ h1.our_adv{
 .fb-header div .fb-like{padding: 5px 0 0;}
 .fb-header div h3{font-family: 'Arial';font-weight: bold;color:#3b5998;margin:0;}
 
-#greeting h2{
-	text-transform: uppercase;
-}
-.about_us h2{
-	font-family: 'Oswald';
-	text-transform: uppercase;
-	color: #2c2c2c;
-	opacity: 0.9;
-	line-height: 1; 
-	float: right;
-	text-align: center;
-	position:absolute;
-	z-index: 999;
-}
-.about_us img{
-	width: 100%;
-}
-.about_us{
-	position: relative;
-}
+#greeting h2{text-transform: uppercase;}
+.about_us h2{font-family:Oswald;text-transform:uppercase;color:#2c2c2c;opacity:.9;line-height:1;float:right;text-align:center;position:absolute;z-index:999}
+.about_us img{width: 100%;}
+.about_us{position: relative;}
 
 .bcb{float:left;margin: 5px 0;}
 .blb{float:left;}
@@ -132,6 +102,7 @@ h1.our_adv{
 #sabah-parent{background:url(../c/booking/title-sabah.png) 0 0 no-repeat;}
 #sarawak-parent{background:url(../c/booking/title-sarawak.png) 0 0 no-repeat;}
 #others-parent{background:url(../c/booking/title-others.png) 0 0 no-repeat;}
+#multi-parent{background:url(../c/booking/title-multi.png) 0 0 no-repeat;}
 .full-col-parent{padding-top:50px;}
 .one-third-col{float:left;margin-bottom:15px}
 .one-third-col h4{text-transform:uppercase;}
@@ -169,6 +140,7 @@ input.bn, input.bn:hover{width:100%}
 #sabah-booking-col{height:900px;}
 #sarawak-booking-col{height:320px;}
 #others-booking-col{height:100px;}
+#multi-booking-col{height:310px;}
 }
 
 /* x-large devices */
@@ -184,6 +156,7 @@ input.bn, input.bn:hover{width:100%}
 #sabah-booking-col{height:900px;}
 #sarawak-booking-col{height:315px;}
 #others-booking-col{height:100px;}
+#multi-booking-col{height:310px;}
 
 .parallax .eleven.columns.desc{width:40%;}
 .parallax .five.columns.desc{width:54%;}
@@ -208,6 +181,7 @@ input.bn, input.bn:hover{width:100%}
 #sabah-booking-col{height:1250px;}
 #sarawak-booking-col{height:350px;}
 #others-booking-col{height:100px;}
+#multi-booking-col{height:390px;}
 
 .parallax .eleven.columns.desc, .parallax .five.columns.desc{width:47%;}
 .parallax .eleven.columns.desc img{width:100% !important;margin:0 !important;}
@@ -238,6 +212,7 @@ input.bn, input.bn:hover{width:50%}
 #sabah-booking-col{height:2150px;}
 #sarawak-booking-col{height:650px;}
 #others-booking-col{height:100px;}
+#multi-booking-col{height:680px;}
 .parallax .desc h4{font-size:1em}
 }
 
@@ -262,6 +237,7 @@ input.bn, input.bn:hover{width:100%}
 #sabah-booking-col{height:2200px;}
 #sarawak-booking-col{height:720px;}
 #others-booking-col{height:100px;}
+#multi-booking-col{height:740px;}
 .parallax .desc h4{font-size:1em}
 }
 

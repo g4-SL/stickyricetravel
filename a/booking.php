@@ -24,7 +24,9 @@
 			<div class="clear"></div>
 				
 			<form method="post" name="frm_resv" id="frm_resv" class="zn_form form contact-form">
-				<div id="success"></div>
+					
+				<div class="two columns"></div>
+				<div class="sixteen columns"><h3>You came from <a href='<?php echo $_POST["ref"]; ?>' style="text-transform:uppercase" id="history_link"><?php echo $_POST["tit"]; ?></a> page</h3></div>
 				
 				<fieldset>
 					
@@ -112,6 +114,14 @@
 					
 					<div class="two columns"></div>
 
+					<div class="sixteen columns full-col-parent" id="multi-parent">
+						<div class="full-col" id="multi-booking-col"></div>
+					</div>
+						
+					<div class="clear"></div>
+					
+					<div class="two columns"></div>
+
 					<div class="sixteen columns full-col-parent" id="others-parent">
 						<div class="full-col" id="others-booking-col"></div>
 					</div>
@@ -135,19 +145,6 @@
 	</section>
 	
 		<script>
-
-		    var expanded = false;
-		    function showCheckboxes() {
-		        var checkboxes = document.getElementById("checkboxes");
-		        if (!expanded) {
-		            checkboxes.style.display = "block";
-		            expanded = true;
-		        } else {
-		            checkboxes.style.display = "none";
-		            expanded = false;
-		        }
-		    }
-
 				
 			function cls() {
 				$('input[type="checkbox"]').attr('checked', false);
@@ -199,6 +196,8 @@
 					}
 					$('.full-col#' + (data.parent_product[i].type).toLowerCase() + '-booking-col').append('<div class="one-third-col"><h4>' + data.parent_product[i].title + '</h4>' + temp + '</div>' + clear);
 				}
+				var var_name = 'input[type="checkbox"][value="' + $('#history_link').text() + '"]';
+				$(var_name).attr("checked", true);
 			});
 		});
 
@@ -268,7 +267,6 @@
 																			
 							if (msg == 'sent'){
 								alert("Thank you for making a booking with Sticky Rice Travel. We will get in touch with you soon.");
-								console.log(msg.Body);
 								success.html('Success!')  ;
 
 							}

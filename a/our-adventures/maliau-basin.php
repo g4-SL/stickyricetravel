@@ -21,9 +21,6 @@
 					<li>Maliau Basin</li>
 				</ul>
 				<h1>Maliau Basin</h1>
-				<div class="aji" style="display:none"><br /><br />
-				Don't forget to mention if you would prefer 4D3N Maliau Basin or 5D4N Maliau Basin
-				</div>	
 			</div>	
 			
 			<div class="clear"></div>

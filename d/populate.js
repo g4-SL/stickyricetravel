@@ -65,7 +65,7 @@ function populateSidebar(product_parent, product_child){
 			if(data.parent_product[i].child[j].title == product_child){
 				var temp = "";
 				for(var pd in data.parent_product[i].child[j].category){
-					temp = temp + '<li><a>' + data.parent_product[i].child[j].category[pd] + "</li></a>";
+					temp = temp + '<li><a>' + data.parent_product[i].child[j].category[pd] + "</a></li>";
 				}
 				$('.product_side ul.category').append(temp);
 				$('.product_side ul.difficulty li a').append(rate('difficulty', data.parent_product[i].child[j]));
