@@ -222,5 +222,5 @@
 	</section>
 
 <script>
-	populateSidebar("Sandakan & Sepilok", "Lankayan Island");
+	populateSidebar("Sandakan & Sepilok", "3D2N Lankayan Island");
 </script>

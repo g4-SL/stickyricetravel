@@ -19,9 +19,9 @@
 				<ul class="brc">
 					<li><a href="/home">Home</a></li>
 					<li><a href="/our-adventures">Our Adventures</a></li>
-					<li>OROU Sapulot - Murut Country Adventures</li>
+					<li>Orou Sapulot - Murut Country Adventures</li>
 				</ul>
-				<h1>OROU Sapulot - Murut Country Adventures</h1>
+				<h1>Orou Sapulot - Murut Country Adventures</h1>
 			</div>	
 			
 			<div class="clear"></div>
@@ -241,7 +241,7 @@
 	
 <script language="javascript" type="text/javascript" src="/d/jquery.ms.js"></script>
 <script type="text/javascript">
-	populateSidebar("Orou Sapulot", "Orou Sapulot");
+	populateSidebar("Orou Sapulot", "Orou Sapulot - Murut Country Adventures");
 $(document).ready(function() {
 	$("#an2").msAccordion({defaultid:0,vertical:true});
 	$('.title').click(function(e){});

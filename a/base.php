@@ -168,24 +168,12 @@
 			</div>
 		</section>
 
-		<section>
+		<section style="padding:0">
 			<div class="container">
 				<div class="two columns"></div>
-
-				<div class="six columns about_us">
-					<img src="./c/about-us/about-us-text.png">
-				</div>
-
-				<div class="ten columns about_us_description">
-					<p>
-						Sticky Rice Travel is a boutique travel agency and operator that focuses on destinations in Malaysian Borneo. We plan personalised trips that explore sensitive ecosystems and indigenous cultures, all while adhering to our strict policy on low-impact, responsible travel. Our motto of meaningful adventures lives through our dedication to environmental conservation and the preservation of local communities and cultures. Join us as we pave the way for responsible travel in Malaysian Borneo!
-					</p>
-				</div>			
-
-				<div class="clear"></div><div class="two columns"></div>
 			
 				<div class="sixteen columns base_big_headlines">
-					<h1>What we do at Sticky Rice Travel</h1>
+					<h1>Things we do here</h1>
 					<h2>&amp; what makes us special</h2>
 				</div>
 
@@ -193,41 +181,41 @@
 
 				<div class="four columns why_travel">
 					<div style="text-align:center">
-						<img src="../c/base/why_travel_tailor.png" style="width:128px">
+						<img src="../c/base/why_travel_tailor.png" style="width:154px">
 						<h3>Tailor-made trips</h3>
 					</div>
 					<p>
-						Low impact travel means that we cater to smaller, more focused markets, including private departures for couples, family getaways, and small group requests. We create custom itineraries based on specific interests and travel styles, and assign each client to a travel consultant that helps build the itinerary from start to finish. Whether you know exactly what you want, or need some travel inspiration, our travel consultants are here to help you customise your ideal Borneo adventure. 
+						We create custom itineraries based on specific interests and travel styles, and assign each client to a travel consultant that helps build the itinerary from start to finish. 
 					</p>
 				</div>
 
 				<div class="four columns why_travel">
 					<div style="text-align:center">
-						<img src="../c/base/why_travel_niche.png" style="width:128px">
+						<img src="../c/base/why_travel_niche.png" style="width:154px">
 						<h3>Niche travel</h3>
 					</div>
 					<p>
-						Are you a birder looking to visit Borneo for endemic birds? Or maybe you are a photographer looking to photograph wildlife in one of the conservation areas of Malaysian Borneo. At Sticky Rice Travel, our team is made up of naturalists with special interests in birds, wildlife photography etc., and have the capacity to build a program to meet your specific needs because we know the best area for your interests including birding guide, entomologist, mammalogist, botanist etc in the region.				
+						Our team is made up of naturalists with special interests in birds, wildlife photography etc., and have the capacity to build a program to meet your specific needs because we know the best area for your interests.				
 					</p>
 				</div>
 
 				<div class="four columns why_travel">
 					<div style="text-align:center">
-						<img src="../c/base/why_travel_knowledge.png" style="width:128px">
+						<img src="../c/base/why_travel_knowledge.png" style="width:154px">
 						<h3>Expert knowledge and insider access</h3>
 					</div>
 					<p>
-						Our knowledge of travel is based on personal experiences, and our guides are some of the best in the business. All of our consultants and guides have traveled extensively in the areas that we promote, and we continuously explore new areas in order to keep our adventures unique, fun, and fulfilling. Fun aside, we strive to engage people to become conscious travelers and offer educational ways to experience Borneo via our private network with conservation organisations on the ground in Borneo.
+						All of our consultants and guides have traveled extensively in the areas that we promote, and we continuously explore new areas in order to keep our adventures unique, fun, and fulfilling.
 					</p>
 				</div>
 
 				<div class="four columns why_travel">
 					<div style="text-align:center">
-						<img src="../c/base/why_travel_responsible.png" style="width:128px">
+						<img src="../c/base/why_travel_responsible.png" style="width:154px">
 						<h3>Responsible travel</h3>
 					</div>
 					<p>
-						Sticky Rice Travel is built on the philosophy of responsible tourism. We understand the delicate balance between tourism and conservation, and practice sustainable tourism that appeals to the socially conscious traveler. We engage in environmental conservation via local conservation groups, advocate for the preservation of local cultures, and partner with operators that have similar ethics and values to ensure that our adventures are meaningful and memorable. Along with the classic Borneo trips, we also pledge to continuously promote community-based tourism initiatives that identify small-scale tourism as an alternative livelihood for rural or remote communities. providing travelers with an intimate way to experience Borneo - not just seeing the sights, but getting a taste of the local culture. 
+						We engage in environmental conservation via local conservation groups, advocate for the preservation of local cultures, and partner with operators that have similar ethics and values to ensure that our adventures are meaningful and memorable.
 					</p>
 				</div>
 				<div class="clear"></div>
@@ -235,9 +223,6 @@
 		</section>
 
 		<div class="clear"></div>	
-
-		<section id="home_bg_2" class="parallax">
-		</section>
 
 		<section id="base_social_media">
 			<div class="container">

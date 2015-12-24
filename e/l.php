@@ -4,6 +4,9 @@ $success = 0;
 $Name = Trim(stripslashes($_POST['name'])); 
 $Email = Trim(stripslashes($_POST['email'])); 
 $Telephone = Trim(stripslashes($_POST['telephone'])); 
+$UserSubject = Trim(stripslashes($_POST['subject'])); 
+$FromDate = Trim(stripslashes($_POST['start-date'])); 
+$ToDate = Trim(stripslashes($_POST['finish-date'])); 
 $Message = Trim(stripslashes($_POST['message'])); 
 $P = $_POST['p']; 
 
@@ -20,9 +23,15 @@ $Body .= "\n";
 $Body .= "Telephone: ";
 $Body .= $Telephone;
 $Body .= "\n";
+$Body .= "Travelling dates: ";
+$Body .= $FromDate." to ".$ToDate;
+$Body .= "\n\n";
+$Body .= "Subject: ";
+$Body .= $UserSubject;
+$Body .= "\n";
 $Body .= "Message: ";
 $Body .= $Message;
-$Body .= "\n";
+$Body .= "\n\n";
 $Body .= "Product: ";
 if(($Email == "") && ($Telephone == "")) { } else {
 

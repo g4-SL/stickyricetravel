@@ -1,7 +1,7 @@
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
-				<img src="c/large/www-adventures-kinabatangan.jpg" alt="forest"/>
+				<img src="c/large/www-booking.jpg" alt=""/>
 				<div class="ei-title"></div>
 			</li>
 		</ul>
@@ -22,11 +22,20 @@
 			</div>		
 			
 			<div class="clear"></div>
+
+			<div class="two columns"></div>
+			<div class="sixteen columns">
+				<h3 style="margin:0">
+					Should you require further information or wish to make a booking for any of our tours, please complete and submit the enquiry form below. Our travel consultants will reply you within 24 hours (Monday to Friday).
+				</h3>
+			</div>
 				
 			<form method="post" name="frm_resv" id="frm_resv" class="zn_form form contact-form">
-					
+				
+				<?php if ($_POST["tit"] != ''){ ?>
 				<div class="two columns"></div>
-				<div class="sixteen columns"><h3>You came from <a href='<?php echo $_POST["ref"]; ?>' style="text-transform:uppercase" id="history_link"><?php echo $_POST["tit"]; ?></a> page</h3></div>
+				<div class="sixteen columns"><h4 style="margin:0">You came from <a href='<?php echo $_POST["ref"]; ?>' style="text-transform:uppercase" id="history_link"><?php echo $_POST["tit"]; ?></a> page</h4></div>
+				<?php } ?>
 				
 				<fieldset>
 					
@@ -256,8 +265,6 @@
 						return false;
 						
 					}
-
-					console.log($(form).serialize());
 					
 					$.ajax({
 						type: 'POST',

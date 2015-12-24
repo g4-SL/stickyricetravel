@@ -1,8 +1,8 @@
 		<div id="footer">
 			<div class="darkbox">
 				<div class="container">
-				<div class="two columns"></div>
-					<div class="four columns">
+				<div class="one columns"></div>
+					<div class="four columns footer_col">
 						<div class="gcontact">
 							<div class="t2">Information</div>
 
@@ -20,10 +20,10 @@
 						</div>
 					</div>			
 				
-					<div class="eight columns">
+					<div class="ten columns footer_col">
 						<div class="t1">Meaningful Adventures</div>
 
-						<ul class="list1" style="float:left;">
+						<ul class="list1">
 							<li><a href="/our-adventures/crocker-range-park">Crocker Range Park</a></li>  
 							<li><a class="jon" href="/our-adventures/danum-valley">Danum Valley Conservation Area</a></li> 
 							<li><a class="jon" href="/our-adventures/kinabalu-national-park">Kinabalu National Park</a></li>
@@ -32,10 +32,7 @@
 							<li><a class="jon" href="/our-adventures/kota-kinabalu">Kota Kinabalu</a></li>
 							<li><a class="jon" href="/our-adventures/kudat">Kudat</a></li>     
 							<li><a class="jon" href="/our-adventures/maliau-basin">Maliau Basin</a></li>  				
-							<li><a class="jon" href="/our-adventures/orou-sapulot">OROU Sapulot - Murut Country Adventures</a></li>
-						</ul>
-
-						<ul class="list1 dz" style="float:left;">  		
+							<li><a class="jon" href="/our-adventures/orou-sapulot">OROU Sapulot - Murut Country Adventures</a></li>		
 							<li><a class="jon" href="/our-adventures/sandakan-and-sepilok">Sandakan &amp; Sepilok</a></li>  
 							<li><a class="jon" href="/our-adventures/semporna-archipelago">Semporna Archipelago</a></li>
 							<li><a class="jon" href="/our-adventures/tabin-wildlife-reserve">Tabin Wildlife Reserve</a></li>     					
@@ -43,14 +40,19 @@
 							<li><a class="jon" href="/our-adventures/bako-national-park">Bako National Park</a></li> 
 							<li><a class="jon" href="/our-adventures/kuching">Kuching</a></li>  
 							<li><a class="jon" href="/our-adventures/mulu-national-park">Mulu National Park</a></li> 					
-							<li><a class="jon" href="/our-adventures/ulu-ai-experiences">Ulu Ai Experiences</a></li> 	
+							<li><a class="jon" href="/our-adventures/ulu-ai-experiences">Ulu Ai Experiences</a></li> 			
+							<li><a class="jon" href="/our-adventures/mountain-to-sea">Mountain to Sea</a></li>  
+							<li><a class="jon" href="/our-adventures/7d6n-sabah-hidden-treasure">7D6N Sabah's Hidden Treasures</a></li>
+							<li><a class="jon" href="/our-adventures/8d7n-sabah-hidden-treasure">8D7N Sabah's Hidden Treasures</a></li>     					
+							<li><a class="jon" href="/our-adventures/9d8n-eastern-wildlife-tour">9D8N Eastern Wildlife Tour</a></li>    					
+							<li><a class="jon" href="/our-adventures/7d6n-eastern-wildlife-tour">7D6N Eastern Wildlife Tour</a></li> 
+							<li><a class="jon" href="/our-adventures/6d5n-eastern-wildlife-tour">6D5N Eastern Wildlife Tour</a></li>  
+							<li><a class="jon" href="/our-adventures/8d7n-hike-and-climb">Hike &amp; Climb</a></li> 		
 						</ul>
 						
 					</div>
-
-
 								
-					<div class="four columns">
+					<div class="four columns footer_col">
 						<div class="t2">General Enquiries</div>
 
 						<p class="f2">

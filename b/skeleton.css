@@ -30,6 +30,8 @@
 .container .twelve.columns{width:700px}
 .container .sixteen.columns{width:940px}
 .container .six.columns.product_box, .container .six.columns.animated_box{width:300px}
+.container .four.columns.footer_col{width:192px}
+.container .ten.columns.footer_col{width:510px}
 .container .columns.display{display:none}
 .container .contact-form-display{display:none}
 }
@@ -49,6 +51,8 @@
 .container .twelve.columns{width:556px}
 .container .sixteen.columns{width:748px}
 .container .six.columns.product_box, .container .six.columns.animated_box{width:364px}
+.container .four.columns.footer_col{width:148px}
+.container .ten.columns.footer_col{width:400px}
 .container .display{display:none}
 .container .contact-form-display{display:block}
 }

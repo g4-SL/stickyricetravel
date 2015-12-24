@@ -75,6 +75,7 @@ h1.our_adv{color:#fff;font-size:3.5em;letter-spacing:3pt}
 #our-adventure section,#base section{padding-bottom: 60px;}
 #base .front-btn{margin:20px 0 35px;}
 
+.why_travel{text-align:center;}
 #customer_review {font-size: 16px;font-family:'Sanchez', sans-serif}
 #customer_review h6{font-size: 1em;line-height:1.2}
 #customer_review p{line-height:1.2;}
@@ -94,7 +95,10 @@ h1.our_adv{color:#fff;font-size:3.5em;letter-spacing:3pt}
 #greeting h2{text-transform: uppercase;}
 .about_us h2{font-family:Oswald;text-transform:uppercase;color:#2c2c2c;opacity:.9;line-height:1;float:right;text-align:center;position:absolute;z-index:999}
 .about_us img{width: 100%;}
-.about_us{position: relative;}
+.about_us{position: relative;padding:0;}
+.about_us_description h4, .about_us_description h1{line-height:1.5;color:#fff}
+.about_us_description .short_line{border-bottom: 5px solid #fff;}
+.about_us_description{background:url(../c/paper-bg-icon.png);padding:20px;margin-bottom:20px}
 
 .bcb{float:left;margin: 5px 0;}
 .blb{float:left;}

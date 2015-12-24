@@ -9,13 +9,17 @@
 	</div>
 
 	<nav></nav><section>	
-		<div class="container nd">
+		<div class="container">
+
+			<div class="two columns"></div>
 
 			<div class="eleven columns">
 				<h1>Not Found</h1>
 			</div>		
 
 			<div class="clear"></div>
+			
+			<div class="two columns"></div>
 			
 			<div class="sixteen columns" style="margin-bottom:100px">
 
