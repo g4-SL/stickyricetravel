@@ -12,13 +12,11 @@
 	<nav></nav><section>	
 		<div class="container hd">	
 
+			<?php include "sub-navi.php" ?>
+
 			<div class="two columns"></div>
 
 			<div class="sixteen columns big_title">
-				<ul class="brc">
-					<li><a href="/home">Home</a></li>
-					<li>Make Contact</li>
-				</ul>
 				<h1>Make Contact</h1>
 			</div>		
 			

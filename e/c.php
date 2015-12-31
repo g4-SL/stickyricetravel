@@ -6,7 +6,7 @@ $Email = Trim(stripslashes($_POST['email']));
 $Message = Trim(stripslashes($_POST['message'])); 
 
 $EmailFrom = $Email;
-$EmailTo = "yewster@gmail.com, info@stickyricetravel.com";
+$EmailTo = "info@stickyricetravel.com";
 $Subject = "Review from Sticky Rice Travel";
 
 $Body = "Name: ";

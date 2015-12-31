@@ -345,13 +345,6 @@
 <script type="text/javascript">
 $(document).ready(function() {
 
-	$('.parallax .fun_column a').click(function(){
-		var name = $(this).parent().parent().parent().attr('rel');
-		$('html, body').animate({
-		    scrollTop: ($('#' + name).offset().top)
-		},500);
-	});
-
 	var geojsonFeature = "";
 	var map = L.map('map', {scrollWheelZoom: false}).setView([4.669797, 114.822235], 7);
     L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {

@@ -96,9 +96,10 @@ h1.our_adv{color:#fff;font-size:3.5em;letter-spacing:3pt}
 .about_us h2{font-family:Oswald;text-transform:uppercase;color:#2c2c2c;opacity:.9;line-height:1;float:right;text-align:center;position:absolute;z-index:999}
 .about_us img{width: 100%;}
 .about_us{position: relative;padding:0;}
-.about_us_description h4, .about_us_description h1{line-height:1.5;color:#fff}
-.about_us_description .short_line{border-bottom: 5px solid #fff;}
-.about_us_description{background:url(../c/paper-bg-icon.png);padding:20px;margin-bottom:20px}
+.about_us_description h4, .about_us_description h1{line-height:1.5}
+.about_us_description{background:url(../c/paper-bg-icon.png);padding:20px 25px;margin-bottom:20px}
+.about_us_description.meet_team h1{padding:0}
+.about_us_description.meet_team h4{margin-top:0}
 
 .bcb{float:left;margin: 5px 0;}
 .blb{float:left;}
@@ -120,6 +121,15 @@ h1.our_adv{color:#fff;font-size:3.5em;letter-spacing:3pt}
 .review-col h3{font-size:1.4em;margin-bottom:5px}
 .review-col h4{font-size:0.9em;margin-top:0}
 .review-col p{margin-bottom:30px}
+i.ionic{padding-right:15px;font-size:1.7em;display:none;}
+a.faq_url:hover{cursor:pointer;}
+ul.faq_list{list-style-type:circle;margin-left:20px;margin-top:20px}
+
+ul#sabah_list{-webkit-column-count:2;-moz-column-count:2;column-count:2;}
+ul.sitemap_list{font-family: 'Sanchez', sans-serif;font-size:0.85em}
+ul.sitemap_list ul{list-style-type:none;margin-left:20px;margin-top:15px;}
+ul.sitemap_list ul ul{list-style-type:none;margin:10px 0 10px 20px;}
+ul.sitemap_list li{background: url(../c/list-bullet.png) no-repeat 0 20%;padding-left:20px;}
 
 @media (min-width:768px){
 .about_us h2{width: 50%;left: 44%}
