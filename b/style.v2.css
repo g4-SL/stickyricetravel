@@ -126,9 +126,11 @@ a.faq_url:hover{cursor:pointer;}
 ul.faq_list{list-style-type:circle;margin-left:20px;margin-top:20px}
 
 ul#sabah_list{-webkit-column-count:2;-moz-column-count:2;column-count:2;}
+ul#main_list{margin-top:20px;}
 ul.sitemap_list{font-family: 'Sanchez', sans-serif;font-size:0.85em}
-ul.sitemap_list ul{list-style-type:none;margin-left:20px;margin-top:15px;}
-ul.sitemap_list ul ul{list-style-type:none;margin:10px 0 10px 20px;}
+.sitemap h3{background-color:#603d05;color:#fff;padding:10px 20px;margin-top:0;text-transform:uppercase;font-size:16px}
+ul.sitemap_list ul{list-style-type:none;}
+ul.sitemap_list ul ul{list-style-type:none;margin:10px 0 20px 25px;}
 ul.sitemap_list li{background: url(../c/list-bullet.png) no-repeat 0 20%;padding-left:20px;}
 
 @media (min-width:768px){

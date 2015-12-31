@@ -1,6 +1,10 @@
 {
 	"url_group":[
 		{
+			"title": "stickyricetravel.com",
+			"url": "/"
+		},
+		{
 			"title": "About Us",
 			"url": "/about-us",
 			"child":[
@@ -440,7 +444,13 @@
 				},
 				{
 					"title": "Custom Trips",
-					"url": ""
+					"url": "",
+					"child": [
+						{
+							"title": "Custom Trips",
+							"url": "/our-adventures/custom-trips"
+						}
+					]
 				}
 			]
 		}
