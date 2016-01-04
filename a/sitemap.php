@@ -1,7 +1,7 @@
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
-				<img src="c/large/www-about-us.jpg" alt="Mountain View"/>
+				<img src="c/large/www-sitemap.jpg" alt=""/>
 				<div class="ei-title"></div>
 			</li>
 		</ul>

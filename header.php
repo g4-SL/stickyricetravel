@@ -52,6 +52,8 @@
 	<script type="text/javascript" src="/d/slick.min.js"></script>
 	<script type="text/javascript" src="/d/skroll.min.js"></script>
 	<script type="text/javascript" src="/d/instafeed.min.js"></script>	
+	<script type="text/javascript" src="/d/moment.min.js"></script>
+	<script type="text/javascript" src="/d/moment-timezone-2010-2020.min.js"></script>
 	<script src="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script>
 	<script type="text/javascript" src="/d/start.js"></script>	
 	<script type="text/javascript" src="/d/popup.js"></script>	

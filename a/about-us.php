@@ -42,24 +42,24 @@
 
 			<div class="six columns">
 				<h1>Meet the Team</h1>
-				<img src="./c/about-us/jessica.jpg" style="width:50%"/>
-				<img src="./c/about-us/jessica.jpg" style="width:50%"/>
-				<img src="./c/about-us/jessica.jpg" style="width:50%"/>
-				<img src="./c/about-us/jessica.jpg" style="width:50%"/>
-				<img src="./c/about-us/jessica.jpg" style="width:50%"/>
-				<img src="./c/about-us/jessica.jpg" style="width:50%"/>
-				<img src="./c/about-us/jessica.jpg" style="width:50%"/>
-				<img src="./c/about-us/jessica.jpg" style="width:50%"/>
-				<img src="./c/about-us/jessica.jpg" style="width:50%"/>
-				<img src="./c/about-us/jessica.jpg" style="width:50%"/>
-				<img src="./c/about-us/jessica.jpg" style="width:50%"/>
-				<img src="./c/about-us/jessica.jpg" style="width:50%"/>
-				<img src="./c/about-us/jessica.jpg" style="width:50%"/>
-				<img src="./c/about-us/jessica.jpg" style="width:50%"/>
-				<img src="./c/about-us/jessica.jpg" style="width:50%"/>
-				<img src="./c/about-us/jessica.jpg" style="width:50%"/>
-				<img src="./c/about-us/jessica.jpg" style="width:50%"/>
-				<img src="./c/about-us/jessica.jpg" style="width:50%"/>
+				<a href="../meet-the-team#jessica-yew"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Jessica Yew"/></a>
+				<a href="../meet-the-team#charles-ryan"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Charles Ryan"/></a>
+				<a href="../meet-the-team#yanti-saman"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Yanti Saman"/></a>
+				<a href="../meet-the-team#aileen-paul"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Aileen Paul"/></a>
+				<a href="../meet-the-team#michelle-john"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Michelle John"/></a>
+				<a href="../meet-the-team#stasha-van-houten"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Stasha Van Houten"/></a>
+				<a href="../meet-the-team#carmen-lim"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Carmen Lim"/></a>
+				<a href="../meet-the-team#bedley-asun"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Bedley Asun"/></a>
+				<a href="../meet-the-team#razis-nasri"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Razis Nasri"/></a>
+				<a href="../meet-the-team#azreil-martin"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Azreil Martin"/></a>
+				<a href="../meet-the-team#siti-noraminah"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Siti Noraminah"/></a>
+				<a href="../meet-the-team#sarah-louise"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Sarah Louise"/></a>
+				<a href="../meet-the-team#muriel-koh"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Muriel Koh"/></a>
+				<a href="../meet-the-team#mariana-lim"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Mariana Lim"/></a>
+				<img src="./c/about-us/jessica.jpg" style="width:50%" alt="Charles Ryan"/></a>
+				<img src="./c/about-us/jessica.jpg" style="width:50%" alt="Charles Ryan"/></a>
+				<img src="./c/about-us/jessica.jpg" style="width:50%" alt="Charles Ryan"/></a>
+				<img src="./c/about-us/jessica.jpg" style="width:50%" alt="Charles Ryan"/></a>
 				<div class="front-btn" style="margin-top:15px">
 					<div><a href="./meet-the-team">Get to know us</a></div>
 				</div>

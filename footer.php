@@ -2,25 +2,68 @@
 			<div class="darkbox">
 				<div class="container">
 				<div class="one columns"></div>
-					<div class="four columns footer_col">
+					<div class="six columns footer_col">
 						<div class="gcontact">
-							<div class="t2">Information</div>
+							<div class="t2">Quick Links</div>
 
 							<ul class="fmenu list2">
 								<li><a href="/home">Home</a></li> 
 								<li><a href="/about-us">About Us</a></li> 
-								<li><a href="/our-adventures">Our Adventures</a></li>  
-								<li><a href="/responsible-tourism">Responsible Tourism</a></li>   
-								<li><a href="/contact-us">Make Contact</a></li>   
-								<li><a href="/booking">Booking</a></li>   
+								<li><a href="/our-adventures">Our Adventures</a></li>    
+								<li><a href="/contact-us">Contact Us</a></li>   
+								<li><a href="/booking">Make a Booking</a></li>   
 								<li><a href="/customer-reviews">Customer Reviews</a></li>   
 								<li><a href="/terms">Terms &amp; Conditions</a></li>
 								<li><a href="/privacy-policy">Privacy Policy</a></li>
+								<li><a href="/responsible-tourism">Responsible Tourism</a></li>
+								<li><a href="/faq">FAQ</a></li>
+								<li><a href="/sitemap">Sitemap</a></li>
 							</ul>
 						</div>
+					</div>
+
+					<div class="four columns footer_col">
+						<div class="t2">Call us</div>
+						<div class="call_us">
+							<span><i class="ion-ios-telephone" style="color:white"></i></span>
+							<a href="tel:+6088250588">(60)88 250588</a>
+						</div>
+						<div class="call_us">
+							<span><i class="ion-ios-telephone" style="color:white"></i></span>
+							<a href="tel:+6088251654">(60)88 251654</a>
+						</div>
+						<div class="call_us">
+							<span><i class="ion-email" style="color:white"></i></span>
+							<a href="mailto:info@stickyricetravel.com">info@stickyricetravel.com</a>
+						</div>
+						<p style="color:white">
+							Working hours:<br />
+							Monday - Friday, 9am to 5pm<br />
+							(excluding Public holidays)
+						</p>
+					</div>
+
+					<div class="four columns footer_col">
+						<p style="color:white;margin-top:60px">
+							Sticky Rice Travel<br />
+							58 Jalan Pantai, 3rd Floor<br />
+							Hainan Association Building<br />
+							(Across Horizon Hotel)<br />
+							88000 Kota Kinabalu<br />
+							Sabah, Malaysia
+						</p>
+					</div>	
+
+					<div class="four columns">
+						<div class="t2">Local time</div>
+						<?php include "a/current-time.php" ?>
+						<a class="flink" href="http://www.facebook.com/StickyRiceTravel" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/facebook.png" width="38" height="38" alt="Sticky Rice Travel Facebook" /></a>
+						<a class="flink" href="https://vimeo.com/channels/stickyricetravel" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/vimeo.png" width="38" height="38" alt="Sticky Rice Travel Vimeo" /></a>
+						<a class="flink" href="http://www.flickr.com/photos/94871134@N05/" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/flickr.png" width="38" height="38" alt="Sticky Rice Travel Flickr" /></a>		
+						<a class="flink" href="http://instagram.com/stickyricetravel" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/instagram.png" width="38" height="38" alt="Sticky Rice Travel Instagram" /></a>			
 					</div>			
 				
-					<div class="ten columns footer_col">
+					<div class="ten columns footer_col" style="display:none">
 						<div class="t1">Meaningful Adventures</div>
 
 						<ul class="list1">
@@ -43,27 +86,25 @@
 							<li><a class="jon" href="/our-adventures/ulu-ai-experiences">Ulu Ai Experiences</a></li> 			
 							<li><a class="jon" href="/our-adventures/mountain-to-sea">Mountain to Sea</a></li>  
 							<li><a class="jon" href="/our-adventures/7d6n-sabah-hidden-treasure">7D6N Sabah's Hidden Treasures</a></li>
-							<li><a class="jon" href="/our-adventures/8d7n-sabah-hidden-treasure">8D7N Sabah's Hidden Treasures</a></li>     					
-							<li><a class="jon" href="/our-adventures/9d8n-eastern-wildlife-tour">9D8N Eastern Wildlife Tour</a></li>    					
+							<li><a class="jon" href="/our-adventures/8d7n-sabah-hidden-treasure">8D7N Sabah's Hidden Treasures</a></li> 
+							<li><a class="jon" href="/our-adventures/9d8n-eastern-wildlife-tour">9D8N Eastern Wildlife Tour</a></li>    
 							<li><a class="jon" href="/our-adventures/7d6n-eastern-wildlife-tour">7D6N Eastern Wildlife Tour</a></li> 
 							<li><a class="jon" href="/our-adventures/6d5n-eastern-wildlife-tour">6D5N Eastern Wildlife Tour</a></li>  
 							<li><a class="jon" href="/our-adventures/8d7n-hike-and-climb">Hike &amp; Climb</a></li> 		
 						</ul>
-						
 					</div>
 								
-					<div class="four columns footer_col">
-						<div class="t2">General Enquiries</div>
+					<div class="four columns footer_col" style="display:none">
+						<div class="t2">Call us</div>
 
 						<p class="f2">
-
-						<b>Call us with a phone:</b><br />
-						<a href="tel:+6088250588">(60)88 250588</a> &nbsp;/&nbsp; <a href="tel:+6088251654">(60)88 251654</a><br />
-						<br />
-						<b>Stay in touch with email:</b><br /><a href="mailto:info@stickyricetravel.com">info@stickyricetravel.com</a>
-						<br />
-						<br />
-						<b>Connect with us:</b>
+							<b>Call us with a phone:</b><br />
+							<a href="tel:+6088250588">(60)88 250588</a> &nbsp;/&nbsp; <a href="tel:+6088251654">(60)88 251654</a><br />
+							<br />
+							<b>Stay in touch with email:</b><br /><a href="mailto:info@stickyricetravel.com">info@stickyricetravel.com</a>
+							<br />
+							<br />
+							<b>Connect with us:</b>
 						</p>
 
 						<a class="flink" href="http://www.facebook.com/StickyRiceTravel" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/facebook.png" width="38" height="38" alt="Sticky Rice Travel Facebook" /></a>

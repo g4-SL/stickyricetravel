@@ -22,7 +22,11 @@
 .ei-slider{height:750px !important;}
 }
 
+.footer_col p{font-size:0.8em}
+.footer_col .call_us{margin-bottom:5px;font-size:0.9em}
+.footer_col .call_us span{margin-right:10px;font-size:1.2em}
 ul.list1{-webkit-column-count:3;-moz-column-count:3;column-count:3;}
+ul.list2{-webkit-column-count:2;-moz-column-count:2;column-count:2;}
 .popular_subtitle {text-align: center;border-bottom: 1px solid #f1f1f1;padding: 10px 10px 15px;margin-bottom: 15px;font-family: 'Oswald', sans-serif;text-transform: uppercase;color: #603d05;font-size: 1.5em}
 #nav-outer{height:168px;position:relative;top:0;z-index:99}
 #navigation{height:138px;margin:0 auto}

@@ -1,7 +1,7 @@
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
-				<img src="c/large/www-about-us.jpg" alt="Mountain View"/>
+				<img src="c/large/www-faq.jpg" alt=""/>
 				<div class="ei-title"></div>
 			</li>
 		</ul>
@@ -13,7 +13,7 @@
 			<div class="one columns"></div>
 
 			<div class="eighteen columns">
-				<h1>Frequently Asked Questions</h1>
+				<h1>Frequently Asked Questions (FAQ)</h1>
 				<div class="short_line"></div>
 				<ul class="faq_list">
 					<li><a class="faq_url" rel="faq-1">Is it safe to book with Amazing Borneo or any other website sources?</a></li>
