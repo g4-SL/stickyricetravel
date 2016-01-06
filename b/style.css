@@ -25,8 +25,7 @@
 .footer_col p{font-size:0.8em}
 .footer_col .call_us{margin-bottom:5px;font-size:0.9em}
 .footer_col .call_us span{margin-right:10px;font-size:1.2em}
-ul.list1{-webkit-column-count:3;-moz-column-count:3;column-count:3;}
-ul.list2{-webkit-column-count:2;-moz-column-count:2;column-count:2;}
+ul.list2{-webkit-column-count:2;-moz-column-count:2;column-count:2;-webkit-column-gap:20px;-moz-column-gap:20px;column-gap:20px;}
 .popular_subtitle {text-align: center;border-bottom: 1px solid #f1f1f1;padding: 10px 10px 15px;margin-bottom: 15px;font-family: 'Oswald', sans-serif;text-transform: uppercase;color: #603d05;font-size: 1.5em}
 #nav-outer{height:168px;position:relative;top:0;z-index:99}
 #navigation{height:138px;margin:0 auto}
@@ -116,6 +115,7 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 	.animated_box a img:hover{-webkit-transform:scale(1.5); -moz-transform:scale(1.5); -ms-transform:scale(1.5); -o-transform:scale(1.5); transform:scale(1.5);}
 	.contact-form span.label{width:100px;font-size:1.5em;}
 	.contact-form .input{padding:15px;width:70%;margin-left:100px;height:25px;}
+	ul.list1 li{float:left;width:50%;}
 }
 
 /*x-large, xx-large screen*/
@@ -136,13 +136,14 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 	.contact-form span.label{width:70px;font-size:1.4em;}
 	.contact-form .input{padding:15px 10px;width:80%;margin-left:70px;height:22px;}
 	textarea#contact-details{padding:10px 13.5px;}
+	ul.list1 li{float:left;width:48%}
+	ul.list1 li:first-child{margin-right:4%}
 }
 
 /* large devices */
 @media (min-width:768px) and (max-width:959px){
 	.contact-form span.label{width:50px;font-size:1.2em;}
 	.contact-form .input{padding:15px 10px;width:80%;margin-left:50px;height:22px;}
-	ul.list1{-webkit-column-count:2;-moz-column-count:2;column-count:2;}
 }
 
 /*medium screen*/
@@ -154,7 +155,8 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 	.contact-form span.label{width:70px;font-size:1.4em;}
 	.contact-form .input{padding:15px 10px;width:77%;margin-left:70px;height:22px;}
 	textarea#contact-details{padding:5px 4px;}
-	ul.list1{-webkit-column-count:1;-moz-column-count:1;column-count:1;}
+	ul.list2{-webkit-column-gap: 0;-moz-column-gap: 0;column-gap: 0;}
+	ul.list1 li{float:left;width:50%;}
 }
 
 /*small screen*/
@@ -178,15 +180,13 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 	.contact-form span.label{width:50px;font-size:1.2em;}
 	.contact-form .input{padding:15px 10px;width:76%;margin-left:50px;height:20px;}
 	textarea#contact-details{padding:5px 4px;}
-	ul.list1{-webkit-column-count:1;-moz-column-count:1;column-count:1;}
 }
 .columns{padding-top:20px}
 #footer{background:url(../c/bottom.gif) center bottom no-repeat;clear:both;margin:0;padding:0;width:100%;float:left;z-index:100;height:200px}
 #footer a{color:#fff;text-decoration:none}
 #footer a:hover{color:#f6ac65}
 .darkbox{background:#000;width:100%;margin-top:190px}
-.t1{font-family:Arial,Helvetica,sans-serif;font-size:22px;letter-spacing:-1px;text-transform:uppercase;color:#fff;background:url(../c/grunge8.png) left bottom no-repeat;height:40px;margin-bottom:20px}
-.t2{font-family:Arial,Helvetica,sans-serif;font-size:22px;letter-spacing:-1px;text-transform:uppercase;color:#fff;background:url(../c/grunge2.png) left bottom no-repeat;height:40px;margin-bottom:20px}
+.t2{font-family:'Oswald',Arial,Helvetica,sans-serif;font-size:22px;letter-spacing:-1px;text-transform:uppercase;color:#fff;background:url(../c/grunge2.png) left bottom no-repeat;height:40px;margin-bottom:20px}
 .list1 li{margin-bottom:3px}
 .list2 li{margin-bottom:2px}
 .list1 a, .list2 a{color:#fff;text-decoration:none;font-size:12px}
@@ -273,7 +273,6 @@ input, textarea{padding:5px 10px;border:none;background-color:#fff}
 .form .error{background:#999 !important;border:1px solid #000}
 .form #success{margin:0 auto}
 .dn{display:none}
-.flink{float:left;margin-right:10px}
 .tone td {font-size:12px;padding:7px !important;text-align:center}
 .tone th {font-weight:bold}
 

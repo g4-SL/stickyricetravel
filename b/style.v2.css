@@ -128,10 +128,13 @@ ul.faq_list{list-style-type:circle;margin-left:20px;margin-top:20px}
 ul#sabah_list{-webkit-column-count:2;-moz-column-count:2;column-count:2;}
 ul#main_list{margin-top:20px;}
 ul.sitemap_list{font-family: 'Sanchez', sans-serif;font-size:0.85em}
-.sitemap h3{background-color:#603d05;color:#fff;padding:10px 20px;margin-top:0;text-transform:uppercase;font-size:16px}
+.sitemap h3{background-color:#603d05;color:#fff;padding:10px 20px;margin-top:0;text-transform:uppercase;font-size:24px;font-family:'Oswald',sans-serif}
 ul.sitemap_list ul{list-style-type:none;}
 ul.sitemap_list ul ul{list-style-type:none;margin:10px 0 20px 25px;}
 ul.sitemap_list li{background: url(../c/list-bullet.png) no-repeat 0 20%;padding-left:20px;}
+
+ul.social_media{margin:0 auto;text-align:center}
+ul.social_media li{display:inline;margin-right:5px;}
 
 @media (min-width:768px){
 .about_us h2{width: 50%;left: 44%}
@@ -259,76 +262,4 @@ input.bn, input.bn:hover{width:100%}
 
 .small_container{
 	margin: 0 auto;
-}
-
-.divider{overflow:hidden;background:url(../c/dashed-line.png) center repeat-x;opacity: 0.7;width:100%}
-.divider .arrow{width:23px;background:url(../c/bg.jpg) center}
-.divider .arrow:hover{cursor:pointer;opacity:.8}
-.divider .arrow#left{float:left}
-.divider .arrow#right{float:right}
-
-.member .image{
-	position: relative;
-	margin-bottom: 10px;
-}
-.member .image .member_title{
-	position:absolute;
-	bottom: 0;
-	right: 0;
-	background-color: #603d05;
-	opacity: 0.9;
-	padding: 15px;
-	margin-bottom: 10px;
-	border-left: 4px solid #fff;
-}
-.member .image .member_title h3:nth-child(1){
-	font-family:'Oswald', sans-serif;
-	letter-spacing: 0.8pt;
-	margin: 0 0 10px;
-	text-transform: uppercase;
-	color: #fff;
-}
-.member .image .member_title h3:nth-child(2){
-	margin: 0;
-	color: #fff;
-}
-.member p{
-	height:128px;
-	overflow:hidden;
-}
-
-.slider{
-	list-style-type: none;
-	position: relative;
-	overflow: hidden;
-	margin-bottom: 10px;
-}
-.slider li{
-	position: absolute;
-	top:0;
-	width: 100%;
-	margin: 15px 0;
-}
-.slider li h6{
-	font-size: 0.9em;
-	color: #2c2c2c;
-}
-.member #more-info{
-	height:110px;
-}
-.member #more-info li img{
-	float:left;
-	width:20%;
-	margin-right: 5%
-}
-.member #more-info li div{
-	float:left;
-	width: 75%
-}
-.member #more-info li h3:nth-child(1){
-	font-family:'Oswald', sans-serif;
-	color: #603d05;
-	text-transform: uppercase;
-	margin: 20px 0 10px;
-	font-size: 1.2em;
 }

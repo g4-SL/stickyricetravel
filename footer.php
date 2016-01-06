@@ -9,7 +9,9 @@
 							<ul class="fmenu list2">
 								<li><a href="/home">Home</a></li> 
 								<li><a href="/about-us">About Us</a></li> 
-								<li><a href="/our-adventures">Our Adventures</a></li>    
+								<li><a href="/our-adventures">Our Adventures</a></li> 
+								<li><a href="/our-adventures#sabah">Destinations at Sabah</a></li> 
+								<li><a href="/our-adventures#sarawak">Destinations at Sarawak</a></li>   
 								<li><a href="/contact-us">Contact Us</a></li>   
 								<li><a href="/booking">Make a Booking</a></li>   
 								<li><a href="/customer-reviews">Customer Reviews</a></li>   
@@ -22,45 +24,54 @@
 						</div>
 					</div>
 
-					<div class="four columns footer_col">
+					<div class="eight columns footer_col">
 						<div class="t2">Call us</div>
-						<div class="call_us">
-							<span><i class="ion-ios-telephone" style="color:white"></i></span>
-							<a href="tel:+6088250588">(60)88 250588</a>
-						</div>
-						<div class="call_us">
-							<span><i class="ion-ios-telephone" style="color:white"></i></span>
-							<a href="tel:+6088251654">(60)88 251654</a>
-						</div>
-						<div class="call_us">
-							<span><i class="ion-email" style="color:white"></i></span>
-							<a href="mailto:info@stickyricetravel.com">info@stickyricetravel.com</a>
-						</div>
-						<p style="color:white">
-							Working hours:<br />
-							Monday - Friday, 9am to 5pm<br />
-							(excluding Public holidays)
-						</p>
+						<ul class="list1">
+							<li>
+								<div class="call_us">
+									<span><i class="ion-ios-telephone" style="color:white"></i></span>
+									<a href="tel:+6088250588">(60)88 250588</a>
+								</div>
+								<div class="call_us">
+									<span><i class="ion-ios-telephone" style="color:white"></i></span>
+									<a href="tel:+6088251654">(60)88 251654</a>
+								</div>
+								<div class="call_us">
+									<span><i class="ion-email" style="color:white"></i></span>
+									<a href="mailto:info@stickyricetravel.com">info@stickyricetravel.com</a>
+								</div>
+								<p style="color:white;margin-bottom:15px">
+									Working hours:<br />
+									Monday - Friday, 9am to 5pm<br />
+									(excluding Public holidays)
+								</p>
+							</li>
+							<li>
+								<p style="color:white">
+									Sticky Rice Travel<br />
+									58 Jalan Pantai, 3rd Floor<br />
+									Hainan Association Building<br />
+									(Across Horizon Hotel)<br />
+									88000 Kota Kinabalu<br />
+									Sabah, Malaysia
+								</p>
+							</li>
+						</ul>
 					</div>
 
 					<div class="four columns footer_col">
-						<p style="color:white;margin-top:60px">
-							Sticky Rice Travel<br />
-							58 Jalan Pantai, 3rd Floor<br />
-							Hainan Association Building<br />
-							(Across Horizon Hotel)<br />
-							88000 Kota Kinabalu<br />
-							Sabah, Malaysia
-						</p>
-					</div>	
-
-					<div class="four columns">
-						<div class="t2">Local time</div>
 						<?php include "a/current-time.php" ?>
-						<a class="flink" href="http://www.facebook.com/StickyRiceTravel" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/facebook.png" width="38" height="38" alt="Sticky Rice Travel Facebook" /></a>
-						<a class="flink" href="https://vimeo.com/channels/stickyricetravel" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/vimeo.png" width="38" height="38" alt="Sticky Rice Travel Vimeo" /></a>
-						<a class="flink" href="http://www.flickr.com/photos/94871134@N05/" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/flickr.png" width="38" height="38" alt="Sticky Rice Travel Flickr" /></a>		
-						<a class="flink" href="http://instagram.com/stickyricetravel" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/instagram.png" width="38" height="38" alt="Sticky Rice Travel Instagram" /></a>			
+						<ul class="social_media">
+							<li><a href="http://www.facebook.com/StickyRiceTravel" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/facebook.png" width="38" height="38" alt="Sticky Rice Travel Facebook" /></a></li>
+							<li><a href="https://vimeo.com/channels/stickyricetravel" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/vimeo.png" width="38" height="38" alt="Sticky Rice Travel Vimeo" /></a></li>
+							<li><a href="http://www.flickr.com/photos/94871134@N05/" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/flickr.png" width="38" height="38" alt="Sticky Rice Travel Flickr" /></a></li>	
+							<li><a href="http://instagram.com/stickyricetravel" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/instagram.png" width="38" height="38" alt="Sticky Rice Travel Instagram" /></a></li>
+							<div class="clear"></div>
+							<li><a href="https://www.youtube.com/user/TheCharles808" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/youtube.png" width="38" height="38" alt="Sticky Rice Travel YouTube" /></a></li>
+							<li><a href="https://twitter.com/StickyRiceSabah" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/twitter.png" width="38" height="38" alt="Sticky Rice Travel Twitter" /></a></li>
+							<li><a href="http://www.pinterest.com/stickyricesabah/" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/pinterest.png" width="38" height="38" alt="Sticky Rice Travel Pinterest" /></a></li>	
+							<li><a href=" http://www.linkedin.com/company/sticky-rice-travel/" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/linkedin.png" width="38" height="38" alt="Sticky Rice Travel linkedin" /></a></li>
+						</ul>		
 					</div>			
 				
 					<div class="ten columns footer_col" style="display:none">
@@ -92,33 +103,7 @@
 							<li><a class="jon" href="/our-adventures/6d5n-eastern-wildlife-tour">6D5N Eastern Wildlife Tour</a></li>  
 							<li><a class="jon" href="/our-adventures/8d7n-hike-and-climb">Hike &amp; Climb</a></li> 		
 						</ul>
-					</div>
-								
-					<div class="four columns footer_col" style="display:none">
-						<div class="t2">Call us</div>
-
-						<p class="f2">
-							<b>Call us with a phone:</b><br />
-							<a href="tel:+6088250588">(60)88 250588</a> &nbsp;/&nbsp; <a href="tel:+6088251654">(60)88 251654</a><br />
-							<br />
-							<b>Stay in touch with email:</b><br /><a href="mailto:info@stickyricetravel.com">info@stickyricetravel.com</a>
-							<br />
-							<br />
-							<b>Connect with us:</b>
-						</p>
-
-						<a class="flink" href="http://www.facebook.com/StickyRiceTravel" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/facebook.png" width="38" height="38" alt="Sticky Rice Travel Facebook" /></a>
-						<a class="flink" href="https://vimeo.com/channels/stickyricetravel" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/vimeo.png" width="38" height="38" alt="Sticky Rice Travel Vimeo" /></a>
-						<a class="flink" href="http://www.flickr.com/photos/94871134@N05/" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/flickr.png" width="38" height="38" alt="Sticky Rice Travel Flickr" /></a>
-						<a class="flink" href="https://www.youtube.com/user/TheCharles808" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/youtube.png" width="38" height="38" alt="Sticky Rice Travel YouTube" /></a>
-						<a class="flink" href="https://twitter.com/StickyRiceSabah" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/twitter.png" width="38" height="38" alt="Sticky Rice Travel Twitter" /></a>			
-						<a class="flink" href="http://www.pinterest.com/stickyricesabah/" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/pinterest.png" width="38" height="38" alt="Sticky Rice Travel Pinterest" /></a>			
-						<a class="flink" href="http://instagram.com/stickyricetravel" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/instagram.png" width="38" height="38" alt="Sticky Rice Travel Instagram" /></a>			
-						<a class="flink" href=" http://www.linkedin.com/company/sticky-rice-travel/" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/linkedin.png" width="38" height="38" alt="Sticky Rice Travel linkedin" /></a>			
-						
-						
-					
-					</div>		
+					</div>	
 
 					<div class="clear"></div>			
 					
