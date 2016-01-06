@@ -23,12 +23,12 @@
 
 			<div class="one columns"></div>
 
-			<div class="twelve columns" style="padding-top:0">
+			<div class="twelve columns sitemap-col" style="padding-top:0">
 				<ul class="sitemap_list" id="sabah_list">
 				</ul>
 			</div>
 
-			<div class="six columns" style="padding-top:0">
+			<div class="six columns sitemap-col" style="padding-top:0">
 				<ul class="sitemap_list" id="others_list">
 				</ul>
 			</div>

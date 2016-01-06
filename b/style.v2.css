@@ -215,6 +215,7 @@ input.bn, input.bn:hover{width:100%}
 .parallax .eleven.columns.desc img{width:100% !important;margin:0 !important;}
 .parallax .five.columns.desc .mobile_desc{margin:0 0 15px}
 .parallax .desc h4{font-size:1em}
+ul#sabah_list{-webkit-column-count:1;-moz-column-count:1;column-count:1;}
 }
 
 @media (min-width:768px){
@@ -242,6 +243,7 @@ input.bn, input.bn:hover{width:50%}
 #others-booking-col{height:100px;}
 #multi-booking-col{height:680px;}
 .parallax .desc h4{font-size:1em}
+ul#sabah_list{-webkit-column-count:1;-moz-column-count:1;column-count:1;}
 }
 
 /* small devices */
@@ -267,6 +269,7 @@ input.bn, input.bn:hover{width:100%}
 #others-booking-col{height:100px;}
 #multi-booking-col{height:740px;}
 .parallax .desc h4{font-size:1em}
+ul#sabah_list{-webkit-column-count:1;-moz-column-count:1;column-count:1;}
 }
 
 .small_container{
