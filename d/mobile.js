@@ -6,11 +6,11 @@ function disableSkrollr(){
         $(this).removeAttr("data-anchor-target");
     });
 
-    $('.parallax .bg').removeClass("desktop").addClass("mobile");
+    $('.parallax .bg').removeClass("desktop").addClass("show-mobile");
     $('.fun_column').css({"display": "none"});
-    $('.parallax').css({"height": 2300});
     $('.parallax').find('.container .desc .desktop_desc').css({"display":"none"});
     $('.parallax').find('.container .desc .mobile_desc').css({"display":"block"});
+    $('.parallax').css({"height": "auto"});
 }
 
 /* desktop view for parallax section */
@@ -21,7 +21,7 @@ function enableSkrollr(){
         $(this).attr("data-anchor-target", "#section_" + $(this).parent().attr('rel') + "_intro .container");
     });
 
-    $('.parallax .bg').removeClass("mobile").addClass("desktop");
+    $('.parallax .bg').removeClass("show-mobile").addClass("desktop");
     $('.fun_column').css({"paddingTop": parseInt($(window).height(),10)});
     $('.parallax').css({"height": parseInt($(window).height(),10)*2.5});
     $('.parallax').find('.container .desc .desktop_desc').css({"display":"block"});
