@@ -117,15 +117,16 @@
 					</p>
 				</div>
 			</div>
+						
+			<div class="clear"></div>
+			
+			<div class="two columns"></div>
 
-			<div class="seven columns"></div>
-
-			<div class="three columns">
-				<a href="http://www.lonelyplanet.com/malaysia/malaysian-borneo-sabah/kota-kinabalu/activities/small-group-tours/sticky-rice-travel" target="_blank"><img src="c/base/lonely-planet-recommended.png" style="width:100%" class="lar" alt="Lonely Planet Recommended" /></a>
-			</div>
-
-			<div class="three columns">
-				<a href="http://www.tripadvisor.com.my/Attraction_Review-g298307-d8488707-Reviews-Sticky_Rice_Travel_Day_Tours-Kota_Kinabalu_Kota_Kinabalu_District_West_Coast_Divi.html" target="_blank"><img src="c/base/tripadvisor.png" style="width:100%" class="lar" alt="Trip Advisor Recommended" /></a>
+			<div class="sixteen columns">
+				<ul class="horizontal-align">
+					<li style="margin-right:15px"><a href="http://www.lonelyplanet.com/malaysia/malaysian-borneo-sabah/kota-kinabalu/activities/small-group-tours/sticky-rice-travel" target="_blank"><img src="c/base/lonely-planet-recommended.png" width="160" height="160" alt="Lonely Planet Recommended" /></a></li>
+					<li><a href="http://www.tripadvisor.com.my/Attraction_Review-g298307-d8488707-Reviews-Sticky_Rice_Travel_Day_Tours-Kota_Kinabalu_Kota_Kinabalu_District_West_Coast_Divi.html" target="_blank"><img src="c/base/tripadvisor.png" width="160" height="160" alt="Trip Advisor Recommended" /></a></li>
+				</ul>
 			</div>
 			
 		</div>

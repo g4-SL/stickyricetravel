@@ -133,8 +133,8 @@ ul.sitemap_list ul{list-style-type:none;}
 ul.sitemap_list ul ul{list-style-type:none;margin:10px 0 20px 25px;}
 ul.sitemap_list li{background: url(../c/list-bullet.png) no-repeat 0 20%;padding-left:20px;}
 
-ul.social_media{margin:0 auto;text-align:center}
-ul.social_media li{display:inline;margin-right:5px;}
+ul.horizontal-align{text-align:center;}
+ul.horizontal-align li{display:inline;margin-right:5px;}
 
 .show-desktop{display:block;}
 .show-mobile{display:none;}
