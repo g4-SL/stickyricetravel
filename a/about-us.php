@@ -14,7 +14,7 @@
 
 			<div class="one columns"></div>
 
-			<div class="twelve columns about_us_text">
+			<div class="twelve columns twelve-six-col-res">
 				<div class="about_us_description" style="margin-bottom:40px">
 					<h1>About Us</h1>
 					<h4>
@@ -40,7 +40,7 @@
 				</p>
 			</div>
 
-			<div class="six columns about_us_text">
+			<div class="six columns twelve-six-col-res">
 				<h1>Meet the Team</h1>
 				<a href="../meet-the-team#jessica-yew"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Jessica Yew"/></a>
 				<a href="../meet-the-team#charles-ryan"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Charles Ryan"/></a>

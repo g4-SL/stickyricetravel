@@ -30,11 +30,11 @@
 			<div class="one columns"></div>
 
 			<section id="jessica-yew">
-				<div class="six columns">
+				<div class="six columns twelve-six-col-res">
 					<img src="./c/about-us/jessica.jpg" style="width:100%"/>
 				</div>
 
-				<div class="twelve columns">
+				<div class="twelve columns twelve-six-col-res">
 					<div class="about_us_description meet_team">
 						<h1>Jessica Yew</h1>
 						<h4>Director</h4>
@@ -50,11 +50,11 @@
 			<div class="one columns"></div>
 
 			<section id="charles-ryan">
-				<div class="six columns">
+				<div class="six columns twelve-six-col-res">
 					<img src="./c/about-us/jessica.jpg" style="width:100%"/>
 				</div>
 
-				<div class="twelve columns">
+				<div class="twelve columns twelve-six-col-res">
 					<div class="about_us_description meet_team">
 						<h1>Charles Ryan</h1>
 						<h4>Director</h4>
@@ -70,11 +70,11 @@
 			<div class="one columns"></div>
 
 			<section id="yanti-saman">
-				<div class="six columns">
+				<div class="six columns twelve-six-col-res">
 					<img src="./c/about-us/jessica.jpg" style="width:100%"/>
 				</div>
 
-				<div class="twelve columns">
+				<div class="twelve columns twelve-six-col-res">
 					<div class="about_us_description meet_team">
 						<h1>Yanti Saman</h1>
 						<h4>General Manager</h4>
@@ -90,11 +90,11 @@
 			<div class="one columns"></div>
 
 			<section id="aileen-paul">
-				<div class="six columns">
+				<div class="six columns twelve-six-col-res">
 					<img src="./c/about-us/jessica.jpg" style="width:100%"/>
 				</div>
 
-				<div class="twelve columns">
+				<div class="twelve columns twelve-six-col-res">
 					<div class="about_us_description meet_team">
 						<h1>Aileen Paul</h1>
 						<h4>Accountant</h4>
@@ -110,11 +110,11 @@
 			<div class="one columns"></div>
 
 			<section id="michelle-john">
-				<div class="six columns">
+				<div class="six columns twelve-six-col-res">
 					<img src="./c/about-us/jessica.jpg" style="width:100%"/>
 				</div>
 
-				<div class="twelve columns">
+				<div class="twelve columns twelve-six-col-res">
 					<div class="about_us_description meet_team">
 						<h1>Michelle John</h1>
 						<h4>Operation &amp; Logistics</h4>
@@ -130,11 +130,11 @@
 			<div class="one columns"></div>
 
 			<section id="stasha-van-houten">
-				<div class="six columns">
+				<div class="six columns twelve-six-col-res">
 					<img src="./c/about-us/jessica.jpg" style="width:100%"/>
 				</div>
 
-				<div class="twelve columns">
+				<div class="twelve columns twelve-six-col-res">
 					<div class="about_us_description meet_team">
 						<h1>Stasha Van Houten</h1>
 						<h4>Travel Consultant</h4>
@@ -150,11 +150,11 @@
 			<div class="one columns"></div>
 
 			<section id="carmen-lim">
-				<div class="six columns">
+				<div class="six columns twelve-six-col-res">
 					<img src="./c/about-us/jessica.jpg" style="width:100%"/>
 				</div>
 
-				<div class="twelve columns">
+				<div class="twelve columns twelve-six-col-res">
 					<div class="about_us_description meet_team">
 						<h1>Carmen Lim</h1>
 						<h4>Travel Consultant</h4>
@@ -170,11 +170,11 @@
 			<div class="one columns"></div>
 
 			<section id="bedley-asun">
-				<div class="six columns">
+				<div class="six columns twelve-six-col-res">
 					<img src="./c/about-us/jessica.jpg" style="width:100%"/>
 				</div>
 
-				<div class="twelve columns">
+				<div class="twelve columns twelve-six-col-res">
 					<div class="about_us_description meet_team">
 						<h1>Bedley Asun</h1>
 						<h4>Travel Guide</h4>
@@ -190,11 +190,11 @@
 			<div class="one columns"></div>
 
 			<section id="razis-nasri">
-				<div class="six columns">
+				<div class="six columns twelve-six-col-res">
 					<img src="./c/about-us/jessica.jpg" style="width:100%"/>
 				</div>
 
-				<div class="twelve columns">
+				<div class="twelve columns twelve-six-col-res">
 					<div class="about_us_description meet_team">
 						<h1>Razis Nasri</h1>
 						<h4>Travel Guide</h4>
@@ -210,11 +210,11 @@
 			<div class="one columns"></div>
 
 			<section id="azreil-martin">
-				<div class="six columns">
+				<div class="six columns twelve-six-col-res">
 					<img src="./c/about-us/jessica.jpg" style="width:100%"/>
 				</div>
 
-				<div class="twelve columns">
+				<div class="twelve columns twelve-six-col-res">
 					<div class="about_us_description meet_team">
 						<h1>Azreil Martin</h1>
 						<h4>Travel Guide</h4>
@@ -230,11 +230,11 @@
 			<div class="one columns"></div>
 
 			<section id="siti-noraminah">
-				<div class="six columns">
+				<div class="six columns twelve-six-col-res">
 					<img src="./c/about-us/jessica.jpg" style="width:100%"/>
 				</div>
 
-				<div class="twelve columns">
+				<div class="twelve columns twelve-six-col-res">
 					<div class="about_us_description meet_team">
 						<h1>Siti Noraminah</h1>
 						<h4>Accountant</h4>
@@ -250,11 +250,11 @@
 			<div class="one columns"></div>
 
 			<section id="sarah-louise">
-				<div class="six columns">
+				<div class="six columns twelve-six-col-res">
 					<img src="./c/about-us/jessica.jpg" style="width:100%"/>
 				</div>
 
-				<div class="twelve columns">
+				<div class="twelve columns twelve-six-col-res">
 					<div class="about_us_description meet_team">
 						<h1>Sarah Louise</h1>
 						<h4>IT Administrator</h4>
@@ -270,11 +270,11 @@
 			<div class="one columns"></div>
 
 			<section id="muriel-koh">
-				<div class="six columns">
+				<div class="six columns twelve-six-col-res">
 					<img src="./c/about-us/jessica.jpg" style="width:100%"/>
 				</div>
 
-				<div class="twelve columns">
+				<div class="twelve columns twelve-six-col-res">
 					<div class="about_us_description meet_team">
 						<h1>Muriel Koh</h1>
 						<h4>Travel Consultant</h4>
@@ -290,11 +290,11 @@
 			<div class="one columns"></div>
 
 			<section id="mariana-lim">
-				<div class="six columns">
+				<div class="six columns twelve-six-col-res">
 					<img src="./c/about-us/jessica.jpg" style="width:100%"/>
 				</div>
 
-				<div class="twelve columns">
+				<div class="twelve columns twelve-six-col-res">
 					<div class="about_us_description meet_team">
 						<h1>Mariana Lim</h1>
 						<h4>Travel Consultant</h4>
