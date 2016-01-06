@@ -31,7 +31,8 @@
 .container .twelve.columns{width:700px}
 .container .sixteen.columns,.container .eighteen.columns{width:940px}
 .container .six.columns.product_box, .container .six.columns.animated_box{width:300px}
-.container .ten.columns.footer_col{width:510px}
+.container .twelve.columns.about_us_text{width:619.9px}
+.container .six.columns.about_us_text{width:299.9px}
 .container .eight.columns.footer_col{width:340px}
 .container .columns.display{display:none}
 .container .contact-form-display{display:none}
@@ -52,7 +53,8 @@
 .container .twelve.columns{width:556px}
 .container .sixteen.columns,.container .eighteen.columns{width:748px}
 .container .six.columns.product_box, .container .six.columns.animated_box{width:364px}
-.container .ten.columns.footer_col{width:400px}
+.container .twelve.columns.about_us_text{width:491.9px}
+.container .six.columns.about_us_text, .container .six.columns.animated_box.ttm{width:235.9px}
 .container .four.columns.footer_col{width:212px}
 .container .eight.columns.footer_col{width:228px}
 .container .display{display:none}

@@ -14,7 +14,7 @@
 
 			<div class="one columns"></div>
 
-			<div class="twelve columns">
+			<div class="twelve columns about_us_text">
 				<div class="about_us_description" style="margin-bottom:40px">
 					<h1>About Us</h1>
 					<h4>
@@ -40,7 +40,7 @@
 				</p>
 			</div>
 
-			<div class="six columns">
+			<div class="six columns about_us_text">
 				<h1>Meet the Team</h1>
 				<a href="../meet-the-team#jessica-yew"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Jessica Yew"/></a>
 				<a href="../meet-the-team#charles-ryan"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Charles Ryan"/></a>
@@ -61,7 +61,7 @@
 				<img src="./c/about-us/jessica.jpg" style="width:50%" alt="Charles Ryan"/></a>
 				<img src="./c/about-us/jessica.jpg" style="width:50%" alt="Charles Ryan"/></a>
 				<div class="front-btn" style="margin-top:15px">
-					<div><a href="./meet-the-team">Get to know us</a></div>
+					<div><a href="./meet-the-team" id="know-us">Get to know us</a></div>
 				</div>
 			</div>
 
@@ -79,8 +79,11 @@
 				<img src="./c/about-us/jessica.jpg" style="width:100%;display:block"/>
 				<div>
 					<h3>Lijnos</h3>
-					<p><i>
-						"We booked a 5D4N customized trip with Sticky Rice to the Kinabatangan River and Danum Valley. It was organised perfectly by Stasha! Our guides were very good at spotting all the animals. One of the guides saw orang utans, while we were on a sun rise drive and ran all the way back to the rest house to get us to see them too, as soon as he knew we were back. The other guide helpend us out a great deal when one of our other tours was cancelled. We did not even book that cancelled tour with Sticky Rice and he still made phone calls for us. Sticky Rice will not let you down."
+					<p class="show-desktop"><i>
+						"We booked a 5D4N customized trip with Sticky Rice to the Kinabatangan River and Danum Valley. It was organised perfectly by Stasha! Our guides were very good at spotting all the animals. One of the guides saw orang utans, while we were on a sun rise drive and ran all the way back to the rest house to get us to see them too, as soon as he knew we were back. The other guide helped us out a great deal when one of our other tours was cancelled. We did not even book that cancelled tour with Sticky Rice and he still made phone calls for us. Sticky Rice will not let you down."
+					</i></p>
+					<p class="show-mobile"><i>
+						"We booked a 5D4N customized trip with Sticky Rice to the Kinabatangan River and Danum Valley. It was organised perfectly by Stasha! Our guides were very good at spotting all the animals. One of the guides saw orang utans, while we were on a sun rise drive and ran all the way back to the rest house..."
 					</i></p>
 				</div>
 			</div>
@@ -89,8 +92,11 @@
 				<img src="./c/about-us/jessica.jpg" style="width:100%;display:block"/>
 				<div>
 					<h3>Cecile Schneider</h3>
-					<p><i>
+					<p class="show-desktop"><i>
 						"Our guide adapted to all our requests, including long night drives and early birdwatching, which allowed us to see around 20 rare species of birds, small mammals and reptiles. The proficiency of our guide was really mindblowing. On top of this, the accommodation and food were also very good, which is impressive in such a remote area. Thumbs up for Sticky Rice!"
+					</i></p>
+					<p class="show-mobile"><i>
+						"Our guide adapted to all our requests, including long night drives and early birdwatching, which allowed us to see around 20 rare species of birds, small mammals and reptiles. The proficiency of our guide was really mindblowing..."
 					</i></p>
 				</div>
 			</div>
@@ -99,8 +105,11 @@
 				<img src="./c/about-us/jessica.jpg" style="width:100%;display:block"/>
 				<div>
 					<h3>Dario M</h3>
-					<p><i>
+					<p class="show-desktop"><i>
 						"Me and my wife chose Sticky Rice to organize our trip to Sabah region (Borneo) and the service they offerd us has been perfect. Consultants are absolutely kind, polite and always ready to adjust your journey to best fit your needs in every situation. I warmly reccommend Orou Sapulot and Semporna Archipelago packages."
+					</i></p>
+					<p class="show-mobile"><i>
+						"Me and my wife chose Sticky Rice to organize our trip to Sabah region (Borneo) and the service they offerd us has been perfect. Consultants are absolutely kind, polite and always ready to adjust your journey to best fit your needs in every situation..."
 					</i></p>
 				</div>
 			</div>
