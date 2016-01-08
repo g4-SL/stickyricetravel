@@ -38,61 +38,7 @@
 
 			<div class="one columns"></div>
 
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/danum-valley/danum-valley-field-center/explorer">
-						<img src="/c/adventures/danum-dvfc-explorer.jpg" class="img1" alt="3D2N / 4D3N DVFC Explorer"/>
-						<h2>3D2N / 4D3N DVFC Explorer</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
-			</div>	
-
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/danum-valley/danum-valley-field-center/purut-camping">
-						<img src="/c/adventures/danum-explorer.jpg" class="img1" alt="4D3N DVFC Sg Purut Camping"/>
-						<h2>4D3N DVFC Sg Purut Camping</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
-			</div>	
-
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/danum-valley/danum-valley-field-center/expedition">
-						<img src="/c/adventures/danum-expedition-to-mt-danum.jpg" class="img1" alt="7D6N DVFC Mt Danum Expedition"/>
-						<h2>7D6N DVFC Mt Danum Expedition</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
+			<div class="product-listing">
 			</div>
 
 			<div class="clear display"></div>	
@@ -125,6 +71,6 @@
 	</section>
 
 <script>
-	getDetails("Danum Valley");
+	getDetails("Danum Valley", "Danum Valley Field Center (DVFC)");
 
 </script>

@@ -35,42 +35,7 @@
 
 			<div class="four columns display"></div>
 
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/danum-valley/borneo-rainforest-lodge">
-						<img src="/c/adventures/borneo-rainforest-lodge.jpg" class="img1" alt="Borneo Rainforest Lodge (BRL)"/>
-						<h2>Borneo Rainforest Lodge (BRL)</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
-			</div>	
-
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/danum-valley/danum-valley-field-center">
-						<img src="/c/adventures/danum-valley-field-center.jpg" class="img1" alt="Danum Valley Field Center (DVFC)"/>
-						<h2>Danum Valley Field Center (DVFC)</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
+			<div class="product-listing">
 			</div>
 			
 			<div class="clear"></div>
@@ -80,5 +45,5 @@
 	</section>
 
 <script>
-	getDetails("Danum Valley");
+	getDetails("Danum Valley", "");
 </script>

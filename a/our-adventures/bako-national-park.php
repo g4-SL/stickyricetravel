@@ -31,43 +31,8 @@
 
 			<div class="four columns display"></div>
 
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/bako-national-park/day-trip">
-						<img src="/c/adventures/bako-day-trip.jpg" class="img1" alt="Bako Day Trip"/>
-						<h2>Bako National Park Day Trip</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
-			</div>					
-
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/bako-national-park/two-days-trip">
-						<img src="/c/adventures/bako-national-park.jpg" class="img1" alt="2D1N Bako National Park"/>
-						<h2>2D1N Bako National Park</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
-			</div>	
+			<div class="product-listing">
+			</div>
 			
 			<div class="clear"></div>			
 			
@@ -76,5 +41,5 @@
 	</section>
 
 <script>
-	getDetails("Bako National Park");
+	getDetails("Bako National Park", "");
 </script>

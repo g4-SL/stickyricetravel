@@ -34,42 +34,7 @@
 
 			<div class="four columns display"></div>
 
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/semporna-archipelago/mataking-resort">
-						<img src="/c/adventures/mataking-island-resort.jpg" class="img1" alt="The Reef Dive Resort at Mataking Island"/>
-						<h2>The Reef Dive Resort at Mataking Island</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
-			</div>	
-
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/semporna-archipelago/seaventures-dive-rig">
-						<img src="/c/adventures/seaventures-rig-resort.jpg" class="img1" alt="Seaventures Rig Resorts"/>
-						<h2>Seaventures Dive Rig Resort</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
+			<div class="product-listing">
 			</div>
 			
 			<div class="clear"></div>			
@@ -79,5 +44,5 @@
 	</section>
 
 <script>
-	getDetails("Semporna Archipelago");
+	getDetails("Semporna Archipelago", "");
 </script>

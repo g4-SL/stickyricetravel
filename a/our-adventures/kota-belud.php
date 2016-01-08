@@ -31,43 +31,8 @@
 
 			<div class="four columns display"></div>
 
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/kota-belud/kampung-tambatuon">
-						<img src="/c/adventures/tambatuon-village.jpg" class="img1" alt="3D2N Tambatuon Village"/>
-						<h2>3D2N Tambatuon Village</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
-			</div>		
-
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/kota-belud/manana-borneo">
-						<img src="/c/adventures/manana-borneo.jpg" class="img1" alt="Manana Borneo"/>
-						<h2>Manana Borneo</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
-			</div>	
+			<div class="product-listing">
+			</div>
 			
 			<div class="clear"></div>		
 			
@@ -76,5 +41,5 @@
 	</section>
 
 <script>
-	getDetails("Kota Belud");
+	getDetails("Kota Belud", "");
 </script>

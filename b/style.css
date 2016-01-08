@@ -146,6 +146,8 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 	.contact-form .input{padding:15px 10px;width:80%;margin-left:50px;height:22px;}
 	.animated_box.ttm div:nth-child(2){height:358px;padding-top:15px;}
 	.front-btn a#know-us{width:auto !important}
+	.animated_box div:nth-child(2){padding:25px 20px;height:40px;font-size:0.85em}
+	.animated_box.ttm div:nth-child(2) p{font-size:1em;}
 }
 
 /*medium screen*/

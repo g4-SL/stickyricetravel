@@ -34,113 +34,15 @@
 
 			<div class="one columns"></div>
 
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/ulu-ai-experiences/nanga-sumpa">
-						<img src="/c/adventures/nanga-sumpa.jpg" class="img1" alt="3D2N Nanga Sumpa"/>
-						<h2>3D2N Nanga Sumpa</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
-			</div>		
+			<div class="product-listing">
+			</div>
 
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/ulu-ai-experiences/nanga-sumpa-and-lubok-kasai">
-						<img src="/c/adventures/nanga-sumpa-lubok-kasai.jpg" class="img1" alt="3D2N Nanga Sumpa &amp; Lubok Kasai"/>
-						<h2>3D2N Nanga Sumpa &amp; Lubok Kasai</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
-			</div>	
-
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/ulu-ai-experiences/longhouse-to-longhouse-trek">
-						<img src="/c/adventures/longhouse-to-longhouse.jpg" class="img1" alt="4D3N Longhouse to Longhouse Trek"/>
-						<h2>4D3N Longhouse to Longhouse Trek</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
-			</div>	
-
-			<div class="one columns"></div>	
-
-			<div class="clear display"></div>	
-
-			<div class="one columns"></div>	
-
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/ulu-ai-experiences/lubok-kasai-jungle-experience">
-						<img src="/c/adventures/lubok-kasai-jungle-experience.jpg" class="img1" alt="4D3N Lubok Kasai Jungle Experience"/>
-						<h2>4D3N Lubok Kasai Jungle Experience</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
-			</div>		
-
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/ulu-ai-experiences/red-ape-trail">
-						<img src="/c/adventures/red-ape-trail.jpg" class="img1" alt="5D4N Red Ape Trail"/>
-						<h2>5D4N Red Ape Trail</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
-			</div>	
-
-			<div class="seven columns"></div>	
+			<div class="clear"></div>	
 			
 		</div>
 		
 	</section>
 
 <script>
-	getDetails("Ulu Ai Experiences");
+	getDetails("Ulu Ai Experiences", "");
 </script>

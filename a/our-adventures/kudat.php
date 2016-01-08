@@ -28,61 +28,7 @@
 
 			<div class="one columns"></div>
 
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/kudat/hibiscus-beach-retreat">
-						<img src="/c/adventures/hibiscus-beach-retreat.jpg" class="img1" alt="Hibiscus Beach Retreat"/>
-						<h2>Hibiscus Beach Retreat</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
-			</div>		
-
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/kudat/hibiscus-villa">
-						<img src="/c/adventures/hibiscus-villa.jpg" class="img1" alt="Hibiscus Villa"/>
-						<h2>Hibiscus Villa</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
-			</div>	
-
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/kudat/northern-island-exploration">
-						<img src="/c/adventures/northern-island-exploration.jpg" class="img1" alt="Northern Island Exploration"/>
-						<h2>Northern Island Exploration</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
+			<div class="product-listing">
 			</div>	
 			
 			<div class="clear"></div>
@@ -92,5 +38,5 @@
 	</section>
 
 <script>
-	getDetails("Kudat");
+	getDetails("Kudat", "");
 </script>

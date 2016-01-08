@@ -31,87 +31,8 @@
 
 			<div class="one columns"></div>
 
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/kinabalu-national-park/day-trip">
-						<img src="/c/adventures/kinabalu-national-park-day-trip.jpg" class="img1" alt="Kinabalu National Park Day Trip"/>
-						<h2>Kinabalu National Park Day Trip</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
-			</div>		
-
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/kinabalu-national-park/mount-kinabalu-climb">
-						<img src="/c/adventures/mount-kinabalu-basic-climb.jpg" class="img1" alt="Mount Kinabalu Climb"/>
-						<h2>Mount Kinabalu Climb</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
-			</div>	
-
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/kinabalu-national-park/mountain-torq-ferrata">
-						<img src="/c/adventures/mount-kinabalu-via-ferrata.jpg" class="img1" alt="Mount Kinabalu Climb via Ferrata"/>
-						<h2>Mount Kinabalu Climb via Ferrata</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
-			</div>	
-
-			<div class="one columns"></div>	
-
-			<div class="clear display"></div>	
-
-			<div class="one columns"></div>	
-
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/kinabalu-national-park/camping">
-						<img src="/c/adventures/mount-kinabalu-camping.jpg" class="img1" alt="3D2N Kinabalu Camping"/>
-						<h2>3D2N Kinabalu Camping</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
-			</div>	
+			<div class="product-listing">
+			</div>
 			
 			<div class="clear"></div>
 			
@@ -121,5 +42,5 @@
 	</section>
 
 <script>
-	getDetails("Kinabalu National Park");
+	getDetails("Kinabalu National Park", "");
 </script>

@@ -40,87 +40,8 @@
 
 			<div class="one columns"></div>
 
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/crocker-range-park/gunung-alab-hike">
-						<img src="/c/adventures/gunung-alab.jpg" class="img1" alt="2D1N Gunung Alab Hike"/>
-						<h2>2D1N Gunung Alab Hike</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
-			</div>		
-
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/crocker-range-park/mt-trus-madi">
-						<img src="/c/adventures/mt-trus-madi.jpg" class="img1" alt="Mt Trus Madi"/>
-						<h2>4D3N Trusmadi Expedition</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
-			</div>	
-
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/crocker-range-park/day-trip">
-						<img src="/c/adventures/crocker-range-day-trip.jpg" class="img1" alt="Crocker Range Day Trip"/>
-						<h2>Crocker Range Park Day Trip</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
-			</div>	
-
-			<div class="one columns"></div>	
-
-			<div class="clear display"></div>	
-
-			<div class="one columns"></div>	
-
-			<div class="six columns product_box">
-				<div class="img_boxing">
-					<a href="./our-adventures/crocker-range-park/sinurambi-bed-and-breakfast">
-						<img src="/c/adventures/sinurambi.jpg" class="img1" alt="Sinurambi Bed &amp; Breakfast"/>
-						<h2>Sinurambi Bed &amp; Breakfast</h2>
-						<div class="rating accommodation">
-							<h3>Lodging</h3>
-						</div>
-						<div class="rating difficulty">
-							<h3>Difficulty</h3>
-						</div>
-						<div class="clear"></div>
-						<div class="category">
-							<h3>Category</h3>
-						</div>
-					</a>			
-				</div>
-			</div>	
+			<div class="product-listing">
+			</div>
 
 			<div class="clear"></div>	
 			
@@ -129,5 +50,5 @@
 	</section>
 
 <script>
-	getDetails("Crocker Range Park");
+	getDetails("Crocker Range Park", "");
 </script>

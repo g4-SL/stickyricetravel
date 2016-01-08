@@ -61,6 +61,7 @@ h1.our_adv{color:#fff;font-size:3.5em;letter-spacing:3pt}
 #sarawak_bg_2{background-image:url(../c/large/www-adventures-sarawak-2.jpg);background-position: center center;z-index:-2;bottom:0;}
 #others-intro{background-image:url(../c/large/www-adventures-others.jpg);height:80vh !important;text-align:center;}
 #multi-trips-intro{background-image:url(../c/large/www-adventures-multi-trips.jpg);height:80vh !important;text-align:center;}
+#multi-trips-intro .container .sixteen.columns, #others-intro .container .sixteen.columns{background-color:rgba(0,0,0,0.4)}
 #home_bg_1{background-image:linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),url(../c/large/www-base-red-langur.jpg);height:90vh !important;text-align:center;}
 #home_bg_2{background-image:url(../c/large/www-base-1.jpg);height:90vh !important}
 #others-intro *, #multi-trips-intro *{color:#fff}
@@ -74,13 +75,12 @@ h1.our_adv{color:#fff;font-size:3.5em;letter-spacing:3pt}
 #our-adventure section,#base section{padding-bottom: 60px;}
 #base .front-btn{margin:20px 0 35px;}
 
-.why_travel{text-align:center;}
+.circle_center{text-align:center;}
 #customer_review {font-size: 16px;font-family:'Sanchez', sans-serif}
 #customer_review h6{font-size: 1em;line-height:1.2}
 #customer_review p{line-height:1.2;}
 #customer_review .slick-next{left:-50px;}
 #customer_review .slick-prev{right:-50px;}
-#base_greeting .front_btn_alt{display:none}
 .base_big_headlines{text-align:center}
 .base_big_headlines h1{font-size:3em}
 
@@ -134,6 +134,11 @@ ul.sitemap_list li{background: url(../c/list-bullet.png) no-repeat 0 20%;padding
 
 ul.horizontal-align{text-align:center;}
 ul.horizontal-align li{display:inline;margin-right:5px;}
+ul.horizontal-align.sm-interest li img{width:80px;margin:0 5px 10px}
+ul.horizontal-align.sm-interest li:not(.active) img{-webkit-filter: grayscale(10%); filter: grayscale(10%);}
+ul.horizontal-align.lg-interest li{display:inline-block;margin-bottom:30px}
+ul.horizontal-align.lg-interest li img{margin:0 35px 10px}
+ul.horizontal-align li:hover img{-webkit-filter: grayscale(50%) !important; filter: grayscale(50%) !important;}
 
 .show-desktop{display:block;}
 .show-mobile{display:none;}
@@ -142,6 +147,12 @@ ul.horizontal-align li{display:inline;margin-right:5px;}
 @media (max-width:1199px){
 	.show-desktop{display:none;}
 	.show-mobile{display:block;}
+	#multi-trips-intro, #others-intro, #section_sabah_intro, #section_sarawak_intro{background-color:#333;background-image:url(../c/rattan-bg.png);background-repeat:repeat;background-attachment:scroll;background-size:auto;}
+	#multi-trips-intro .container, #others-intro .container{padding:0;}
+	#multi-trips-intro .container .sixteen.columns, #others-intro .container .sixteen.columns{background-color:transparent;padding:30px 0;}
+	h1.our_adv{font-size:3em}
+	#others-intro h2, #multi-trips-intro h2{font-size: 1.2em}
+	#multi-trips-intro, #others-intro{height:auto !important}
 }
 
 @media (min-width:768px){
@@ -199,8 +210,6 @@ input.bn, input.bn:hover{width:100%}
 #home_bg_1 .four.columns{width: 76px}
 #customer_review p{font-size: 1.4em}
 #customer_review h6{font-size: 1.3em}
-#base_greeting .front-btn{display:none}
-#base_greeting .front_btn_alt{display:block}
 #base_social_media .ten.columns{width:650px;margin:0 59px;}
 
 .one-third-col{width:50%}
@@ -214,7 +223,8 @@ input.bn, input.bn:hover{width:100%}
 .parallax .eleven.columns.desc img{width:100% !important;margin:0 !important;}
 .parallax .five.columns.desc .mobile_desc{margin:0 0 15px}
 .parallax .desc h4{font-size:1em}
-ul#sabah_list{-webkit-column-count:1;-moz-column-count:1;column-count:1;}
+ul#sabah_list{-webkit-column-count:1;-moz-column-count:1;column-count:1;}	
+h1.our_adv, #others-intro h2, #multi-trips-intro h2{padding-right:40px;padding-left:40px}
 }
 
 @media (min-width:768px){
