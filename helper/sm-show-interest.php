@@ -42,47 +42,47 @@ switch( <?php echo json_encode($interest_selected); ?> ){
 
 	case "culture":
 		$('li#culture').addClass("active");
-		$('li#jungle-trekking img').attr("src", "../c/travel-by-interest/culture.png");
+		$('li#culture img').attr("src", "../c/travel-by-interest/culture.png");
 		break;
 
 	case "river cruise":
 		$('li#river-cruise').addClass("active");
-		$('li#jungle-trekking img').attr("src", "../c/travel-by-interest/river-cruise.png");
+		$('li#river-cruise img').attr("src", "../c/travel-by-interest/river-cruise.png");
 		break;
 
 	case "day trip":
 		$('li#day-trip').addClass("active");
-		$('li#jungle-trekking img').attr("src", "../c/travel-by-interest/day-trip.png");
+		$('li#day-trip img').attr("src", "../c/travel-by-interest/day-trip.png");
 		break;
 
 	case "wildlife":
 		$('li#wildlife').addClass("active");
-		$('li#jungle-trekking img').attr("src", "../c/travel-by-interest/wildlife.png");
+		$('li#wildlife img').attr("src", "../c/travel-by-interest/wildlife.png");
 		break;
 
 	case "water sports":
 		$('li#water-sports').addClass("active");
-		$('li#jungle-trekking img').attr("src", "../c/travel-by-interest/water-sports.png");
+		$('li#water-sports img').attr("src", "../c/travel-by-interest/water-sports.png");
 		break;
 
 	case "beach":
 		$('li#beach').addClass("active");
-		$('li#jungle-trekking img').attr("src", "../c/travel-by-interest/beach.png");
+		$('li#beach img').attr("src", "../c/travel-by-interest/beach.png");
 		break;
 
 	case "climbing":
 		$('li#climbing').addClass("active");
-		$('li#jungle-trekking img').attr("src", "../c/travel-by-interest/climbing.png");
+		$('li#climbing img').attr("src", "../c/travel-by-interest/climbing.png");
 		break;
 
 	case "cave":
 		$('li#cave').addClass("active");
-		$('li#jungle-trekking img').attr("src", "../c/travel-by-interest/cave.png");
+		$('li#cave img').attr("src", "../c/travel-by-interest/cave.png");
 		break;
 
 	case "accommodation":
 		$('li#accommodation').addClass("active");
-		$('li#jungle-trekking img').attr("src", "../c/travel-by-interest/accommodation.png");
+		$('li#accommodation img').attr("src", "../c/travel-by-interest/accommodation.png");
 		break;
 
 	default:
