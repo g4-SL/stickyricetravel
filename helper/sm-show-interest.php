@@ -11,7 +11,6 @@
 	<li id="day-trip">
 		<a href="/travel-by-interest/day-trip"><img src="../c/travel-by-interest/sm-day-trip.png"></a>
 	</li>
-	<div class="clear"></div>
 	<li id="wildlife">
 		<a href="/travel-by-interest/wildlife"><img src="../c/travel-by-interest/sm-wildlife.png"></a>
 	</li>
@@ -24,7 +23,6 @@
 	<li id="climbing">
 		<a href="/travel-by-interest/climbing"><img src="../c/travel-by-interest/sm-climbing.png"></a>
 	</li>
-	<div class="clear"></div>
 	<li id="cave">
 		<a href="/travel-by-interest/cave"><img src="../c/travel-by-interest/sm-cave.png"></a>
 	</li>

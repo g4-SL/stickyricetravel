@@ -134,7 +134,7 @@ ul.sitemap_list li{background: url(../c/list-bullet.png) no-repeat 0 20%;padding
 
 ul.horizontal-align{text-align:center;}
 ul.horizontal-align li{display:inline;margin-right:5px;}
-ul.horizontal-align.sm-interest li img{width:80px;margin:0 5px 10px}
+ul.horizontal-align.sm-interest li img{width:64px;margin:0 5px 10px}
 ul.horizontal-align.sm-interest li:not(.active) img{-webkit-filter: grayscale(10%); filter: grayscale(10%);}
 ul.horizontal-align.lg-interest li{display:inline-block;margin-bottom:30px}
 ul.horizontal-align.lg-interest li img{margin:0 35px 10px}
@@ -179,6 +179,7 @@ input.bn, input.bn:hover{width:100%}
 #sarawak-booking-col{height:320px;}
 #others-booking-col{height:100px;}
 #multi-booking-col{height:310px;}
+ul.horizontal-align.sm-interest li:nth-child(5):after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
 }
 
 /* x-large devices */
@@ -200,6 +201,9 @@ input.bn, input.bn:hover{width:100%}
 .parallax .five.columns.desc{width:54%;}
 .parallax .eleven.columns.desc img{width:100% !important;margin:0 !important;}
 .parallax .five.columns.desc .mobile_desc{margin:0 0 15px}
+
+ul.horizontal-align.sm-interest li:nth-child(4):after,
+ul.horizontal-align.sm-interest li:nth-child(8):after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
 }
 
 /* large devices */
@@ -225,6 +229,7 @@ input.bn, input.bn:hover{width:100%}
 .parallax .desc h4{font-size:1em}
 ul#sabah_list{-webkit-column-count:1;-moz-column-count:1;column-count:1;}	
 h1.our_adv, #others-intro h2, #multi-trips-intro h2{padding-right:40px;padding-left:40px}
+ul.horizontal-align.sm-interest li:nth-child(5):after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
 }
 
 @media (min-width:768px){
@@ -279,6 +284,7 @@ input.bn, input.bn:hover{width:100%}
 #multi-booking-col{height:740px;}
 .parallax .desc h4{font-size:1em}
 ul#sabah_list{-webkit-column-count:1;-moz-column-count:1;column-count:1;}
+ul.horizontal-align.sm-interest li img{width:56px}
 }
 
 .small_container{
