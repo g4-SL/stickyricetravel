@@ -62,27 +62,16 @@ h1.our_adv{color:#fff;font-size:3.5em;letter-spacing:3pt}
 #others-intro{background-image:url(../c/large/www-adventures-others.jpg);height:80vh !important;text-align:center;}
 #multi-trips-intro{background-image:url(../c/large/www-adventures-multi-trips.jpg);height:80vh !important;text-align:center;}
 #multi-trips-intro .container .sixteen.columns, #others-intro .container .sixteen.columns{background-color:rgba(0,0,0,0.4)}
-#home_bg_1{background-image:linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),url(../c/large/www-base-red-langur.jpg);height:90vh !important;text-align:center;}
-#home_bg_2{background-image:url(../c/large/www-base-1.jpg);height:90vh !important}
 #others-intro *, #multi-trips-intro *{color:#fff}
 #others-intro h2, #multi-trips-intro h2{font-weight: bold;font-size: 1.5em}
 #skrollr-body {float: left;width: 100%;height: 100%;}
 
-#home_bg_1 *{color:#fff;}
-#home_bg_1 h1{font-size:3em;padding-bottom:30px;}
-.fun_column .front-btn a, #home_bg_1 .front-btn a{border:3px solid #fff;color:#fff;background: url(../c/btn-arrow-white.png) no-repeat 97% 50%;line-height:1;}
+.fun_column .front-btn a{border:3px solid #fff;color:#fff;background: url(../c/btn-arrow-white.png) no-repeat 97% 50%;line-height:1;}
 .vertical_center{display: flex;flex-direction: column;justify-content: center;}
-#our-adventure section,#base section{padding-bottom: 60px;}
+#our-adventure section{padding-bottom: 60px;}
 #base .front-btn{margin:20px 0 35px;}
 
 .circle_center{text-align:center;}
-#customer_review {font-size: 16px;font-family:'Sanchez', sans-serif}
-#customer_review h6{font-size: 1em;line-height:1.2}
-#customer_review p{line-height:1.2;}
-#customer_review .slick-next{left:-50px;}
-#customer_review .slick-prev{right:-50px;}
-.base_big_headlines{text-align:center}
-.base_big_headlines h1{font-size:3em}
 
 .fb-header{background-color: #edeff4;width:100%;height:60px;overflow:hidden}
 .fb-header img, .fb-header div{float:left;}
@@ -136,9 +125,26 @@ ul.horizontal-align{text-align:center;}
 ul.horizontal-align li{display:inline;margin-right:5px;}
 ul.horizontal-align.sm-interest li img{width:64px;margin:0 5px 10px}
 ul.horizontal-align.sm-interest li:not(.active) img{-webkit-filter: grayscale(10%); filter: grayscale(10%);}
-ul.horizontal-align.lg-interest li{display:inline-block;margin-bottom:30px}
-ul.horizontal-align.lg-interest li img{margin:0 35px 10px}
+.lg-interest ul.horizontal-align li{display:inline-block;margin-bottom:30px}
+.lg-interest ul.horizontal-align li img{margin:0 35px 10px}
+.md-interest{width:820px;margin-left:10px;}
+.md-interest ul.horizontal-align li{display:inline-block;border-left:1px dashed #7f7e7e;border-bottom:1px dashed #7f7e7e;width:162.7px;margin:0;padding:20px 0}
+.md-interest ul.horizontal-align li img{width:96px;margin:0 20px 10px}
+.md-interest ul.horizontal-align li h3{margin:0;font-size:1em}
 ul.horizontal-align li:hover img{-webkit-filter: grayscale(50%) !important; filter: grayscale(50%) !important;}
+.pick-by-interest div{display:inline-block;}
+.pick-by-interest div:first-child{width:220px;margin-right:10px;}
+.pick-by-interest{border-top:1px dashed #7f7e7e}
+
+.talk-box div p{padding:30px 20px 20px;font-family:'Sanchez', sans-serif;font-size:0.8em;margin-bottom:0}
+.talk-box div h6 i{margin-right:10px;font-size:1.2em}
+.talk-box div h6{margin:0 3px;padding:20px 20px 20px;border-top:1px dashed #333;}
+.talk-box div[id^='review-']{margin-bottom:20px;background:url(../c/talk-box.png) no-repeat;}
+
+.sm-button{margin-top:10px;}
+.sm-button a{background:url(../c/btn-orange.jpg);padding:10px 30px;color:#fff;font-family:'Sanchez',sans-serif;box-shadow: 3px 3px 10px #846b52;display:inline-block}
+.sm-button a:after{padding-left:20px;content:url(../c/next-arrow.png)}
+.sm-button.vc{margin:20px 0}
 
 .show-desktop{display:block;}
 .show-mobile{display:none;}
@@ -157,8 +163,6 @@ ul.horizontal-align li:hover img{-webkit-filter: grayscale(50%) !important; filt
 
 @media (min-width:768px){
 .about_us h2{width: 50%;left: 44%}
-.member .image .member_title h3:nth-child(1){font-size:2em}
-.member .image .member_title h3:nth-child(2){font-size:1em}
 }
 
 /* x-large, xx-large devices */
@@ -170,9 +174,6 @@ input.bn, input.bn:hover{width:100%}
 
 /* xx-large devices */
 @media (min-width:1200px){
-#home_bg_1{height:90vh !important;}
-#customer_review p{font-size: 1.3em}
-#customer_review h6{font-size: 1.2em}
 .one-third-col{width:33%}
 .blb{width: 88% !important;}
 #sabah-booking-col{height:900px;}
@@ -184,10 +185,6 @@ ul.horizontal-align.sm-interest li:nth-child(5):after{content:"\0020";display:bl
 
 /* x-large devices */
 @media (min-width:960px) and (max-width:1199px){
-#home_bg_1{height:90vh !important;}
-#home_bg_1 .four.columns{width: 76px}
-#customer_review p{font-size: 1.3em}
-#customer_review h6{font-size: 1.2em}
 #base_social_media .ten.columns{width:460px;}
 
 .one-third-col{width:33%}
@@ -210,10 +207,6 @@ ul.horizontal-align.sm-interest li:nth-child(8):after{content:"\0020";display:bl
 @media (min-width:768px) and (max-width:959px){
 .about_us h2{font-size:2.4em;top: 30%}
 .small_container{width:70%}
-#home_bg_1{height:90vh !important;}
-#home_bg_1 .four.columns{width: 76px}
-#customer_review p{font-size: 1.4em}
-#customer_review h6{font-size: 1.3em}
 #base_social_media .ten.columns{width:650px;margin:0 59px;}
 
 .one-third-col{width:50%}
@@ -241,14 +234,9 @@ input.bn, input.bn:hover{width:100%}
 /* medium devices */
 @media (min-width:480px) and (max-width:767px){
 .about_us h2{font-size:3em;width: 40%;left: 50%;top:30%}
-.member .image .member_title h3:nth-child(1){font-size:2em}
-.member .image .member_title h3:nth-child(2){font-size:1em}
 .small_container{width:100%}
 input.bn, input.bn:hover{width:50%}
 .au2{height:72px;}
-#home_bg_1{height:180vh !important;}
-#customer_review p{font-size: 1.2em}
-#customer_review h6{font-size: 1em}
 
 .one-third-col{width:100%}
 .blb{width: 91% !important;}
@@ -263,14 +251,8 @@ ul#sabah_list{-webkit-column-count:1;-moz-column-count:1;column-count:1;}
 /* small devices */
 @media (max-width:479px){
 .about_us h2{font-size:2.4em;width: 50%;left: 45%;top:30%}
-.member .image .member_title h3:nth-child(1){font-size:1.2em}
-.member .image .member_title h3:nth-child(2){font-size:0.9em}
 .small_container{width:100%}
 input.bn, input.bn:hover{width:100%}
-#customer_review p{font-size: 1em}
-#home_bg_1{height:110vh !important;}
-#customer_review .slick-next{left:-25px;}
-#customer_review .slick-prev{right:-25px;}
 
 .fb-header{height:50px}
 .fb-header img{width:40px}

@@ -1,33 +1,33 @@
 <ul class="horizontal-align sm-interest">
 	<li id="jungle-trekking">
-		<a href="/travel-by-interest/jungle-trekking"><img src="../c/travel-by-interest/sm-jungle-trekking.png"></a>
+		<a href="/travel-by-interest/jungle-trekking"><img src="../c/travel-by-interest/sm-jungle-trekking.png" title="Jungle Trekking"></a>
 	</li>
 	<li id="culture">
-		<a href="/travel-by-interest/culture"><img src="../c/travel-by-interest/sm-culture.png"></a>
+		<a href="/travel-by-interest/culture"><img src="../c/travel-by-interest/sm-culture.png" title="Culture"></a>
 	</li>
 	<li id="river-cruise">
-		<a href="/travel-by-interest/river-cruise"><img src="../c/travel-by-interest/sm-river-cruise.png"></a>
+		<a href="/travel-by-interest/river-cruise"><img src="../c/travel-by-interest/sm-river-cruise.png" title="River Cruise"></a>
 	</li>
 	<li id="day-trip">
-		<a href="/travel-by-interest/day-trip"><img src="../c/travel-by-interest/sm-day-trip.png"></a>
+		<a href="/travel-by-interest/day-trip"><img src="../c/travel-by-interest/sm-day-trip.png" title="Day Trip"></a>
 	</li>
 	<li id="wildlife">
-		<a href="/travel-by-interest/wildlife"><img src="../c/travel-by-interest/sm-wildlife.png"></a>
+		<a href="/travel-by-interest/wildlife"><img src="../c/travel-by-interest/sm-wildlife.png" title="Wildlife"></a>
 	</li>
 	<li id="water-sports">
-		<a href="/travel-by-interest/water-sports"><img src="../c/travel-by-interest/sm-water-sports.png"></a>
+		<a href="/travel-by-interest/water-sports"><img src="../c/travel-by-interest/sm-water-sports.png" title="Water Sports"></a>
 	</li>
 	<li id="beach">
-		<a href="/travel-by-interest/beach"><img src="../c/travel-by-interest/sm-beach.png"></a>
+		<a href="/travel-by-interest/beach"><img src="../c/travel-by-interest/sm-beach.png" title="Beach"></a>
 	</li>
 	<li id="climbing">
-		<a href="/travel-by-interest/climbing"><img src="../c/travel-by-interest/sm-climbing.png"></a>
+		<a href="/travel-by-interest/climbing"><img src="../c/travel-by-interest/sm-climbing.png" title="Climbing"></a>
 	</li>
 	<li id="cave">
-		<a href="/travel-by-interest/cave"><img src="../c/travel-by-interest/sm-cave.png"></a>
+		<a href="/travel-by-interest/cave"><img src="../c/travel-by-interest/sm-cave.png" title="Cave"></a>
 	</li>
 	<li id="accommodation">
-		<a href="/travel-by-interest/accommodation"><img src="../c/travel-by-interest/sm-accommodation.png"></a>
+		<a href="/travel-by-interest/accommodation"><img src="../c/travel-by-interest/sm-accommodation.png" title="Accommodation"></a>
 	</li>
 </ul>
 

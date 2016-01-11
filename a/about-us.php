@@ -60,8 +60,9 @@
 				<img src="./c/about-us/jessica.jpg" style="width:50%" alt="Charles Ryan"/></a>
 				<img src="./c/about-us/jessica.jpg" style="width:50%" alt="Charles Ryan"/></a>
 				<img src="./c/about-us/jessica.jpg" style="width:50%" alt="Charles Ryan"/></a>
-				<div class="front-btn" style="margin-top:15px">
-					<div><a href="./meet-the-team" id="know-us">Get to know us</a></div>
+
+				<div class="sm-button circle_center vc">
+					<a href="./meet-the-team" id="know-us">Get to know us</a>
 				</div>
 			</div>
 
@@ -114,10 +115,10 @@
 				</div>
 			</div>
 
-			<div class="clear"></div><div class="two columns"></div>
+			<div class="clear"></div>
 
-			<div class="sixteen columns front-btn">
-				<div><a href="./customer-reviews">Read More</a></div>
+			<div class="sm-button circle_center vc">
+				<a href="./customer-reviews">Read More</a>
 			</div>
 
 			<div class="clear"></div>

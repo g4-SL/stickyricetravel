@@ -70,7 +70,7 @@
 
 				<div class="two columns"></div>
 
-				<div class="sixteen columns base_big_headlines" style="margin-bottom:10px">
+				<div class="sixteen columns circle_center" style="margin-bottom:10px">
 					<h1>Our Guests' Top Picks</h1>
 					<h2>Get ready for a great adventure</h2>
 				</div>
@@ -106,60 +106,80 @@
 
 				<div class="clear"></div>
 
-				<div class="two columns"></div>
-
-				<div class="sixteen columns front-btn">
-					<div><a href="./our-adventures">More Adventures</a></div>
+				<div class="sm-button circle_center vc">
+					<a href="./our-adventures">See More Adventures</a>
 				</div>
 
-				<div class="clear"></div>		
-
-			</div>	
-		</section>
-
-		<section id="home_bg_1" class="parallax vertical_center">
-
-			<div class="container">	
-
-				<div class="four columns"></div>
-
-				<div class="twelve columns" dir="rtl">
-					<h1>Customer Reviews</h1>
-
-					<div class="single_item_carousel" id="customer_review">
-						<div>
-							<p>
-								Check out the Sepilok orang utan and sun bear conservation centers. Charlie and the Sticky Rice crew put together a fabulous itinerary with terrific guides that pointed out animals, birds, reptiles and bugs we would not have seen on our own. Our lives are all about travel, but our time in Borneo stands out as a brilliant highlight thanks to Charlie and the Sticky Rice crew
-							</p>
-							<h6>by Jim and Katie Thomsen</h6>
-						</div>
-						<div>
-							<p>
-								We were very impressed with the Sticky Rice team &amp; the services offered us. They were instrumental in making our holiday the thoroughly enjoyable, splendid experience it was
-							</p>
-							<h6>by Brijinder Singh</h6>	
-						</div>
-						<div>
-							<p>
-								I am extremely grateful for their knowledge, enthusiasm and passion for the projects they are involved in and I cannot recommend them enough to help you get started with your Borneo plans. I will definitely be using Sticky Rice again
-							</p>
-							<h6>by Glenda</h6>	
-						</div>
-					</div>		
-				</div>	
-
-				<div class="clear"></div><div class="two columns"></div>
-
-				<div class="sixteen columns front-btn">
-					<div><a href="./customer-reviews">Review Us</a></div>
-				</div>
-				
 				<div class="clear"></div>	
+
+				<div class="one columns"></div>
+
+				<div class="eighteen columns">
+					<div class="pick-by-interest">
+						<div>
+							<h1>Travel by Interest</h1>
+							<h4>These are only suggested itineraries and can be customized to better fit your interests and needs</h4>
+							<div class="sm-button">
+								<a href="./travel-by-interest">See More</a>
+							</div>
+						</div>
+
+						<div class="md-interest">
+							<?php include "./helper/interest-table.php" ?>
+						</div>
+					</div>
+				</div>
+
+				<div class="clear"></div>
+
+				<div class="one columns"></div>
+
+				<div class="ten columns talk-box">
+					<h1 class="brown_border">Customer Reviews</h1>
+					<div id="review-1">
+						<p>
+							Check out the Sepilok orang utan and sun bear conservation centers. Charlie and the Sticky Rice crew put together a fabulous itinerary with terrific guides that pointed out animals, birds, reptiles and bugs we would not have seen on our own. Our lives are all about travel, but our time in Borneo stands out as a brilliant highlight thanks to Charlie and the Sticky Rice crew
+						</p>
+						<h6><i class="ion-person"></i>Jim and Katie Thomsen</h6>
+					</div>
+					<div id="review-2">
+						<p>
+							We were very impressed with the Sticky Rice team &amp; the services offered us. They were instrumental in making our holiday the thoroughly enjoyable, splendid experience it was
+						</p>
+						<h6><i class="ion-person"></i>Brijinder Singh</h6>	
+					</div>
+					<div id="review-3">
+						<p>
+							I am extremely grateful for their knowledge, enthusiasm and passion for the projects they are involved in and I cannot recommend them enough to help you get started with your Borneo plans. I will definitely be using Sticky Rice again
+						</p>
+						<h6><i class="ion-person"></i>Glenda</h6>	
+					</div>
+					<div class="sm-button circle_center vc">
+						<a href="./customer-reviews">Read More</a>
+					</div>
+				</div>
+
+				<div class="eight columns">
+					<h1 class="brown_border">Announcements</h1>
+					<a href="./download/Promo-DVFC.pdf" target="_blank"><img src="./c/dvfc_promo.jpg" width="100%"></a>
+				</div>
+
+				<div class="clear"></div>
+
+				<div class="one columns"></div>
+
+				<div class="eighteen columns circle_center">
+					<h1>Bringing you meaningful adventures</h1>
+					<h4 style="line-height:1.5">What started as a home-based work with only 2 employees, Sticky Rice Travel has now grown bigger with an office located in the heart of the city in Sabah and an amazing set of team working under it. Our travel consultants work around the clock to accommodate all of our clients' needs and are always there from the start of the planning to the last day of the trip. Our travel guides are highly experienced and opinionated on all things related to Borneo and will go out their way to make sure our clients have a memorable stay here at Borneo. We believe that Sticky Rice Travel wouldn't be where it is at now without our incredible team.</h4>
+					<div class="sm-button circle_center">
+						<a href="./customer-reviews">Get to know us</a>
+					</div>
+				</div>
 
 			</div>
 		</section>
 
-		<section style="padding:0">
+		<section style="padding:0;display:none">
 			<div class="container">
 				<div class="two columns"></div>
 			
@@ -209,12 +229,13 @@
 
 		<section id="base_social_media">
 			<div class="container">
-				<div class="ten columns">
+				<div class="one columns"></div>
+				<div class="nine columns">
 					<h1 class="brown_border ion-social-instagram-outline left_space">Instagram</h1>
 					<div id="instafeed"></div>
 				</div>	
 
-				<div class="ten columns" style="margin-bottom:10px">
+				<div class="nine columns" style="margin-bottom:10px">
 					<h1 class="brown_border ion-social-facebook left_space">Facebook</h1>
 					<a href="https://www.facebook.com/StickyRiceTravel" target="_blank"><div class="fb-header">
 						<img src="../c/fb-logo.jpg">

@@ -60,7 +60,7 @@
 					</div>
 
 					<div class="four columns footer_col">
-						<?php include "a/current-time.php" ?>
+						<?php include "./helper/current-time.php" ?>
 						<ul class="horizontal-align">
 							<li><a href="http://www.facebook.com/StickyRiceTravel" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/facebook.png" width="38" height="38" alt="Sticky Rice Travel Facebook" /></a></li>
 							<li><a href="https://vimeo.com/channels/stickyricetravel" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/vimeo.png" width="38" height="38" alt="Sticky Rice Travel Vimeo" /></a></li>
