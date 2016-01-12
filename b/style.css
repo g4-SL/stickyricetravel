@@ -55,6 +55,7 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 .fb-content {background-color: #fff;padding: 2%}
 .fb-meta {background: url(../c/base/fb-thumb.png) 7px 4px/17px 17px no-repeat #edeff4;padding: 6px 29px;}
 .fb-meta a {text-decoration: none; padding: 0 3px;color: #3b5998}
+.recommend{margin:0 auto;}
 
 /*medium, large, x-large, xx-large screen*/
 @media (min-width:481px){
@@ -155,7 +156,7 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 	.img_boxing a{height:auto}
 	.img_boxing .category{padding:15px;}
 	.front-btn a{width: 260px !important}
-	.recommend{width:70%;margin:0 auto}
+	.recommend{width:250px}
 	.contact-form span.label{width:70px;font-size:1.4em;}
 	.contact-form .input{padding:15px 10px;width:77%;margin-left:70px;height:22px;}
 	textarea#contact-details{padding:5px 4px;}
@@ -181,11 +182,11 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 	#logo img {position:absolute;left:50px}
 	.img_boxing a{height:auto}
 	.front-btn a{width: auto}
-	.recommend{width:100%}
 	.contact-form span.label{width:50px;font-size:1.2em;}
 	.contact-form .input{padding:15px 10px;width:76%;margin-left:50px;height:20px;}
 	textarea#contact-details{padding:5px 4px;}
 	.animated_box.ttm div:nth-child(2){height:auto}
+	.recommend{width:200px}
 }
 .columns{padding-top:20px}
 #footer{background:url(../c/bottom.gif) center bottom no-repeat;clear:both;margin:0;padding:0;width:100%;float:left;z-index:100;height:200px}

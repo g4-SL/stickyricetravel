@@ -28,12 +28,8 @@
 			
 			<div class="clear"></div>
 
-			<div class="two columns"></div>
-
-			<div class="sixteen columns">
-				<div class="front-btn" style="margin-top:15px">
-					<div><a href="./about-us">Contact Us</a></div>
-				</div>
+			<div class="sm-button circle_center vc">
+				<a href="./contact-us" id="know-us">Contact Us Now</a>
 			</div>
 
 		</div>

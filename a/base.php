@@ -107,7 +107,7 @@
 				<div class="clear"></div>
 
 				<div class="sm-button circle_center vc">
-					<a href="./our-adventures">See More Adventures</a>
+					<a href="./our-adventures">We've got more adventures</a>
 				</div>
 
 				<div class="clear"></div>	
@@ -176,52 +176,6 @@
 					</div>
 				</div>
 
-			</div>
-		</section>
-
-		<section style="padding:0;display:none">
-			<div class="container">
-				<div class="two columns"></div>
-			
-				<div class="sixteen columns base_big_headlines">
-					<h1>Things we do here</h1>
-					<h2>&amp; what makes us special</h2>
-				</div>
-
-				<div class="clear"></div><div class="two columns"></div>
-
-				<div class="four columns circle_center">
-					<img src="../c/base/why_travel_tailor.png" width="154">
-					<h3>Tailor-made trips</h3>
-					<p>
-						We create custom itineraries based on specific interests and travel styles, and assign each client to a travel consultant that helps build the itinerary from start to finish. 
-					</p>
-				</div>
-
-				<div class="four columns circle_center">
-					<img src="../c/base/why_travel_niche.png" width="154">
-					<h3>Niche travel</h3>
-					<p>
-						Our team is made up of naturalists with special interests in birds, wildlife photography etc., and have the capacity to build a program to meet your specific needs because we know the best area for your interests.				
-					</p>
-				</div>
-
-				<div class="four columns circle_center">
-					<img src="../c/base/why_travel_knowledge.png" width="154">
-					<h3>Expert knowledge and insider access</h3>
-					<p>
-						All of our consultants and guides have traveled extensively in the areas that we promote, and we continuously explore new areas in order to keep our adventures unique, fun, and fulfilling.
-					</p>
-				</div>
-
-				<div class="four columns circle_center">
-					<img src="../c/base/why_travel_responsible.png" width="154">
-					<h3>Responsible travel</h3>
-					<p>
-						We engage in environmental conservation via local conservation groups, advocate for the preservation of local cultures, and partner with operators that have similar ethics and values to ensure that our adventures are meaningful and memorable.
-					</p>
-				</div>
-				<div class="clear"></div>
 			</div>
 		</section>
 

@@ -18,10 +18,22 @@
 	
 	<nav></nav><section id="our-adventure">	
 
-		<section class="parallax" id="section_sabah_intro" rel="sabah">
-		    <div class="desktop bg skrollr_bg" id="sabah_bg_1"></div>
-		    <?php $select_intro = "sabah"; include 'our-adventures-intro.php' ?>
-		    <div class="desktop bg" id="sabah_bg_2"></div>
+		<section>
+			<div class="container">
+				<?php include "sub-navi.php" ?>
+			</div>
+		</section>
+
+		<section id="multi-trips-intro" class="parallax vertical_center">
+			<div class="container hd lh">
+				<div class="two columns"></div>
+				<div class="sixteen columns">
+					<h1 class="our_adv">Sabah</h1>
+					<h2>Located on the northernmost part of Borneo island, Sabah is a popular destination for travellers who seeks for adventures, cultural experiences, and a little bit of the city life. With the mountains and sea being a few hours drive away from each other, travellers can experience the best of both world all in one place.</h2>
+				</div>
+				
+				<div class="clear"></div>
+			</div>
 		</section>
 
 		<section id="sabah">
@@ -153,10 +165,16 @@
 			</div>	
 		</section>
 
-		<section class="parallax" id="section_sarawak_intro" rel="sarawak">
-		    <div class="desktop bg skrollr_bg" id="sarawak_bg_1"></div>
-		    <?php $select_intro = "sarawak"; include 'our-adventures-intro.php' ?>
-		    <div class="desktop bg" id="sarawak_bg_2"></div>
+		<section id="multi-trips-intro" class="parallax vertical_center">
+			<div class="container hd lh">
+				<div class="two columns"></div>
+				<div class="sixteen columns">
+					<h1 class="our_adv">Sarawak</h1>
+					<h2>The other half of the Bornean-Malaysian state, Sarawak is filled with diverse cultures and vast impenetrable jungles. One should not leave Sarawak without having first hand experience with the indigenous people of Sarawak or climbing up the pinnacles at Mulu National Park. It is one of the least travelled state of Malaysia, so a trip to Sarawak is definitely a worthy challenge for all travellers. </h2>
+				</div>
+				
+				<div class="clear"></div>
+			</div>
 		</section>
 
 		<section id="sarawak">

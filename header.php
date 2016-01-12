@@ -24,8 +24,6 @@
 	<link rel="stylesheet" type="text/css" href="/b/style.css" />
 	<link rel="stylesheet" type="text/css" href="/b/style.v2.css" />
 	<link rel="stylesheet" type="text/css" href="/b/popup.css" />
-	<link rel="stylesheet" type="text/css" href="/b/slick.css" />
-	<link rel="stylesheet" type="text/css" href="/b/slick-theme.css" />
 	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
 	<link rel="stylesheet" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" />
   	<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
@@ -49,8 +47,6 @@
 	<script type="text/javascript" src="/d/jquery.ms.js"></script>
 	<script type="text/javascript" src="/d/jquery.mobilemenu.js"></script>
 	<script type="text/javascript" src="/d/jquery-ui.min.js"></script>	
-	<script type="text/javascript" src="/d/slick.min.js"></script>
-	<script type="text/javascript" src="/d/skroll.min.js"></script>
 	<script type="text/javascript" src="/d/instafeed.min.js"></script>	
 	<script type="text/javascript" src="/d/moment.min.js"></script>
 	<script type="text/javascript" src="/d/moment-timezone-2010-2020.min.js"></script>
@@ -58,7 +54,6 @@
 	<script type="text/javascript" src="/d/start.js"></script>	
 	<script type="text/javascript" src="/d/popup.js"></script>	
 	<script type="text/javascript" src="/d/populate.js"></script>
-	<script type="text/javascript" src="/d/mobile.js"></script>
 	
 
 </head>
