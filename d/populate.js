@@ -54,6 +54,44 @@ function printProduct(product){
 	return res;
 }
 
+function getUrlCategory(category){
+	switch(category){
+		case "Accommodation":
+			return "../travel-by-interest/accommodation";
+			break;
+		case "Jungle Trekking":
+			return "../travel-by-interest/jungle-trekking";
+			break;
+		case "Wildlife":
+			return "../travel-by-interest/wildlife";
+			break;
+		case "Cave":
+			return "../travel-by-interest/cave";
+			break;
+		case "Climbing":
+			return "../travel-by-interest/climbing";
+			break;
+		case "Culture":
+			return "../travel-by-interest/culture";
+			break;
+		case "Beach":
+			return "../travel-by-interest/beach";
+			break;
+		case "Water Sports":
+			return "../travel-by-interest/water-sports";
+			break;
+		case "River Cruise":
+			return "../travel-by-interest/river-cruise";
+			break;
+		case "Day Trip":
+			return "../travel-by-interest/day-trip";
+			break;
+		default:
+			break;
+	}
+}
+
+/* populate category page with relevant product */
 function getDetailsBasedOnCategory(category){	
 	var res = "", counter = 0;
 	$.when(getJson()).done(function(data){
@@ -112,7 +150,8 @@ function populateSidebar(product_parent, product_child){
 			if(data.parent_product[i].child[j].title == product_child){
 				var temp = "";
 				for(var pd in data.parent_product[i].child[j].category){
-					temp = temp + '<li><a>' + data.parent_product[i].child[j].category[pd] + "</a></li>";
+					var category = data.parent_product[i].child[j].category[pd];
+					temp = temp + '<li><a href="' + getUrlCategory(category) + '">' + category + "</a></li>";
 				}
 				$('.product_side ul.category').append(temp);
 				$('.product_side ul.difficulty li a').append(rate('difficulty', data.parent_product[i].child[j]));
