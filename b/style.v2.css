@@ -115,9 +115,8 @@ ul.horizontal-align{text-align:center}
 ul.horizontal-align li{display:inline;margin-right:5px;}
 ul.horizontal-align.sm-interest li img{width:64px;margin:0 5px 10px}
 ul.horizontal-align.sm-interest li:not(.active) img{-webkit-filter: grayscale(10%); filter: grayscale(10%);}
-.lg-interest ul.horizontal-align{border-bottom:1px dashed #7f7e7e}
-.lg-interest ul.horizontal-align li{display:inline-block;border-top:1px dashed #7f7e7e;border-right:1px dashed #7f7e7e;margin:0;width:187px;padding-top:20px}
-.lg-interest ul.horizontal-align li:nth-of-type(5n){border-right:none;}
+.lg-interest ul.horizontal-align, .pick-by-interest{border-top:1px dashed #7f7e7e}
+.lg-interest ul.horizontal-align li{display:inline-block;border-left:1px dashed #7f7e7e;border-bottom:1px dashed #7f7e7e;margin:0;width:187px;padding-top:20px}
 .lg-interest ul.horizontal-align li img{margin-bottom:10px;width:104px;}
 .lg-interest ul.horizontal-align li h3{font-size:1em;}
 .md-interest{width:820px;margin-left:10px;}
@@ -128,7 +127,6 @@ ul.horizontal-align li:hover img{-webkit-filter: grayscale(50%) !important; filt
 .pick-by-interest div{display:inline-block;}
 .pick-by-interest div:first-child{width:220px;margin-right:10px;}
 .pick-by-interest div:first-child h4{line-height:1.3}
-.pick-by-interest{border-top:1px dashed #7f7e7e}
 
 .talk-box div p{padding:30px 20px 20px;font-family:'Sanchez', sans-serif;font-size:0.8em;margin-bottom:0}
 .talk-box div h6 i{margin-right:10px;font-size:1.2em}
@@ -175,6 +173,7 @@ input.bn, input.bn:hover{width:100%}
 #others-booking-col{height:100px;}
 #multi-booking-col{height:310px;}
 ul.horizontal-align.sm-interest li:nth-child(5):after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
+.lg-interest ul.horizontal-align li:nth-of-type(5n+1){border-left:none;}
 }
 
 /* x-large devices */
@@ -188,13 +187,13 @@ ul.horizontal-align.sm-interest li:nth-child(5):after{content:"\0020";display:bl
 #others-booking-col{height:100px;}
 #multi-booking-col{height:310px;}
 
-ul.horizontal-align.sm-interest li:nth-child(4):after,
-ul.horizontal-align.sm-interest li:nth-child(8):after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
+ul.horizontal-align.sm-interest li:nth-child(5):after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
 .pick-by-interest div:first-child h4{font-size:0.9em}
 .md-interest{width:700px}
 .md-interest ul.horizontal-align li{width:139px;}
 .md-interest ul.horizontal-align li img{width:80px}
 .md-interest ul.horizontal-align li h3{font-size:0.9em}
+.lg-interest ul.horizontal-align li:nth-of-type(5n+1){border-left:none;}
 
 .ten.columns.talk-box{width:440px;}
 }
@@ -214,7 +213,7 @@ ul.horizontal-align.sm-interest li:nth-child(8):after{content:"\0020";display:bl
 
 ul#sabah_list{-webkit-column-count:1;-moz-column-count:1;column-count:1;}	
 h1.our_adv, #others-intro h2, #multi-trips-intro h2{padding-right:40px;padding-left:40px}
-ul.horizontal-align.sm-interest li:nth-child(5):after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
+ul.horizontal-align.sm-interest li:nth-child(4):after, ul.horizontal-align.sm-interest li:nth-child(8):after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
 .pick-by-interest div:first-child h4{font-size:0.9em}
 .pick-by-interest div:first-child{width:165px}
 .md-interest{width:563px}
@@ -223,6 +222,11 @@ ul.horizontal-align.sm-interest li:nth-child(5):after{content:"\0020";display:bl
 .md-interest ul.horizontal-align li:last-child{border-right:1px dashed #7f7e7e}
 .md-interest ul.horizontal-align li img{width:80px}
 .md-interest ul.horizontal-align li h3{font-size:0.9em}
+.lg-interest{width:748px}
+.lg-interest ul.horizontal-align li{width:186px}
+.lg-interest ul.horizontal-align li:nth-of-type(4n+1){border-left:none;}
+.lg-interest ul.horizontal-align li:nth-of-type(9){border-left:1px dashed #7f7e7e;}
+.lg-interest ul.horizontal-align li:nth-of-type(10){border-right:1px dashed #7f7e7e;}
 
 .ten.columns.talk-box{width:344px;}
 .talk-box div[id^='review-']{margin-bottom:5px;}
@@ -251,13 +255,13 @@ input.bn, input.bn:hover{width:50%}
 #multi-booking-col{height:680px;}
 ul#sabah_list{-webkit-column-count:1;-moz-column-count:1;column-count:1;}
 .pick-by-interest{border-top:none;}
-.md-interest, .pick-by-interest div:first-child{width:420px;margin:0}
+.md-interest, .lg-interest, .pick-by-interest div:first-child{width:420px;margin:0}
 .md-interest ul.horizontal-align{border-top:1px dashed #7f7e7e;margin-top:25px;}
-.md-interest ul.horizontal-align li{width:139px;}
-.md-interest ul.horizontal-align li img{width:88px}
-.md-interest ul.horizontal-align li h3{font-size:0.9em}
-.md-interest ul.horizontal-align li:nth-of-type(3n+1){border-left:none}
-.md-interest ul.horizontal-align li:last-child{border-left:1px dashed #7f7e7e;border-right:1px dashed #7f7e7e;}
+.md-interest ul.horizontal-align li, .lg-interest ul.horizontal-align li{width:139px;}
+.md-interest ul.horizontal-align li img, .lg-interest ul.horizontal-align li img{width:88px}
+.md-interest ul.horizontal-align li h3, .lg-interest ul.horizontal-align li h3{font-size:0.9em}
+.md-interest ul.horizontal-align li:nth-of-type(3n+1), .lg-interest ul.horizontal-align li:nth-of-type(3n+1){border-left:none}
+.md-interest ul.horizontal-align li:last-child, .lg-interest ul.horizontal-align li:last-child{border-left:1px dashed #7f7e7e;border-right:1px dashed #7f7e7e;}
 }
 
 /* small devices */
@@ -279,10 +283,10 @@ input.bn, input.bn:hover{width:100%}
 ul#sabah_list{-webkit-column-count:1;-moz-column-count:1;column-count:1;}
 ul.horizontal-align.sm-interest li img{width:56px}
 .pick-by-interest{border-top:none;}
-.md-interest, .pick-by-interest div:first-child{width:300px;margin:0}
+.md-interest, .lg-interest, .pick-by-interest div:first-child{width:300px;margin:0}
 .md-interest ul.horizontal-align{border-top:1px dashed #7f7e7e;margin-top:25px;}
-.md-interest ul.horizontal-align li{width:148px;}
-.md-interest ul.horizontal-align li:nth-of-type(odd){border-left:none}
+.md-interest ul.horizontal-align li, .lg-interest ul.horizontal-align li{width:148px;}
+.md-interest ul.horizontal-align li:nth-of-type(odd),.lg-interest ul.horizontal-align li:nth-of-type(odd){border-left:none}
 }
 
 /* small, medium devices */
