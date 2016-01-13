@@ -39,13 +39,16 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 .img_boxing h2{text-align:center;padding:15px 20px;font-family:'Oswald',sans-serif;text-transform:uppercase;color:#603d05;font-size:1.5em;height:52px;margin:0}
 .img_boxing .rating{border:1px dashed #d7d7d7;border-style:dashed none;padding:15px 0;width:49%;float:left;height:53px;}
 .img_boxing a .rating:nth-child(3){border-right: 1px dashed #d7d7d7;}
-.img_boxing .category{padding: 15px 0;}
+.img_boxing .category{padding: 15px 20px;}
 .img_boxing .category h6{text-transform: capitalize;}
 .img_boxing .category img, .img_boxing .rating img{width:20px;}
 
+.mt h1{font-size:1.8em}
+.mt h4{margin:0 0 15px;padding-bottom:10px;border-bottom:1px dashed #603d05;}
 .animated_box.ttm div:nth-child(2){height:413px; padding: 25px 30px 10px;}
 .animated_box.ttm div:nth-child(2) *{color:#fff;}
 .animated_box.ttm div:nth-child(2) p{font-size:0.85em;}
+.animated_box.mt div:nth-child(2){height:auto; padding: 25px 25px 10px;}
 .animated_box div:nth-child(2){background-color:#fff;padding:35px 40px;height:50px;background-image: url(../c/paper-bg-icon.png)}
 .animated_box div h2{text-align:center;text-transform:uppercase;line-height:1;font-family:'Oswald',sans-serif;margin:0;color:#efefef}
 .animated_box a div{overflow: hidden}

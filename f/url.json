@@ -43,6 +43,52 @@
 			"url": "/booking"
 		},
 		{
+			"title": "Travel by Interest",
+			"url": "/travel-by-interest",
+			"child":[
+				{
+					"title": "Jungle Trekking",
+					"url": "/travel-by-interest/jungle-trekking"				
+				},
+				{
+					"title": "Culture",
+					"url": "/travel-by-interest/culture"		
+				},
+				{
+					"title": "River Cruise",
+					"url": "/travel-by-interest/river-cruise"	
+				},
+				{
+					"title": "Day Trip",
+					"url": "/travel-by-interest/day-trip"			
+				},
+				{
+					"title": "Wildlife",
+					"url": "/travel-by-interest/wildlife"		
+				},
+				{
+					"title": "Water Sports",
+					"url": "/travel-by-interest/water-sports"				
+				},
+				{
+					"title": "Beach",
+					"url": "/travel-by-interest/beach"				
+				},
+				{
+					"title": "Climbing",
+					"url": "/travel-by-interest/climbing"			
+				},
+				{
+					"title": "Cave",
+					"url": "/travel-by-interest/cave"				
+				},
+				{
+					"title": "Accommodation",
+					"url": "/travel-by-interest/accommodation"				
+				}
+			]
+		},
+		{
 			"title": "Our Adventures",
 			"url": "",
 			"child":[

@@ -15,7 +15,7 @@
 			<div class="one columns"></div>
 
 			<div class="twelve columns twelve-six-col-res">
-				<div class="about_us_description" style="margin-bottom:40px">
+				<div class="about_us_description">
 					<h1>About Us</h1>
 					<h4>
 						Sticky Rice Travel is a boutique travel agency and operator that focuses on destinations in Malaysian Borneo. We plan personalised trips that explore sensitive ecosystems and indigenous cultures, all while adhering to our strict policy on low-impact, responsible travel. Our motto of meaningful adventures lives through our dedication to environmental conservation and the preservation of local communities and cultures. Join us as we pave the way for responsible travel in Malaysian Borneo!
@@ -42,24 +42,26 @@
 
 			<div class="six columns twelve-six-col-res">
 				<h1>Meet the Team</h1>
-				<a href="../meet-the-team#jessica-yew"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Jessica Yew"/></a>
-				<a href="../meet-the-team#charles-ryan"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Charles Ryan"/></a>
-				<a href="../meet-the-team#yanti-saman"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Yanti Saman"/></a>
-				<a href="../meet-the-team#aileen-paul"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Aileen Paul"/></a>
-				<a href="../meet-the-team#michelle-john"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Michelle John"/></a>
-				<a href="../meet-the-team#stasha-van-houten"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Stasha Van Houten"/></a>
-				<a href="../meet-the-team#carmen-lim"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Carmen Lim"/></a>
-				<a href="../meet-the-team#bedley-asun"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Bedley Asun"/></a>
-				<a href="../meet-the-team#razis-nasri"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Razis Nasri"/></a>
-				<a href="../meet-the-team#azreil-martin"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Azreil Martin"/></a>
-				<a href="../meet-the-team#siti-noraminah"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Siti Noraminah"/></a>
-				<a href="../meet-the-team#sarah-louise"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Sarah Louise"/></a>
-				<a href="../meet-the-team#muriel-koh"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Muriel Koh"/></a>
-				<a href="../meet-the-team#mariana-lim"><img src="./c/about-us/jessica.jpg" style="width:50%" alt="Mariana Lim"/></a>
-				<img src="./c/about-us/jessica.jpg" style="width:50%" alt="Charles Ryan"/></a>
-				<img src="./c/about-us/jessica.jpg" style="width:50%" alt="Charles Ryan"/></a>
-				<img src="./c/about-us/jessica.jpg" style="width:50%" alt="Charles Ryan"/></a>
-				<img src="./c/about-us/jessica.jpg" style="width:50%" alt="Charles Ryan"/></a>
+				<a href="../meet-the-team#jessica-yew"><img src="./c/the-team/icon/jessica.jpg" style="width:33.3%" title="Jessica Yew"/></a>
+				<a href="../meet-the-team#charles-ryan"><img src="./c/the-team/icon/charles-ryan.jpg" style="width:33.3%" title="Charles Ryan"/></a>
+				<a href="../meet-the-team#peter-lawrence"><img src="./c/the-team/icon/peter-lawrence.jpg" style="width:33.3%" title="Peter Lawrence"/></a>
+				<a href="../meet-the-team#aileen-paul"><img src="./c/the-team/icon/aileen-paul.jpg" style="width:33.3%" title="Aileen Paul"/></a>
+				<a href="../meet-the-team#michelle-john"><img src="./c/the-team/icon/michelle-john.jpg" style="width:33.3%" title="Michelle John"/></a>
+				<a href="../meet-the-team#stasha-van-houten"><img src="./c/the-team/icon/stasha-van-houten.jpg" style="width:33.3%" title="Stasha Van Houten"/></a>
+				<a href="../meet-the-team#carmen-lim"><img src="./c/the-team/icon/jessica.jpg" style="width:33.3%" title="Carmen Lim"/></a>
+				<a href="../meet-the-team#bedley-asun"><img src="./c/the-team/icon/jessica.jpg" style="width:33.3%" title="Bedley Asun"/></a>
+				<a href="../meet-the-team#razis-nasri"><img src="./c/the-team/icon/jessica.jpg" style="width:33.3%" title="Razis Nasri"/></a>
+				<a href="../meet-the-team#azreil-martin"><img src="./c/the-team/icon/azreil-martin.jpg" style="width:33.3%" title="Azreil Martin"/></a>
+				<a href="../meet-the-team#siti-noraminah"><img src="./c/the-team/icon/siti-noraminah.jpg" style="width:33.3%" title="Siti Noraminah"/></a>
+				<a href="../meet-the-team#sarah-louise"><img src="./c/the-team/icon/sarah-louise.jpg" style="width:33.3%" title="Sarah Louise"/></a>
+				<a href="../meet-the-team#muriel-koh"><img src="./c/the-team/icon/muriel-koh.jpg" style="width:33.3%" title="Muriel Koh"/></a>
+				<a href="../meet-the-team#mariana-lim"><img src="./c/the-team/icon/jessica.jpg" style="width:33.3%" title="Mariana Lim"/></a>
+				<a href="../meet-the-team#wendy-lim"><img src="./c/the-team/icon/wendy-lim.jpg" style="width:33.3%" title="Wendy Lim"/></a>
+				<a href="../meet-the-team#mike-michael"><img src="./c/the-team/icon/mike-michael.jpg" style="width:33.3%" title="Mike Michael"/></a>
+				<a href="../meet-the-team#john-alexier"><img src="./c/the-team/icon/john-alexier.jpg" style="width:33.3%" title="John Alexier"/></a>
+				<a href="../meet-the-team#eva-bella"><img src="./c/the-team/icon/eva-bella.jpg" style="width:33.3%" title="Eva Bella"/></a>
+				<a href="../meet-the-team#junaidi-onik"><img src="./c/the-team/icon/jessica.jpg" style="width:33.3%" title="Junaidi Onik"/></a>
+				<a href="../meet-the-team#yoksan"><img src="./c/the-team/icon/jessica.jpg" style="width:33.3%" title="Yoksan"/></a>
 
 				<div class="sm-button circle_center vc">
 					<a href="./meet-the-team" id="know-us">Get to know us</a>

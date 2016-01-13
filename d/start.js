@@ -34,6 +34,17 @@ $(function() {
 });
 
 $(function() {
+	var max_height = 0;
+	$('.same_height').each(function(){
+		$(this).find('section .mt div').each(function(){
+			max_height = Math.max(max_height, $(this).height());
+		});
+		$(this).find('.mt div').css({height: max_height});
+		max_height = 0;
+	});
+});
+
+$(function() {
 	$('.ei-slider-v2').css({height: 895});
 	$('.hd .big_title h1').after('<div class="short_line"></div>');
 	$('.hd .big_title p:nth-child(4)').css({"paddingTop": 20}); 
