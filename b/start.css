@@ -6,6 +6,7 @@ table{border-collapse:collapse;border-spacing:0}
 body{background:url(../c/bg.jpg);background:url(../c/mp-background-shading.png) center top,url(../c/bg.jpg);font-family:arial;color:#000;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%}
 h1{padding-bottom: 15px;font-family: 'Oswald', sans-serif;text-transform: uppercase;color: #603d05;font-size: 2em;line-height: 1}
 h2, h6, h3, h4{color:#3a3a3a;font-family:'Sanchez',arial,helvetica,sans-serif;font-weight:normal;}
+h4{font-size:1em;line-height:1.5}
 h1 a, h2  a{font-weight:inherit}
 h2{font-size:1.5em;line-height:26px;margin-bottom:15px}
 h6{font-size:14px;line-height:18px}

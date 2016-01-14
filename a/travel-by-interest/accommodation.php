@@ -21,8 +21,8 @@
 
 			<div class="eleven columns big_title interest-col">
 				<h1>Accommodation</h1>
-				<h4 style="font-size:1em;line-height:1.5">
-					What started as a home-based work with only 2 employees, Sticky Rice Travel has now grown bigger with an office located in the heart of the city in Sabah and an amazing set of team working under it. 
+				<h4>
+					Here are our selections of accommodations around Sabah and Sarawak. We endorse these accommodations based on their quality of service, facilities and their work ethics. 
 				</h4>
 				<div class="clear"></div>
 			</div>		

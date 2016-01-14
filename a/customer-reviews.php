@@ -10,7 +10,7 @@
 	<nav></nav><section>	
 		<div class="container hd">
 
-			<?php include "sub-navi.php" ?>
+			<?php include "./helper/sub-navi.php" ?>
 
 			<div class="two columns"></div>
 

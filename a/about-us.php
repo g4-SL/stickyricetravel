@@ -10,7 +10,7 @@
 	<nav></nav><section>	
 		<div class="container">
 
-			<?php include "sub-navi.php" ?>
+			<?php include "./helper/sub-navi.php" ?>
 
 			<div class="one columns"></div>
 
@@ -40,7 +40,7 @@
 				</p>
 			</div>
 
-			<div class="six columns twelve-six-col-res">
+			<div class="six columns mt-icon">
 				<h1>Meet the Team</h1>
 				<a href="../meet-the-team#jessica-yew"><img src="./c/the-team/icon/jessica.jpg" style="width:33.3%" title="Jessica Yew"/></a>
 				<a href="../meet-the-team#charles-ryan"><img src="./c/the-team/icon/charles-ryan.jpg" style="width:33.3%" title="Charles Ryan"/></a>
@@ -61,7 +61,7 @@
 				<a href="../meet-the-team#john-alexier"><img src="./c/the-team/icon/john-alexier.jpg" style="width:33.3%" title="John Alexier"/></a>
 				<a href="../meet-the-team#eva-bella"><img src="./c/the-team/icon/eva-bella.jpg" style="width:33.3%" title="Eva Bella"/></a>
 				<a href="../meet-the-team#junaidi-onik"><img src="./c/the-team/icon/jessica.jpg" style="width:33.3%" title="Junaidi Onik"/></a>
-				<a href="../meet-the-team#yoksan"><img src="./c/the-team/icon/jessica.jpg" style="width:33.3%" title="Yoksan"/></a>
+				<a href="../meet-the-team#yoksan-julbid"><img src="./c/the-team/icon/jessica.jpg" style="width:33.3%" title="Yoksan bin Julbid"/></a>
 
 				<div class="sm-button circle_center vc">
 					<a href="./meet-the-team" id="know-us">Get to know us</a>
@@ -79,7 +79,7 @@
 			<div class="one columns"></div>
 
 			<div class="six columns animated_box ttm">
-				<img src="./c/about-us/jessica.jpg" style="width:100%;display:block"/>
+				<img src="./c/adventures/customer-review-1.jpg" style="width:100%;display:block"/>
 				<div>
 					<h3>Lijnos</h3>
 					<p class="show-desktop"><i>
@@ -92,7 +92,7 @@
 			</div>
 
 			<div class="six columns animated_box ttm">
-				<img src="./c/about-us/jessica.jpg" style="width:100%;display:block"/>
+				<img src="./c/adventures/customer-review-2.jpg" style="width:100%;display:block"/>
 				<div>
 					<h3>Cecile Schneider</h3>
 					<p class="show-desktop"><i>
@@ -105,7 +105,7 @@
 			</div>
 
 			<div class="six columns animated_box ttm">
-				<img src="./c/about-us/jessica.jpg" style="width:100%;display:block"/>
+				<img src="./c/adventures/customer-review-3.jpg" style="width:100%;display:block"/>
 				<div>
 					<h3>Dario M</h3>
 					<p class="show-desktop"><i>
@@ -120,7 +120,7 @@
 			<div class="clear"></div>
 
 			<div class="sm-button circle_center vc">
-				<a href="./customer-reviews">Read More</a>
+				<a href="./customer-reviews">Read More Reviews</a>
 			</div>
 
 			<div class="clear"></div>

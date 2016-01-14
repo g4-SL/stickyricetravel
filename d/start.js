@@ -42,6 +42,14 @@ $(function() {
 		$(this).find('.mt div').css({height: max_height});
 		max_height = 0;
 	});
+
+	$('.destination-intro .horizontal-align').each(function(){
+		$(this).find('li h4').each(function(){
+			max_height = Math.max(max_height, $(this).height());
+		});
+		$(this).find('li h4').css({height: max_height+24});
+		max_height = 0;
+	});
 });
 
 $(function() {

@@ -170,9 +170,11 @@
 
 				<div class="eighteen columns circle_center">
 					<h1>Bringing you meaningful adventures</h1>
-					<h4 style="line-height:1.5">What started as a home-based work with only 2 employees, Sticky Rice Travel has now grown bigger with an office located in the heart of the city in Sabah and an amazing set of team working under it. Our travel consultants work around the clock to accommodate all of our clients' needs and are always there from the start of the planning to the last day of the trip. Our travel guides are highly experienced and opinionated on all things related to Borneo and will go out their way to make sure our clients have a memorable stay here at Borneo. We believe that Sticky Rice Travel wouldn't be where it is at now without our incredible team.</h4>
+					<h4>
+						As travellers ourselves, we love to travel and explore off-the-beaten tracks. Many travellers have come to us with the same zeal and interest to explore the least travelled part of Borneo and thus, Sticky Rice Travel was formed. Our knowledge of travel is based on our own personal experiences and our guides are one of the best in the business. Our work does not stop there as we are always out and about to discover new trails. We are also a firm believer on community initiation and sustainability. We want to deliver travel packages that are not only memorable for its adventurous aspect but also one that would leave a positive mark for both the Bornean community and travellers themselves.
+					</h4>
 					<div class="sm-button circle_center">
-						<a href="./customer-reviews">Get to know us</a>
+						<a href="./about-us">Get to know us</a>
 					</div>
 				</div>
 

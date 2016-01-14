@@ -21,8 +21,8 @@
 
 			<div class="eleven columns big_title interest-col">
 				<h1>Culture</h1>
-				<h4 style="font-size:1em;line-height:1.5">
-					What started as a home-based work with only 2 employees, Sticky Rice Travel has now grown bigger with an office located in the heart of the city in Sabah and an amazing set of team working under it. Our travel consultants work around the clock to accommodate all of our clients' needs and are always there from the start of the planning to the last day of the trip. Our travel guides are highly experienced and opinionated on all things related to Borneo and will go out their way to make sure our clients have a memorable stay here at Borneo. We believe that Sticky Rice Travel wouldn't be where it is at now without our incredible team.
+				<h4>
+					Borneo is undeniably rich with culture. Both Sabah and Sarawak are home to diverse indigenous races and have a long tribal history. They have passed the test of time and are still strongly practised. 
 				</h4>
 			</div>	
 			

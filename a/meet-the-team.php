@@ -10,14 +10,14 @@
 	<nav></nav><section>	
 		<div class="container">
 
-			<?php include "sub-navi.php" ?>
+			<?php include "./helper/sub-navi.php" ?>
 
 			<div class="one columns"></div>
 
 			<div class="eighteen columns">
 				<h1>Our Team</h1>
 				<div class="short_line"></div>
-				<h4 style="font-size:1em;line-height:1.5">
+				<h4>
 					What started as a home-based work with only 2 employees, Sticky Rice Travel has now grown bigger with an office located in the heart of the city in Sabah and an amazing set of team working under it. Our travel consultants work around the clock to accommodate all of our clients' needs and are always there from the start of the planning to the last day of the trip. Our travel guides are highly experienced and opinionated on all things related to Borneo and will go out their way to make sure our clients have a memorable stay here at Borneo. We believe that Sticky Rice Travel wouldn't be where it is at now without our incredible team.
 				</h4>
 
@@ -70,7 +70,7 @@
 							<h1>Peter Lawrence</h1>
 							<h4>Sales Director</h4>
 							<p>
-								“The more you know, the more you don’t know”, is the irony that Yanti has come to realize over her travels. It’s what fuels her to explore, learn and discover more near and far. She completed her circuit of Indo-China in 2015, and is currently in pursuit of trying her hand on a variety of new hobbies while planning her next travel destination. She enjoys the serenity of diving, the satisfaction of finishing a hike and is extremely fond of Vietnamese coffee.
+								...
 							</p>
 						</div>
 					</div>
@@ -141,7 +141,7 @@
 							<h1>John Alexier</h1>
 							<h4>Acountant</h4>
 							<p>
-								Our most energetic colleague who packs a mean right hook and an enormous smile Nana comes to us after a career in publishing. Regularly traveling across Borneo she loves nothing more than visiting new lands and making friends. A master storyteller, she charms the young and old alike with the tales of her misadventures around the world. A quiet weekend for her involves making tomato &amp; cheese sandwiches while drinking prodigious amounts of gin &amp; tonic with twenty of her closest friends. Nana mentors the new consultants through their perilous journey in visiting and learning about all Borneo has to offer.
+								...
 							</p>
 						</div>
 					</div>
@@ -218,7 +218,7 @@
 							<h1>Wendy Lim</h1>
 							<h4>Travel Consultant</h4>
 							<p>
-								Our most energetic colleague who packs a mean right hook and an enormous smile Nana comes to us after a career in publishing. Regularly traveling across Borneo she loves nothing more than visiting new lands and making friends. A master storyteller, she charms the young and old alike with the tales of her misadventures around the world. A quiet weekend for her involves making tomato &amp; cheese sandwiches while drinking prodigious amounts of gin &amp; tonic with twenty of her closest friends. Nana mentors the new consultants through their perilous journey in visiting and learning about all Borneo has to offer.
+								...
 							</p>
 						</div>
 					</div>
@@ -288,14 +288,14 @@
 			<div class="one columns"></div>
 
 			<div class="same_height">
-				<section id="yoksan">
+				<section id="yoksan-julbid">
 					<div class="six columns animated_box mt">
 						<img src="./c/about-us/jessica.jpg" style="width:100%"/>
 						<div>
-							<h1>Yoksan</h1>
+							<h1>Yoksan bin Julbid</h1>
 							<h4>Travel Guide</h4>
 							<p>
-								The ever-illusive Atteh is rarely seen around the quarters of Sticky Rice Office, but spends most of his days guiding within the rainforest of Danum Valley. A part of the Sticky Rice team since the beginning, he’s enthusiastic about Borneo’s wildlife, landscape and people. Whether it’s a ukulele or his camera in hand, Atteh has an exciting spirit about him that is easily contagious.
+								...
 							</p>
 						</div>
 					</div>
@@ -308,7 +308,7 @@
 							<h1>Junaidi Onik</h1>
 							<h4>Travel Guide</h4>
 							<p>
-								Coming from a long line of guides in his Family, Azriel hails from Kiau Village on the foothills of Mt Kinabalu where most of the mountain guides are from. His first ascent on the mighty mountain was at the age of 12 as most of his friends began climbing as paid porters. Apart from being a driver and nature guide, he is quite the gardener, often selling his homegrown vegetables to earn extra money in his teens and currently has a nice patch of golden pineapples back home.
+								...
 							</p>
 						</div>
 					</div>
@@ -321,7 +321,7 @@
 							<h1>Eva Bella</h1>
 							<h4>Intern</h4>
 							<p>
-								Coming from a long line of guides in his Family, Azriel hails from Kiau Village on the foothills of Mt Kinabalu where most of the mountain guides are from. His first ascent on the mighty mountain was at the age of 12 as most of his friends began climbing as paid porters. Apart from being a driver and nature guide, he is quite the gardener, often selling his homegrown vegetables to earn extra money in his teens and currently has a nice patch of golden pineapples back home.
+								...
 							</p>
 						</div>
 					</div>

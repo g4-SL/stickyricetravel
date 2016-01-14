@@ -45,8 +45,9 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 
 .mt h1{font-size:1.8em}
 .mt h4{margin:0 0 15px;padding-bottom:10px;border-bottom:1px dashed #603d05;}
-.animated_box.ttm div:nth-child(2){height:413px; padding: 25px 30px 10px;}
+.animated_box.ttm div:nth-child(2){height:413px; padding: 10px 30px;}
 .animated_box.ttm div:nth-child(2) *{color:#fff;}
+.animated_box.ttm div:nth-child(2) h3{border-bottom:1px dashed #d7d7d7;padding-bottom:15px}
 .animated_box.ttm div:nth-child(2) p{font-size:0.85em;}
 .animated_box.mt div:nth-child(2){height:auto; padding: 25px 25px 10px;}
 .animated_box div:nth-child(2){background-color:#fff;padding:35px 40px;height:50px;background-image: url(../c/paper-bg-icon.png)}
@@ -115,7 +116,7 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 	.img-adv{display: none}
 	.animated_box a div{width:340px;height:255px;}
 	.animated_box a img{-webkit-transition: all 0.2s linear; -moz-transition: all 0.2s linear; -ms-transition: all 0.2s linear; -o-transition: all 0.2s linear; transition: all 0.2s linear;}
-	.animated_box a img:hover{-webkit-transform:scale(1.5); -moz-transform:scale(1.5); -ms-transform:scale(1.5); -o-transform:scale(1.5); transform:scale(1.5);}
+	.animated_box a img:not(.no-animation):hover{-webkit-transform:scale(1.5); -moz-transform:scale(1.5); -ms-transform:scale(1.5); -o-transform:scale(1.5); transform:scale(1.5);}
 	.contact-form span.label{width:100px;font-size:1.5em;}
 	.contact-form .input{padding:15px;width:70%;margin-left:100px;height:25px;}
 	ul.list1 li{float:left;width:50%;}
