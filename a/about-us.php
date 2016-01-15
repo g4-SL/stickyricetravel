@@ -49,7 +49,7 @@
 				<a href="../meet-the-team#michelle-john"><img src="./c/the-team/icon/michelle-john.jpg" style="width:33.3%" title="Michelle John"/></a>
 				<a href="../meet-the-team#stasha-van-houten"><img src="./c/the-team/icon/stasha-van-houten.jpg" style="width:33.3%" title="Stasha Van Houten"/></a>
 				<a href="../meet-the-team#carmen-lim"><img src="./c/the-team/icon/jessica.jpg" style="width:33.3%" title="Carmen Lim"/></a>
-				<a href="../meet-the-team#bedley-asun"><img src="./c/the-team/icon/jessica.jpg" style="width:33.3%" title="Bedley Asun"/></a>
+				<a href="../meet-the-team#bedley-asun"><img src="./c/the-team/icon/bedley-asun.jpg" style="width:33.3%" title="Bedley Asun"/></a>
 				<a href="../meet-the-team#razis-nasri"><img src="./c/the-team/icon/jessica.jpg" style="width:33.3%" title="Razis Nasri"/></a>
 				<a href="../meet-the-team#azreil-martin"><img src="./c/the-team/icon/azreil-martin.jpg" style="width:33.3%" title="Azreil Martin"/></a>
 				<a href="../meet-the-team#siti-noraminah"><img src="./c/the-team/icon/siti-noraminah.jpg" style="width:33.3%" title="Siti Noraminah"/></a>

@@ -70,7 +70,7 @@
 							<h1>Peter Lawrence</h1>
 							<h4>Sales Director</h4>
 							<p>
-								...
+								Someone who is always on the go, Peter is keen to experience whatever life has to offer. Prior to Sticky Rice Travel, he has spend several years at Cambodia and travelled to many more places before that. He is only a traveler by name as he likes immersing himself in the culture of the place he resides at. Fluent at Vietnamese and is on the way mastering the Malay language, he is definitely not a man with few words, or should we say few languages, under his belt. Peter is the one to look for anything concerning the sales of Sticky Rice Travel.
 							</p>
 						</div>
 					</div>
@@ -83,7 +83,7 @@
 							<h1>Michelle John</h1>
 							<h4>Operation &amp; Logistics</h4>
 							<p>
-								As fair as a porcelain doll, Michelle is the office fair maiden. Always out shopping during her lunch hours, she loves fashion and having reasons to get all dressed up. But not so much a maiden in distress, she loves being outdoors on hikes, sharing Aileen’s love for marathons. She dreams of visiting Paris some day, the city of love, light and hometown of her grandparents. Handling all our operations, she ensures that you get from point A to B without any problems.
+								As fair as a porcelain doll, Michelle is the office fair maiden. She is the definition of a sophisticated lady as she loves fashion,having reasons to get all dressed up and is prim and proper at all times. But not so much a maiden in distress, she loves being outdoors on hikes, sharing Aileen’s love for marathons. She dreams of visiting Paris some day, the city of love, light and hometown of her grandparents. Handling all our operations, she ensures that you get from point A to B without any problems.
 							</p>
 						</div>
 					</div>
@@ -96,7 +96,7 @@
 							<h1>Sarah Louise</h1>
 							<h4>IT Administrator</h4>
 							<p>
-								Sarah is the new kid in the office. Recently returning home after breaking hearts from Alaska to Argentina Sarah channels Dale Earnhardt behind the wheel, just don't tell her parents she borrowed their car. An undercover daredevil she recently jumped off a waterfall and sank like a stone, swim lessons are next on her agenda. Solving IT problems that baffle legions of nerds Sarah swoops in to save the day when the website goes down.
+								Recently returning home after breaking hearts from Alaska to Argentina Sarah channels Dale Earnhardt behind the wheel, just don't tell her parents she borrowed their car. An undercover daredevil she recently jumped off a waterfall and sank like a stone, swim lessons are next on her agenda. Solving IT problems that baffle legions of nerds Sarah swoops in to save the day when the website goes down.
 							</p>
 						</div>
 					</div>
@@ -205,7 +205,7 @@
 							<h1>Muriel Koh</h1>
 							<h4>Travel Consultant</h4>
 							<p>
-								Glad to lend a helping hand or a supportive shoulder Muriel is always up for an adventure. She is a sweetheart, just don't play cards with her unless you already made rent. A wonderful mother, she and her daughter often come home covered in mud after playing all day together. After high season Muriel unwinds by watching sunsets over Bali with a stack of books and a case of wine. Muriel can usually be found putting together the perfect holiday in Borneo for customers from around the world. 
+								Glad to lend a helping hand or a supportive shoulder Muriel is always up for an adventure. She is a sweetheart, just don't play cards with her unless you already made rent. A wonderful mother, she and her daughter often come home covered in mud after playing all day together. After high season Muriel unwinds by watching sunsets over Bali with a stack of books and a case of wine. Muriel can usually be found putting together the perfect holiday in Borneo for customers from around the world.
 							</p>
 						</div>
 					</div>
@@ -218,7 +218,7 @@
 							<h1>Wendy Lim</h1>
 							<h4>Travel Consultant</h4>
 							<p>
-								...
+								Although one of the new ones in the office, Wendy is very comfortable around her peers. She brings her A-game and positivity to the office every morning with her infectious laughter that would surely put a smile on your face. Occasionally, Wendy can be seen babying the younger ones in the office by making hot Milo drinks. She is a woman of steel as she is always able to take on whatever tasks that are given to her. 
 							</p>
 						</div>
 					</div>
@@ -226,7 +226,7 @@
 
 				<section id="bedley-asun">
 					<div class="six columns animated_box mt">
-						<img src="./c/about-us/jessica.jpg" style="width:100%"/>
+						<img src="./c/the-team/bedley-asun.jpg" style="width:100%"/>
 						<div>
 							<h1>Bedley Asun</h1>
 							<h4>Travel Guide</h4>
@@ -276,7 +276,7 @@
 							<h1>Mike Michael</h1>
 							<h4>Travel Guide</h4>
 							<p>
-								Our most energetic colleague who packs a mean right hook and an enormous smile Nana comes to us after a career in publishing. Regularly traveling across Borneo she loves nothing more than visiting new lands and making friends. A master storyteller, she charms the young and old alike with the tales of her misadventures around the world. A quiet weekend for her involves making tomato &amp; cheese sandwiches while drinking prodigious amounts of gin &amp; tonic with twenty of her closest friends. Nana mentors the new consultants through their perilous journey in visiting and learning about all Borneo has to offer.
+								...
 							</p>
 						</div>
 					</div>
@@ -316,12 +316,12 @@
 
 				<section id="eva-bella">
 					<div class="six columns animated_box mt">
-						<img src="./c/the-team/azreil-martin.jpg" style="width:100%"/>
+						<img src="./c/the-team/eva-bella.jpg" style="width:100%"/>
 						<div>
 							<h1>Eva Bella</h1>
 							<h4>Intern</h4>
 							<p>
-								...
+								Eva, our incredible intern in the office. She is always helpful and ready to go to help others in the office. Eva is not new to the tourism business as she has had similar work experience at another company. Regardless of that, she still keeps an open mind and her peers find her easy to work with. From handling our social media presence to booking reservations, Eva can do simply anything!
 							</p>
 						</div>
 					</div>

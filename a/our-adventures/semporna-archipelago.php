@@ -32,7 +32,7 @@
 			
 			<div class="clear"></div>
 
-			<div class="four columns display"></div>
+			<div class="four columns display white-space-listing"></div>
 
 			<div class="product-listing">
 			</div>

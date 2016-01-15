@@ -74,11 +74,6 @@ var currentYear = (new Date).getFullYear();
 
 $(document).ready(function(){	
 
-	// about us description horizontally aligned with image
-	if($(window).width() > 767){
-		$(".about_us_description").css({paddingTop: (parseInt($(".about_us").height(),10) + parseInt($(".about_us").css('padding-top')) - parseInt($(".about_us_description p").height(),10))/2})
-	}
-
 	$('.fmenu').mobileMenu();
 
 });

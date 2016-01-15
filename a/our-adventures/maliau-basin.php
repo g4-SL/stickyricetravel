@@ -104,7 +104,7 @@
 										<tr>
 											<th><img src="/c/day3.png" alt="Day 3 - Day Three" /></th>
 											<td>
-												Wake up early for breakfast and at 8am, depart to Maliau Falls on a 4.8km hike per way (average duration 2-3hours). Spend the entire afternoon at Maliau Falls, the most famed and undispupted jewel of all the waterfalls in the Maliau Basin – swim, eat lunch and take in the beautiful surroundings. At about 2pm, return to Ginseng Camp on the same trail, arriving back before dark. Relax and enjoy dinner before lights out.			
+												Wake up early for breakfast and at 8am, depart to Maliau Falls on a 4.8km hike per way (average duration 2-3hours). Spend the entire afternoon at Maliau Falls, the most famed and undisputed jewel of all the waterfalls in the Maliau Basin – swim, eat lunch and take in the beautiful surroundings. At about 2pm, return to Ginseng Camp on the same trail, arriving back before dark. Relax and enjoy dinner before lights out.			
 											</td>
 										</tr>
 										<tr>
@@ -146,7 +146,7 @@
 										<tr>
 											<th><img src="/c/day4.png" alt="Day 4 - Day Four" /></th>
 											<td>
-												Wake up early for breakfast and at 8am, depart to Maliau Falls on a 4.8km hike per way (average duration 2-3hours). Spend the entire afternoon at Maliau Falls, the most famed and undispupted jewel of all the waterfalls in the Maliau Basin – swim, eat lunch and take in the beautiful surroundings. At about 2pm, return to Ginseng Camp on the same trail, arriving back before dark. Relax and enjoy dinner before lights out.
+												Wake up early for breakfast and at 8am, depart to Maliau Falls on a 4.8km hike per way (average duration 2-3hours). Spend the entire afternoon at Maliau Falls, the most famed and undisputed jewel of all the waterfalls in the Maliau Basin – swim, eat lunch and take in the beautiful surroundings. At about 2pm, return to Ginseng Camp on the same trail, arriving back before dark. Relax and enjoy dinner before lights out.
 											</td>
 										</tr>	
 										<tr>

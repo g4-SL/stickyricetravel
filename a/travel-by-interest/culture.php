@@ -1,7 +1,7 @@
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
-				<img src="c/large/www-adventures-danum-valley-dvfc.jpg" alt="Sun bear, Malay bear, honey bear, dog bear" />
+				<img src="c/large/www-travel-by-interest-culture.jpg" alt="" />
 			</li>
 		</ul>
 	</div>

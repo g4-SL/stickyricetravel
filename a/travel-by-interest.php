@@ -1,7 +1,7 @@
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
-				<img src="c/large/www-adventures-danum-valley-dvfc.jpg" alt="Sun bear, Malay bear, honey bear, dog bear" />
+				<img src="c/large/www-travel-by-interest.jpg" alt="" />
 			</li>
 		</ul>
 	</div>
@@ -13,8 +13,8 @@
 
 			<div class="sixteen columns big_title">
 				<h1>Travel by Interest</h1>
-				<h4 style="font-size:1em;line-height:1.5">
-					What started as a home-based work with only 2 employees, Sticky Rice Travel has now grown bigger with an office located in the heart of the city in Sabah and an amazing set of team working under it. Our travel consultants work around the clock to accommodate all of our clients' needs and are always there from the start of the planning to the last day of the trip. Our travel guides are highly experienced and opinionated on all things related to Borneo and will go out their way to make sure our clients have a memorable stay here at Borneo. We believe that Sticky Rice Travel wouldn't be where it is at now without our incredible team.
+				<h4>
+					Travellers usually come to Borneo for specific reasons. Whether it be trekking the least explored virgin rainforest, spot never-seen-before wildlife in their most natural setting, conquer mountains with summit at unimaginable heights, or just lounge on a white sandy beach with a stunning view of the blue ocean, we can arrange a travel itinerary that satisfies all your interests. Select categories that you're interested in and browse through our itineraries that we have carefully arranged to give you the best of the best in Borneo.
 				</h4>
 			</div>	
 			

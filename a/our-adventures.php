@@ -144,7 +144,7 @@
 			<div class="one columns"></div>
 
 			<div class="eighteen columns">
-				<h1>Special Requests</h1>
+				<h1 style="margin-top:15px">Special Requests</h1>
 				<div class="short_line"></div>
 				<h4>
 					We are fully aware that our itineraries may not fit all your interests, budget and/or schedule. These are several special requests that we have encountered throughout the years and of course, you are not limited to these choices. Kindly let us know and we can arrange one that will be a perfect fit for your travel at Borneo.

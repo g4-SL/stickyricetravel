@@ -509,6 +509,63 @@ if($p[1] == "our-adventures" && $p[2] == "mountain-to-sea") {
 	$d = "Book amazing borneo holidays with Sticky Rice. A trip to Maliau Basin is truly adventurous. With over 2000 plants and animals. Meaningful Adventures!";			
 }
 
+// TRAVEL BY INTEREST
+
+if($p[1] == "travel-by-interest") {
+	$t = "Travel by Interest";
+	$d = "Book amazing borneo holidays with Sticky Rice. A trip to Maliau Basin is truly adventurous. With over 2000 plants and animals. Meaningful Adventures!";			
+}
+
+if($p[1] == "travel-by-interest" && $p[2] == "jungle-trekking") {
+	$t = "Jungle Trekking | Travel by Interest";
+	$d = "Book amazing borneo holidays with Sticky Rice. A trip to Maliau Basin is truly adventurous. With over 2000 plants and animals. Meaningful Adventures!";			
+}
+
+if($p[1] == "travel-by-interest" && $p[2] == "culture") {
+	$t = "Culture | Travel by Interest";
+	$d = "Book amazing borneo holidays with Sticky Rice. A trip to Maliau Basin is truly adventurous. With over 2000 plants and animals. Meaningful Adventures!";			
+}
+
+if($p[1] == "travel-by-interest" && $p[2] == "river-cruise") {
+	$t = "River Cruise | Travel by Interest";
+	$d = "Book amazing borneo holidays with Sticky Rice. A trip to Maliau Basin is truly adventurous. With over 2000 plants and animals. Meaningful Adventures!";			
+}
+
+if($p[1] == "travel-by-interest" && $p[2] == "day-trip") {
+	$t = "Day Trip | Travel by Interest";
+	$d = "Book amazing borneo holidays with Sticky Rice. A trip to Maliau Basin is truly adventurous. With over 2000 plants and animals. Meaningful Adventures!";			
+}
+
+if($p[1] == "travel-by-interest" && $p[2] == "wildlife") {
+	$t = "Wildlife | Travel by Interest";
+	$d = "Book amazing borneo holidays with Sticky Rice. A trip to Maliau Basin is truly adventurous. With over 2000 plants and animals. Meaningful Adventures!";			
+}
+
+if($p[1] == "travel-by-interest" && $p[2] == "water-sports") {
+	$t = "Water Sports | Travel by Interest";
+	$d = "Book amazing borneo holidays with Sticky Rice. A trip to Maliau Basin is truly adventurous. With over 2000 plants and animals. Meaningful Adventures!";			
+}
+
+if($p[1] == "travel-by-interest" && $p[2] == "beach") {
+	$t = "Beach | Travel by Interest";
+	$d = "Book amazing borneo holidays with Sticky Rice. A trip to Maliau Basin is truly adventurous. With over 2000 plants and animals. Meaningful Adventures!";			
+}
+
+if($p[1] == "travel-by-interest" && $p[2] == "climbing") {
+	$t = "Climbing | Travel by Interest";
+	$d = "Book amazing borneo holidays with Sticky Rice. A trip to Maliau Basin is truly adventurous. With over 2000 plants and animals. Meaningful Adventures!";			
+}
+
+if($p[1] == "travel-by-interest" && $p[2] == "cave") {
+	$t = "Cave | Travel by Interest";
+	$d = "Book amazing borneo holidays with Sticky Rice. A trip to Maliau Basin is truly adventurous. With over 2000 plants and animals. Meaningful Adventures!";			
+}
+
+if($p[1] == "travel-by-interest" && $p[2] == "accommodation") {
+	$t = "Accommodation | Travel by Interest";
+	$d = "Book amazing borneo holidays with Sticky Rice. A trip to Maliau Basin is truly adventurous. With over 2000 plants and animals. Meaningful Adventures!";			
+}
+
 //
 
 
