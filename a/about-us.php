@@ -60,8 +60,8 @@
 				<a href="../meet-the-team#mike-michael"><img src="./c/the-team/icon/mike-michael.jpg" style="width:33.3%" title="Mike Michael"/></a>
 				<a href="../meet-the-team#john-alexier"><img src="./c/the-team/icon/john-alexier.jpg" style="width:33.3%" title="John Alexier"/></a>
 				<a href="../meet-the-team#eva-bella"><img src="./c/the-team/icon/eva-bella.jpg" style="width:33.3%" title="Eva Bella"/></a>
-				<a href="../meet-the-team#junaidi-onik"><img src="./c/the-team/icon/jessica.jpg" style="width:33.3%" title="Junaidi Onik"/></a>
-				<a href="../meet-the-team#yoksan-julbid"><img src="./c/the-team/icon/jessica.jpg" style="width:33.3%" title="Yoksan bin Julbid"/></a>
+				<a href="../meet-the-team#junaidi-onik"><img src="./c/the-team/icon/junaidi-onik.jpg" style="width:33.3%" title="Junaidi Onik"/></a>
+				<a href="../meet-the-team#yoksan-julbid"><img src="./c/the-team/icon/yoksan-julbid.jpg" style="width:33.3%" title="Yoksan bin Julbid"/></a>
 
 				<div class="sm-button circle_center vc">
 					<a href="./meet-the-team" id="know-us">Get to know us</a>

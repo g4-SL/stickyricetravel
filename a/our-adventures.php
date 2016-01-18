@@ -47,7 +47,7 @@
 				
 				<div class="clear"></div>
 
-				<div class="one columns white-space-listing"></div>
+				<div class="one columns white-space-listing" style="height:890px"></div>
 
 				<div class="category-listing">
 					<div class="sm columns animated_box">
@@ -175,7 +175,7 @@
 
 				<div class="clear"></div>
 
-				<div class="one columns white-space-listing"></div>
+				<div class="one columns white-space-listing" style="height:310px"></div>
 
 				<div class="category-listing">
 					<div class="sm columns animated_box">
@@ -231,7 +231,7 @@
 
 				<div class="clear"></div>
 
-				<div class="one columns white-space-listing"></div>
+				<div class="one columns white-space-listing" style="height:528px"></div>
 
 				<div class="category-listing">
 					<div class="sm columns animated_box">
@@ -423,10 +423,14 @@ $(document).ready(function() {
 
 		function clickEvent(e) {
 			if (e.target.feature.geometry.type == "Polygon" && e.target.feature.properties.title == "Sarawak"){
-				document.location.href = "./sarawak";
+			    $('html, body').animate({
+			        scrollTop: $('#sarawak').offset().top
+			    }, 500);
 			}
 			else if (e.target.feature.geometry.type == "Polygon" && e.target.feature.properties.title == "Sabah"){
-				document.location.href = "./sabah";
+			    $('html, body').animate({
+			        scrollTop: $('#sabah').offset().top
+			    }, 500);
 			}
 			else if (e.target.feature.geometry.type == "Point"){
 				map.setView([e.latlng.lat+3, e.latlng.lng], 7);

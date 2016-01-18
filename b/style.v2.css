@@ -40,22 +40,12 @@ input.bn, input.bn:hover{text-align: left; font-family: 'Oswald'; font-size: 1.5
 .brown_border{border-bottom: 5px solid #603d05;text-align:center;margin-bottom: 20px;}
 .short_line{border-bottom: 5px solid #603d05; width:100px;margin:10px 0;}
 .brc{list-style-type: none;margin:0;padding:0;}
-.brc li{display: inline-block;margin-right:10px;font-family: 'Sanchez', sans-serif;font-size: 0.7em;text-transform: uppercase;}
+.brc li{display: inline-block;margin-right:10px;font-family: 'Sanchez', sans-serif;font-size:0.65em;text-transform: uppercase;}
 .brc li:last-child{font-weight: bold}
 .brc li:not(:last-child):after{margin-left:10px;content: '/';font-size: 1.2em}
 .brc li a{text-decoration: none;color: #414141}
 .brc li a:hover{color: #724806}
 
-.parallax{background-attachment:fixed;background-position:center center;background-size:cover;background-repeat:no-repeat;width:100%;color:#fff;padding:0!important;position:relative;overflow:hidden}
-#sabah_bg_1{background-image:url(../c/large/www-adventures-sabah.jpg);z-index:-1;top:0;}
-#sabah_bg_2{background-image:url(../c/large/www-adventures-sabah-sunset.jpg);background-position: center center;z-index:-2;bottom:0;}
-#others-intro{background-image:url(../c/large/www-adventures-others.jpg);height:80vh !important;text-align:center;}
-#multi-trips-intro{background-image:url(../c/large/www-adventures-multi-trips.jpg);height:80vh !important;text-align:center;}
-#multi-trips-intro .container .sixteen.columns, #others-intro .container .sixteen.columns{background-color:rgba(0,0,0,0.4)}
-#others-intro *, #multi-trips-intro *{color:#fff}
-#others-intro h2, #multi-trips-intro h2{font-weight: bold;font-size: 1.5em}
-
-.fun_column .front-btn a{border:3px solid #fff;color:#fff;background: url(../c/btn-arrow-white.png) no-repeat 97% 50%;line-height:1;}
 .vertical_center{display: flex;flex-direction: column;justify-content: center;}
 #base .front-btn{margin:20px 0 35px;}
 
@@ -140,7 +130,7 @@ ul.horizontal-align li:hover img{-webkit-filter: grayscale(50%) !important; filt
 .mt-icon a:hover img{-webkit-filter: grayscale(100%); filter: grayscale(100%)}
 .sp{margin-top:15px !important}
 
-ul.sub-navi{list-style-type:none;text-align:center;background:url(../c/sub-navi-bg.png);padding:17px 0;box-shadow: 3px 3px 10px #846b52}
+ul.sub-navi{list-style-type:none;text-align:center;background:url(../c/sub-navi-bg.png) center center;padding:17px 0;box-shadow: 3px 3px 10px #846b52}
 ul.sub-navi li{display:inline;}
 ul.sub-navi li a{text-transform:uppercase;font-family:'Sanchez', sans-serif;font-size:0.8em;color:#563604;}
 ul.sub-navi li a:hover{font-weight:bold;cursor:pointer;}
@@ -151,11 +141,6 @@ ul.sub-navi li a.current{font-weight:bold}
 @media (max-width:1199px){
 	.show-desktop{display:none;}
 	.show-mobile{display:block;}
-	#multi-trips-intro, #others-intro{background-color:#333;background-image:url(../c/rattan-bg.png);background-repeat:repeat;background-attachment:scroll;background-size:auto;}
-	#multi-trips-intro .container, #others-intro .container{padding:0;}
-	#multi-trips-intro .container .sixteen.columns, #others-intro .container .sixteen.columns{background-color:transparent;padding:30px 0;}
-	#others-intro h2, #multi-trips-intro h2{font-size: 1.2em}
-	#multi-trips-intro, #others-intro{height:auto !important}
 }
 
 @media (min-width:768px){
@@ -220,7 +205,6 @@ ul.horizontal-align.sm-interest li img{width:56px}
 #multi-booking-col{height:390px;}
 
 ul#sabah_list{-webkit-column-count:1;-moz-column-count:1;column-count:1;}	
-#others-intro h2, #multi-trips-intro h2{padding-right:40px;padding-left:40px}
 ul.horizontal-align.sm-interest li:nth-child(5):after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
 ul.horizontal-align.sm-interest li img{width:56px}
 .pick-by-interest div:first-child h4{font-size:0.9em}
@@ -274,6 +258,8 @@ ul.horizontal-align.sm-interest li img{width:56px}
 .md-interest ul.horizontal-align li h3, .lg-interest ul.horizontal-align li h3{font-size:0.9em}
 .md-interest ul.horizontal-align li:nth-of-type(3n+1), .lg-interest ul.horizontal-align li:nth-of-type(3n+1){border-left:none}
 .md-interest ul.horizontal-align li:last-child, .lg-interest ul.horizontal-align li:last-child{border-left:1px dashed #7f7e7e;border-right:1px dashed #7f7e7e;}
+ul.sub-navi{background:url(../c/sub-navi-bg-small.png) center center}
+ul.sub-navi li:nth-child(2):after, ul.sub-navi li:nth-child(4):after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
 }
 
 /* small devices */
@@ -302,6 +288,9 @@ ul.horizontal-align.sm-interest li{margin-right:0}
 .md-interest ul.horizontal-align li:nth-of-type(odd),.lg-interest ul.horizontal-align li:nth-of-type(odd){border-left:none}
 .lg-interest ul.horizontal-align li img{width:80px;}
 .lg-interest ul.horizontal-align li h3{font-size:0.9em;}
+ul.sub-navi{background:url(../c/sub-navi-bg-small.png) center center}
+ul.sub-navi li:nth-child(2):after, ul.sub-navi li:nth-child(4):after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
+ul.sub-navi li a{font-size:0.75em}
 }
 
 /* small, medium devices */

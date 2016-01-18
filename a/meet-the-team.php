@@ -290,7 +290,7 @@
 			<div class="same_height">
 				<section id="yoksan-julbid">
 					<div class="six columns animated_box mt">
-						<img src="./c/about-us/jessica.jpg" style="width:100%"/>
+						<img src="./c/the-team/yoksan-julbid.jpg" style="width:100%"/>
 						<div>
 							<h1>Yoksan bin Julbid</h1>
 							<h4>Travel Guide</h4>
@@ -303,7 +303,7 @@
 
 				<section id="junaidi-onik">
 					<div class="six columns animated_box mt">
-						<img src="./c/the-team/azreil-martin.jpg" style="width:100%"/>
+						<img src="./c/the-team/junaidi-onik.jpg" style="width:100%"/>
 						<div>
 							<h1>Junaidi Onik</h1>
 							<h4>Travel Guide</h4>
