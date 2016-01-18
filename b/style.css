@@ -33,15 +33,15 @@ ul#navi{position:fixed;margin:0px;padding:0px;top:15px;right:0px;list-style:none
 ul#navi li{display:inline;float:left;width:100px;margin-left:1px}
 ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:left;width:100px;height:35px;color:#603d05;background:transparent url(../c/item.png) no-repeat bottom right;text-decoration:none;text-align:center;padding-top:80px;margin-top:-40px;cursor:pointer;font-size:18px;line-height:1.4em}
 .img_boxing a img:nth-child(1){width:100%}
-.img_boxing a{background: #fff;display: inline;float: left;text-align: center;text-decoration: none;padding: 10px}
+.img_boxing a{background: #fff;display: inline;float: left;text-align: center;text-decoration: none;padding:6px}
 
-.img_boxing h3{text-transform: uppercase;font-size: 0.9em;}
-.img_boxing h2{text-align:center;padding:15px 20px;font-family:'Oswald',sans-serif;text-transform:uppercase;color:#603d05;font-size:1.5em;height:52px;margin:0}
-.img_boxing .rating{border:1px dashed #d7d7d7;border-style:dashed none;padding:15px 0;width:49%;float:left;height:53px;}
+.img_boxing h3{text-transform: uppercase;font-size: 0.8em;}
+.img_boxing h2{text-align:center;padding:10px 20px;font-family:'Oswald',sans-serif;text-transform:uppercase;color:#603d05;font-size:1.2em;height:52px;margin:0}
+.img_boxing .rating{border:1px dashed #d7d7d7;border-style:dashed none;padding:6px 0;width:49%;float:left;height:53px;}
 .img_boxing a .rating:nth-child(3){border-right: 1px dashed #d7d7d7;}
-.img_boxing .category{padding: 15px 20px;}
-.img_boxing .category h6{text-transform: capitalize;}
-.img_boxing .category img, .img_boxing .rating img{width:20px;}
+.img_boxing .category{padding:6px 20px;}
+.img_boxing .category h6{text-transform: capitalize;font-size:0.8em}
+.img_boxing .category img, .img_boxing .rating img{width:16px;}
 
 .mt h1{font-size:1.8em}
 .mt h4{margin:0 0 15px;padding-bottom:10px;border-bottom:1px dashed #603d05;}
@@ -50,10 +50,10 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 .animated_box.ttm div:nth-child(2) h3{border-bottom:1px dashed #d7d7d7;padding-bottom:15px}
 .animated_box.ttm div:nth-child(2) p{font-size:0.85em;}
 .animated_box.mt div:nth-child(2){height:auto; padding: 25px 25px 10px;}
-.animated_box div:nth-child(2){background-color:#fff;padding:35px 40px;height:50px;background-image: url(../c/paper-bg-icon.png)}
-.animated_box div h2{text-align:center;text-transform:uppercase;line-height:1;font-family:'Oswald',sans-serif;margin:0;color:#efefef}
+.animated_box div:nth-child(2){background-color:#fff;padding:25px 40px;height:50px;background-image: url(../c/paper-bg-icon.png)}
+.animated_box div h2{text-align:center;text-transform:uppercase;line-height:1;font-family:'Oswald',sans-serif;margin:0;color:#efefef;font-size:1.3em}
 .animated_box a div{overflow: hidden}
-.animated_box a img{width:100%}
+.animated_box a img{width:100%;display:block;}
 
 .left_space:before {margin-right: 15px;}
 .fb-content {background-color: #fff;padding: 2%}
@@ -114,12 +114,12 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 @media (min-width:1200px){
 	.map-adv{display: block}
 	.img-adv{display: none}
-	.animated_box a div{width:340px;height:255px;}
 	.animated_box a img{-webkit-transition: all 0.2s linear; -moz-transition: all 0.2s linear; -ms-transition: all 0.2s linear; -o-transition: all 0.2s linear; transition: all 0.2s linear;}
 	.animated_box a img:not(.no-animation):hover{-webkit-transform:scale(1.5); -moz-transform:scale(1.5); -ms-transform:scale(1.5); -o-transform:scale(1.5); transform:scale(1.5);}
 	.contact-form span.label{width:100px;font-size:1.5em;}
 	.contact-form .input{padding:15px;width:70%;margin-left:100px;height:25px;}
 	ul.list1 li{float:left;width:50%;}
+	.img_boxing a{height:420px}
 }
 
 /*x-large, xx-large screen*/
@@ -130,7 +130,6 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 
 /*large, x-large, xx-large screen*/
 @media (min-width:768px){
-	.img_boxing a{height:500px}
 	.front-btn a{width: 260px !important}
 	.recommend{width:100%}
 }
@@ -143,6 +142,10 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 	ul.list1 li{float:left;width:48%}
 	ul.list1 li:first-child{margin-right:4%}
 	.animated_box.ttm div:nth-child(2){height:300px}
+	.animated_box div:nth-child(2){padding:20px 30px}
+	.animated_box div h2{font-size:1.2em}
+	.img_boxing a{height:400px}
+	.img_boxing h2{font-size:1.1em;line-height:1.2;height:45px}
 }
 
 /* large devices */
@@ -153,6 +156,7 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 	.front-btn a#know-us{width:auto !important}
 	.animated_box div:nth-child(2){padding:25px 20px;height:40px;font-size:0.85em}
 	.animated_box.ttm div:nth-child(2) p{font-size:1em;}
+	.img_boxing a{height:400px}
 }
 
 /*medium screen*/
@@ -167,6 +171,8 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 	ul.list2{-webkit-column-gap: 0;-moz-column-gap: 0;column-gap: 0;}
 	ul.list1 li{float:left;width:50%;}
 	.animated_box.ttm div:nth-child(2){height:auto}
+	.animated_box div:nth-child(2){padding:15px 10px}
+	.animated_box div h2{font-size:1.1em}
 }
 
 /*small screen*/
@@ -191,6 +197,8 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 	textarea#contact-details{padding:5px 4px;}
 	.animated_box.ttm div:nth-child(2){height:auto}
 	.recommend{width:200px}
+	.animated_box div:nth-child(2){padding:15px 10px}
+	.animated_box div h2{font-size:1.1em}
 }
 .columns{padding-top:20px}
 #footer{background:url(../c/bottom.gif) center bottom no-repeat;clear:both;margin:0;padding:0;width:100%;float:left;z-index:100;height:200px}

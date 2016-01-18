@@ -50,7 +50,7 @@ function printProduct(product){
 	str_img = '<img src="' + product.image + '" class="img1" alt="' + product.title + '"/>';
 	str_title = '<h2>' + product.title + '</h2>';
 	str_details = '<div class="rating accommodation"><h3>Lodging</h3>' + rate('accommodation', product) + '</div><div class="rating difficulty"><h3>Difficulty</h3>' + rate('difficulty', product) + '</div><div class="clear"></div><div class="category"><h3>Category</h3>' + listCategory(product.category) + '</div>';
-	res = '<div class="six columns product_box"><div class="img_boxing"><a href="' + product.url + '">' + str_img + str_title + str_details + '</a></div></div>';
+	res = '<div class="sm columns product_box"><div class="img_boxing"><a href="' + product.url + '">' + str_img + str_title + str_details + '</a></div></div>';
 	return res;
 }
 
@@ -104,7 +104,7 @@ function getDetailsBasedOnCategory(category){
 			}
 		}
 
-		$('.lh .one.columns.white-space-listing').css({"height": counter/3*$('.category-listing .six.columns').height()});
+		$('.lh .one.columns.white-space-listing').css({"height": counter/4*$('.category-listing .sm.columns').height()});
 	});
 }
 
@@ -133,7 +133,7 @@ function getDetails(compareWith, compareWithChild){
 			counter++;
 		}
 
-		$('.lh .one.columns.white-space-listing').css({"height": counter/3*$('.product-listing .six.columns').height()});
+		$('.lh .one.columns.white-space-listing').css({"height": counter/4*$('.product-listing .sm.columns').height()});
 	});
 }
 

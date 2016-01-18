@@ -16,6 +16,7 @@
 .container .sixteen.columns{width:940px}
 .container .eighteen.columns{width:1060px}
 .container .contact-form-display{display:none}
+.container .sm.columns{width:260px;margin:0 5px;}
 
 @media only screen and (min-width:960px) and (max-width:1199px){.container{width:960px}
 .container .columns{margin-left:10px;margin-right:10px}
@@ -31,9 +32,10 @@
 .container .eleven.columns{width:640px}
 .container .twelve.columns{width:700px}
 .container .sixteen.columns,.container .eighteen.columns{width:940px}
+.container .sm.columns{width:230px}
 
 .container .interest-col.columns{width:460px;}
-.container .six.columns.product_box, .container .six.columns.animated_box{width:300px}
+.container .six.columns.product_box{width:300px}
 .container .twelve.columns.sitemap-col{width:619.9px}
 .container .six.columns.sitemap-col{width:299.9px}
 .container .eight.columns.footer_col{width:340px}
@@ -55,10 +57,10 @@
 .container .eleven.columns{width:508px}
 .container .twelve.columns{width:556px}
 .container .sixteen.columns,.container .eighteen.columns{width:748px}
+.container .sm.columns{width:246px}
 
 .container .interest-col.columns{width:364px;}
 .container .six.columns.product_box, .container .twelve.columns.sitemap-col, .container .six.columns.sitemap-col{width:364px}
-.container .six.columns.animated_box{width:246px;margin:0 5px}
 .container .four.columns.footer_col{width:212px}
 .container .eight.columns.footer_col{width:228px}
 .container .display{display:none}
@@ -82,6 +84,7 @@
 .container .one-third.column,
 .container .two-thirds.column{width:300px}
 .container .contact-form-display{display:none}
+.container .sm.columns{width:260px;margin:0 20px;}
 }
 @media only screen and (min-width:480px) and (max-width:767px){.container{width:420px}
 .container .columns{margin:0}
@@ -99,6 +102,8 @@
 .container .sixteen.columns,
 .container .eighteen.columns{width:420px}
 .container .contact-form-display{display:none}
+.container .sm.columns{width:200px;margin:0 5px;}
+.container .sm.columns.product_box{width:300px;margin:0 60px;}
 }
 
 @media only screen and (max-width:479px){
