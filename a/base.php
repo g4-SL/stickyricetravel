@@ -120,7 +120,7 @@
 							<h1>Travel by Interest</h1>
 							<h4>These are only suggested itineraries and can be customized to better fit your interests and needs</h4>
 							<div class="sm-button">
-								<a href="./travel-by-interest">See More</a>
+								<a href="./our-adventures#travel-by-interest">See More</a>
 							</div>
 						</div>
 

@@ -44,7 +44,6 @@
 		},
 		{
 			"title": "Travel by Interest",
-			"url": "/travel-by-interest",
 			"child":[
 				{
 					"title": "Jungle Trekking",
@@ -90,7 +89,7 @@
 		},
 		{
 			"title": "Our Adventures",
-			"url": "",
+			"url": "/our-adventures",
 			"child":[
 				{
 					"title": "Sabah",

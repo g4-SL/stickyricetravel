@@ -35,7 +35,7 @@
 .container .sm.columns{width:230px}
 
 .container .interest-col.columns{width:460px;}
-.container .six.columns.product_box{width:300px}
+.container .six.columns.animated_box{width:300px}
 .container .twelve.columns.sitemap-col{width:619.9px}
 .container .six.columns.sitemap-col{width:299.9px}
 .container .eight.columns.footer_col{width:340px}
@@ -59,8 +59,9 @@
 .container .sixteen.columns,.container .eighteen.columns{width:748px}
 .container .sm.columns{width:246px}
 
+.container .six.columns.animated_box{width:246px;margin:0 5px}
 .container .interest-col.columns{width:364px;}
-.container .six.columns.product_box, .container .twelve.columns.sitemap-col, .container .six.columns.sitemap-col{width:364px}
+.container .container .twelve.columns.sitemap-col, .container .six.columns.sitemap-col{width:364px}
 .container .four.columns.footer_col{width:212px}
 .container .eight.columns.footer_col{width:228px}
 .container .display{display:none}

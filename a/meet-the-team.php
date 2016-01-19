@@ -141,7 +141,7 @@
 							<h1>John Alexier</h1>
 							<h4>Acountant</h4>
 							<p>
-								...
+								Upon his first arrival at the office, John exudes a calm and quiet demeanor. But do not be fooled by his looks as he is active in Kota Kinabalu's marathon scene. The latest addition to Aileen's and Michelle's posse of active lifestyle go-ers, John is always on the look out for new marathons to challenge his physical endurance. Even while training for his next marathon, John is still up to par at handling the numbers in our accounting department. 
 							</p>
 						</div>
 					</div>

@@ -22,8 +22,6 @@
 	<link rel="stylesheet" href="/b/start.css">
 	<link rel="stylesheet" href="/b/skeleton.css">
 	<link rel="stylesheet" type="text/css" href="/b/style.css" />
-	<link rel="stylesheet" type="text/css" href="/b/style.v2.css" />
-	<link rel="stylesheet" type="text/css" href="/b/popup.css" />
 	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
 	<link rel="stylesheet" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" />
   	<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
@@ -52,8 +50,6 @@
 	<script type="text/javascript" src="/d/moment-timezone-2010-2020.min.js"></script>
 	<script src="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script>
 	<script type="text/javascript" src="/d/start.js"></script>	
-	<script type="text/javascript" src="/d/popup.js"></script>	
-	<script type="text/javascript" src="/d/populate.js"></script>
 	
 
 </head>

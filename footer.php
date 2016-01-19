@@ -10,9 +10,9 @@
 								<li><a href="/home">Home</a></li> 
 								<li><a href="/about-us">About Us</a></li> 
 								<li><a href="/our-adventures">Our Adventures</a></li> 
-								<li><a href="/sabah">Destinations at Sabah</a></li> 
-								<li><a href="/sarawak">Destinations at Sarawak</a></li> 
-								<li><a href="/travel-by-interest">Travel by Interest</a></li>    
+								<li><a href="/our-adventures#sabah">Destinations at Sabah</a></li> 
+								<li><a href="/our-adventures#sarawak">Destinations at Sarawak</a></li> 
+								<li><a href="/our-adventures#travel-by-interest">Travel by Interest</a></li>    
 								<li><a href="/contact-us">Contact Us</a></li>   
 								<li><a href="/booking">Make a Booking</a></li>   
 								<li><a href="/customer-reviews">Customer Reviews</a></li>   

@@ -6,13 +6,11 @@ $(document).ready(function() {
 </script>
 
 <div class="au2">
-	<div class="au2-child">
-		<form method="POST" name="frmBooking" action="./booking">
-			<input name="tit" type="hidden" id="tit">
-			<input name="ref" type="hidden" value="<?php echo "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";?>">
-			<input class="bn" id="submit-form" type="submit" name="submit" value="Book Now" >
-		</form>
-	</div>
+	<form method="POST" name="frmBooking" action="./booking" style="margin-bottom:0">
+		<input name="tit" type="hidden" id="tit">
+		<input name="ref" type="hidden" value="<?php echo "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";?>">
+		<input class="bn" id="submit-form" type="submit" name="submit" value="Book Now" >
+	</form>
 	<div class="clear"></div>
 </div>
 
