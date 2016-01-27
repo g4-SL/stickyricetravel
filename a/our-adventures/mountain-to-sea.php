@@ -229,5 +229,5 @@
 	</section>
 
 <script>
-	populateSidebar("5D4N Mountain to Sea", "5D4N Mountain to Sea");
+	populateSidebar("Multi-Days Trip", "5D4N Mountain to Sea");
 </script>

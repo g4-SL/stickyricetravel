@@ -258,5 +258,5 @@
 	</section>
 
 <script>
-	populateSidebar("8D7N Sabah's Hidden Treasures", "8D7N Sabah's Hidden Treasures");
+	populateSidebar("Multi-Days Trip", "8D7N Sabah's Hidden Treasures");
 </script>

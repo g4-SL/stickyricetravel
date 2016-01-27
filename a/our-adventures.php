@@ -41,7 +41,7 @@
 					<h1>Sabah</h1>
 					<div class="short_line"></div>
 					<h4>
-						Located on the northernmost part of Borneo island, Sabah is a popular destination for travellers who seeks for adventures, cultural experiences, and a little bit of the city life. With the mountains and sea being a few hours drive away from each other, travellers can experience the best of both world all in one place.
+						Located on the northernmost part of Borneo island, Sabah is a popular destination for travellers who seeks for adventures, cultural experiences, and a little bit of the city life. With the mountains and sea being a few hours drive away from each other, travellers can experience the best of both worlds all in one place.
 					</h4>
 				</div>
 				
@@ -225,7 +225,7 @@
 					<h1>Multi-Days Trip</h1>
 					<div class="short_line"></div>
 					<h4>
-						Borneo has lots to offer, so one trip is definitely not enough. If you have more time to spend here, do check out our multi trips packages. 
+						Borneo has lots to offer, so one trip is definitely not enough. If you have more time to to travel at Borneo, do check out our multi trips packages. 
 					</h4>
 				</div>
 
@@ -365,9 +365,23 @@
 		</div>	
 		
 	</section>
-
-<script language="javascript" type="text/javascript" src="d/jquery.ms.js"></script>
+	
+<script src="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script>
 <script type="text/javascript">
+var linkElement = document.createElement("link");
+linkElement.rel = "stylesheet";
+linkElement.href = "./b/leaflet.css";
+
+document.head.appendChild(linkElement);
+
+$(document).on('click', 'ul.sub-navi li a', function(e){
+    var section = $(this).attr("rel");
+    $('html, body').animate({
+        scrollTop: $(section).offset().top
+    }, 500);
+    e.preventDefault();
+});
+
 $(document).ready(function() {
 
 	var geojsonFeature = "";

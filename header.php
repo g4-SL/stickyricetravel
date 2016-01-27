@@ -19,12 +19,9 @@
 	<!-- CSS
   ================================================== -->
 	<link rel="icon" href="/c/pa.png">
-	<link rel="stylesheet" href="/b/start.css">
 	<link rel="stylesheet" href="/b/skeleton.css">
 	<link rel="stylesheet" type="text/css" href="/b/style.css" />
-	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
-	<link rel="stylesheet" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" />
-  	<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+  	<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
 	
 	<style type="text/css">
 	@import "/b/jquery.datepick.css";
@@ -32,25 +29,15 @@
 	
 	<noscript><link rel="stylesheet" type="text/css" href="/b/noscript.css" /></noscript>
 	
-	<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
-	
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 
-	<script type="text/javascript" src="/d/jquery.min.js"></script>
-	<script type="text/javascript" src="/d/jquery-migrate.1.2.1.min.js"></script>
-	<script type="text/javascript" src="/d/jquery.eislideshow.js"></script>
-	<script type="text/javascript" src="/d/jquery.easing.1.3.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
 	<script type="text/javascript" src="/d/jquery.ms.js"></script>
 	<script type="text/javascript" src="/d/jquery.mobilemenu.js"></script>
-	<script type="text/javascript" src="/d/jquery-ui.min.js"></script>	
-	<script type="text/javascript" src="/d/instafeed.min.js"></script>	
-	<script type="text/javascript" src="/d/moment.min.js"></script>
-	<script type="text/javascript" src="/d/moment-timezone-2010-2020.min.js"></script>
-	<script src="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script>
 	<script type="text/javascript" src="/d/start.js"></script>	
-	
 
 </head>
 <body>

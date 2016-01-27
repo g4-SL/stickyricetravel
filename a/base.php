@@ -14,15 +14,15 @@
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
-				<img src="c/large/www-adventures-home-1.jpg" alt="Semporna Bajau Laut Home" />
-				<div class="ei-title"></div>
-			</li>
-			<li>
 				<img src="c/large/www-adventures-home-2.jpg" alt="Proboscis Monkey" />
 				<div class="ei-title"></div>
 			</li>
 			<li>
 				<img src="c/large/www-slide-surreal-sea.jpg"  alt="surreal sea"/>
+				<div class="ei-title"></div>
+			</li>
+			<li>
+				<img src="c/large/www-slide-surreal-river.jpg"  alt="surreal river"/>
 				<div class="ei-title"></div>
 			</li>
 		</ul>
@@ -42,7 +42,7 @@
 	<section id="base">	
 
 		<section id="base_greeting">
-			<div class="container" style="font-size:16px">
+			<div class="container">
 
 				<div class="two columns"></div>
 
@@ -56,11 +56,11 @@
 					<div class="five columns">
 						<h2>Recommended On</h2>
 						<div class="recommend">
-							<div style="width:38%;float:left">
-								<a href="http://www.lonelyplanet.com/malaysia/malaysian-borneo-sabah/kota-kinabalu/activities/small-group-tours/sticky-rice-travel" target="_blank"><img src="c/base/lonely_planet.png" style="width:100%" class="lar" alt="Lonely Planet Recommended" /></a>
+							<div>
+								<a href="http://www.lonelyplanet.com/malaysia/malaysian-borneo-sabah/kota-kinabalu/activities/small-group-tours/sticky-rice-travel" target="_blank"><img src="c/base/lonely_planet.png" width="100%" class="lar" alt="Lonely Planet Recommended" /></a>
 							</div>
-							<div style="width:60%;float:left;margin-left:2%">
-								<a href="http://www.tripadvisor.com.my/Attraction_Review-g298307-d8488707-Reviews-Sticky_Rice_Travel_Day_Tours-Kota_Kinabalu_Kota_Kinabalu_District_West_Coast_Divi.html" target="_blank"><img src="c/base/tripadvisor.png" style="width:100%" class="lar" alt="Trip Advisor Recommended" /></a>
+							<div>
+								<a href="http://www.tripadvisor.com.my/Attraction_Review-g298307-d8488707-Reviews-Sticky_Rice_Travel_Day_Tours-Kota_Kinabalu_Kota_Kinabalu_District_West_Coast_Divi.html" target="_blank"><img src="c/base/tripadvisor.png" width="100%" class="lar" alt="Trip Advisor Recommended" /></a>
 							</div>
 						</div>
 					</div>	
@@ -70,7 +70,7 @@
 
 				<div class="two columns"></div>
 
-				<div class="sixteen columns circle_center" style="margin-bottom:10px">
+				<div class="sixteen columns circle_center margin-btm-10">
 					<h1>Our Guests' Top Picks</h1>
 					<h2>Get ready for a great adventure</h2>
 				</div>
@@ -191,7 +191,7 @@
 					<div id="instafeed"></div>
 				</div>	
 
-				<div class="nine columns" style="margin-bottom:10px">
+				<div class="nine columns margin-btm-10">
 					<h1 class="brown_border ion-social-facebook left_space">Facebook</h1>
 					<a href="https://www.facebook.com/StickyRiceTravel" target="_blank"><div class="fb-header">
 						<img src="../c/fb-logo.jpg">
@@ -201,8 +201,8 @@
 						</div>
 					</div></a>
 					<div class="fb-content">
-						<p style="margin-bottom:10px;line-height:1.5;padding:0 2.5%">Great article in The Independent with shout outs to Sticky Rice Travel and Ateh, our very talented nature guide</p>
-						<a href="https://www.facebook.com/StickyRiceTravel/posts/887825287983091" target="_blank"><img src="../c/fb-post.png" style="width:95%;padding:0 2.5%"/></a>
+						<p>Great article in The Independent with shout outs to Sticky Rice Travel and Ateh, our very talented nature guide</p>
+						<a href="https://www.facebook.com/StickyRiceTravel/posts/887825287983091" target="_blank"><img src="../c/fb-post.png"/></a>
 					</div>
 					<div class="fb-meta">
 						<a class="likelink" href="https://www.facebook.com/StickyRiceTravel/posts/887825287983091" target="_blank">
@@ -221,7 +221,20 @@
 
 	</section>
 
+<script type="text/javascript" src="/d/jquery.eislideshow.js"></script>
+<script type="text/javascript" src="/d/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/d/instafeed.min.js"></script>	
 <script type="text/javascript">
+
+	$(document).ready(function() {
+		$('#sly').eislideshow({
+			animation			: 'center',
+			autoplay			: true,
+			slideshow_interval	: 3000,
+			titlesFactor		: 0
+		});
+	});
+	
     var feed = new Instafeed({
         get: 'user',
         userId: 790007091,

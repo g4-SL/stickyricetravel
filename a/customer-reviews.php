@@ -133,9 +133,7 @@
 		
 	</section>
 	
-		<script>
-
-			
+	<script type="text/javascript">
 			
 		(function($){
 			$(document).ready(function() {

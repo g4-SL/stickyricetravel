@@ -61,7 +61,17 @@
 					</div>
 
 					<div class="four columns footer_col">
-						<?php include "./helper/current-time.php" ?>
+						<div class="clock">
+							<p>Local time</p>
+							<div id="Date"></div>
+							<ul>
+								<li id="hours"> </li>
+							    <li id="point">:</li>
+							    <li id="min"> </li>
+							    <li id="point">:</li>
+							    <li id="sec"> </li>
+							</ul>
+						</div>
 						<ul class="horizontal-align">
 							<li><a href="http://www.facebook.com/StickyRiceTravel" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/facebook.png" width="38" height="38" alt="Sticky Rice Travel Facebook" /></a></li>
 							<li><a href="https://vimeo.com/channels/stickyricetravel" target="blank"><img src="<?php if(isset($p[2])) { echo "../";} ?>c/social/vimeo.png" width="38" height="38" alt="Sticky Rice Travel Vimeo" /></a></li>
@@ -126,5 +136,18 @@
 				</div>
 			</div>
 		</div>
+		
+		<script type="text/javascript" src="/d/moment.min.js"></script>
+		<script type="text/javascript" src="/d/moment-timezone-2010-2020.min.js"></script><script>
+			var cb = function() {
+				var l = document.createElement('link'); l.rel = 'stylesheet';
+				l.href = 'http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css';
+				var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
+			};
+			var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+			webkitRequestAnimationFrame || msRequestAnimationFrame;
+			if (raf) raf(cb);
+			else window.addEventListener('load', cb);
+		</script>
     </body>
 </html>

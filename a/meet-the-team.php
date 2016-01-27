@@ -33,7 +33,7 @@
 			<div class="same_height">
 				<section id="jessica-yew">
 					<div class="nine columns animated_box mt">
-						<img src="./c/about-us/jessica.jpg" style="width:100%"/>
+						<img src="./c/the-team/jessica-yew.jpg" style="width:100%"/>
 						<div>
 							<h1>Jessica Yew</h1>
 							<h4>Director</h4>
@@ -51,7 +51,7 @@
 							<h1>Charles Ryan</h1>
 							<h4>Director</h4>
 							<p>
-								Sometimes, things just fall into place by accident. Signed up for a global volunteer program in Indonesia, the program was re-routed for Sabah, Borneo where Charlie would unknowingly reside for the next 8 years. On the Kinabatangan he assisted in setting up community initiative programs for the community at Abai Village, in 2008 and then later working with the Penan Community in Sarawak. It was also during his time on the Kinabatangan that he and Atteh, our Sticky Rice Travel Nature Guide, first met. Guiding for National Geographic Adventure groups in Bornoe, Charlie also trains our nature guides providing them with first hand knowledge and experience. Besides guiding, he is also an avid photographer, which goes hand in hand with his passion for wildlife, culture and travel.
+								Sometimes, things just fall into place by accident. Signed up for a global volunteer program in Indonesia, the program was re-routed for Sabah, Borneo where Charlie would unknowingly reside for the next 8 years. On the Kinabatangan he assisted in setting up community initiative programs for the community at Abai Village, in 2008 and then later working with the Penan Community in Sarawak. It was also during his time on the Kinabatangan that he and Atteh, our Sticky Rice Travel Nature Guide, first met. Guiding for National Geographic Adventure groups in Borneo, Charlie also trains our nature guides providing them with first hand knowledge and experience. Besides guiding, he is also an avid photographer, which goes hand in hand with his passion for wildlife, culture and travel.
 							</p>
 						</div>
 					</div>
@@ -155,7 +155,7 @@
 			<div class="same_height">
 				<section id="mariana-lim">
 					<div class="six columns animated_box mt">
-						<img src="./c/about-us/jessica.jpg" style="width:100%"/>
+						<img src="./c/the-team/mariana-lim.jpg" style="width:100%"/>
 						<div>
 							<h1>Mariana Lim</h1>
 							<h4>Travel Consultant</h4>
@@ -181,7 +181,7 @@
 
 				<section id="carmen-lim">
 					<div class="six columns animated_box mt">
-						<img src="./c/about-us/jessica.jpg" style="width:100%"/>
+						<img src="./c/the-team/carmen-lim.jpg" style="width:100%"/>
 						<div>
 							<h1>Carmen Lim</h1>
 							<h4>Travel Consultant</h4>
@@ -245,12 +245,12 @@
 			<div class="same_height">
 				<section id="razis-nasri">
 					<div class="six columns animated_box mt">
-						<img src="./c/about-us/jessica.jpg" style="width:100%"/>
+						<img src="./c/the-team/razis-nasri.jpg" style="width:100%"/>
 						<div>
 							<h1>Razis Nasri</h1>
 							<h4>Travel Guide</h4>
 							<p>
-								The ever-illusive Atteh is rarely seen around the quarters of Sticky Rice Office, but spends most of his days guiding within the rainforest of Danum Valley. A part of the Sticky Rice team since the beginning, he’s enthusiastic about Borneo’s wildlife, landscape and people. Whether it’s a ukulele or his camera in hand, Atteh has an exciting spirit about him that is easily contagious.
+								The ever-illusive Razis Nasri, aka Atteh, is rarely seen around the quarters of Sticky Rice Office, but spends most of his days guiding within the rainforest of Danum Valley. A part of the Sticky Rice team since the beginning, he’s enthusiastic about Borneo’s wildlife, landscape and people. Whether it’s a ukulele or his camera in hand, Atteh has an exciting spirit about him that is easily contagious.
 							</p>
 						</div>
 					</div>
@@ -263,7 +263,7 @@
 							<h1>Azreil Martin</h1>
 							<h4>Travel Guide</h4>
 							<p>
-								Coming from a long line of guides in his Family, Azriel hails from Kiau Village on the foothills of Mt Kinabalu where most of the mountain guides are from. His first ascent on the mighty mountain was at the age of 12 as most of his friends began climbing as paid porters. Apart from being a driver and nature guide, he is quite the gardener, often selling his homegrown vegetables to earn extra money in his teens and currently has a nice patch of golden pineapples back home.
+								Coming from a long line of guides in his family, Azriel hails from Kiau Village on the foothills of Mt Kinabalu where most of the mountain guides are from. His first ascent on the mighty mountain was at the age of 12 as most of his friends began climbing as paid porters. Apart from being a driver and nature guide, he is quite the gardener, often selling his homegrown vegetables to earn extra money in his teens and currently has a nice patch of golden pineapples back home.
 							</p>
 						</div>
 					</div>
@@ -276,7 +276,7 @@
 							<h1>Mike Michael</h1>
 							<h4>Travel Guide</h4>
 							<p>
-								...
+								Mike brings warmth and laughter wherever he goes. He is incredibly friendly and is always open to learning new things. Mike has a lot of insider knowledge to anything related to Sabah, especially BRL as he has worked there as a guide prior to his job at Sticky Rice Travel. A man who hardly says no, Mike is always seen following other senior guides to improve his guiding skill. 
 							</p>
 						</div>
 					</div>
@@ -295,7 +295,7 @@
 							<h1>Yoksan bin Julbid</h1>
 							<h4>Travel Guide</h4>
 							<p>
-								...
+								Yoksan is truly a man who was born and raised in Sabah as he has travelled everywhere around Sabah. With his in-depth knowledge of Sabah, he guides group to unimaginable places and does it with such passion. He has worked on some researches at Maliau Basin and was a popular pick for Japanese-speaking groups as he is fluent in Japanese.
 							</p>
 						</div>
 					</div>
@@ -308,7 +308,7 @@
 							<h1>Junaidi Onik</h1>
 							<h4>Travel Guide</h4>
 							<p>
-								...
+								Anybody who personally knows Junaidi would describe him as a friendly man, a caring husband and a loving father. When he's not out guiding a group, he makes sure his free time is well-spent with his family. Junaidi is very knowledgeable about anything related to Sandakan and Sepilok.
 							</p>
 						</div>
 					</div>

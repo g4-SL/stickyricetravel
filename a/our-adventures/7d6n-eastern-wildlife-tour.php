@@ -216,5 +216,5 @@
 	</section>
 
 <script>
-	populateSidebar("7D6N Eastern Wildlife Tour", "7D6N Eastern Wildlife Tour");
+	populateSidebar("Multi-Days Trip", "7D6N Eastern Wildlife Tour");
 </script>

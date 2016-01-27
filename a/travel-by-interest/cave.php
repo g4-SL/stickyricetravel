@@ -15,7 +15,7 @@
 				<?php $interest_selected = "cave"; include "./helper/sm-show-interest.php" ?>
 
 				<div class="sm-button circle_center vc">
-					<a href="./travel-by-interest">Travel by Interest</a>
+					<a href="./our-adventures#travel-by-interest">Travel by Interest</a>
 				</div>
 			</div>	
 
@@ -27,8 +27,6 @@
 			</div>	
 			
 			<div class="clear"></div>
-
-			<div class="one columns white-space-listing"></div>
 
 			<div class="category-listing">
 			</div>

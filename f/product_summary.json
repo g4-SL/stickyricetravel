@@ -177,52 +177,6 @@
 			"type": "Sabah"
 		},
 		{
-			"title": "Kuching",
-			"child": [
-				{
-					"title": "Big Stream, Cool Spaces",
-					"accommodation": 0,
-					"difficulty": 3,
-					"category": ["Day Trip", "Cave"],
-					"url": "./our-adventures/kuching/big-stream-cool-spaces",
-					"image": "/c/adventures/big-stream-cool-spaces.jpg"
-				},
-				{
-					"title": "Rainforest Kayaking or Bamboo Rafting",
-					"accommodation": 0,
-					"difficulty": 2,
-					"category": ["Day Trip", "Water Sports"],
-					"url": "./our-adventures/kuching/rainforest-kayaking-and-bamboo-rafting",
-					"image": "/c/adventures/kayaking-rafting.jpg"
-				},
-				{
-					"title": "Santubong Wildlife Cruise",
-					"accommodation": 0,
-					"difficulty": 1,
-					"category": ["Day Trip", "Wildlife", "River Cruise"],
-					"url": "./our-adventures/kuching/santubong-wildlife-cruise",
-					"image": "/c/adventures/santubong-wildlife-cruise.jpg"
-				},
-				{
-					"title": "Tringgus Trail",
-					"accommodation": 0,
-					"difficulty": 3,
-					"category": ["Day Trip", "Jungle Trekking", "Culture", "Cave"],
-					"url": "./our-adventures/kuching/tringgus-trail",
-					"image": "/c/adventures/tringgus-trail.jpg"
-				},
-				{
-					"title": "Ranee Kuching",
-					"accommodation": 5,
-					"difficulty": 0,
-					"category": ["Accommodation"],
-					"url": "./our-adventures/kuching/ranee-kuching",
-					"image": "/c/adventures/ranee-kuching.jpg"
-				}
-			],
-			"type": "Sarawak"
-		},
-		{
 			"title": "Semporna Archipelago",
 			"child": [
 				{
@@ -537,7 +491,53 @@
 				}
 			],
 			"type": "Sabah"
-		},		
+		},	
+		{
+			"title": "Kuching",
+			"child": [
+				{
+					"title": "Big Stream, Cool Spaces",
+					"accommodation": 0,
+					"difficulty": 3,
+					"category": ["Day Trip", "Cave"],
+					"url": "./our-adventures/kuching/big-stream-cool-spaces",
+					"image": "/c/adventures/big-stream-cool-spaces.jpg"
+				},
+				{
+					"title": "Rainforest Kayaking or Bamboo Rafting",
+					"accommodation": 0,
+					"difficulty": 2,
+					"category": ["Day Trip", "Water Sports"],
+					"url": "./our-adventures/kuching/rainforest-kayaking-and-bamboo-rafting",
+					"image": "/c/adventures/kayaking-rafting.jpg"
+				},
+				{
+					"title": "Santubong Wildlife Cruise",
+					"accommodation": 0,
+					"difficulty": 1,
+					"category": ["Day Trip", "Wildlife", "River Cruise"],
+					"url": "./our-adventures/kuching/santubong-wildlife-cruise",
+					"image": "/c/adventures/santubong-wildlife-cruise.jpg"
+				},
+				{
+					"title": "Tringgus Trail",
+					"accommodation": 0,
+					"difficulty": 3,
+					"category": ["Day Trip", "Jungle Trekking", "Culture", "Cave"],
+					"url": "./our-adventures/kuching/tringgus-trail",
+					"image": "/c/adventures/tringgus-trail.jpg"
+				},
+				{
+					"title": "Ranee Kuching",
+					"accommodation": 5,
+					"difficulty": 0,
+					"category": ["Accommodation"],
+					"url": "./our-adventures/kuching/ranee-kuching",
+					"image": "/c/adventures/ranee-kuching.jpg"
+				}
+			],
+			"type": "Sarawak"
+		},	
 		{
 			"title": "Ulu Ai Experiences",
 			"child": [
@@ -637,7 +637,7 @@
 			"type": "Sarawak"
 		},
 		{
-			"title": "5D4N Mountain to Sea",
+			"title": "Multi-Days Trip",
 			"child": [
 				{
 					"title": "5D4N Mountain to Sea",
@@ -646,13 +646,7 @@
 					"category": ["Jungle Trekking", "Wildlife", "Beach", "Water Sports"],
 					"url": "our-adventures/mountain-to-sea",
 					"image": "c/adventures/mountain-to-sea.jpg"
-				}
-			],
-			"type": "Multi"
-		},
-		{
-			"title": "7D6N Sabah's Hidden Treasures",
-			"child": [
+				},
 				{
 					"title": "7D6N Sabah's Hidden Treasures",
 					"accommodation": 2,
@@ -660,13 +654,7 @@
 					"category": ["Cave", "Culture", "Climbing", "Jungle Trekking", "Wildlife"],
 					"url": "our-adventures/7d6n-sabah-hidden-treasure",
 					"image": "c/adventures/7d6n-hidden-treasures.jpg"
-				}
-			],
-			"type": "Multi"
-		},
-		{
-			"title": "8D7N Sabah's Hidden Treasures",
-			"child": [
+				},
 				{
 					"title": "8D7N Sabah's Hidden Treasures",
 					"accommodation": 2,
@@ -674,13 +662,7 @@
 					"category": ["Cave", "Culture", "Climbing", "Jungle Trekking", "Wildlife"],
 					"url": "our-adventures/8d7n-sabah-hidden-treasure",
 					"image": "c/adventures/8d7n-hidden-treasures.jpg"
-				}
-			],
-			"type": "Multi"
-		},
-		{
-			"title": "9D8N Eastern Wildlife Tour",
-			"child": [
+				},
 				{
 					"title": "9D8N Eastern Wildlife Tour",
 					"accommodation": 3,
@@ -688,13 +670,7 @@
 					"category": ["Wildlife", "Jungle Trekking", "River Cruise", "Culture"],
 					"url": "our-adventures/9d8n-eastern-wildlife-tour",
 					"image": "c/adventures/eastern-wildlife-tour-1.jpg"
-				}
-			],
-			"type": "Multi"
-		},
-		{
-			"title": "7D6N Eastern Wildlife Tour",
-			"child": [
+				},
 				{
 					"title": "7D6N Eastern Wildlife Tour",
 					"accommodation": 2,
@@ -702,13 +678,7 @@
 					"category": ["Wildlife", "Jungle Trekking", "River Cruise", "Cave"],
 					"url": "our-adventures/7d6n-eastern-wildlife-tour",
 					"image": "c/adventures/eastern-wildlife-tour-2.jpg"
-				}
-			],
-			"type": "Multi"
-		},
-		{
-			"title": "6D5N Eastern Wildlife Tour",
-			"child": [
+				},
 				{
 					"title": "6D5N Eastern Wildlife Tour",
 					"accommodation": 3,
@@ -716,13 +686,7 @@
 					"category": ["Wildlife", "River Cruise", "Jungle Trekking"],
 					"url": "our-adventures/6d5n-eastern-wildlife-tour",
 					"image": "c/adventures/eastern-wildlife-tour-3.jpg"
-				}
-			],
-			"type": "Multi"
-		},
-		{
-			"title": "8D7N Hike & Climb",
-			"child": [
+				},
 				{
 					"title": "8D7N Hike & Climb",
 					"accommodation": 2,

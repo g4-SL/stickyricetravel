@@ -249,5 +249,5 @@
 	</section>
 
 <script>
-	populateSidebar("8D7N Hike & Climb", "8D7N Hike & Climb");
+	populateSidebar("Multi-Days Trip", "8D7N Hike & Climb");
 </script>

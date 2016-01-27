@@ -42,20 +42,20 @@
 
 			<div class="six columns mt-icon">
 				<h1>Meet the Team</h1>
-				<a href="../meet-the-team#jessica-yew"><img src="./c/the-team/icon/jessica.jpg" title="Jessica Yew"/></a>
+				<a href="../meet-the-team#jessica-yew"><img src="./c/the-team/icon/jessica-yew.jpg" title="Jessica Yew"/></a>
 				<a href="../meet-the-team#charles-ryan"><img src="./c/the-team/icon/charles-ryan.jpg" title="Charles Ryan"/></a>
 				<a href="../meet-the-team#peter-lawrence"><img src="./c/the-team/icon/peter-lawrence.jpg" title="Peter Lawrence"/></a>
 				<a href="../meet-the-team#aileen-paul"><img src="./c/the-team/icon/aileen-paul.jpg" title="Aileen Paul"/></a>
-				<a href="../meet-the-team#michelle-john"><img src="./c/the-team/icon/michelle-john.jpg" title="Michelle John"/></a>
 				<a href="../meet-the-team#stasha-van-houten"><img src="./c/the-team/icon/stasha-van-houten.jpg" title="Stasha Van Houten"/></a>
-				<a href="../meet-the-team#carmen-lim"><img src="./c/the-team/icon/jessica.jpg" title="Carmen Lim"/></a>
+				<a href="../meet-the-team#razis-nasri"><img src="./c/the-team/icon/razis-nasri.jpg" title="Razis Nasri"/></a>
 				<a href="../meet-the-team#bedley-asun"><img src="./c/the-team/icon/bedley-asun.jpg" title="Bedley Asun"/></a>
-				<a href="../meet-the-team#razis-nasri"><img src="./c/the-team/icon/jessica.jpg" title="Razis Nasri"/></a>
-				<a href="../meet-the-team#azreil-martin"><img src="./c/the-team/icon/azreil-martin.jpg" title="Azreil Martin"/></a>
+				<a href="../meet-the-team#michelle-john"><img src="./c/the-team/icon/michelle-john.jpg" title="Michelle John"/></a>
+				<a href="../meet-the-team#carmen-lim"><img src="./c/the-team/icon/carmen-lim.jpg" title="Carmen Lim"/></a>
 				<a href="../meet-the-team#siti-noraminah"><img src="./c/the-team/icon/siti-noraminah.jpg" title="Siti Noraminah"/></a>
+				<a href="../meet-the-team#azreil-martin"><img src="./c/the-team/icon/azreil-martin.jpg" title="Azreil Martin"/></a>
 				<a href="../meet-the-team#sarah-louise"><img src="./c/the-team/icon/sarah-louise.jpg" title="Sarah Louise"/></a>
+				<a href="../meet-the-team#mariana-lim"><img src="./c/the-team/icon/mariana-lim.jpg" title="Mariana Lim"/></a>
 				<a href="../meet-the-team#muriel-koh"><img src="./c/the-team/icon/muriel-koh.jpg"title="Muriel Koh"/></a>
-				<a href="../meet-the-team#mariana-lim"><img src="./c/the-team/icon/jessica.jpg" title="Mariana Lim"/></a>
 				<a href="../meet-the-team#wendy-lim"><img src="./c/the-team/icon/wendy-lim.jpg" title="Wendy Lim"/></a>
 				<a href="../meet-the-team#mike-michael"><img src="./c/the-team/icon/mike-michael.jpg" title="Mike Michael"/></a>
 				<a href="../meet-the-team#john-alexier"><img src="./c/the-team/icon/john-alexier.jpg" title="John Alexier"/></a>

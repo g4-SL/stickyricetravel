@@ -153,57 +153,28 @@
 		</div>
 	</section>
 	
-		<script>
-				
-			function cls() {
-				$('input[type="checkbox"]').attr('checked', false);
-				$('input').removeClass('error');
-				$('textarea').removeClass('error');
-			}
+	<script type="text/javascript">
+			
+		function cls() {
+			$('input[type="checkbox"]').attr('checked', false);
+			$('input').removeClass('error');
+			$('textarea').removeClass('error');
+		}
 
 		$(function(){
 			$.when(getJson()).done(function(data){
-				var menuC = 0;
-				var counterSabah = 1;
-				var counterSarawak = 1;
+				var menuC = 0, group = '';
 				for (i in data.parent_product){
 					temp = '';
-					clear = '';
 					for(j in data.parent_product[i].child){
 						menuC++;
 						temp = temp + '<input type="checkbox" name="p[]" class="bcb" value="' + data.parent_product[i].child[j].title + '" id="' + menuC + '"><label class="blb">' + data.parent_product[i].child[j].title + '</label>';
 					}
-					if(data.parent_product[i].type == "Sabah" && (counterSabah == 1 || counterSabah == 5)){
-						counterSabah++;
+					group = group + '<div class="one-third-col"><h4>' + data.parent_product[i].title + '</h4>' + temp + '</div>';
+					if(i%2 != 0 || (data.parent_product[i].type).toLowerCase() == "multi" || (data.parent_product[i].type).toLowerCase() == "others"){
+						$('.full-col#' + (data.parent_product[i].type).toLowerCase() + '-booking-col').append('<div class="one-third-col-parent">' + group + '</div>');
+						group = '';
 					}
-					else if (data.parent_product[i].type == "Sabah" && (counterSabah == 2 || counterSabah == 4)){
-						clear = '<div class="clear contact-form-display"></div>';
-						counterSabah++;
-					}
-					else if (data.parent_product[i].type == "Sabah" && counterSabah == 3){
-						clear = '<div class="clear display"></div>';
-						counterSabah++;
-					}
-					else if (data.parent_product[i].type == "Sabah" && counterSabah == 6){
-						clear = '<div class="clear"></div>';
-						counterSabah = 1;
-					}
-					else if(data.parent_product[i].type == "Sarawak" && (counterSarawak == 1 || counterSarawak == 5)){
-						counterSarawak++;
-					}
-					else if (data.parent_product[i].type == "Sarawak" && (counterSarawak == 2 || counterSarawak == 4)){
-						clear = '<div class="clear contact-form-display"></div>';
-						counterSarawak++;
-					}
-					else if (data.parent_product[i].type == "Sarawak" && counterSarawak == 3){
-						clear = '<div class="clear display"></div>';
-						counterSarawak++;
-					}
-					else if (data.parent_product[i].type == "Sarawak" && counterSarawak == 6){
-						clear = '<div class="clear"></div>';
-						counterSarawak = 1;
-					}
-					$('.full-col#' + (data.parent_product[i].type).toLowerCase() + '-booking-col').append('<div class="one-third-col"><h4>' + data.parent_product[i].title + '</h4>' + temp + '</div>' + clear);
 				}
 				var var_name = 'input[type="checkbox"][value="' + $('#history_link').text() + '"]';
 				$(var_name).attr("checked", true);

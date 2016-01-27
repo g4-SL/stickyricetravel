@@ -29,7 +29,7 @@
 			
 			<div class="clear"></div>
 
-			<div class="product-listing"></div>
+			<div class="product-listing circle_center"></div>
 			
 			<div class="clear"></div>		
 			
