@@ -1,5 +1,3 @@
-<!-- Url: our-adventures/kota-kinabalu/borneo-orchard-house	 -->
-
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
@@ -11,22 +9,27 @@
 	
 	<nav></nav><section>	
 			
-		<div class="container nd">
-		
-			<div class="nine columns">
-				<h1>Borneo Orchard House</h1>
-			</div>			
+		<div class="container hd">
 
-			<div class="seven columns">
+			<div class="four columns book_btn_y">
+				<?php include './a/side-book-now.php'; ?>   
+			</div>
+
+			<div class="sixteen columns big_title">
 				<ul class="brc">
 					<li><a href="./home">Home</a></li>
 					<li><a href="./our-adventures">Our Adventures</a></li>
-					<li><a href="./kota-kinabalu">Kota Kinabalu</a></li>
+					<li><a href="./our-adventures/kota-kinabalu">Kota Kinabalu</a></li>
 					<li>Borneo Orchard House</li>
 				</ul>
-			</div>
+				<h1>Borneo Orchard House</h1>
+			</div>	
 			
 			<div class="clear"></div>
+
+			<div class="four columns book_btn_y">
+				<?php include './a/product-sidebar.php'; ?>
+			</div>
 			
 			<div class="nine columns">
 
@@ -72,12 +75,14 @@
 							</td>
 						</tr>
 					</tbody>
-				</table>			
-				
+				</table>	
 			</div>	
 			
 			<div class="seven columns bp">
-				<?php include './a/side-book-now.php'; ?>
+				<div class="book_btn_x">
+					<?php include './a/side-book-now.php'; ?>
+					<?php include './a/product-sidebar.php'; ?>
+				</div>
 				<img src="c/adventures-under-water/2-400.jpg" alt="Diving in Tarp" />
 				<img src="c/adventures-under-water/1-400.jpg" alt="School of Fish Tarp" />
 				<img src="c/adventures-under-water/3-400.jpg" alt="Fish" />

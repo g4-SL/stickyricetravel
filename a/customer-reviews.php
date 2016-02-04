@@ -16,17 +16,12 @@
 
 			<div class="sixteen columns big_title">
 				<h1>Customer Reviews</h1>
+				<h3 class="sub-text-description">
+					Thank you for choosing Sticky Rice Travel as your travel companion here at Borneo! Share your memories with us here and it may help other travellers in planning their trip to Borneo. 
+				</h3>
 			</div>	
 			
 			<div class="clear"></div>
-
-			<div class="two columns"></div>
-
-			<div class="sixteen columns">
-				<h3 style="line-height:1.5;margin:0">
-					Thank you for choosing Sticky Rice Travel as your travel companion here at Borneo! Share your memories with us here and it may help other travellers in planning their trip to Borneo. 
-				</h3>
-			</div>
 			
 			<form method="post" name="frm_cmt" id="frm_cmt" class="zn_form form contact-form">
 				
@@ -65,7 +60,7 @@
 					<div class="two columns"></div>
 
 					<div class="sixteen columns">
-						<div class="control-group">
+						<div class="control-group form-btn">
 							<div class="controls">
 								<input class="button submit-btn" id="submit-form" type="submit" name="submit" value="Send" style="float:left">
 							</div>

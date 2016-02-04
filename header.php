@@ -55,7 +55,7 @@
 		<li class="home" style="width:70px;"><a href="/home" title="Home" style="width:70px;height:45px;">Home</a></li>
 		<li class="ourstory" style="width:120px;"><a href="/about-us" title="Our Story" style="width:120px;height:45px;">About Us</a></li>
 		<li class="adventures" style="width:130px;"><a href="/our-adventures" title="Our Adventures" style="height:75px;width:130px;">Our Adventures</a></li>
-		<li class="responsible" style="width:130px;"><a href="/responsible-tourism" title="Responsible-Tourism" style="height:75px;width:130px;">Responsible Tourism</a></li>
+		<li class="responsible" style="width:130px;"><a href="/faq" title="FAQ" style="height:75px;width:130px;">FAQ</a></li>
 		<li class="contact"><a href="/contact-us" title="contact-us" style="height:75px;">Make Contact</a></li>
 	</ul>
 	

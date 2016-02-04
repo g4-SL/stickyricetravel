@@ -13,10 +13,6 @@
 
 			<div class="seven columns interest-col">
 				<?php $interest_selected = "beach"; include "./helper/sm-show-interest.php" ?>
-
-				<div class="sm-button circle_center vc">
-					<a href="./our-adventures#travel-by-interest">Travel by Interest</a>
-				</div>
 			</div>	
 
 			<div class="eleven columns big_title interest-col">

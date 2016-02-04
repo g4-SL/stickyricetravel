@@ -18,23 +18,19 @@
 					<li>Booking / Contact Form</li>
 				</ul>
 				<h1 class="mh">Booking / Contact Form</h1>	
-				<span class="required-desr">* required</span>		
-			</div>		
-			
-			<div class="clear"></div>
-
-			<div class="two columns"></div>
-			<div class="sixteen columns">
-				<h3 style="margin:0">
+				<span class="required-desr">* required</span>	
+				<h3 class="sub-text-description">
 					Should you require further information or wish to make a booking for any of our tours, please complete and submit the enquiry form below. Our travel consultants will reply you within 24 hours (Monday to Friday).
-				</h3>
-			</div>
+				</h3>	
+			</div>		
+
+			<div class="clear"></div>
 				
 			<form method="post" name="frm_resv" id="frm_resv" class="zn_form form contact-form">
 				
 				<?php if ($_POST["tit"] != ''){ ?>
 				<div class="two columns"></div>
-				<div class="sixteen columns"><h4 style="margin:0">You came from <a href='<?php echo $_POST["ref"]; ?>' style="text-transform:uppercase" id="history_link"><?php echo $_POST["tit"]; ?></a> page</h4></div>
+				<div class="sixteen columns"><h4 class="margin-0">You came from <a href='<?php echo $_POST["ref"]; ?>' style="text-transform:uppercase" id="history_link"><?php echo $_POST["tit"]; ?></a> page</h4></div>
 				<?php } ?>
 				
 				<fieldset>
@@ -107,16 +103,16 @@
 					
 					<div class="two columns"></div>
 
-					<div class="sixteen columns full-col-parent" id="sabah-parent">
-						<div class="full-col" id="sabah-booking-col"></div>
+					<div class="sixteen columns full-col-parent border" id="sabah-parent">
+						<ul class="full-col horizontal-align" id="sabah-booking-col"></ul>
 					</div>
 						
 					<div class="clear"></div>
 					
 					<div class="two columns"></div>
 
-					<div class="sixteen columns full-col-parent" id="sarawak-parent">
-						<div class="full-col" id="sarawak-booking-col"></div>
+					<div class="sixteen columns full-col-parent border" id="sarawak-parent">
+						<ul class="full-col horizontal-align" id="sarawak-booking-col"></ul>
 					</div>
 						
 					<div class="clear"></div>
@@ -124,7 +120,7 @@
 					<div class="two columns"></div>
 
 					<div class="sixteen columns full-col-parent" id="multi-parent">
-						<div class="full-col" id="multi-booking-col"></div>
+						<ul class="full-col horizontal-align" id="multi-booking-col"></ul>
 					</div>
 						
 					<div class="clear"></div>
@@ -132,7 +128,7 @@
 					<div class="two columns"></div>
 
 					<div class="sixteen columns full-col-parent" id="others-parent">
-						<div class="full-col" id="others-booking-col"></div>
+						<ul class="full-col horizontal-align" id="others-booking-col"></ul>
 					</div>
 
 					<div class="clear"></div>
@@ -140,7 +136,7 @@
 					<div class="two columns"></div>
 
 					<div class="sixteen columns">					
-						<div class="control-group" style="margin:50px auto; text-align:center">
+						<div class="control-group form-btn">
 							<div class="controls">
 								<input class="button submit-btn" id="submit-form" type="submit" name="submit" value="Enquire now">
 								<input type='reset' name='reset' onclick='cls()' value='Clear' class="button clear-btn">
@@ -161,23 +157,45 @@
 			$('textarea').removeClass('error');
 		}
 
+		function sameHeight(){
+			var $el, rowDivs = new Array(), topPosition = 0, currentRowStart = 0, currentTallest = 0;
+			$('.one-third-col').each(function(){
+				$el = $(this);
+				$el.css('height','auto'); 
+				topPosition = $el.position().top;
+				if (currentRowStart != topPosition) {
+					for (currentDiv = 0 ; currentDiv < rowDivs.length ; currentDiv++) {
+				       rowDivs[currentDiv].height(currentTallest);
+				    }
+				    rowDivs.length = 0;
+				    currentRowStart = topPosition;
+				    currentTallest = $el.height();
+				    rowDivs.push($el);
+				} else {
+				 	rowDivs.push($el);
+				 	currentTallest = (currentTallest < $el.height()) ? ($el.height()) : (currentTallest);
+				}
+				for (currentDiv = 0 ; currentDiv < rowDivs.length ; currentDiv++) {
+			     	rowDivs[currentDiv].height(currentTallest);
+			   	}
+			});
+		}
+
 		$(function(){
 			$.when(getJson()).done(function(data){
-				var menuC = 0, group = '';
+				var menuC = 0;
 				for (i in data.parent_product){
 					temp = '';
 					for(j in data.parent_product[i].child){
 						menuC++;
 						temp = temp + '<input type="checkbox" name="p[]" class="bcb" value="' + data.parent_product[i].child[j].title + '" id="' + menuC + '"><label class="blb">' + data.parent_product[i].child[j].title + '</label>';
 					}
-					group = group + '<div class="one-third-col"><h4>' + data.parent_product[i].title + '</h4>' + temp + '</div>';
-					if(i%2 != 0 || (data.parent_product[i].type).toLowerCase() == "multi" || (data.parent_product[i].type).toLowerCase() == "others"){
-						$('.full-col#' + (data.parent_product[i].type).toLowerCase() + '-booking-col').append('<div class="one-third-col-parent">' + group + '</div>');
-						group = '';
-					}
+					$('.full-col#' + (data.parent_product[i].type).toLowerCase() + '-booking-col').append('<li class="one-third-col"><h4>' + data.parent_product[i].title + '</h4>' + temp + '</li>');
 				}
 				var var_name = 'input[type="checkbox"][value="' + $('#history_link').text() + '"]';
 				$(var_name).attr("checked", true);
+
+				sameHeight();
 			});
 		});
 
@@ -197,6 +215,10 @@
         			$("#start_date").datepicker("option","maxDate", selected);
         		}
 			});
+		});
+
+		$(window).resize(function () {
+		    sameHeight();
 		});
 
 		(function($){

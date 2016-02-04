@@ -14,7 +14,19 @@
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
-				<img src="c/large/www-adventures-home-2.jpg" alt="Proboscis Monkey" />
+				<img src="c/large/www-adventures-home-3.jpg" alt="semporna" />
+				<div class="ei-title"></div>
+			</li>
+			<li>
+				<img src="c/large/www-adventures-home-4.jpg" alt="orang utan" />
+				<div class="ei-title"></div>
+			</li>
+			<li>
+				<img src="c/large/www-adventures-home-5.jpg" alt="pygmy elephants" />
+				<div class="ei-title"></div>
+			</li>
+			<li>
+				<img src="c/large/www-adventures-home-6.jpg" alt="danum valley" />
 				<div class="ei-title"></div>
 			</li>
 			<li>
@@ -29,6 +41,7 @@
 		
 		<ul class="ei-slider-thumbs">
 			<li class="ei-slider-element">Current</li>
+			<li></li>
 			<li></li>
 			<li></li>
 			<li></li>

@@ -143,7 +143,7 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 .lio label{float:left;width:70% !important;font-size:14px !important;color:#000}
 input, textarea{padding:5px 10px;border:none;background-color:#fff}
 .button{cursor:pointer;display:block;padding:10px;font-size:14px;color:#000;font-weight:bold;text-decoration:none;font-family:Arial, sans-serif;border:none;border-radius:5px;background:#b8d1a9;margin-right:30px}
-.form label{float:left;display:block;width:28%;font-size:14px;color:#000;padding:0 10px;margin:5px 0;}
+.form label{float:left;display:block;width:28%;font-size:14px;color:#000;padding:0 10px;margin:2px 0 5px;}
 .form textarea{height:280px;margin-bottom:20px}
 .form .button{float:right;font-size:16px}
 .contact-form{float:left;width:100%}
@@ -214,11 +214,14 @@ input, textarea{padding:5px 10px;border:none;background-color:#fff}
 .img-overlay:hover{cursor:pointer}
 .img-overlay i{font-size:6em;color:#fff}
 .img-overlay .video-muted{position:absolute;width:100%;top:0;left:0;display:none}
-input.bn,input.bn:hover{padding:20px 30px;font-size:16px;font-weight:400;text-transform:uppercase}
-.sm-button a,input.bn,input.bn:hover{background:url(../c/btn-orange.jpg);color:#fff;font-family:Sanchez,sans-serif;display:inline-block}
+.form-btn{height:80px;}
+input.bn,input.bn:hover,.form .button.clear-btn, .form .button.submit-btn{padding:20px 30px;font-size:16px;font-weight:400;text-transform:uppercase}
+.sm-button a,input.bn,input.bn:hover,.form .button.clear-btn, .form .button.submit-btn{background:url(../c/btn-orange.jpg);color:#fff;font-family:Sanchez,sans-serif;display:inline-block}
+.form .button.clear-btn{float:left;margin:0;}
+.form .button.submit-btn{float:right;margin:0;}
 .au2{position:relative;margin-top:20px}
-input.bn{box-shadow:3px 5px 5px #846b52;border:none;border-radius:10px}
-input.bn:hover{box-shadow:2px 3px 3px #846b52;border:none;margin-top:2px}
+input.bn,.form .button{box-shadow:3px 5px 5px #846b52;border:none;border-radius:10px}
+input.bn:hover,.form .button:hover{box-shadow:2px 3px 3px #846b52;border:none;margin-top:2px}
 .sm-button{margin-top:10px;height:40px}
 .sm-button a{padding:10px 30px;box-shadow:3px 5px 5px #846b52;border-radius:7px}
 .sm-button a:hover{box-shadow:2px 3px 3px #846b52;margin-top:2px}
@@ -247,17 +250,16 @@ input.bn:hover{box-shadow:2px 3px 3px #846b52;border:none;margin-top:2px}
 .about_us_description{line-height:1.4}
 .bcb{float:left;margin:5px 0;}
 .blb{float:left;}
-.full-col{padding:20px 25px;background:url(../c/talk-box-small.jpg);margin-bottom:20px;}
+.full-col{padding:15px;background:url(../c/talk-box-small.jpg);margin-bottom:20px;}
 #sabah-parent{background:url(../c/booking/title-sabah.png) 0 0 no-repeat;}
 #sarawak-parent{background:url(../c/booking/title-sarawak.png) 0 0 no-repeat;}
 #others-parent{background:url(../c/booking/title-others.png) 0 0 no-repeat;}
 #multi-parent{background:url(../c/booking/title-multi.png) 0 0 no-repeat;}
 .full-col-parent{padding-top:50px;}
-.one-third-col{float:left;margin-bottom:15px}
-.one-third-col h4{text-transform:uppercase;}
-.form .button.clear-btn, .form .button.submit-btn{padding:0 25px;background:#603d05;color:#fff;font-weight:normal;border:none;height:50px;font-size:1.2em}
-.form .button.clear-btn{float:left;}
-.form .button.submit-btn{float:right;margin-right:0;}
+.one-third-col{float:left;}
+.border .one-third-col{border-bottom:1px dashed rgba(96, 61, 5, 0.5)}
+.border .one-third-col:not(:nth-child(3n)){border-right:1px dashed rgba(96, 61, 5, 0.5)}
+.one-third-col h4{text-transform:uppercase;margin:0}
 .review-col-parent{background:url(../c/booking/title-testimonials.png) 0 0 no-repeat;padding-top:50px;}
 .review-col{background:url(../c/talk-box-small.jpg);padding-top:10px;padding-bottom:20px;}
 .review-col *{padding-right:25px;padding-left:25px;}
@@ -266,7 +268,12 @@ input.bn:hover{box-shadow:2px 3px 3px #846b52;border:none;margin-top:2px}
 .review-col p{margin-bottom:30px}
 i.ionic{padding-right:15px;font-size:1.7em;display:none;}
 a.faq_url:hover{cursor:pointer;}
-ul.faq_list{list-style-type:circle;margin-left:20px;margin-top:20px}
+ul.faq_list{list-style-type:none;margin-top:20px;background:url(../c/talk-box-small.jpg);padding:20px 15px}
+ul.faq_list li:before{content:url(../../c/next-arrow-brown.png);padding-right:15px}
+ul.faq_list li{padding:12px 0;margin-bottom:0;font-family:'Sanchez',sans-serif;font-size:0.95em;}
+ul.faq_list li:not(:last-child){border-bottom:1px dashed rgba(96, 61, 5, 0.5);}
+section[id^='faq-'] div h2:before{content:'Q: ';}
+section[id^='faq-'] div h2{font-size:1.2em;text-transform:uppercase;}
 ul#sabah_list{-webkit-column-count:2;-moz-column-count:2;column-count:2;}
 ul#main_list{margin-top:20px;}
 ul.sitemap_list{font-family:'Sanchez', sans-serif;font-size:0.85em}
@@ -276,6 +283,7 @@ ul.sitemap_list ul ul{list-style-type:none;margin:10px 0 20px 25px;}
 ul.sitemap_list li{background:url(../c/list-bullet.png) no-repeat 0 20%;padding-left:20px;}
 ul.horizontal-align{text-align:center}
 ul.horizontal-align li{display:inline;margin-right:5px;}
+ul.horizontal-align.full-col li{width:252px;margin:0;text-align:left;padding:20px 25px;}
 ul.horizontal-align.sm-interest li img{width:64px;margin:0 5px 10px}
 ul.horizontal-align.sm-interest li:not(.active) img{-webkit-filter:grayscale(10%);filter:grayscale(10%);}
 .lg-interest ul.horizontal-align li, .md-interest ul.horizontal-align li{display:inline-block;border-left:1px dashed #7f7e7e;border-bottom:1px dashed #7f7e7e;margin:0;}
@@ -300,7 +308,7 @@ ul.horizontal-align li:hover img{-webkit-filter:grayscale(50%) !important;filter
 .mt-icon a img{display:inline;width:33.3%}
 .mt-icon a:hover img{-webkit-filter:grayscale(100%);filter:grayscale(100%)}
 .sp{margin-top:15px !important}
-.product-listing:after,.category-listing:after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
+.product-listing:after,.category-listing:after,.full-col:after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
 .product-listing .columns{display:inline-block;float:none;display:-moz-inline-stack;vertical-align:top;*display:inline;}
 ul.sub-navi{list-style-type:none;text-align:center;background:url(../c/sub-navi-bg.png) center center;padding:17px 0;box-shadow:3px 3px 10px #846b52}
 ul.sub-navi li{display:inline;}
@@ -314,8 +322,29 @@ ul.sub-navi li a.current{font-weight:bold}
 #Date{font-family:'BebasNeueRegular', Arial, Helvetica, sans-serif;font-size:1.8em;line-height:1;margin-bottom:20px}
 .clock p{font-family:'BebasNeueRegular', Arial, Helvetica, sans-serif;font-size:1.2em;line-height:1;margin-bottom:5px}
 #point{position:relative;-moz-animation:mymove 1s ease infinite;-webkit-animation:mymove 1s ease infinite;padding-left:5px;padding-right:5px;}
+.sub-text-description{margin:0;font-size:1em;line-height:1.4;padding-top:15px;}
+.margin-0{margin:0;}
+.product_side li,.product_side ul.category{margin-bottom:0}
+.product_side h3{text-transform:uppercase;padding-bottom:10px;margin:0;line-height:1}
+.product_side a{text-decoration:none;}
+.product_side li:hover{cursor:pointer;background:#ba946c !important;}
+.product_side ul{list-style-type:none}
+.product_side ul li a img:not(:last-child){padding-right:3px}
+.product_side ul.category li:not(:last-child){margin-bottom:10px}
+.product_side .left ul{border-bottom:1px dashed rgba(96,61,5,.5);margin-bottom:20px;padding-bottom:20px}
+.product_side img{width:auto}
+.product_side:after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
+.product_side{margin-bottom:15px;padding:15px 5px;text-align:center}
+.product_side ul.category li{background:rgba(202,167,129,.85);padding:4px 0;border-radius:5px;box-shadow:3px 3px 3px rgba(144,119,94,.5);margin:0 auto;}
+.product_side ul.category li a{color:#603d05;font-family:Oswald,sans-serif;text-transform:uppercase}
 @media (max-width:1199px){.show-desktop{display:none;}
 .show-mobile{display:block;}
+.product_side{background:url(../c/paper-bg-icon.png);text-align:center}
+.product_side h3{font-size:.9em}
+.product_side a{font-size:.8em}
+.product_side .left img{padding:0}
+.product_side ul.category li:last-child{margin-bottom:0}
+.au2{margin-top:0}
 }
 @media (min-width:481px){.fidn{margin-left:40px}
 .fichoice{margin-left:80px}
@@ -352,6 +381,8 @@ div{padding:0;margin:0}
 .talk-box div[id^='review-'] p{padding:15px}
 .talk-box div[id^='review-'] h6{padding:15px}
 .same_height section .mt div{height:auto !important;}
+.border .one-third-col{border-right:none!important;}
+.border .one-third-col:last-child{border-bottom:none;}
 }
 @media only screen and (min-width:480px) and (max-width:620px){.ei-slider{height:300px !important}
 }
@@ -367,23 +398,26 @@ div{padding:0;margin:0}
 .animated_box a img:not(.no-animation):hover{-webkit-transform:scale(1.5);-moz-transform:scale(1.5);-ms-transform:scale(1.5);-o-transform:scale(1.5);transform:scale(1.5);}
 .contact-form span.label{width:100px;font-size:1.5em;}
 .contact-form .input{padding:15px;width:70%;margin-left:100px;height:25px;}
-ul.list1 li{float:left;width:50%;}
 .img_boxing a{height:420px}
-.one-third-col{width:33%}
-.blb{width:88% !important;}
-#sabah-booking-col{height:810px;}
-#sarawak-booking-col{height:330px;}
-#others-booking-col{height:100px;}
-#multi-booking-col{height:245px;}
+.blb{width:85% !important;}
+ul.list1 li{float:left;width:50%;}
 ul.horizontal-align.sm-interest li:nth-child(5):after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
 .lg-interest ul.horizontal-align li:nth-of-type(5n+1){border-left:none;}
 .category-listing,.product-listing:not(.circle_center){padding-left:60px}
+.product_side{background:url(../c/paper-bg.png) no-repeat;padding:85px 20px 15px;height:450px;}
+.product_side ul.category li{width:150px;}
+.book_btn_x{display:none !important}
+.book_btn_y{display:block !important}
 }
 @media (min-width:960px){.map-adv{display:block}
 .img-adv{display:none}
-input.bn, input.bn:hover{width:100%}
+input.bn,input.bn:hover{width:100%}
+.border#sabah-parent .one-third-col:nth-last-child(-n+3){border-bottom:none;}
+.border#sarawak-parent .one-third-col:last-child{border-bottom:none;}
 }
 @media (min-width:768px){.recommend{width:100%}
+.product_side h3{font-size:1em}
+.product_side a{font-size:.9em}
 }
 @media (min-width:960px) and (max-width:1199px){.contact-form span.label{width:70px;font-size:1.4em;}
 .contact-form .input{padding:15px 10px;width:80%;margin-left:70px;height:22px;}
@@ -396,12 +430,7 @@ ul.list1 li:first-child{margin-right:4%}
 .img_boxing a{height:400px}
 .img_boxing h2{font-size:1.1em;line-height:1.2;height:45px}
 #base_social_media .nine.columns{width:460px;}
-.one-third-col{width:33%}
-.blb{width:89% !important;}
-#sabah-booking-col{height:800px;}
-#sarawak-booking-col{height:325px;}
-#others-booking-col{height:100px;}
-#multi-booking-col{height:240px;}
+.blb{width:87% !important;}
 ul.horizontal-align.sm-interest li:nth-child(5):after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
 ul.horizontal-align.sm-interest li img{width:56px}
 .pick-by-interest div:first-child h4{font-size:0.9em}
@@ -413,7 +442,14 @@ ul.horizontal-align.sm-interest li img{width:56px}
 .lg-interest ul.horizontal-align li img{width:88px;}
 .ten.columns.talk-box{width:440px;}
 .nine.columns.mt{width:460px;}
-input.bn, input.bn:hover{width:300px}
+input.bn,input.bn:hover{width:300px}
+.product_side .left,.product_side .right{float:left;width:49.85%}
+.product_side .right{border-left:1px dashed rgba(96,61,5,.5)}
+.product_side .left ul:last-child{border:none;margin:0;padding:0}
+.product_side ul.category li{width:150px}
+}
+@media (min-width:768px) and (max-width:1199px){.book_btn_y{display:none !important}
+.book_btn_x{display:block !important}
 }
 @media (min-width:768px) and (max-width:959px){.contact-form span.label{width:50px;font-size:1.2em;}
 .contact-form .input{padding:15px 10px;width:80%;margin-left:50px;height:22px;}
@@ -422,15 +458,10 @@ input.bn, input.bn:hover{width:300px}
 .animated_box.ttm div:nth-child(2) p{font-size:1em;}
 .img_boxing a{height:400px}
 #base_social_media .nine.columns{width:364px}
-.one-third-col{width:50%}
-.one-third-col-parent:after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
-.blb{width:90% !important;}
-#sabah-booking-col{height:1160px;}
-#sarawak-booking-col{height:350px;}
-#others-booking-col{height:100px;}
-#multi-booking-col{height:240px;}
+.blb{width:86% !important;}
 ul#sabah_list{-webkit-column-count:1;-moz-column-count:1;column-count:1;}
-ul.horizontal-align.sm-interest li:nth-child(5):after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
+ul.horizontal-align.full-col li{width:308px}
+ul.horizontal-align.sm-interest li:nth-child(5):after,.border .one-third-col:after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
 ul.horizontal-align.sm-interest li img{width:56px}
 .pick-by-interest div:first-child h4{font-size:0.9em}
 .pick-by-interest div:first-child{width:165px}
@@ -450,8 +481,14 @@ ul.horizontal-align.sm-interest li img{width:56px}
 .talk-box div[id^='review-'] p{padding:15px 15px 10px}
 .talk-box div[id^='review-'] h6{font-size:0.8em;padding:10px}
 .nine.columns.mt{width:364px;margin:0 5px;}
-input.bn, input.bn:hover{width:300px}
+input.bn,input.bn:hover{width:300px}
 .clock ul li{font-size:3.8em}
+.border .one-third-col:nth-child(odd){border-right:1px dashed rgba(96, 61, 5, 0.5)}
+.border .one-third-col:nth-child(even){border-right:none}
+.border .one-third-col:nth-last-child(-n+2){border-bottom:none}
+.product_side .left,.product_side .right{width:100%}
+.product_side .left ul{margin-bottom:10px;padding-bottom:10px}
+.product_side ul.category li{width:180px}
 }
 @media (min-width:480px) and (max-width:767px){.img_boxing a{height:auto}
 .img_boxing .category{padding:15px;}
@@ -464,15 +501,11 @@ ul.list1 li{float:left;width:50%;}
 .animated_box.ttm div:nth-child(2){height:auto}
 .animated_box div:nth-child(2){padding:15px 10px}
 .animated_box div h2{font-size:1.1em}
-input.bn, input.bn:hover{width:300px}
-.one-third-col{width:100%}
-.blb{width:91% !important;}
-#sabah-booking-col{height:2080px;}
-#sarawak-booking-col{height:680px;}
-#others-booking-col{height:100px;}
-#multi-booking-col{height:240px;}
-ul#sabah_list{-webkit-column-count:1;-moz-column-count:1;column-count:1;}
+input.bn,input.bn:hover{width:300px}
+.blb{width:89% !important;}
 .pick-by-interest{border-top:none;}
+ul#sabah_list{-webkit-column-count:1;-moz-column-count:1;column-count:1;}
+ul.horizontal-align.full-col li{width:340px}
 ul.horizontal-align.sm-interest li img{width:56px}
 .md-interest, .lg-interest, .pick-by-interest div:first-child{width:420px;margin:0}
 .md-interest ul.horizontal-align{border-top:1px dashed #7f7e7e;margin-top:25px;}
@@ -483,6 +516,12 @@ ul.horizontal-align.sm-interest li img{width:56px}
 .md-interest ul.horizontal-align li:last-child, .lg-interest ul.horizontal-align li:last-child{border-left:1px dashed #7f7e7e;border-right:1px dashed #7f7e7e;}
 ul.sub-navi{background:url(../c/sub-navi-bg-small.png) center center}
 ul.sub-navi li:nth-child(2):after, ul.sub-navi li:nth-child(4):after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
+.product_side .left,.product_side .right{float:left;width:49.85%}
+.product_side .right{border-left:1px dashed rgba(96,61,5,.5)}
+.product_side .left ul:last-child{border:none;margin:0;padding:0}
+.book_btn_x{display:none !important}
+.book_btn_y{display:block !important}
+.product_side ul.category li{width:150px}
 }
 @media (max-width:479px){.accordionWrapper .content{width:240px !important}
 #anc .set{width:240px !important;background:#fff}
@@ -505,16 +544,12 @@ textarea#contact-details{padding:5px 4px;}
 .recommend{width:200px}
 .animated_box div:nth-child(2){padding:15px 10px}
 .animated_box div h2{font-size:1.1em}
-input.bn, input.bn:hover{width:100%}
+input.bn,input.bn:hover,.form .button.submit-btn,.form .button.clear-btn{width:100%}
+.form .button.submit-btn,.form .button.clear-btn{margin-bottom:15px}
 .fb-header{height:50px}
 .fb-header img{width:40px}
 .fb-header div h3{font-size:0.9em}
-.one-third-col{width:100%}
 .blb{width:87% !important;}
-#sabah-booking-col{height:2150px;}
-#sarawak-booking-col{height:750px;}
-#others-booking-col{height:100px;}
-#multi-booking-col{height:240px;}
 ul#sabah_list{-webkit-column-count:1;-moz-column-count:1;column-count:1;}
 ul.horizontal-align.sm-interest li img{width:50px}
 ul.horizontal-align.sm-interest li{margin-right:0}
@@ -528,4 +563,10 @@ ul.horizontal-align.sm-interest li{margin-right:0}
 ul.sub-navi{background:url(../c/sub-navi-bg-small.png) center center}
 ul.sub-navi li:nth-child(2):after, ul.sub-navi li:nth-child(4):after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
 ul.sub-navi li a{font-size:0.75em}
+ul.horizontal-align.full-col li{padding:15px 10px;width:250px;}
+.product_side .left,.product_side .right{width:100%}
+.product_side .left ul{margin-bottom:10px;padding-bottom:10px}
+.product_side ul.category li{width:180px}
+.book_btn_x{display:none !important}
+.book_btn_y{display:block !important}
 }

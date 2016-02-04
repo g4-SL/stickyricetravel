@@ -194,7 +194,24 @@ function getDetails(compareWith, compareWithChild){
 	});
 }
 
-function populateSidebar(product_parent, product_child){
+var selectedProduct = "";
+
+function checkForChild(group, searchFor){
+	for (var i in group.child){
+		if(group.child[i].title == searchFor){
+			selectedProduct = group.child[i];
+			return true;
+		}
+		else if(group.child[i].hasOwnProperty('child')){
+			if(checkForChild(group.child[i], searchFor)){
+				return true;
+			}
+		}
+	}
+	return false;
+}
+
+function populateSidebar(product_parent, searchFor){
 	$.when(getJson()).done(function(data){
 		var i = 0;
 		for (i in data.parent_product){
@@ -203,18 +220,15 @@ function populateSidebar(product_parent, product_child){
 			}
 		}
 
-		for (var j in data.parent_product[i].child){
-			if(data.parent_product[i].child[j].title == product_child){
-				var temp = "";
-				for(var pd in data.parent_product[i].child[j].category){
-					var category = data.parent_product[i].child[j].category[pd];
-					temp = temp + '<li><a href="' + getUrlCategory(category) + '">' + category + "</a></li>";
-				}
-				$('.product_side ul.category').append(temp);
-				$('.product_side ul.difficulty li a').append(rate('difficulty', data.parent_product[i].child[j]));
-				$('.product_side ul.accommodation li a').append(rate('accommodation', data.parent_product[i].child[j]));
-				break;
+		if(checkForChild(data.parent_product[i], searchFor)){
+			var temp = "";
+			for(var pd in selectedProduct.category){
+				var category = selectedProduct.category[pd];
+				temp = temp + '<li><a href="' + getUrlCategory(category) + '">' + category + "</a></li>";
 			}
+			$('.product_side ul.category').append(temp);
+			$('.product_side ul.difficulty li a').append(rate('difficulty', selectedProduct));
+			$('.product_side ul.accommodation li a').append(rate('accommodation', selectedProduct));
 		}
 	});
 }
