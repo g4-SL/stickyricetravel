@@ -147,34 +147,8 @@
 
 				<div class="one columns"></div>
 
-				<div class="ten columns talk-box">
-					<h1 class="brown_border">Customer Reviews</h1>
-					<div id="review-1">
-						<p>
-							Check out the Sepilok orang utan and sun bear conservation centers. Charlie and the Sticky Rice crew put together a fabulous itinerary with terrific guides that pointed out animals, birds, reptiles and bugs we would not have seen on our own. Our lives are all about travel, but our time in Borneo stands out as a brilliant highlight thanks to Charlie and the Sticky Rice crew
-						</p>
-						<h6><i class="ion-person"></i>Jim and Katie Thomsen</h6>
-					</div>
-					<div id="review-2">
-						<p>
-							We were very impressed with the Sticky Rice team &amp; the services offered us. They were instrumental in making our holiday the thoroughly enjoyable, splendid experience it was
-						</p>
-						<h6><i class="ion-person"></i>Brijinder Singh</h6>	
-					</div>
-					<div id="review-3">
-						<p>
-							I am extremely grateful for their knowledge, enthusiasm and passion for the projects they are involved in and I cannot recommend them enough to help you get started with your Borneo plans. I will definitely be using Sticky Rice again
-						</p>
-						<h6><i class="ion-person"></i>Glenda</h6>	
-					</div>
-					<div class="sm-button circle_center vc">
-						<a href="./customer-reviews">Read More</a>
-					</div>
-				</div>
-
-				<div class="eight columns">
-					<h1 class="brown_border">Announcements</h1>
-					<a href="./download/Promo-DVFC.pdf" target="_blank"><img src="./c/dvfc_promo.jpg" width="100%"></a>
+				<div class="eighteen columns">
+					<a href="./our-adventures/danum-valley/danum-valley-field-center"><img src="./c/dvfc_promo.jpg" width="100%"></a>
 				</div>
 
 				<div class="clear"></div>

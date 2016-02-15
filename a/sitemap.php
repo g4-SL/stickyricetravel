@@ -24,11 +24,19 @@
 			<div class="one columns"></div>
 
 			<div class="twelve columns sitemap-col" style="padding-top:0">
+				<h3>Sabah</h3>
 				<ul class="sitemap_list" id="sabah_list">
 				</ul>
 			</div>
 
 			<div class="six columns sitemap-col" style="padding-top:0">
+				<h3>Sarawak</h3>
+				<ul class="sitemap_list" id="sarawak_list">
+				</ul>
+				<h3>Multi Trips Package</h3>
+				<ul class="sitemap_list" id="multi_list">
+				</ul>
+				<h3>Custom Trips</h3>
 				<ul class="sitemap_list" id="others_list">
 				</ul>
 			</div>
@@ -44,46 +52,53 @@
 function getUrlJson(){	
 	return $.ajax({
 		dataType: "json",
-		url: "../f/url.json",
+		url: "../f/product_summary.json",
 		success: function(data){
 		}
 	});
 }
 
-function getList(data, margin){
-	var res = ""; 
+function getList(data){
+	var res = "", url = ""; 
+	if(data.hasOwnProperty('url') && data.url != ""){ url = '<a href="' + data.url + '">'; }
+	res = '<li>' + url + data.title + "</a></li>";
 	if(data.hasOwnProperty('child')){
-		res = '<ul style="margin-left:' + margin + '">';
+		res = res + '<ul>';
 		for(var l in data.child){
-			res = res + '<li><a href="' + data.child[l].url + '">' + data.child[l].title + "</li></a>" + getList(data.child[l]);
+			res = res + getList(data.child[l]);			
 		}
-		res = res + "</ul>";
+		res = res + '</ul>';
 	}
 	return res;
 }
 
 $(document).ready(function() {
-	var temp = ""; 
+	var temp = "<ul>"; 
     $.when(getUrlJson()).done(function(data){
-    	var i = 0, j = 1;
+    	var i = 0, j = 0, OUR_ADVENTURES;
     	for(i in data.url_group){
-    		temp = temp + '<li><a href="' + data.url_group[i].url + '">' + data.url_group[i].title + "</li></a>";
-    		if(data.url_group[i].title != "Our Adventures"){
-    			temp = temp + getList(data.url_group[i], "25px");
+    		if(data.url_group[i].title == "Our Adventures"){
+    			OUR_ADVENTURES = i;
+    		} else{
+    			temp = temp + getList(data.url_group[i]);
     		}
     	}
-		$('#main_list').append(temp);
+		$('#main_list').append(temp + '</ul>');
 
-		temp = '<h3>' + data.url_group[i].child[0].title + '</h3>';
-		$('#sabah_list').before(temp);
-		temp = getList(data.url_group[i].child[0], 0);
-		$('#sabah_list').append(temp);
-
-		temp = "";
-		for(j = 1; j < Object.keys(data.url_group[i].child).length; j++){
-			temp = temp + '<h3>' + data.url_group[i].child[j].title + '</h3>' + getList(data.url_group[i].child[j], 0);
+		for(var j in data.url_group[i].child){
+			if(data.url_group[i].child[j].type == "Sabah"){
+				$('#sabah_list').append('<ul>' + getList(data.url_group[i].child[j]) + '</ul>');
+			}
+			else if(data.url_group[i].child[j].type == "Sarawak"){
+				$('#sarawak_list').append('<ul>' + getList(data.url_group[i].child[j]) + '</ul>');
+			}
+			else if(data.url_group[i].child[j].type == "Multi"){
+				$('#multi_list').append('<ul>' + getList(data.url_group[i].child[j]) + '</ul>');
+			}
+			else if(data.url_group[i].child[j].type == "Others"){
+				$('#others_list').append('<ul>' + getList(data.url_group[i].child[j]) + '</ul>');
+			}
 		}
-		$('#others_list').append(temp);
     });
 });
 

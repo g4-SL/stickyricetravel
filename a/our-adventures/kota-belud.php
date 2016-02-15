@@ -38,5 +38,5 @@
 	</section>
 
 <script>
-	getDetails("Kota Belud", "");
+	getDetails("Kota Belud");
 </script>

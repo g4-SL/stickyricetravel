@@ -150,6 +150,7 @@
 	</section>
 	
 	<script type="text/javascript">
+		var menuC = 0;
 			
 		function cls() {
 			$('input[type="checkbox"]').attr('checked', false);
@@ -181,16 +182,23 @@
 			});
 		}
 
+		function printInputBox(data){
+			var res = '';
+			if(!data.hasOwnProperty('child')){
+				res = '<input type="checkbox" name="p[]" class="bcb" value="' + data.title + '" id="' + menuC + '"><label class="blb">' + data.title + '</label>';
+			} else {
+				for(var i in data.child){
+					res = res + printInputBox(data.child[i]);
+				}
+			} 
+			return res;
+		}
+
 		$(function(){
 			$.when(getJson()).done(function(data){
-				var menuC = 0;
-				for (i in data.parent_product){
-					temp = '';
-					for(j in data.parent_product[i].child){
-						menuC++;
-						temp = temp + '<input type="checkbox" name="p[]" class="bcb" value="' + data.parent_product[i].child[j].title + '" id="' + menuC + '"><label class="blb">' + data.parent_product[i].child[j].title + '</label>';
-					}
-					$('.full-col#' + (data.parent_product[i].type).toLowerCase() + '-booking-col').append('<li class="one-third-col"><h4>' + data.parent_product[i].title + '</h4>' + temp + '</li>');
+				for (i in data.url_group[OUR_ADVENTURES].child){
+					temp = printInputBox(data.url_group[OUR_ADVENTURES].child[i]);
+					$('.full-col#' + (data.url_group[OUR_ADVENTURES].child[i].type).toLowerCase() + '-booking-col').append('<li class="one-third-col"><h4>' + data.url_group[OUR_ADVENTURES].child[i].title + '</h4>' + temp + '</li>');
 				}
 				var var_name = 'input[type="checkbox"][value="' + $('#history_link').text() + '"]';
 				$(var_name).attr("checked", true);

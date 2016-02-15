@@ -38,7 +38,9 @@
 
 			<div class="two columns"></div>
 
-			<div class="sixteen columns"></div>
+			<div class="sixteen columns">
+				<a href="./download/Promo-DVFC.pdf" target="_blank"><img src="./c/dvfc_promo.jpg" width="100%"></a>
+			</div>
 			
 			<div class="clear"></div>
 
