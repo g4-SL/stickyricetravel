@@ -41,8 +41,8 @@ ul#navi li a{display:block;font-weight:bold;text-shadow:1px 1px 1px #fff;float:l
 .img_boxing .category{padding:6px 20px;}
 .img_boxing .category h6{text-transform:capitalize;font-size:0.8em}
 .img_boxing .category img, .img_boxing .rating img{width:16px;}
-.mt h1{font-size:1.8em}
-.mt h4{margin:0 0 15px;padding-bottom:10px;border-bottom:1px dashed #603d05;}
+.one-third-col .mt h1{font-size:1.7em}
+.one-third-col .mt h4{margin:0 0 15px;padding-bottom:10px;border-bottom:1px dashed #603d05;text-transform:capitalize;}
 .animated_box.ttm div:nth-child(2){height:413px;padding:10px 30px;}
 .animated_box.ttm div:nth-child(2) *{color:#fff;}
 .animated_box.ttm div:nth-child(2) h3{border-bottom:1px dashed #d7d7d7;padding-bottom:15px}
@@ -308,7 +308,7 @@ ul.horizontal-align li:hover img{-webkit-filter:grayscale(50%) !important;filter
 .mt-icon a img{display:inline;width:33.3%}
 .mt-icon a:hover img{-webkit-filter:grayscale(100%);filter:grayscale(100%)}
 .sp{margin-top:15px !important}
-.product-listing:after,.category-listing:after,.full-col:after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
+.one-third-col:after,.wrap-team-container:after,.product-listing:after,.category-listing:after,.full-col:after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
 .product-listing .columns{display:inline-block;float:none;display:-moz-inline-stack;vertical-align:top;*display:inline;}
 ul.sub-navi{list-style-type:none;text-align:center;background:url(../c/sub-navi-bg.png) center center;padding:17px 0;box-shadow:3px 3px 10px #846b52}
 ul.sub-navi li{display:inline;}
@@ -380,7 +380,7 @@ div{padding:0;margin:0}
 @media (max-width:767px){.talk-box div[id^='review-']{background:url(../c/talk-box-small.jpg);margin-bottom:15px}
 .talk-box div[id^='review-'] p{padding:15px}
 .talk-box div[id^='review-'] h6{padding:15px}
-.same_height section .mt div{height:auto !important;}
+section.one-third-col .mt div{height:auto !important;}
 .border .one-third-col{border-right:none!important;}
 .border .one-third-col:last-child{border-bottom:none;}
 }
@@ -403,7 +403,7 @@ div{padding:0;margin:0}
 ul.list1 li{float:left;width:50%;}
 ul.horizontal-align.sm-interest li:nth-child(5):after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
 .lg-interest ul.horizontal-align li:nth-of-type(5n+1){border-left:none;}
-.category-listing,.product-listing:not(.circle_center){padding-left:60px}
+.wrap-team-container,.category-listing,.product-listing:not(.circle_center){padding-left:60px}
 .product_side{background:url(../c/paper-bg.png) no-repeat;padding:85px 20px 15px;height:450px;}
 .product_side ul.category li{width:150px;}
 .book_btn_x{display:none !important}

@@ -41,5 +41,5 @@
 	</section>
 
 <script>
-	getDetails("Semporna Archipelago", "");
+	getDetails("Semporna Archipelago");
 </script>

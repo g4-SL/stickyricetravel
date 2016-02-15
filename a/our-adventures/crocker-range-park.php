@@ -47,5 +47,5 @@
 	</section>
 
 <script>
-	getDetails("Crocker Range Park", "");
+	getDetails("Crocker Range Park");
 </script>

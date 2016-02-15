@@ -74,6 +74,6 @@
 	</section>
 
 <script>
-	getDetails("Danum Valley", "Danum Valley Field Center (DVFC)");
+	getDetails("Danum Valley Field Center (DVFC)");
 
 </script>

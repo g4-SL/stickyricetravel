@@ -48,5 +48,5 @@
 	</section>
 
 <script>
-	getDetails("Sandakan & Sepilok", "");
+	getDetails("Sandakan & Sepilok");
 </script>

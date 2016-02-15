@@ -36,5 +36,5 @@
 	</section>
 
 <script>
-	getDetails("Bako National Park", "");
+	getDetails("Bako National Park");
 </script>

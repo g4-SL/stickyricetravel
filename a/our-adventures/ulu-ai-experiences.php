@@ -41,5 +41,5 @@
 	</section>
 
 <script>
-	getDetails("Ulu Ai Experiences", "");
+	getDetails("Ulu Ai Experiences");
 </script>

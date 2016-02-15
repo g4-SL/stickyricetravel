@@ -35,5 +35,5 @@
 	</section>
 
 <script>
-	getDetails("Kudat", "");
+	getDetails("Kudat");
 </script>

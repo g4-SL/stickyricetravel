@@ -33,5 +33,5 @@
 	</section>
 
 <script>
-	getDetails("Kota Kinabalu", "Cycling Programs");
+	getDetails("Cycling Programs");
 </script>

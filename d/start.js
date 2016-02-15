@@ -34,17 +34,6 @@ $(function() {
 });
 
 $(function() {
-	var max_height = 0, counter = 0;
-	$('.same_height').each(function(){
-		$(this).find('section .mt div').each(function(){
-			max_height = Math.max(max_height, $(this).height());
-		});
-		$(this).find('.mt div').css({height: max_height});
-		max_height = 0;
-	});
-});
-
-$(function() {
 	$('.ei-slider-v2').css({height: 895});
 	$('.hd .big_title h1').after('<div class="short_line"></div>');
 	$('.hd .big_title p:nth-child(4)').css({"paddingTop": 20}); 
@@ -60,12 +49,20 @@ var currentYear = (new Date).getFullYear();
 	------------------------------------------------------------------------------------------- */
 
 var MAX_RATING = 5;
+var OUR_ADVENTURES;
 
 function getJson(){	
 	return $.ajax({
 		dataType: "json",
 		url: "../f/product_summary.json",
 		success: function(data){
+			var i = 0; 
+			for (i in data.url_group){
+				if(data.url_group[i].title == "Our Adventures"){
+					OUR_ADVENTURES = i;
+					break;
+				}
+			}
 			return;
 		}
 	});
@@ -105,6 +102,7 @@ function isCategoryFound(compareWith, product){
 			return true;
 		}
 	}
+	return false;
 }
 
 function printProduct(product){
@@ -152,48 +150,6 @@ function getUrlCategory(category){
 	}
 }
 
-/* populate category page with relevant product */
-function getDetailsBasedOnCategory(category){	
-	var res = "", counter = 0;
-	$.when(getJson()).done(function(data){
-		for (var i in data.parent_product){
-			for (var j in data.parent_product[i].child){
-				if(isCategoryFound(category, data.parent_product[i].child[j])){
-					$(".category-listing").append(printProduct(data.parent_product[i].child[j]));
-					counter++;
-				}
-			}
-		}
-	});
-}
-
-function getDetails(compareWith, compareWithChild){
-	$.when(getJson()).done(function(data){
-		var i = 0, arr, counter = 0;
-		loop1: 
-		for (i in data.parent_product){
-			if(data.parent_product[i].title == compareWith && compareWithChild == ""){
-				arr = data.parent_product[i].child;
-				break loop1;
-			}
-			else if(data.parent_product[i].title == compareWith){
-				loop2:
-				for (var l in data.parent_product[i].child){
-					if(data.parent_product[i].child[l].title == compareWithChild){
-						arr = data.parent_product[i].child[l].child;
-						break loop1;
-					}				
-				}				
-			}
-		}
-
-		for (var j in arr){
-			$(".product-listing").append(printProduct(arr[j]));
-			counter++;
-		}
-	});
-}
-
 var selectedProduct = "";
 
 function checkForChild(group, searchFor){
@@ -211,16 +167,39 @@ function checkForChild(group, searchFor){
 	return false;
 }
 
-function populateSidebar(product_parent, searchFor){
-	$.when(getJson()).done(function(data){
-		var i = 0;
-		for (i in data.parent_product){
-			if(data.parent_product[i].title == product_parent){
-				break;
-			}
+function findMatchingCategory(group, category){
+	for (var i in group.child){
+		if(group.child[i].hasOwnProperty('category') && isCategoryFound(category, group.child[i])){
+			$(".category-listing").append(printProduct(group.child[i]));
 		}
+		else if(group.child[i].hasOwnProperty('child')){
+			if(findMatchingCategory(group.child[i], category));
+		}
+	}
+}
 
-		if(checkForChild(data.parent_product[i], searchFor)){
+/* populate category page with relevant product */
+function getDetailsBasedOnCategory(category){	
+	var res = "";
+	$.when(getJson()).done(function(data){
+		findMatchingCategory(data.url_group[OUR_ADVENTURES], category);
+	});
+}
+
+function getDetails(compareWith){
+	$.when(getJson(true)).done(function(data){
+		var i = 0;
+		if(checkForChild(data.url_group[OUR_ADVENTURES], compareWith)){
+			for (i in selectedProduct.child){
+				$(".product-listing").append(printProduct(selectedProduct.child[i]));
+			} 
+		}
+	});
+}
+
+function populateSidebar(product_parent, searchFor){
+	$.when(getJson(true)).done(function(data){
+		if(checkForChild(data.url_group[OUR_ADVENTURES], searchFor)){
 			var temp = "";
 			for(var pd in selectedProduct.category){
 				var category = selectedProduct.category[pd];

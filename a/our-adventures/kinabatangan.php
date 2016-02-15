@@ -42,5 +42,5 @@
 	</section>
 
 <script>
-	getDetails("Kinabatangan", "");
+	getDetails("Kinabatangan");
 </script>

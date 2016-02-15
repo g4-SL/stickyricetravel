@@ -17,6 +17,7 @@ function sanitize_output($buffer) {
 
 $p = explode("/", $_SERVER['REQUEST_URI'] );
 
+
 //OLD URLS			
 if($p[1] == "borneo") {$p[1] = "our-adventures";}			
 if($p[1] == "batu-punggul-and-sapulot") {$p[1] = "orou-sapulot";}		
@@ -312,43 +313,43 @@ if($p[1] == "our-adventures" && $p[2] == "kota-kinabalu" && $p[3] == "momma-hous
 	$d = "Book amazing borneo holidays with Sticky Rice. Discover Dusun Tribe & longhouse accommodation by the banks of the Kedamaian River. Meaningful Adventures!";	
 }
 
-if($p[1] == "our-adventures" && $p[2] == "kota-kinabalu" && $p[3] == "accommodation") {
-	$t = "Kota Kinabalu | Accommodations";
-	$d = "Book amazing borneo holidays with Sticky Rice. Discover Dusun Tribe & longhouse accommodation by the banks of the Kedamaian River. Meaningful Adventures!";	
-}
-
-if($p[1] == "our-adventures" && $p[2] == "kota-kinabalu" && $p[3] == "accommodation" && $p[4] == "borneo-backpackers") {
+if($p[1] == "our-adventures" && $p[2] == "kota-kinabalu" && $p[3] == "borneo-backpackers") {
 	$t = "Kota Kinabalu | Borneo Backpackers";
 	$d = "Book amazing borneo holidays with Sticky Rice. Discover Dusun Tribe & longhouse accommodation by the banks of the Kedamaian River. Meaningful Adventures!";	
 }
 
-if($p[1] == "our-adventures" && $p[2] == "kota-kinabalu" && $p[3] == "accommodation" && $p[4] == "gaya-island-resort") {
+if($p[1] == "our-adventures" && $p[2] == "kota-kinabalu" && $p[3] == "gaya-island-resort") {
 	$t = "Kota Kinabalu | Gaya Island Resort";
 	$d = "Book amazing borneo holidays with Sticky Rice. Discover Dusun Tribe & longhouse accommodation by the banks of the Kedamaian River. Meaningful Adventures!";	
 }
 
-if($p[1] == "our-adventures" && $p[2] == "kota-kinabalu" && $p[3] == "accommodation" && $p[4] == "grandis-hotel") {
+if($p[1] == "our-adventures" && $p[2] == "kota-kinabalu" && $p[3] == "grandis-hotel") {
 	$t = "Kota Kinabalu | Grandis Hotel";
 	$d = "Book amazing borneo holidays with Sticky Rice. Discover Dusun Tribe & longhouse accommodation by the banks of the Kedamaian River. Meaningful Adventures!";	
 }
 
-if($p[1] == "our-adventures" && $p[2] == "kota-kinabalu" && $p[3] == "accommodation" && $p[4] == "hotel-sixty3") {
+if($p[1] == "our-adventures" && $p[2] == "kota-kinabalu" && $p[3] == "hotel-sixty3") {
 	$t = "Kota Kinabalu | Hotel Sixty3";
 	$d = "Book amazing borneo holidays with Sticky Rice. Discover Dusun Tribe & longhouse accommodation by the banks of the Kedamaian River. Meaningful Adventures!";	
 }
 
-if($p[1] == "our-adventures" && $p[2] == "kota-kinabalu" && $p[3] == "accommodation" && $p[4] == "hyatt-regency") {
+if($p[1] == "our-adventures" && $p[2] == "kota-kinabalu" && $p[3] == "hyatt-regency") {
 	$t = "Kota Kinabalu | Hyatt Regency";
 	$d = "Book amazing borneo holidays with Sticky Rice. Discover Dusun Tribe & longhouse accommodation by the banks of the Kedamaian River. Meaningful Adventures!";	
 }
 
-if($p[1] == "our-adventures" && $p[2] == "kota-kinabalu" && $p[3] == "accommodation" && $p[4] == "jesselton-hotel") {
+if($p[1] == "our-adventures" && $p[2] == "kota-kinabalu" && $p[3] == "jesselton-hotel") {
 	$t = "Kota Kinabalu | Jesselton Hotel";
 	$d = "Book amazing borneo holidays with Sticky Rice. Discover Dusun Tribe & longhouse accommodation by the banks of the Kedamaian River. Meaningful Adventures!";	
 }
 
-if($p[1] == "our-adventures" && $p[2] == "kota-kinabalu" && $p[3] == "accommodation" && $p[4] == "kk-suites") {
+if($p[1] == "our-adventures" && $p[2] == "kota-kinabalu" && $p[3] == "kk-suites") {
 	$t = "Kota Kinabalu | KK Suites";
+	$d = "Book amazing borneo holidays with Sticky Rice. Discover Dusun Tribe & longhouse accommodation by the banks of the Kedamaian River. Meaningful Adventures!";	
+}
+
+if($p[1] == "our-adventures" && $p[2] == "kota-kinabalu" && $p[3] == "shangri-la") {
+	$t = "Kota Kinabalu | Shangri-La's Tanjung Aru Resort & Spa";
 	$d = "Book amazing borneo holidays with Sticky Rice. Discover Dusun Tribe & longhouse accommodation by the banks of the Kedamaian River. Meaningful Adventures!";	
 }
 

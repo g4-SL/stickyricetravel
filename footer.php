@@ -130,7 +130,7 @@
 					</div>				
 
 					<div class="four columns">
-						<div class="copyright" style="text-align:right">Website tune by <a target="_blank" style="letter-spacing:-2px" href="http://www.razorbytes.com">RAZORBYTES</a></div>
+						<div class="copyright" style="text-align:right">Website tune by <a target="_blank" style="letter-spacing:-1px">sarahlouise.com</a></div>
 					</div>
 					
 				</div>

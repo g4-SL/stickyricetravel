@@ -39,5 +39,5 @@
 	</section>
 
 <script>
-	getDetails("Kinabalu National Park", "");
+	getDetails("Kinabalu National Park");
 </script>

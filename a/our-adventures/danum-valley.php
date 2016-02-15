@@ -42,5 +42,5 @@
 	</section>
 
 <script>
-	getDetails("Danum Valley", "");
+	getDetails("Danum Valley");
 </script>

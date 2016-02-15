@@ -38,5 +38,5 @@
 	</section>
 
 <script>
-	getDetails("Kota Kinabalu", "");
+	getDetails("Kota Kinabalu");
 </script>

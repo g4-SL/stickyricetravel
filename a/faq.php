@@ -12,6 +12,19 @@
 
 			<div class="one columns"></div>
 
+			<div class="eighteen columns">
+				<ul class="sub-navi">
+					<li><a rel="#sabah">General</a></li>
+					<li><a rel="#sarawak">Danum Valley</a></li>
+					<li><a rel="#multi-days-trip">Maliau Basin</a></li>
+					<li><a rel="#special-requests">Tabin Wildlife Center</a></li>
+				</ul>
+			</div>
+
+			<div class="clear"></div>
+
+			<div class="one columns"></div>
+
 			<div class="eighteen columns big_title">
 				<ul class="brc">
 					<li><a href="/home">Home</a></li>

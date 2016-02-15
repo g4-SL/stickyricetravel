@@ -44,5 +44,5 @@
 	</section>
 
 <script>
-	getDetails("Mulu National Park", "");
+	getDetails("Mulu National Park");
 </script>
