@@ -267,6 +267,9 @@ input.bn:hover,.form .button:hover{box-shadow:2px 3px 3px #846b52;border:none;ma
 .review-col h3{font-size:1.4em;margin-bottom:5px}
 .review-col h4{font-size:0.9em;margin-top:0}
 .review-col p{margin-bottom:30px}
+.hover-tint{overflow: hidden;cursor: default;position:relative;}
+.hover-tint img{display:block;position:relative;}
+.hover-tint .mask{display:none;}
 i.ionic{padding-right:15px;font-size:1.7em;display:none;}
 a.faq_url:hover{cursor:pointer;}
 ul.faq_list{list-style-type:none;margin-top:20px;background:url(../c/talk-box-small.jpg);padding:20px 15px}
@@ -384,6 +387,7 @@ div{padding:0;margin:0}
 section.one-third-col .mt div{height:auto !important;}
 .border .one-third-col{border-right:none!important;}
 .border .one-third-col:last-child{border-bottom:none;}
+.hover-tint img{content:url(../c/dvfc_promo_sm.jpg);}
 }
 @media only screen and (min-width:480px) and (max-width:620px){.ei-slider{height:300px !important}
 }
@@ -409,6 +413,9 @@ ul.horizontal-align.sm-interest li:nth-child(5):after{content:"\0020";display:bl
 .product_side ul.category li{width:150px;}
 .book_btn_x{display:none !important}
 .book_btn_y{display:block !important}
+.hover-tint .mask{display:block;background-color: rgba(0,0,0,0.5);transform: translateY(350px);opacity: 1;transition: all 0.4s ease-in-out; position: absolute;width:100%;top: 0;left: 0;bottom:0;}
+.hover-tint .mask span{position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);color:#fff;font-family:'Oswald',sans-serif;text-transform:uppercase;font-size:1.4em;}
+.hover-tint:hover .mask{transform: translateY(0px);}
 }
 @media (min-width:960px){.map-adv{display:block}
 .img-adv{display:none}

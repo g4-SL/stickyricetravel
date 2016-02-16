@@ -141,23 +141,16 @@
 							<?php include "./helper/interest-table.php" ?>
 						</div>
 					</div>
-				</div>
-
-				<div class="clear"></div>
-
-				<div class="one columns"></div>
-
-				<div class="eighteen columns">
-					<a href="./our-adventures/danum-valley/danum-valley-field-center"><img src="./c/dvfc_promo.jpg" width="100%"></a>
-				</div>
-
-				<div class="clear"></div>
-
-				<div class="one columns"></div>
-
-				<div class="eighteen columns circle_center">
-					<h1>Bringing you meaningful adventures</h1>
-					<h4>
+					<div class="hover-tint circle_center">
+						<a href="./our-adventures/danum-valley/danum-valley-field-center">
+							<img src="./c/dvfc_promo.jpg" width="100%">
+							<div class="mask">
+								<span>Click for more information</span>
+							</div>
+						</a>
+					</div>
+					<h1 class="circle_center" style="margin-top:25px">Bringing you meaningful adventures</h1>
+					<h4 class="circle_center" >
 						As travellers ourselves, we love to travel and explore off-the-beaten tracks. Many travellers have come to us with the same zeal and interest to explore the least travelled part of Borneo and thus, Sticky Rice Travel was formed. Our knowledge of travel is based on our own personal experiences and our guides are one of the best in the business. Our work does not stop there as we are always out and about to discover new trails. We are also a firm believer on community initiation and sustainability. We want to deliver travel packages that are not only memorable for its adventurous aspect but also one that would leave a positive mark for both the Bornean community and travellers themselves.
 					</h4>
 					<div class="sm-button circle_center">
