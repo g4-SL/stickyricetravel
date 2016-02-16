@@ -528,20 +528,12 @@
 							"image": "/c/adventures/sepilok-sojourn.jpg"
 						},
 						{
-							"title": "3D2N Orang Utans & Turtles",
+							"title": "4D3N Orang Utans & Turtles",
 							"accommodation": 3,
 							"difficulty": 1,
-							"category": ["Wildlife", "Beach"],
+							"category": ["Water Sports", "Beach", "Wildlife"],
 							"url": "./our-adventures/sandakan-and-sepilok/orang-utan-and-turtles",
 							"image": "/c/adventures/orang-utan-and-turtles.jpg"
-						},
-						{
-							"title": "2D1N Libaran Turtle Island Camping",
-							"accommodation": 2,
-							"difficulty": 1,
-							"category": ["Wildlife", "Beach"],
-							"url": "./our-adventures/sandakan-and-sepilok/libaran-turtle-island-camping",
-							"image": "/c/adventures/libaran-turtle-island-camping.jpg"
 						},
 						{
 							"title": "3D2N Lankayan Island",

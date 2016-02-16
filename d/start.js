@@ -90,9 +90,9 @@ function listCategory(arrCategory){
 	var res = ""; 
 
 	while(i--){
-		res = res + arrCategory[i] + ", ";
+		res = res + '<li>' + arrCategory[i] + "</li>";
 	}
-	return ("<h6>" + res + "</h6>");
+	return ("<ul>" + res + "</ul>");
 }
 
 function isCategoryFound(compareWith, product){

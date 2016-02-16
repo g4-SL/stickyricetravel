@@ -63,6 +63,6 @@
 		<a class="l" href="./home"><img src="/c/logo.png" alt="Sticky Rice Travel Logo" ></a>
 		<form id="search" action="search.php" method="GET">
 			<a style="clear:right" onClick="document.getElementById('search').submit()" ></a>
-			<input type="text" name="f" id="w" value="In search for..." onblur="this.value = 'In search for...';" onclick="this.value = '';">
+			<input type="text" name="f" id="w" value="Search for..." onblur="this.value = 'Search for...';" onclick="this.value = '';">
 		</form>	
 	</div>

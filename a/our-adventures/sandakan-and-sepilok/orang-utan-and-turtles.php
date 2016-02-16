@@ -1,7 +1,7 @@
 	<div id="sly" class="ei-slider">
 		<ul class="ei-slider-large">
 			<li>
-				<img src="c/large/www-adventures-orang-utan-and-turtles.jpg" alt="Danum Valley"/>
+				<img src="c/large/www-adventures-orang-utan-and-turtles.jpg" alt="Orang Utans and Turtles"/>
 				<div class="ei-title"></div>
 			</li>
 		</ul>
@@ -20,9 +20,9 @@
 					<li><a href="./home">Home</a></li>
 					<li><a href="./our-adventures">Our Adventures</a></li>
 					<li><a href="./our-adventures/sandakan-and-sepilok">Sandakan &amp; Sepilok</a></li>
-					<li>3D2N Orang Utans &amp; Turtles</li>
+					<li>4D3N Orang Utans &amp; Turtles</li>
 				</ul>
-				<h1>3D2N Orang Utans &amp; Turtles</h1>
+				<h1>4D3N Orang Utans &amp; Turtles</h1>
 			</div>	
 			
 			<div class="clear"></div>
@@ -34,7 +34,7 @@
 			<div class="nine columns">
 				
 				<p>
-					This program allows you to explore the attractions in Sepilok with our nature guide, and move on the next day to the turtles on Libaran Island. 
+					This program allows you to explore the attractions in Sepilok with our nature guide, and move on the next day for a trip to Lankayan island, a small tropical island in the Sulu Sea. 
 				</p>				
 				<p>
 					The Sepilok Orangutan Rehabilitation Center (SORC) was founded in 1964 to rehabilitate orphaned orangutans. The site consists of 43 sq kilometres of protected land at the edge of the Sepilok-Kabili Forest Reserve, and facilities include a centre built to care for the rescued orang utans. Sepilok is run by the Sabah Wildlife Department and is considered to be a useful educational tool for creating awareness of the plight of orang utans, for both locals and visitors alike. A visit here will give you the opportunity to learn of the rehabilitation process and see these gentle apes up close and personal during the feeding times. 
@@ -46,7 +46,7 @@
 					Not to miss in the Sepilok-Kabili Forest Reserve is the Rainforest Discovery Center (RDC). Set up originally as an environmental education center for students and teachers, it opened its doors to visitors in 2007 and today is one of the main attraction of any visits to Sepilok because of its excellent set up by Sabah Forestry Department. Discover the rainforest of Borneo from the treetops along a 347 metres-long steel, canopy walkway and explore the extensive network of rainforest discovery trails on its grounds.
 				</p>	
 				<p>
-					From jungle to the sea, you will visit Libaran Island in hopes of turtle sightings at the low-key Walai Penyu Resort, accommodating only up to 20 guests nightly in tented accommodation. Located in the Sulu sea, Libaran Island is home to about 450 inhabitants whose main livelihood is derived from fishing and boat making. A visit here will give you a chance to observe Pacific Green or Hawksbill turtles coming ashore to build nests and lay their eggs. Walai Penyu Resort has an in-house turtle hatchery via its Turtle Conservation Programme, and collects and rescue eggs to hatch safely from predators before being released into the sea. The programme also aims to create awareness on endangered turtles for locals and visitors alike, and you may have the chance to assist in releasing baby turtles into the sea during your time here.
+					From jungle to the sea, you will visit Lankayan Island. Unpopulated and circled by white sandy shore, Lankayan Island is exquisitely private, perfect for honeymooners and anyone seeking peace and tranquility. It is a popular spot for diving as it sits within a large Marine Protected Area, with a centre run by professional dive-professionals. Not forgetting the non-divers, one can keep themselves busy with snorkeling, kayaking or visiting the turtle hatchery. If you want your tourism-dollars to go a little bit further – a percentage of what you pay go into its conservation fund to sustain the patrolling of boats by locally trained wardens, turtle hatchery, and other marine conservation efforts activities – Lankayan Island Dive Resort is the place to go.
 				</p>
 
 
@@ -80,13 +80,19 @@
 							<tr valign="middle">
 								<th><img src="c/day2.png" alt="Day 2 - Day Two" /></th>
 								<td>
-									Pick up at your hotel in Sepilok or Sandakan at 9.30am for transfer to Sandakan Yacht Club jetty for departure to Libaran Island at 10.30am. Upon arrival on the island 45 minutes later, check-in and explore the island, or simply relax at the sun deck or by the beach. Enjoy lunch at about 12.30pm and after lunch, go for a briefing by the Honorary Wildlife Warden on the turtle conservation program. At mid afternoon, go on a guided walk along the beach to Kampung Pulak Libaran, the local village, and see what life is like for locals on the island. Return to camp and at about 6pm, visit the turtle hatchery and release baby turtle if there are any to be released. Enjoy dinner as you wait for the ranger call in hopes of turtle sightings.  Lights out. 
+									Pick-up from your Sandakan hotel at 9am for transfer to Sandakan Yacht Club jetty (If booking a flight to Sandakan, you need to arrive by 9am to allow travel time to the jetty to catch the once daily boat to Lankayan Island). Upon arrival, depart to Lankayan Island on the 10am scheduled boat (75 minutes boat ride). Register, check-in and settle into your chalet on the island. Rest of the day free at your own leisure. If you are a diver, there will be an orientation dive before lunch and another boat dive at 3pm. If booked on a non-diver package, rest of the day free at your own leisure.
 								</td>
 							</tr>
 							<tr valign="middle">
 								<th><img src="c/day3.png" alt="Day 3 - Day Three" /></th>
 								<td>
-									Early breakfast at 7am before checking out and departing back to Sandakan at 8.30am. Estimated arrival at Sandakan Yacht Club Jetty at about 9.30am for onward transfer.
+									Breakfast at the resort. Divers will go on 3 boat dives in front of the Dive Center. Non-divers free at leisure – you are free to rent snorkel gear and snorkel off the beach at the house reef. 
+								</td>
+							</tr>
+							<tr valign="middle">
+								<th><img src="c/day4.png" alt="Day 4 - Day Four" /></th>
+								<td>
+									Early morning after breakfast at 7am, depart the resort to return to Sandakan Yacht Club jetty for drop off at your hotel in Sandakan, Sepilok or airport. If booking an airport connection, please book flights after 11am. Included in the package is also a guided tour to Sepilok Orang Utan Rehabililtation Center upon arrival back in Sandakan – you just have to pay your own entrance fees.
 								</td>
 							</tr>
 						</tbody>
@@ -103,10 +109,12 @@
 						</tr>
 						<tr>
 							<td>
-								Accommodation in Sepilok, guide in Sepilok including all entrance fees, lunch at Lindung on Day 1 + fullboard Day 2 + breakfast Day 3, return boat transfer from Sandakan, guided village walk and mentioned activities at Libaran Island including guide, all connecting ground transfers.
+								Accommodation in Sepilok, guide in Sepilok including all entrance fees, all connecting ground transfers, fullboard meals including afternoon snacks, coffee, tea &amp; drinking water, marine conservation fees, return land and boat transfers from Sandakan, optional guided tour to Sepilok Orang Utan Rehabilitation Cenre on last day (entrance not included). 
+								<br /><br />
+								Diver package: 3 guided boat dives daily except on arrival &amp; departure day, tank, weight and weight belts
 							</td>
 							<td>
-								Camera fees, if applicable at Sepilok attractions, meals not stated, snorkel gear (30RM per set of snorkel, mask &amp; fins), optional additional visit to Bakungan Kecil island Island  or Selingan Island (150RM per boat and Sabah Park entrance fees of 60RM per person), kayak rental.
+								Camera fees, if applicable at Sepilok attractions, meals not stated, diver package (dive gear available for rent), non-diver package (snorkel gear available for rent, boat snorkeling - min 2pax, 50RM per person) 
 							</td>
 						</tr>
 						<tr>
@@ -139,6 +147,7 @@
 					<?php include './a/side-book-now.php'; ?>
 					<?php include './a/product-sidebar.php'; ?>
 				</div>
+				<img src="c/adventures-orang-utan-and-turtles/6-400.jpg" alt="Orang Utan and Turtles">
 				<img src="c/adventures-orang-utan-and-turtles/2-400.jpg" alt="Orang Utan and Turtles">
 				<img src="c/adventures-orang-utan-and-turtles/3-400.jpg" alt="Orang Utan and Turtles">
 				<img src="c/adventures-orang-utan-and-turtles/1-400.jpg" alt="Orang Utan and Turtles">
@@ -151,5 +160,5 @@
 	</section>
 
 <script>
-	populateSidebar("Sandakan & Sepilok", "3D2N Orang Utans & Turtles");
+	populateSidebar("Sandakan & Sepilok", "4D3N Orang Utans & Turtles");
 </script>
