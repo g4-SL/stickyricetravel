@@ -17,17 +17,21 @@ AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css a
 ## EXPIRES CACHING ##
 <IfModule mod_expires.c>
 ExpiresActive On
-ExpiresByType image/jpg "access 1 month"
-ExpiresByType image/jpeg "access 1 month"
-ExpiresByType image/gif "access 1 month"
-ExpiresByType image/png "access 1 month"
-ExpiresByType text/css "access 1 week"
-ExpiresByType text/html "access 1 week"
-ExpiresByType application/pdf "access 1 year"
-ExpiresByType text/x-javascript "access 1 week"
-ExpiresByType application/x-shockwave-flash "access 1 year"
-ExpiresByType image/x-icon "access 1 month"
-ExpiresDefault "access 1 month"
+ExpiresByType image/jpg 	"access plus 1 month"
+ExpiresByType image/jpeg 	"access plus 1 month"
+ExpiresByType image/gif 	"access plus 1 month"
+ExpiresByType image/png 	"access plus 1 month"
+ExpiresByType text/css 		"access plus 1 week"
+ExpiresByType text/html 	"access plus 1 month"
+ExpiresByType text/php 		"access plus 1 month"
+ExpiresByType text/javascript 	"access plus 1 month"
+ExpiresByType text/x-javascript "access plus 1 month"
+ExpiresByType image/x-icon 		"access plus 1 month"
+ExpiresByType application/pdf 	"access plus 1 year"
+ExpiresByType application/json 	"access plus 1 week"
+ExpiresByType application/javascript 	"access plus 1 month"
+ExpiresByType application/x-shockwave-flash 	"access plus 1 year"
+ExpiresDefault 	"access plus 1 month"
 </IfModule>
 ## EXPIRES CACHING ##
 
@@ -38,6 +42,14 @@ AddOutputFilterByType SUBSTITUTE text/html
 Substitute "s|(<script src='/google_analytics_auto.js'></script>)?</head>|<script src='/google_analytics_auto.js'></script></head>|i"
 </IfModule>
 # END Google Analytics Integration
+
+# Font face - Cross Origin Request (CORS).
+<FilesMatch ".(ttf|otf)$">
+<IfModule mod_headers.c>
+Header set Access-Control-Allow-Origin "*"
+</IfModule>
+</FilesMatch>
+# END CORS
 
 redirect 301 /crocker-range-park /our-adventures/crocker-range-park
 redirect 301 /mt-trus-madi /our-adventures/crocker-range-park/mt-trus-madi

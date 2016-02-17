@@ -440,7 +440,7 @@ ul.list1 li:first-child{margin-right:4%}
 #base_social_media .nine.columns{width:460px;}
 .blb{width:87% !important;}
 ul.horizontal-align.sm-interest li:nth-child(5):after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}
-ul.horizontal-align.sm-interest li img{width:56px}
+ul.horizontal-align.sm-interest li img{width:64px}
 .pick-by-interest div:first-child h4{font-size:0.9em}
 .md-interest{width:700px}
 .md-interest ul.horizontal-align li{width:139px;}
@@ -452,7 +452,7 @@ ul.horizontal-align.sm-interest li img{width:56px}
 .nine.columns.mt{width:460px;}
 input.bn,input.bn:hover{width:300px}
 .product_side .left,.product_side .right{float:left;width:49.85%}
-.product_side .right{border-left:1px dashed rgba(96,61,5,.5)}
+.product_side .left{border-right:1px dashed rgba(96,61,5,.5)}
 .product_side .left ul:last-child{border:none;margin:0;padding:0}
 .product_side ul.category li{width:150px}
 }
@@ -497,6 +497,7 @@ input.bn,input.bn:hover{width:300px}
 .product_side .left,.product_side .right{width:100%}
 .product_side .left ul{margin-bottom:10px;padding-bottom:10px}
 .product_side ul.category li{width:180px}
+.mt-icon a img{width:14.25%;}
 }
 @media (min-width:480px) and (max-width:767px){.img_boxing a{height:auto}
 .img_boxing .category{padding:15px;}
@@ -510,7 +511,7 @@ ul.list1 li{float:left;width:50%;}
 .animated_box div:nth-child(2){padding:15px 10px}
 .animated_box div h2{font-size:1.1em}
 input.bn,input.bn:hover{width:300px}
-.blb{width:89% !important;}
+.blb{width:300px !important;}
 .pick-by-interest{border-top:none;}
 ul#sabah_list{-webkit-column-count:1;-moz-column-count:1;column-count:1;}
 ul.horizontal-align.full-col li{width:340px}
@@ -557,7 +558,7 @@ input.bn,input.bn:hover,.form .button.submit-btn,.form .button.clear-btn{width:1
 .fb-header{height:50px}
 .fb-header img{width:40px}
 .fb-header div h3{font-size:0.9em}
-.blb{width:87% !important;}
+.blb{width:217px !important;}
 ul#sabah_list{-webkit-column-count:1;-moz-column-count:1;column-count:1;}
 ul.horizontal-align.sm-interest li img{width:50px}
 ul.horizontal-align.sm-interest li{margin-right:0}

@@ -40,7 +40,7 @@
 				</p>
 			</div>
 
-			<div class="six columns mt-icon">
+			<div class="six columns mt-icon twelve-six-col-res">
 				<h1>Meet the Team</h1>
 				<a href="../meet-the-team#jessica-yew"><img src="./c/the-team/icon/jessica-yew.jpg" title="Jessica Yew"/></a>
 				<a href="../meet-the-team#charles-ryan"><img src="./c/the-team/icon/charles-ryan.jpg" title="Charles Ryan"/></a>

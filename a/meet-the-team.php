@@ -131,7 +131,7 @@
 							<h1>Siti Noraminah</h1>
 							<h4>Admin</h4>
 							<p>
-								The romantic of the office, Siti dreams of strolling the streets of Paris baguette in hand while singing Edith Pilaf. A sweet smile belies her motorcycle driving skills, after helping her mother with dinner she is known to pull the longest wheelies in Kota Kinabalu on her way to Karaoke. Siti handles our admin with an incredible ability to manage numbers and endless paperwork. 
+								The romantic of the office, Siti dreams of strolling the streets of Paris baguette in hand while singing Edith Piaf. A sweet smile belies her motorcycle driving skills, after helping her mother with dinner she is known to pull the longest wheelies in Kota Kinabalu on her way to Karaoke. Siti handles our admin with an incredible ability to manage numbers and endless paperwork. 
 							</p>
 						</div>
 					</div>

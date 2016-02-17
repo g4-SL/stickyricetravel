@@ -37,7 +37,7 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
 	<script type="text/javascript" src="/d/jquery.ms.js"></script>
 	<script type="text/javascript" src="/d/jquery.mobilemenu.js"></script>
-	<script type="text/javascript" src="/d/start.js"></script>	
+	<script type="text/javascript" src="/d/start.js?v=1.1"></script>	
 
 </head>
 <body>

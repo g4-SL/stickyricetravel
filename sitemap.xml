@@ -66,10 +66,6 @@
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/our-adventures/danum-valley/danum-valley-field-center/jungle-to-luxury</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
   <loc>http://www.stickyricetravel.com/our-adventures/kinabalu-national-park</loc>
   <changefreq>monthly</changefreq>
 </url>
@@ -162,39 +158,39 @@
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/our-adventures/kota-kinabalu/borneo-orchard-house</loc>
+  <loc>http://www.stickyricetravel.com/our-adventures/kota-kinabalu/seatango-river-cruise</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/our-adventures/kota-kinabalu/accommodation</loc>
+  <loc>http://www.stickyricetravel.com/our-adventures/kota-kinabalu/borneo-backpackers</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/our-adventures/kota-kinabalu/accommodation/borneo-backpackers</loc>
+  <loc>http://www.stickyricetravel.com/our-adventures/kota-kinabalu/gaya-island-resort</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/our-adventures/kota-kinabalu/accommodation/gaya-island-resort</loc>
+  <loc>http://www.stickyricetravel.com/our-adventures/kota-kinabalu/grandis-hotel</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/our-adventures/kota-kinabalu/accommodation/grandis-hotel</loc>
+  <loc>http://www.stickyricetravel.com/our-adventures/kota-kinabalu/hotel-sixty3</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/our-adventures/kota-kinabalu/accommodation/hotel-sixty3</loc>
+  <loc>http://www.stickyricetravel.com/our-adventures/kota-kinabalu/hyatt-regency</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/our-adventures/kota-kinabalu/accommodation/hyatt-regency</loc>
+  <loc>http://www.stickyricetravel.com/our-adventures/kota-kinabalu/jesselton-hotel</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/our-adventures/kota-kinabalu/accommodation/jesselton-hotel</loc>
+  <loc>http://www.stickyricetravel.com/our-adventures/kota-kinabalu/kk-suites</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/our-adventures/kota-kinabalu/accommodation/kk-suites</loc>
+  <loc>http://www.stickyricetravel.com/our-adventures/kota-kinabalu/shangri-la</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
@@ -227,10 +223,6 @@
 </url>
 <url>
   <loc>http://www.stickyricetravel.com/our-adventures/sandakan-and-sepilok/sepilok-sojourn</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://www.stickyricetravel.com/our-adventures/sandakan-and-sepilok/libaran-turtle-island-camping</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
@@ -358,6 +350,14 @@
   <changefreq>monthly</changefreq>
 </url>
 <url>
+  <loc>http://www.stickyricetravel.com/meet-the-team</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/faq</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
   <loc>http://www.stickyricetravel.com/responsible-tourism</loc>
   <changefreq>monthly</changefreq>
 </url>
@@ -382,7 +382,43 @@
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.stickyricetravel.com/our-friends</loc>
+  <loc>http://www.stickyricetravel.com/travel-by-interest/river-cruise</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/travel-by-interest/jungle-trekking</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/travel-by-interest/culture</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/travel-by-interest/day-trip</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/travel-by-interest/wildlife</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/travel-by-interest/water-sports</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/travel-by-interest/beach</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/travel-by-interest/climbing</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/travel-by-interest/cave</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.stickyricetravel.com/travel-by-interest/accommodation</loc>
   <changefreq>monthly</changefreq>
 </url>
 </urlset>
