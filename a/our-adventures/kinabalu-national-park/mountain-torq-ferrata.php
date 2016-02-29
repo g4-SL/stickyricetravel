@@ -96,13 +96,13 @@
 								<br /><br />
 								The climb on the 1st day is 6km with an elevation gain of about 1,300 meters. This takes 4-6 hours depending on fitness, and there are rest stops with toilets along the way. There are opportunities to refill your water bottles on the way up but since the water is not treated, we recommend water purification tablets or iodine for this. Alternatively, you can stock up on drinking water before commencing your climb. 
 								<br /><br />
-								Along the way, observe the fascinating montane forest with pitcher plants, rhododendrons and orchids. Stop en-route to eat your packed lunch. Upon arrival at Pendant Hut, check into your accommodation and settle in, and attend the mandatory via ferrata familiarization by your Mountain Torq trainer. You will have access to filtered drinking water and will be able to refill your water bottle. Dinner is served at 6pm and lights out at 8pm.
+								Along the way, observe the fascinating montane forest with pitcher plants, rhododendrons and orchids. Stop en-route to eat your packed lunch. Reach Pendant Hut by 3.30pm for <b>mandatory safety briefing</b> at 4pm. Upon arrival at Pendant Hut, check into your accommodation and settle in, and attend the mandatory via ferrata familiarization by your Mountain Torq trainer. You will have access to filtered drinking water and will be able to refill your water bottle. Dinner is served at 6pm and lights out at 8pm.
 							</td>
 						</tr>
 						<tr>
 							<td class="col_label"><img src="c/day2.png" alt="Day 2 - Day Two" /></td>
 							<td>
-								Early morning wake up for coffee or tea at 2.30am. Continue your climb to the summit for sunrise. Make sure you have your headlamp with you during this portion of the climb to the summit. After sunrise, meet your via ferrata trainer at Sayat Sayat Hut for your via ferrata experience. Then, return to Pendant Hut for a full breakfast before checking out and making your way to the base of the mountain. Most people take 4-5 hours to return to the base. Your driver will be waiting for you at the start of the trail to take you back to Kota Kinabalu.
+								Early morning wake up for coffee or tea at 2.30am. Continue your climb to the summit for sunrise. Make sure you have your headlamp with you during this portion of the climb to the summit. After sunrise, meet your via ferrata trainer at the starting point for your via ferrata experience. Then, return to Pendant Hut for a full breakfast before checking out and making your way to the base of the mountain. Most people take 4-5 hours to return to the base. Your driver will be waiting for you at the start of the trail to take you back to Kota Kinabalu.
 							</td>
 						</tr>
 					</tbody>

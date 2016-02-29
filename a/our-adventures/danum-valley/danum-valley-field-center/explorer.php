@@ -138,7 +138,7 @@
 									<tr>
 										<th><img src="c/day4.png" alt="Day 4 - Day Four" /></th>
 										<td>
-											Wake up early for an early morning trek. Return to eating lounge for breakfast, check-out and be on your way to Lahad Datu via schedule transfer at 8.30 AM.
+											Wake up early for an early morning trek. Return to eating lounge for breakfast, and spend the rest of your morning at leisure until check out time at 11am. Arrive at Lahad Datu for onward travel at about 1pm.
 										</td>
 									</tr>	
 								</tbody>

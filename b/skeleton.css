@@ -124,7 +124,7 @@ p{margin:0 0 20px 0;font-size:0.8em;line-height:21px;margin-bottom:2em}
 strong{font-weight:bold;color:#333}
 small{font-size:80%}
 b{font-weight:600}
-a, a:visited{color:#333;text-decoration:none;outline:0}
+a, a:visited{color:#333;text-decoration:none;outline:0;border:0;}
 a:hover, a:focus{color:#000}
 p a, p a:visited{line-height:inherit}
 ul{margin-bottom:20px}
