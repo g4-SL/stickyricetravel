@@ -39,7 +39,14 @@
 			<div class="two columns"></div>
 
 			<div class="sixteen columns">
-				<a href="./download/Promo-DVFC.pdf" target="_blank"><img src="./c/dvfc_promo.jpg" width="100%"></a>
+				<div class="hover-tint">
+					<a href="./download/Promo-DVFC.pdf" target="_blank">
+						<img src="./c/dvfc_promo.jpg" width="100%">
+						<div class="mask">
+							<span>Click to zoom</span>
+						</div>
+					</a>
+				</div>
 			</div>
 			
 			<div class="clear"></div>

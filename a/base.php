@@ -143,7 +143,7 @@
 					</div>
 					<div class="hover-tint circle_center">
 						<a href="./our-adventures/danum-valley/danum-valley-field-center">
-							<img src="./c/dvfc_promo.jpg" width="100%">
+							<img src="./c/dvfc_promo.jpg">
 							<div class="mask">
 								<span>Click for more information</span>
 							</div>

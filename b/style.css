@@ -268,8 +268,8 @@ input.bn:hover,.form .button:hover{box-shadow:2px 3px 3px #846b52;border:none;ma
 .review-col h3{font-size:1.4em;margin-bottom:5px}
 .review-col h4{font-size:0.9em;margin-top:0}
 .review-col p{margin-bottom:30px}
-.hover-tint{overflow: hidden;cursor: default;position:relative;}
-.hover-tint img{display:block;position:relative;}
+.hover-tint{overflow: hidden;cursor: default;position:relative;border:1px solid rgba(96, 61, 5, 0.25);padding:5px;width:auto;}
+.hover-tint img{display:block;position:relative;width:100%;}
 .hover-tint .mask{display:none;}
 i.ionic{padding-right:15px;font-size:1.7em;display:none;}
 ul#sabah_list{-webkit-column-count:2;-moz-column-count:2;column-count:2;}
@@ -425,9 +425,10 @@ ul.horizontal-align.sm-interest li:nth-child(5):after{content:"\0020";display:bl
 .product_side ul.category li{width:150px;}
 .book_btn_x{display:none !important}
 .book_btn_y{display:block !important}
-.hover-tint .mask{display:block;background-color: rgba(0,0,0,0.5);transform: translateY(350px);opacity: 1;transition: all 0.4s ease-in-out; position: absolute;width:100%;top: 0;left: 0;bottom:0;}
-.hover-tint .mask span{position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);color:#fff;font-family:'Oswald',sans-serif;text-transform:uppercase;font-size:1.4em;}
-.hover-tint:hover .mask{transform: translateY(0px);}
+.hover-tint .mask{display:block;transition: all 0.4s ease; position: absolute;width:100%;top: 0;left: 0;bottom:0;opacity:0;}
+.hover-tint .mask span{position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);color:#fff;font-family:'Oswald',sans-serif;text-transform:uppercase;font-size:1.4em;background:url(../c/btn-orange.jpg);padding:15px 25px;box-shadow:0px 5px 10px rgba(50,50,50,0.85);border-radius:10px;}
+.hover-tint:hover .mask{opacity: 1;}
+.hover-tint:hover img{opacity: 0.5;}
 }
 @media (min-width:960px){.map-adv{display:block}
 .img-adv{display:none}

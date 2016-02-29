@@ -96,7 +96,7 @@
 								<br /><br />
 								The climb on the 1st day is 6km with an elevation gain of about 1,300 meters. This takes 4-6 hours depending on fitness, and there are rest stops with toilets along the way. There are opportunities to refill your water bottles on the way up but since the water is not treated, we recommend water purification tablets or iodine for this. Alternatively, you can stock up on drinking water before commencing your climb. 
 								<br /><br />
-								Along the way, observe the fascinating montane forest with pitcher plants, rhododendrons and orchids. Stop en-route to eat your packed lunch. Reach Pendant Hut by 3.30pm for <b>mandatory safety briefing</b> at 4pm. Upon arrival at Pendant Hut, check into your accommodation and settle in, and attend the mandatory via ferrata familiarization by your Mountain Torq trainer. You will have access to filtered drinking water and will be able to refill your water bottle. Dinner is served at 6pm and lights out at 8pm.
+								Along the way, observe the fascinating montane forest with pitcher plants, rhododendrons and orchids. Stop en-route to eat your packed lunch. Reach Pendant Hut by 3.30pm for <b>mandatory safety briefing</b> at 4pm, and check in. You will have access to filtered drinking water and will be able to refill your water bottle here. Dinner is served at 6pm and lights out at 8pm.
 							</td>
 						</tr>
 						<tr>
